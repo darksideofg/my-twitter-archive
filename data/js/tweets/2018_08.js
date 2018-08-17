@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 16 04:33:50 +0000 2018",
+		"id": 1029949330185224200,
+		"id_str": "1029949330185224192",
+		"text": "RT @elenacresci: friend: 'what are you thinking about'\nme: 'nothing'\nmy brain: https://t.co/c1iub2HoNY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elenacresci",
+					"name": "Elena Cresci",
+					"id": 47992292,
+					"id_str": "47992292",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027841787413508100,
+					"id_str": "1027841787413508096",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"url": "https://t.co/c1iub2HoNY",
+					"display_url": "pic.twitter.com/c1iub2HoNY",
+					"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027842447013904400,
+					"source_status_id_str": "1027842447013904384",
+					"source_user_id": 227619613,
+					"source_user_id_str": "227619613"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027841787413508100,
+					"id_str": "1027841787413508096",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+					"url": "https://t.co/c1iub2HoNY",
+					"display_url": "pic.twitter.com/c1iub2HoNY",
+					"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027842447013904400,
+					"source_status_id_str": "1027842447013904384",
+					"source_user_id": 227619613,
+					"source_user_id_str": "227619613",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60240,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/pl/INHp2YBjh32hEaU3.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/640x360/dp-cFh64ituEPFJt.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/1280x720/O7whwuRjLsBn25lP.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/320x180/Rli_IxU_ik38qLht.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 227619613,
+							"id_str": "227619613",
+							"name": "エミ",
+							"screen_name": "cnblueemi",
+							"location": "",
+							"description": "K-POP雑食(CNBLUE SF9 super junior EXO) 色んな曲聞きまくりで好きなグループ増えて大変(•ө•) 日本だとKAT-TUN大好きです！",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 309,
+							"friends_count": 83,
+							"listed_count": 5,
+							"created_at": "Fri Dec 17 09:41:12 +0000 2010",
+							"favourites_count": 4238,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 6672,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/227619613/1528095647",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 11:59:10 +0000 2018",
+			"id": 1028974240287141900,
+			"id_str": "1028974240287141888",
+			"text": "friend: 'what are you thinking about'\nme: 'nothing'\nmy brain: https://t.co/c1iub2HoNY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027841787413508100,
+						"id_str": "1027841787413508096",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"url": "https://t.co/c1iub2HoNY",
+						"display_url": "pic.twitter.com/c1iub2HoNY",
+						"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1027842447013904400,
+						"source_status_id_str": "1027842447013904384",
+						"source_user_id": 227619613,
+						"source_user_id_str": "227619613"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027841787413508100,
+						"id_str": "1027841787413508096",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027841787413508096/pu/img/bRXz_iL4n1VwFYyQ.jpg",
+						"url": "https://t.co/c1iub2HoNY",
+						"display_url": "pic.twitter.com/c1iub2HoNY",
+						"expanded_url": "https://twitter.com/cnblueemi/status/1027842447013904384/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1027842447013904400,
+						"source_status_id_str": "1027842447013904384",
+						"source_user_id": 227619613,
+						"source_user_id_str": "227619613",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60240,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/pl/INHp2YBjh32hEaU3.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/640x360/dp-cFh64ituEPFJt.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/1280x720/O7whwuRjLsBn25lP.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027841787413508096/pu/vid/320x180/Rli_IxU_ik38qLht.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 227619613,
+								"id_str": "227619613",
+								"name": "エミ",
+								"screen_name": "cnblueemi",
+								"location": "",
+								"description": "K-POP雑食(CNBLUE SF9 super junior EXO) 色んな曲聞きまくりで好きなグループ増えて大変(•ө•) 日本だとKAT-TUN大好きです！",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 309,
+								"friends_count": 83,
+								"listed_count": 5,
+								"created_at": "Fri Dec 17 09:41:12 +0000 2010",
+								"favourites_count": 4238,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 6672,
+								"lang": "ja",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000522259281268736/F8xY5o35_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/227619613/1528095647",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47992292,
+				"id_str": "47992292",
+				"name": "Elena Cresci",
+				"screen_name": "elenacresci",
+				"location": "London via Cardiff",
+				"description": "I write and I fight. I also make videos and sew, but that didn't fit the rhyme. Seen @guardian @hanshs4c @bento_de @Channel4News",
+				"url": "https://t.co/TkboroVn6c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TkboroVn6c",
+								"expanded_url": "https://www.elenacresci.co.uk",
+								"display_url": "elenacresci.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12994,
+				"friends_count": 2544,
+				"listed_count": 365,
+				"created_at": "Wed Jun 17 15:16:44 +0000 2009",
+				"favourites_count": 9519,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57922,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F2E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991100614565335040/wreZ3BsH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991100614565335040/wreZ3BsH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47992292/1523910024",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C32C25",
+				"profile_sidebar_fill_color": "291413",
+				"profile_text_color": "292927",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68984,
+			"favorite_count": 149614,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 68984,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 15 18:03:13 +0000 2018",
 		"id": 1029790630254452700,
 		"id_str": "1029790630254452736",
