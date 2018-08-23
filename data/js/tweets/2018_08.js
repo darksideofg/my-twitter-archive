@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 22 06:32:20 +0000 2018",
+		"id": 1032153480553812000,
+		"id_str": "1032153480553811968",
+		"text": "RT @sophiekleeman: thank U @bfishbfish https://t.co/GkJdWwdPbS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sophiekleeman",
+					"name": "Sophie Kleeman",
+					"id": 472552916,
+					"id_str": "472552916",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "bfishbfish",
+					"name": "Rebecca Fishbein",
+					"id": 37613042,
+					"id_str": "37613042",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GkJdWwdPbS",
+					"expanded_url": "https://jezebel.com/what-the-hell-is-going-on-with-lena-dunhams-pets-1828512112",
+					"display_url": "jezebel.com/what-the-hell-…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 22 04:58:04 +0000 2018",
+			"id": 1032129757150945300,
+			"id_str": "1032129757150945280",
+			"text": "thank U @bfishbfish https://t.co/GkJdWwdPbS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bfishbfish",
+						"name": "Rebecca Fishbein",
+						"id": 37613042,
+						"id_str": "37613042",
+						"indices": [
+							8,
+							19
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GkJdWwdPbS",
+						"expanded_url": "https://jezebel.com/what-the-hell-is-going-on-with-lena-dunhams-pets-1828512112",
+						"display_url": "jezebel.com/what-the-hell-…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1032115679950975000,
+			"in_reply_to_status_id_str": "1032115679950974976",
+			"in_reply_to_user_id": 472552916,
+			"in_reply_to_user_id_str": "472552916",
+			"in_reply_to_screen_name": "sophiekleeman",
+			"user": {
+				"id": 472552916,
+				"id_str": "472552916",
+				"name": "Sophie Kleeman",
+				"screen_name": "sophiekleeman",
+				"location": "yes i'm still on twitter",
+				"description": "writer, editor | sophie.kleeman@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5844,
+				"friends_count": 997,
+				"listed_count": 181,
+				"created_at": "Tue Jan 24 02:15:03 +0000 2012",
+				"favourites_count": 20107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/671431596084449281/QG7meyD9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/671431596084449281/QG7meyD9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/472552916/1444576827",
+				"profile_link_color": "063BA3",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 22 06:32:12 +0000 2018",
+		"id": 1032153446345056300,
+		"id_str": "1032153446345056256",
+		"text": "RT @sophiekleeman: ok seriously what the fuck is going on here https://t.co/KIh1wS39So",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sophiekleeman",
+					"name": "Sophie Kleeman",
+					"id": 472552916,
+					"id_str": "472552916",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KIh1wS39So",
+					"expanded_url": "https://twitter.com/nypost/status/1032110390463942656",
+					"display_url": "twitter.com/nypost/status/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 22 03:58:22 +0000 2018",
+			"id": 1032114733174935600,
+			"id_str": "1032114733174935553",
+			"text": "ok seriously what the fuck is going on here https://t.co/KIh1wS39So",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KIh1wS39So",
+						"expanded_url": "https://twitter.com/nypost/status/1032110390463942656",
+						"display_url": "twitter.com/nypost/status/…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 472552916,
+				"id_str": "472552916",
+				"name": "Sophie Kleeman",
+				"screen_name": "sophiekleeman",
+				"location": "yes i'm still on twitter",
+				"description": "writer, editor | sophie.kleeman@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5844,
+				"friends_count": 997,
+				"listed_count": 181,
+				"created_at": "Tue Jan 24 02:15:03 +0000 2012",
+				"favourites_count": 20107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/671431596084449281/QG7meyD9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/671431596084449281/QG7meyD9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/472552916/1444576827",
+				"profile_link_color": "063BA3",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1032110390463942700,
+			"quoted_status_id_str": "1032110390463942656",
+			"quoted_status": {
+				"created_at": "Wed Aug 22 03:41:07 +0000 2018",
+				"id": 1032110390463942700,
+				"id_str": "1032110390463942656",
+				"text": "Another one of Lena Dunham’s pets has passed away https://t.co/39CQp5QBwN https://t.co/104YhX2p6q",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/39CQp5QBwN",
+							"expanded_url": "https://nyp.st/2BJtxdF",
+							"display_url": "nyp.st/2BJtxdF",
+							"indices": [
+								50,
+								73
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1032110388429631500,
+							"id_str": "1032110388429631488",
+							"indices": [
+								74,
+								97
+							],
+							"media_url": "http://pbs.twimg.com/media/DlLK7g9WsAASzvi.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DlLK7g9WsAASzvi.jpg",
+							"url": "https://t.co/104YhX2p6q",
+							"display_url": "pic.twitter.com/104YhX2p6q",
+							"expanded_url": "https://twitter.com/nypost/status/1032110390463942656/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1032110388429631500,
+							"id_str": "1032110388429631488",
+							"indices": [
+								74,
+								97
+							],
+							"media_url": "http://pbs.twimg.com/media/DlLK7g9WsAASzvi.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DlLK7g9WsAASzvi.jpg",
+							"url": "https://t.co/104YhX2p6q",
+							"display_url": "pic.twitter.com/104YhX2p6q",
+							"expanded_url": "https://twitter.com/nypost/status/1032110390463942656/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17469289,
+					"id_str": "17469289",
+					"name": "New York Post",
+					"screen_name": "nypost",
+					"location": "New York, NY",
+					"description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+					"url": "https://t.co/MwyanWdKnl",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/MwyanWdKnl",
+									"expanded_url": "http://www.nypost.com",
+									"display_url": "nypost.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1382110,
+					"friends_count": 11936,
+					"listed_count": 17875,
+					"created_at": "Tue Nov 18 19:46:36 +0000 2008",
+					"favourites_count": 2141,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 174412,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+					"profile_link_color": "CC3333",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 37,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 61,
+			"favorite_count": 942,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1032110390463942700,
+		"quoted_status_id_str": "1032110390463942656",
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 21 17:00:34 +0000 2018",
 		"id": 1031949191294144500,
 		"id_str": "1031949191294144512",
