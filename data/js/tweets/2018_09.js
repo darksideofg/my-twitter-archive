@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 05 19:53:27 +0000 2018",
+		"id": 1037428518584549400,
+		"id_str": "1037428518584549378",
+		"text": "@wanderinfra Com’è?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wanderinfra",
+					"name": "Francesco",
+					"id": 248201954,
+					"id_str": "248201954",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1037423258352664600,
+		"in_reply_to_status_id_str": "1037423258352664576",
+		"in_reply_to_user_id": 248201954,
+		"in_reply_to_user_id_str": "248201954",
+		"in_reply_to_screen_name": "wanderinfra",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25454,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it"
+	},
+	{
+		"created_at": "Wed Sep 05 15:19:44 +0000 2018",
+		"id": 1037359634829463600,
+		"id_str": "1037359634829463552",
+		"text": "Sono indeciso fra \"affronto orrendo\" e \"bop del decennio\" https://t.co/anvyj37wa3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/anvyj37wa3",
+					"expanded_url": "https://open.spotify.com/track/5w0IaaNTTnrXvuwJR8L87d",
+					"display_url": "open.spotify.com/track/5w0IaaNT…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25454,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			38879744
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it"
+	},
+	{
+		"created_at": "Wed Sep 05 05:01:59 +0000 2018",
+		"id": 1037204173320794100,
+		"id_str": "1037204173320794112",
+		"text": "RT @gyllnhal: the end of an era https://t.co/A6N7dSX6tN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gyllnhal",
+					"name": "darko",
+					"id": 958805182485233700,
+					"id_str": "958805182485233664",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1036671114813091800,
+					"id_str": "1036671114813091846",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+					"url": "https://t.co/A6N7dSX6tN",
+					"display_url": "pic.twitter.com/A6N7dSX6tN",
+					"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 268,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 268,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036671143497920500,
+					"source_status_id_str": "1036671143497920513",
+					"source_user_id": 958805182485233700,
+					"source_user_id_str": "958805182485233664"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1036671114813091800,
+					"id_str": "1036671114813091846",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+					"url": "https://t.co/A6N7dSX6tN",
+					"display_url": "pic.twitter.com/A6N7dSX6tN",
+					"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 268,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 268,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036671143497920500,
+					"source_status_id_str": "1036671143497920513",
+					"source_user_id": 958805182485233700,
+					"source_user_id_str": "958805182485233664"
+				},
+				{
+					"id": 1036671118017482800,
+					"id_str": "1036671118017482752",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DmL-46pW0AA164O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmL-46pW0AA164O.jpg",
+					"url": "https://t.co/A6N7dSX6tN",
+					"display_url": "pic.twitter.com/A6N7dSX6tN",
+					"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 946,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036671143497920500,
+					"source_status_id_str": "1036671143497920513",
+					"source_user_id": 958805182485233700,
+					"source_user_id_str": "958805182485233664"
+				},
+				{
+					"id": 1036671127488213000,
+					"id_str": "1036671127488212993",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DmL-5d7WsAEtsPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmL-5d7WsAEtsPG.jpg",
+					"url": "https://t.co/A6N7dSX6tN",
+					"display_url": "pic.twitter.com/A6N7dSX6tN",
+					"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036671143497920500,
+					"source_status_id_str": "1036671143497920513",
+					"source_user_id": 958805182485233700,
+					"source_user_id_str": "958805182485233664"
+				},
+				{
+					"id": 1036671137722363900,
+					"id_str": "1036671137722363907",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DmL-6EDXcAMwfl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmL-6EDXcAMwfl8.jpg",
+					"url": "https://t.co/A6N7dSX6tN",
+					"display_url": "pic.twitter.com/A6N7dSX6tN",
+					"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 555,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 559,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 559,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036671143497920500,
+					"source_status_id_str": "1036671143497920513",
+					"source_user_id": 958805182485233700,
+					"source_user_id_str": "958805182485233664"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25454,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 03 17:43:55 +0000 2018",
+			"id": 1036671143497920500,
+			"id_str": "1036671143497920513",
+			"text": "the end of an era https://t.co/A6N7dSX6tN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1036671114813091800,
+						"id_str": "1036671114813091846",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+						"url": "https://t.co/A6N7dSX6tN",
+						"display_url": "pic.twitter.com/A6N7dSX6tN",
+						"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 268,
+								"h": 378,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 268,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 268,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1036671114813091800,
+						"id_str": "1036671114813091846",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmL-4utXsAYmjNu.jpg",
+						"url": "https://t.co/A6N7dSX6tN",
+						"display_url": "pic.twitter.com/A6N7dSX6tN",
+						"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 268,
+								"h": 378,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 268,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 268,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1036671118017482800,
+						"id_str": "1036671118017482752",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DmL-46pW0AA164O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmL-46pW0AA164O.jpg",
+						"url": "https://t.co/A6N7dSX6tN",
+						"display_url": "pic.twitter.com/A6N7dSX6tN",
+						"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 946,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1269,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1036671127488213000,
+						"id_str": "1036671127488212993",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DmL-5d7WsAEtsPG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmL-5d7WsAEtsPG.jpg",
+						"url": "https://t.co/A6N7dSX6tN",
+						"display_url": "pic.twitter.com/A6N7dSX6tN",
+						"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1415,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1036671137722363900,
+						"id_str": "1036671137722363907",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DmL-6EDXcAMwfl8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmL-6EDXcAMwfl8.jpg",
+						"url": "https://t.co/A6N7dSX6tN",
+						"display_url": "pic.twitter.com/A6N7dSX6tN",
+						"expanded_url": "https://twitter.com/gyllnhal/status/1036671143497920513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 555,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 559,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 958805182485233700,
+				"id_str": "958805182485233664",
+				"name": "darko",
+				"screen_name": "gyllnhal",
+				"location": "",
+				"description": "jake gyllenhaal stan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3173,
+				"friends_count": 437,
+				"listed_count": 5,
+				"created_at": "Wed Jan 31 20:52:24 +0000 2018",
+				"favourites_count": 12912,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1037456596492869632/8fltM-np_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037456596492869632/8fltM-np_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/958805182485233664/1535761348",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26434,
+			"favorite_count": 120522,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26434,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 04 17:00:28 +0000 2018",
 		"id": 1037022597542813700,
 		"id_str": "1037022597542813696",
