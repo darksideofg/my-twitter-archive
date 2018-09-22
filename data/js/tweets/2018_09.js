@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 21 16:32:39 +0000 2018",
+		"id": 1043176188699705300,
+		"id_str": "1043176188699705345",
+		"text": "RT @tribranchvo: I HAVE NEVER IN MY LIFE YELLED AT A GIRL LIKE THIS https://t.co/leFT2QP9xw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tribranchvo",
+					"name": "crazy broke asian",
+					"id": 50179789,
+					"id_str": "50179789",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1043135434375811100,
+					"id_str": "1043135434375811072",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+					"url": "https://t.co/leFT2QP9xw",
+					"display_url": "pic.twitter.com/leFT2QP9xw",
+					"expanded_url": "https://twitter.com/tribranchvo/status/1043135965274013697/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043135965274013700,
+					"source_status_id_str": "1043135965274013697",
+					"source_user_id": 50179789,
+					"source_user_id_str": "50179789"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1043135434375811100,
+					"id_str": "1043135434375811072",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+					"url": "https://t.co/leFT2QP9xw",
+					"display_url": "pic.twitter.com/leFT2QP9xw",
+					"expanded_url": "https://twitter.com/tribranchvo/status/1043135965274013697/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043135965274013700,
+					"source_status_id_str": "1043135965274013697",
+					"source_user_id": 50179789,
+					"source_user_id_str": "50179789",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 112208,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/pl/-c3iuMj-xD1OleJ_.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/vid/240x240/wTcFTwuVh_AAK8LR.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/vid/480x480/lc9utW-k04hai1zc.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/vid/720x720/TE14fzE8Biwchojk.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 50179789,
+							"id_str": "50179789",
+							"name": "crazy broke asian",
+							"screen_name": "tribranchvo",
+							"location": "the bad place",
+							"description": "graphic designer. LGBT. Beyhive 👩‍🎨🌈🐝 // formerly @mic, @cerosdotcom // currently @considerablehq",
+							"url": "https://t.co/4ctwC8HAuy",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/4ctwC8HAuy",
+											"expanded_url": "http://www.instagram.com/tribranchvo",
+											"display_url": "instagram.com/tribranchvo",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6319,
+							"friends_count": 975,
+							"listed_count": 99,
+							"created_at": "Wed Jun 24 02:06:14 +0000 2009",
+							"favourites_count": 45959,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 15430,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "333333",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1040618433308766209/Xe1oqHWi_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040618433308766209/Xe1oqHWi_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/50179789/1532968377",
+							"profile_link_color": "FF5552",
+							"profile_sidebar_border_color": "16818E",
+							"profile_sidebar_fill_color": "030516",
+							"profile_text_color": "16818E",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 21 13:52:49 +0000 2018",
+			"id": 1043135965274013700,
+			"id_str": "1043135965274013697",
+			"text": "I HAVE NEVER IN MY LIFE YELLED AT A GIRL LIKE THIS https://t.co/leFT2QP9xw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1043135434375811100,
+						"id_str": "1043135434375811072",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+						"url": "https://t.co/leFT2QP9xw",
+						"display_url": "pic.twitter.com/leFT2QP9xw",
+						"expanded_url": "https://twitter.com/tribranchvo/status/1043135965274013697/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043135434375811100,
+						"id_str": "1043135434375811072",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043135434375811072/pu/img/c48pjajTTj_CiIUu.jpg",
+						"url": "https://t.co/leFT2QP9xw",
+						"display_url": "pic.twitter.com/leFT2QP9xw",
+						"expanded_url": "https://twitter.com/tribranchvo/status/1043135965274013697/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 112208,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/pl/-c3iuMj-xD1OleJ_.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/vid/240x240/wTcFTwuVh_AAK8LR.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/vid/480x480/lc9utW-k04hai1zc.mp4?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043135434375811072/pu/vid/720x720/TE14fzE8Biwchojk.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50179789,
+				"id_str": "50179789",
+				"name": "crazy broke asian",
+				"screen_name": "tribranchvo",
+				"location": "the bad place",
+				"description": "graphic designer. LGBT. Beyhive 👩‍🎨🌈🐝 // formerly @mic, @cerosdotcom // currently @considerablehq",
+				"url": "https://t.co/4ctwC8HAuy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4ctwC8HAuy",
+								"expanded_url": "http://www.instagram.com/tribranchvo",
+								"display_url": "instagram.com/tribranchvo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6319,
+				"friends_count": 975,
+				"listed_count": 99,
+				"created_at": "Wed Jun 24 02:06:14 +0000 2009",
+				"favourites_count": 45959,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15430,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040618433308766209/Xe1oqHWi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040618433308766209/Xe1oqHWi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50179789/1532968377",
+				"profile_link_color": "FF5552",
+				"profile_sidebar_border_color": "16818E",
+				"profile_sidebar_fill_color": "030516",
+				"profile_text_color": "16818E",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10028,
+			"favorite_count": 25082,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10028,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 21 10:27:30 +0000 2018",
+		"id": 1043084296179855400,
+		"id_str": "1043084296179855361",
+		"text": "RT @kyry5: The Proclaimers claim they would walk 500 miles, only offering 500 more after the fact simply to exceed predetermined expectatio…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyry5",
+					"name": "A Literal Homosexual",
+					"id": 323535792,
+					"id_str": "323535792",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 19 01:54:41 +0000 2018",
+			"id": 1042230466479239200,
+			"id_str": "1042230466479239168",
+			"text": "The Proclaimers claim they would walk 500 miles, only offering 500 more after the fact simply to exceed predetermin… https://t.co/cvVv57sFuL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cvVv57sFuL",
+						"expanded_url": "https://twitter.com/i/web/status/1042230466479239168",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 323535792,
+				"id_str": "323535792",
+				"name": "A Literal Homosexual",
+				"screen_name": "kyry5",
+				"location": "Santa Monica, CA",
+				"description": "My name is Kyle and I am a nice boy. Twitter's only Kelly Clarkson stan.",
+				"url": "https://t.co/DznCt3EwJo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DznCt3EwJo",
+								"expanded_url": "http://Instagram.com/kyry5",
+								"display_url": "Instagram.com/kyry5",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11276,
+				"friends_count": 295,
+				"listed_count": 192,
+				"created_at": "Sat Jun 25 00:29:05 +0000 2011",
+				"favourites_count": 127225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39055,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039920274169372673/B-3Glqkh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039920274169372673/B-3Glqkh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/323535792/1509517001",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "59612bd882018c51",
+				"url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json",
+				"place_type": "city",
+				"name": "Santa Monica",
+				"full_name": "Santa Monica, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.5173575,
+								33.9951771
+							],
+							[
+								-118.443482,
+								33.9951771
+							],
+							[
+								-118.443482,
+								34.050199
+							],
+							[
+								-118.5173575,
+								34.050199
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11669,
+			"favorite_count": 52187,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11669,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 20 20:03:18 +0000 2018",
 		"id": 1042866813435105300,
 		"id_str": "1042866813435105280",
