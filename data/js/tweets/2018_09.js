@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 27 20:13:46 +0000 2018",
+		"id": 1045406161854509000,
+		"id_str": "1045406161854509057",
+		"text": "RT @Arpwel: https://t.co/nzX3Y5U0mJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Arpwel",
+					"name": "Conor Arpwel",
+					"id": 64910099,
+					"id_str": "64910099",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1043236970430902300,
+					"id_str": "1043236970430902277",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+					"media_url_https": "https://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+					"url": "https://t.co/nzX3Y5U0mJ",
+					"display_url": "pic.twitter.com/nzX3Y5U0mJ",
+					"expanded_url": "https://twitter.com/Arpwel/status/1043237259565326343/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043237259565326300,
+					"source_status_id_str": "1043237259565326343",
+					"source_user_id": 64910099,
+					"source_user_id_str": "64910099"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1043236970430902300,
+					"id_str": "1043236970430902277",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+					"media_url_https": "https://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+					"url": "https://t.co/nzX3Y5U0mJ",
+					"display_url": "pic.twitter.com/nzX3Y5U0mJ",
+					"expanded_url": "https://twitter.com/Arpwel/status/1043237259565326343/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043237259565326300,
+					"source_status_id_str": "1043237259565326343",
+					"source_user_id": 64910099,
+					"source_user_id_str": "64910099"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25474,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 21 20:35:19 +0000 2018",
+			"id": 1043237259565326300,
+			"id_str": "1043237259565326343",
+			"text": "https://t.co/nzX3Y5U0mJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1043236970430902300,
+						"id_str": "1043236970430902277",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+						"media_url_https": "https://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+						"url": "https://t.co/nzX3Y5U0mJ",
+						"display_url": "pic.twitter.com/nzX3Y5U0mJ",
+						"expanded_url": "https://twitter.com/Arpwel/status/1043237259565326343/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043236970430902300,
+						"id_str": "1043236970430902277",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+						"media_url_https": "https://pbs.twimg.com/media/DnpSf08WsAUbjG_.png",
+						"url": "https://t.co/nzX3Y5U0mJ",
+						"display_url": "pic.twitter.com/nzX3Y5U0mJ",
+						"expanded_url": "https://twitter.com/Arpwel/status/1043237259565326343/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64910099,
+				"id_str": "64910099",
+				"name": "Conor Arpwel",
+				"screen_name": "Arpwel",
+				"location": "Washington, DC",
+				"description": "gay & autistic // sincere, sassy, & sarcastic // here for memes & marxism (he/him)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5200,
+				"friends_count": 927,
+				"listed_count": 46,
+				"created_at": "Wed Aug 12 02:36:41 +0000 2009",
+				"favourites_count": 76793,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3200,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "14E01B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043974306886225920/vxnh-xyq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043974306886225920/vxnh-xyq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64910099/1537733608",
+				"profile_link_color": "E60CBA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11984,
+			"favorite_count": 15983,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11984,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Sep 26 10:25:26 +0000 2018",
 		"id": 1044895714646675500,
 		"id_str": "1044895714646675456",
