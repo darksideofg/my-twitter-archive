@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 03 15:00:13 +0000 2018",
+		"id": 1047501583435616300,
+		"id_str": "1047501583435616256",
+		"text": "RT @SwiftOnSecurity: Get in loser\nWe're going port scanning http://t.co/GincTJp7D7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwiftOnSecurity",
+					"name": "SwiftOnSecurity",
+					"id": 2436389418,
+					"id_str": "2436389418",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 649592282631376900,
+					"id_str": "649592282631376896",
+					"indices": [
+						60,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+					"url": "http://t.co/GincTJp7D7",
+					"display_url": "pic.twitter.com/GincTJp7D7",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/649592287928827905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 590,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 333,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 649592287928827900,
+					"source_status_id_str": "649592287928827905",
+					"source_user_id": 2436389418,
+					"source_user_id_str": "2436389418"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 649592282631376900,
+					"id_str": "649592282631376896",
+					"indices": [
+						60,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+					"url": "http://t.co/GincTJp7D7",
+					"display_url": "pic.twitter.com/GincTJp7D7",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/649592287928827905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 590,
+							"h": 333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 333,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 649592287928827900,
+					"source_status_id_str": "649592287928827905",
+					"source_user_id": 2436389418,
+					"source_user_id_str": "2436389418"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 01 14:30:44 +0000 2015",
+			"id": 649592287928827900,
+			"id_str": "649592287928827905",
+			"text": "Get in loser\nWe're going port scanning http://t.co/GincTJp7D7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 649592282631376900,
+						"id_str": "649592282631376896",
+						"indices": [
+							39,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+						"url": "http://t.co/GincTJp7D7",
+						"display_url": "pic.twitter.com/GincTJp7D7",
+						"expanded_url": "https://twitter.com/SwiftOnSecurity/status/649592287928827905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 590,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 590,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 590,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 649592282631376900,
+						"id_str": "649592282631376896",
+						"indices": [
+							39,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CQPQvUcUEAAEwUT.jpg",
+						"url": "http://t.co/GincTJp7D7",
+						"display_url": "pic.twitter.com/GincTJp7D7",
+						"expanded_url": "https://twitter.com/SwiftOnSecurity/status/649592287928827905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 590,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 590,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 590,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2436389418,
+				"id_str": "2436389418",
+				"name": "SwiftOnSecurity",
+				"screen_name": "SwiftOnSecurity",
+				"location": "Cypher, USA",
+				"description": "I talk systems security, author https://t.co/j3RdEScp3t + https://t.co/rzDVLlLn6y, write Scifi, sysadmin, & use Oxford commas. Kinda prefer they/them. MSFT MVP.",
+				"url": "https://t.co/j3RdEScp3t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j3RdEScp3t",
+								"expanded_url": "https://DecentSecurity.com",
+								"display_url": "DecentSecurity.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/j3RdEScp3t",
+								"expanded_url": "https://DecentSecurity.com",
+								"display_url": "DecentSecurity.com",
+								"indices": [
+									32,
+									55
+								]
+							},
+							{
+								"url": "https://t.co/rzDVLlLn6y",
+								"expanded_url": "http://GotPhish.com",
+								"display_url": "GotPhish.com",
+								"indices": [
+									58,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 242258,
+				"friends_count": 8045,
+				"listed_count": 5918,
+				"created_at": "Thu Apr 10 02:54:26 +0000 2014",
+				"favourites_count": 79982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 93109,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047392190257946624/Pc2yxY4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047392190257946624/Pc2yxY4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2436389418/1536211956",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 361,
+			"favorite_count": 1097,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 02 17:00:49 +0000 2018",
 		"id": 1047169543817351200,
 		"id_str": "1047169543817351168",
