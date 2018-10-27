@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 25 19:07:43 +0000 2018",
+		"id": 1055536402270609400,
+		"id_str": "1055536402270609408",
+		"full_text": "illustration in a haunted house 💀 https://t.co/je71lijVKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1055536285589344300,
+					"id_str": "1055536285589344260",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055536285589344260/pu/img/NKd6-_f1_jkekONN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055536285589344260/pu/img/NKd6-_f1_jkekONN.jpg",
+					"url": "https://t.co/je71lijVKT",
+					"display_url": "pic.twitter.com/je71lijVKT",
+					"expanded_url": "https://twitter.com/courtdraws/status/1055536402270609408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055536285589344300,
+					"id_str": "1055536285589344260",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055536285589344260/pu/img/NKd6-_f1_jkekONN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055536285589344260/pu/img/NKd6-_f1_jkekONN.jpg",
+					"url": "https://t.co/je71lijVKT",
+					"display_url": "pic.twitter.com/je71lijVKT",
+					"expanded_url": "https://twitter.com/courtdraws/status/1055536402270609408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59693,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1055536285589344260/pu/vid/240x240/SHMBE8jS1qR6Jk5N.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1055536285589344260/pu/pl/IWIWMCgU1z_l1I3U.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1055536285589344260/pu/vid/360x360/GxBFgz0ppZEP7DZT.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4657308999,
+			"id_str": "4657308999",
+			"name": "court drawcula 🌙",
+			"screen_name": "courtdraws",
+			"location": "San Francisco, CA",
+			"description": "risd illus ‘17 • 💖💛💙 • she/her • illustrator living in 2008 • inquiries: courtneybrendle @ gmail • store: https://t.co/Y29CX77nBQ",
+			"url": "https://t.co/i1MSE081VM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MSE081VM",
+							"expanded_url": "http://courtneybrendle.com",
+							"display_url": "courtneybrendle.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Y29CX77nBQ",
+							"expanded_url": "http://qrtrs.tictail.com",
+							"display_url": "qrtrs.tictail.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4750,
+			"friends_count": 434,
+			"listed_count": 70,
+			"created_at": "Wed Dec 30 20:32:17 +0000 2015",
+			"favourites_count": 6828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046993425873145858/2U3jMboF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046993425873145858/2U3jMboF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4657308999/1522652682",
+			"profile_link_color": "668E86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25793,
+		"favorite_count": 55902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "illustration in a haunted house 💀 https://t.co/je71lijVKT"
+	},
+	{
 		"created_at": "Wed Oct 24 19:17:31 +0000 2018",
 		"id": 1055176477711482900,
 		"id_str": "1055176477711482880",
