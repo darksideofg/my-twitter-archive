@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 07:52:56 +0000 2018",
+		"id": 1060440017003335700,
+		"id_str": "1060440017003335680",
+		"full_text": "@Ste_Tonks @VirginTrains The movies are loaded onto the train, and they stream from there to your phone. Like on a plane basically.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ste_Tonks",
+					"name": "Ste Tonks",
+					"id": 18835185,
+					"id_str": "18835185",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "VirginTrains",
+					"name": "Virgin Trains",
+					"id": 63681020,
+					"id_str": "63681020",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1060439343616135200,
+		"in_reply_to_status_id_str": "1060439343616135169",
+		"in_reply_to_user_id": 18835185,
+		"in_reply_to_user_id_str": "18835185",
+		"in_reply_to_screen_name": "Ste_Tonks",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ste_Tonks @VirginTrains The movies are loaded onto the train, and they stream from there to your phone. Like on a plane basically."
+	},
+	{
+		"created_at": "Tue Nov 06 19:05:14 +0000 2018",
+		"id": 1059884428380450800,
+		"id_str": "1059884428380450816",
+		"full_text": "one taught me love, one taught me patience, one taught me pain https://t.co/eaLly3Xsro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059884400488386600,
+					"id_str": "1059884400488386561",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DrV3PyoWkAEY8AH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrV3PyoWkAEY8AH.jpg",
+					"url": "https://t.co/eaLly3Xsro",
+					"display_url": "pic.twitter.com/eaLly3Xsro",
+					"expanded_url": "https://twitter.com/annieyilingwang/status/1059884428380450816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 227,
+							"h": 221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 227,
+							"h": 221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 227,
+							"h": 221,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059884400488386600,
+					"id_str": "1059884400488386561",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DrV3PyoWkAEY8AH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrV3PyoWkAEY8AH.jpg",
+					"url": "https://t.co/eaLly3Xsro",
+					"display_url": "pic.twitter.com/eaLly3Xsro",
+					"expanded_url": "https://twitter.com/annieyilingwang/status/1059884428380450816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 227,
+							"h": 221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 227,
+							"h": 221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 227,
+							"h": 221,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1059884400408752100,
+					"id_str": "1059884400408752128",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DrV3PyVXcAABzRW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrV3PyVXcAABzRW.jpg",
+					"url": "https://t.co/eaLly3Xsro",
+					"display_url": "pic.twitter.com/eaLly3Xsro",
+					"expanded_url": "https://twitter.com/annieyilingwang/status/1059884428380450816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 227,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 227,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 227,
+							"h": 222,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1059884400396120000,
+					"id_str": "1059884400396120064",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DrV3PySWsAA4_Tv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrV3PySWsAA4_Tv.jpg",
+					"url": "https://t.co/eaLly3Xsro",
+					"display_url": "pic.twitter.com/eaLly3Xsro",
+					"expanded_url": "https://twitter.com/annieyilingwang/status/1059884428380450816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 227,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 227,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 227,
+							"h": 222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948589294679081000,
+			"id_str": "948589294679080961",
+			"name": "annie",
+			"screen_name": "annieyilingwang",
+			"location": "🌻",
+			"description": "thick thighs and dark eyes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 120,
+			"listed_count": 5,
+			"created_at": "Wed Jan 03 16:18:06 +0000 2018",
+			"favourites_count": 5214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 545,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046979605402402816/8dg2Ln8q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046979605402402816/8dg2Ln8q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948589294679080961/1532913375",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32184,
+		"favorite_count": 88555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "one taught me love, one taught me patience, one taught me pain https://t.co/eaLly3Xsro"
+	},
+	{
+		"created_at": "Mon Aug 20 22:20:30 +0000 2018",
+		"id": 1031667317602771000,
+		"id_str": "1031667317602770946",
+		"full_text": "La condanna di noi ossessivi pigri che vorremmo delegare perché ci pesa il culo ma vogliamo pure le cose fatte a modo nostro e quindi alla fine ci rassegniamo a fare da soli piangendo un po'.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 292518912,
+			"id_str": "292518912",
+			"name": "Disinfluencer",
+			"screen_name": "demotivatrice10",
+			"location": "Seduta, perlopiù.",
+			"description": "A casa la sapevo.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8611,
+			"friends_count": 656,
+			"listed_count": 61,
+			"created_at": "Tue May 03 19:43:43 +0000 2011",
+			"favourites_count": 83336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24708,
+			"lang": "it",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057952101437988865/S2lRBy2J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057952101437988865/S2lRBy2J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/292518912/1435830681",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 769,
+		"favorite_count": 2370,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "it",
+		"text": "La condanna di noi ossessivi pigri che vorremmo delegare perché ci pesa il culo ma vogliamo pure le cose fatte a modo nostro e quindi alla fine ci rassegniamo a fare da soli piangendo un po'."
+	},
+	{
+		"created_at": "Wed Nov 07 12:39:19 +0000 2018",
+		"id": 1060149699078971400,
+		"id_str": "1060149699078971392",
+		"full_text": "Crazy Rich Asians: abbastanza capolavoro.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "Crazy Rich Asians: abbastanza capolavoro."
+	},
+	{
 		"created_at": "Tue Nov 06 19:05:14 +0000 2018",
 		"id": 1059884428380450800,
 		"id_str": "1059884428380450816",
