@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 13:58:11 +0000 2018",
+		"id": 1068504468206035000,
+		"id_str": "1068504468206034944",
+		"full_text": "Me: *wakes up*\nMe: *logs into Twitter*\nTwitter: https://t.co/Ykb51ubptU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068504462312988700,
+					"id_str": "1068504462312988672",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DtQXJbUV4AA431e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtQXJbUV4AA431e.jpg",
+					"url": "https://t.co/Ykb51ubptU",
+					"display_url": "pic.twitter.com/Ykb51ubptU",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/1068504468206034944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068504462312988700,
+					"id_str": "1068504462312988672",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DtQXJbUV4AA431e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtQXJbUV4AA431e.jpg",
+					"url": "https://t.co/Ykb51ubptU",
+					"display_url": "pic.twitter.com/Ykb51ubptU",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/1068504468206034944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2436389418,
+			"id_str": "2436389418",
+			"name": "SwiftOnSecurity",
+			"screen_name": "SwiftOnSecurity",
+			"location": "Cyber, USA",
+			"description": "Talk systems security, industrial safety, author https://t.co/j3RdEScp3t + https://t.co/rzDVLlLn6y, write SciFi stories, sysadmin, & use Oxford comma. they/them",
+			"url": "https://t.co/8OV6y5BH0K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8OV6y5BH0K",
+							"expanded_url": "https://decentsecurity.com",
+							"display_url": "decentsecurity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j3RdEScp3t",
+							"expanded_url": "https://DecentSecurity.com",
+							"display_url": "DecentSecurity.com",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/rzDVLlLn6y",
+							"expanded_url": "http://GotPhish.com",
+							"display_url": "GotPhish.com",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248794,
+			"friends_count": 8105,
+			"listed_count": 6022,
+			"created_at": "Thu Apr 10 02:54:26 +0000 2014",
+			"favourites_count": 81196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95138,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067328696581791744/qQuxlFdW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067328696581791744/qQuxlFdW_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me: *wakes up*\nMe: *logs into Twitter*\nTwitter: https://t.co/Ykb51ubptU"
+	},
+	{
 		"created_at": "Tue Nov 27 19:43:12 +0000 2018",
 		"id": 1067504129956880400,
 		"id_str": "1067504129956880384",
