@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 17:05:23 +0000 2018",
+		"id": 1070363518891905000,
+		"id_str": "1070363518891905026",
+		"full_text": "L'opposizione riparta da: https://t.co/z2UG7wJp70",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2UG7wJp70",
+					"expanded_url": "https://twitter.com/pamfoundation/status/1070338993282301954",
+					"display_url": "twitter.com/pamfoundation/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1063071972735754200,
+		"in_reply_to_status_id_str": "1063071972735754241",
+		"in_reply_to_user_id": 8157822,
+		"in_reply_to_user_id_str": "8157822",
+		"in_reply_to_screen_name": "Maxxeo",
+		"user": {
+			"id": 8157822,
+			"id_str": "8157822",
+			"name": "Matteo Z.",
+			"screen_name": "Maxxeo",
+			"location": "Pisa, Italy.",
+			"description": "No, sinceramente è un lavoro che mi piace e che faccio con passione.",
+			"url": "https://t.co/xXyL0XpaYf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xXyL0XpaYf",
+							"expanded_url": "http://www.matteoz.it",
+							"display_url": "matteoz.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 504,
+			"listed_count": 46,
+			"created_at": "Mon Aug 13 12:28:54 +0000 2007",
+			"favourites_count": 11097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDF0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979064531086462981/h37NPwPM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979064531086462981/h37NPwPM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8157822/1398289237",
+			"profile_link_color": "9E733D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5F554",
+			"profile_text_color": "7A6940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070338993282302000,
+		"quoted_status_id_str": "1070338993282301954",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z2UG7wJp70",
+			"expanded": "https://twitter.com/pamfoundation/status/1070338993282301954",
+			"display": "twitter.com/pamfoundation/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 05 15:27:56 +0000 2018",
+			"id": 1070338993282302000,
+			"id_str": "1070338993282301954",
+			"full_text": "The solution is not more Macron or more Salvini, the actually need each other and reinforce each other, the solution can only be a Pan-European awakening across borders and nationalities,which would be able to tackle the deep economic, social and ecological crisis of Europe today",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32939851,
+				"id_str": "32939851",
+				"name": "Pamela Anderson",
+				"screen_name": "pamfoundation",
+				"location": "",
+				"description": "\"Everybody says sex is obscene. The only true obscenity is war\" Henry Miller",
+				"url": "https://t.co/ewatpTCSWd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ewatpTCSWd",
+								"expanded_url": "http://pamelaandersonfoundation.org/news/",
+								"display_url": "pamelaandersonfoundation.org/news/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1040141,
+				"friends_count": 3997,
+				"listed_count": 8429,
+				"created_at": "Sat Apr 18 16:54:04 +0000 2009",
+				"favourites_count": 9553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11666,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012097139143593985/aFqdglFk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012097139143593985/aFqdglFk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32939851/1530137737",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 668,
+			"favorite_count": 2348,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "L'opposizione riparta da: https://t.co/z2UG7wJp70"
+	},
+	{
+		"created_at": "Wed Dec 05 06:26:54 +0000 2018",
+		"id": 1070202839249641500,
+		"id_str": "1070202839249641472",
+		"full_text": "Non mi ricordo neanche su quale forum doveva essere questo account. E a quanto pare neanche loro perché non hanno la mia email. Ok.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1070199480753029100,
+		"in_reply_to_status_id_str": "1070199480753029121",
+		"in_reply_to_user_id": 535277787,
+		"in_reply_to_user_id_str": "535277787",
+		"in_reply_to_screen_name": "DarkSideOfG",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "Non mi ricordo neanche su quale forum doveva essere questo account. E a quanto pare neanche loro perché non hanno la mia email. Ok."
+	},
+	{
+		"created_at": "Wed Dec 05 06:13:34 +0000 2018",
+		"id": 1070199480753029100,
+		"id_str": "1070199480753029121",
+		"full_text": "Buongiorno a tutti https://t.co/0yt6zNBbke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1070199461270487000,
+					"id_str": "1070199461270487041",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DtocvWfXgAE8GR2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtocvWfXgAE8GR2.jpg",
+					"url": "https://t.co/0yt6zNBbke",
+					"display_url": "pic.twitter.com/0yt6zNBbke",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1070199480753029121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070199461270487000,
+					"id_str": "1070199461270487041",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DtocvWfXgAE8GR2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtocvWfXgAE8GR2.jpg",
+					"url": "https://t.co/0yt6zNBbke",
+					"display_url": "pic.twitter.com/0yt6zNBbke",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1070199480753029121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Buongiorno a tutti https://t.co/0yt6zNBbke"
+	},
+	{
 		"created_at": "Tue Dec 04 18:00:40 +0000 2018",
 		"id": 1070015043708903400,
 		"id_str": "1070015043708903424",
