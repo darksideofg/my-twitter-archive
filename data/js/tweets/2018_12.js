@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 06 08:44:09 +0000 2018",
+		"id": 1070599763865862100,
+		"id_str": "1070599763865862144",
+		"full_text": "BASIC  #2018wrapped  https://t.co/W8cElpp3Or",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2018wrapped",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W8cElpp3Or",
+					"expanded_url": "https://spotifywrapped.com/share/06c0d43fcc?lang=it",
+					"display_url": "spotifywrapped.com/share/06c0d43f…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			38879744
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BASIC  #2018wrapped  https://t.co/W8cElpp3Or"
+	},
+	{
+		"created_at": "Wed Dec 05 17:05:23 +0000 2018",
+		"id": 1070363518891905000,
+		"id_str": "1070363518891905026",
+		"full_text": "L'opposizione riparta da: https://t.co/z2UG7wJp70",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2UG7wJp70",
+					"expanded_url": "https://twitter.com/pamfoundation/status/1070338993282301954",
+					"display_url": "twitter.com/pamfoundation/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1063071972735754200,
+		"in_reply_to_status_id_str": "1063071972735754241",
+		"in_reply_to_user_id": 8157822,
+		"in_reply_to_user_id_str": "8157822",
+		"in_reply_to_screen_name": "Maxxeo",
+		"user": {
+			"id": 8157822,
+			"id_str": "8157822",
+			"name": "Matteo Z.",
+			"screen_name": "Maxxeo",
+			"location": "Pisa, Italy.",
+			"description": "No, sinceramente è un lavoro che mi piace e che faccio con passione.",
+			"url": "https://t.co/xXyL0XpaYf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xXyL0XpaYf",
+							"expanded_url": "http://www.matteoz.it",
+							"display_url": "matteoz.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 505,
+			"listed_count": 46,
+			"created_at": "Mon Aug 13 12:28:54 +0000 2007",
+			"favourites_count": 11086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDF0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979064531086462981/h37NPwPM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979064531086462981/h37NPwPM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8157822/1398289237",
+			"profile_link_color": "9E733D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5F554",
+			"profile_text_color": "7A6940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070338993282302000,
+		"quoted_status_id_str": "1070338993282301954",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z2UG7wJp70",
+			"expanded": "https://twitter.com/pamfoundation/status/1070338993282301954",
+			"display": "twitter.com/pamfoundation/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 05 15:27:56 +0000 2018",
+			"id": 1070338993282302000,
+			"id_str": "1070338993282301954",
+			"full_text": "The solution is not more Macron or more Salvini, the actually need each other and reinforce each other, the solution can only be a Pan-European awakening across borders and nationalities,which would be able to tackle the deep economic, social and ecological crisis of Europe today",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32939851,
+				"id_str": "32939851",
+				"name": "Pamela Anderson",
+				"screen_name": "pamfoundation",
+				"location": "",
+				"description": "\"Everybody says sex is obscene. The only true obscenity is war\" Henry Miller",
+				"url": "https://t.co/ewatpTCSWd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ewatpTCSWd",
+								"expanded_url": "http://pamelaandersonfoundation.org/news/",
+								"display_url": "pamelaandersonfoundation.org/news/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1043326,
+				"friends_count": 4003,
+				"listed_count": 8431,
+				"created_at": "Sat Apr 18 16:54:04 +0000 2009",
+				"favourites_count": 9555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11677,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012097139143593985/aFqdglFk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012097139143593985/aFqdglFk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32939851/1530137737",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1676,
+			"favorite_count": 5987,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "L'opposizione riparta da: https://t.co/z2UG7wJp70"
+	},
+	{
 		"created_at": "Wed Dec 05 17:05:23 +0000 2018",
 		"id": 1070363518891905000,
 		"id_str": "1070363518891905026",
