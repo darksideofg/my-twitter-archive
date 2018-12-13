@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 09:15:27 +0000 2018",
+		"id": 1072781967823921200,
+		"id_str": "1072781967823921153",
+		"full_text": "Sono comunque molto molto stanco e non vedo l’ora sia il VENDUNO TI TICEMPRE sera",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754893,
+			"id_str": "754893",
+			"name": "Signor Ponza",
+			"screen_name": "signorponza",
+			"location": "Milan, Lombardy",
+			"description": "Andrea is like Emma Bunton: shy on the outside, but such a nasty bitch inside | Instagram: @signorponza | @signorponzablog e #PZSQ (per 1/4) sono colpa mia",
+			"url": "https://t.co/cuX3NK80dV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cuX3NK80dV",
+							"expanded_url": "https://www.instagram.com/signorponza/",
+							"display_url": "instagram.com/signorponza/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5578,
+			"friends_count": 1128,
+			"listed_count": 85,
+			"created_at": "Mon Feb 05 17:22:19 +0000 2007",
+			"favourites_count": 58538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97418,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754893/1475579254",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1ea588c12abd39d7",
+			"url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
+			"place_type": "city",
+			"name": "Milan",
+			"full_name": "Milan, Lombardy",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							9.040628,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.5359644
+						],
+						[
+							9.040628,
+							45.5359644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "it",
+		"text": "Sono comunque molto molto stanco e non vedo l’ora sia il VENDUNO TI TICEMPRE sera"
+	},
+	{
 		"created_at": "Thu Dec 06 08:44:09 +0000 2018",
 		"id": 1070599763865862100,
 		"id_str": "1070599763865862144",
