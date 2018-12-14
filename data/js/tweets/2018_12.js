@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 13 13:19:57 +0000 2018",
+		"id": 1073205888801009700,
+		"id_str": "1073205888801009664",
+		"full_text": "Thanks so much for all the birthday wishes! Today I finally get to show you something we’ve been working on for a while... the trailer for the Reputation Stadium Tour! The entire concert film will premiere on @Netflix at 12:01AM PT December 31. https://t.co/ZL3Kx2OUx8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflix",
+					"name": "Netflix US",
+					"id": 16573941,
+					"id_str": "16573941",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073193112653230100,
+					"id_str": "1073193112653230080",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"url": "https://t.co/ZL3Kx2OUx8",
+					"display_url": "pic.twitter.com/ZL3Kx2OUx8",
+					"expanded_url": "https://twitter.com/taylorswift13/status/1073205888801009664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073193112653230100,
+					"id_str": "1073193112653230080",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"url": "https://t.co/ZL3Kx2OUx8",
+					"display_url": "pic.twitter.com/ZL3Kx2OUx8",
+					"expanded_url": "https://twitter.com/taylorswift13/status/1073205888801009664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82415,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/320x180/DUZThelzVY-_S-xU.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/640x360/zEwQE1XJRlfANJ8P.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/1280x720/fAQeBMYfRf1KDZSq.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/pl/ty9El-j9WoPDbKvK.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Taylor Swift reputation Stadium Tour | Official Trailer | Netflix",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17919972,
+			"id_str": "17919972",
+			"name": "Taylor Swift",
+			"screen_name": "taylorswift13",
+			"location": "",
+			"description": "reputation Stadium Tour on Netflix. New Year’s Eve. 12:01am PST.",
+			"url": "https://t.co/eos1wOXU1P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eos1wOXU1P",
+							"expanded_url": "http://taylor.lk/repTourTrailer",
+							"display_url": "taylor.lk/repTourTrailer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83079763,
+			"friends_count": 0,
+			"listed_count": 121383,
+			"created_at": "Sat Dec 06 10:10:54 +0000 2008",
+			"favourites_count": 470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 100,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1544707315",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55070,
+		"favorite_count": 168319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks so much for all the birthday wishes! Today I finally get to show you something we’ve been working on for a while... the trailer for the Reputation Stadium Tour! The entire concert film will premiere on @Netflix at 12:01AM PT December 31. https://t.co/ZL3Kx2OUx8"
+	},
+	{
+		"created_at": "Wed Dec 12 09:15:27 +0000 2018",
+		"id": 1072781967823921200,
+		"id_str": "1072781967823921153",
+		"full_text": "Sono comunque molto molto stanco e non vedo l’ora sia il VENDUNO TI TICEMPRE sera",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754893,
+			"id_str": "754893",
+			"name": "Signor Ponza",
+			"screen_name": "signorponza",
+			"location": "Milan, Lombardy",
+			"description": "Andrea is like Emma Bunton: shy on the outside, but such a nasty bitch inside | Instagram: @signorponza | @signorponzablog e #PZSQ (per 1/4) sono colpa mia",
+			"url": "https://t.co/cuX3NK80dV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cuX3NK80dV",
+							"expanded_url": "https://www.instagram.com/signorponza/",
+							"display_url": "instagram.com/signorponza/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5577,
+			"friends_count": 1128,
+			"listed_count": 86,
+			"created_at": "Mon Feb 05 17:22:19 +0000 2007",
+			"favourites_count": 58556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97428,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754893/1475579254",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1ea588c12abd39d7",
+			"url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
+			"place_type": "city",
+			"name": "Milan",
+			"full_name": "Milan, Lombardy",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							9.040628,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.5359644
+						],
+						[
+							9.040628,
+							45.5359644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "it",
+		"text": "Sono comunque molto molto stanco e non vedo l’ora sia il VENDUNO TI TICEMPRE sera"
+	},
+	{
 		"created_at": "Wed Dec 12 09:15:27 +0000 2018",
 		"id": 1072781967823921200,
 		"id_str": "1072781967823921153",
