@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 22:35:40 +0000 2018",
+		"id": 1073708126187241500,
+		"id_str": "1073708126187241472",
+		"full_text": "Tag yourself I’m vegetable modesty https://t.co/yy7Ua0gAEV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yy7Ua0gAEV",
+					"expanded_url": "https://twitter.com/TinaJordanNYT/status/1073400384654360576",
+					"display_url": "twitter.com/TinaJordanNYT/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073400384654360600,
+		"quoted_status_id_str": "1073400384654360576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yy7Ua0gAEV",
+			"expanded": "https://twitter.com/TinaJordanNYT/status/1073400384654360576",
+			"display": "twitter.com/TinaJordanNYT/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 14 02:12:49 +0000 2018",
+			"id": 1073400384654360600,
+			"id_str": "1073400384654360576",
+			"full_text": "Excellent 19th-century NYT headlines https://t.co/k4wUHBbvts",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1073400346704261100,
+						"id_str": "1073400346704261120",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/DuV77Z8WsAAY_V9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuV77Z8WsAAY_V9.jpg",
+						"url": "https://t.co/k4wUHBbvts",
+						"display_url": "pic.twitter.com/k4wUHBbvts",
+						"expanded_url": "https://twitter.com/TinaJordanNYT/status/1073400384654360576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1156,
+								"h": 1160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1156,
+								"h": 1160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1073400346704261100,
+						"id_str": "1073400346704261120",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/DuV77Z8WsAAY_V9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuV77Z8WsAAY_V9.jpg",
+						"url": "https://t.co/k4wUHBbvts",
+						"display_url": "pic.twitter.com/k4wUHBbvts",
+						"expanded_url": "https://twitter.com/TinaJordanNYT/status/1073400384654360576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1156,
+								"h": 1160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1156,
+								"h": 1160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2329065619,
+				"id_str": "2329065619",
+				"name": "Tina Jordan",
+				"screen_name": "TinaJordanNYT",
+				"location": "",
+				"description": "Editor & columnist at the New York Times (where I spend way too much time rummaging through the newspaper's archives).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9058,
+				"friends_count": 1601,
+				"listed_count": 145,
+				"created_at": "Wed Feb 05 16:40:49 +0000 2014",
+				"favourites_count": 10603,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9605,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973921791839059968/jjzyFXXg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973921791839059968/jjzyFXXg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329065619/1541424302",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 676,
+			"favorite_count": 1574,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tag yourself I’m vegetable modesty https://t.co/yy7Ua0gAEV"
+	},
+	{
+		"created_at": "Thu Dec 13 13:19:57 +0000 2018",
+		"id": 1073205888801009700,
+		"id_str": "1073205888801009664",
+		"full_text": "Thanks so much for all the birthday wishes! Today I finally get to show you something we’ve been working on for a while... the trailer for the Reputation Stadium Tour! The entire concert film will premiere on @Netflix at 12:01AM PT December 31. https://t.co/ZL3Kx2OUx8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflix",
+					"name": "Netflix US",
+					"id": 16573941,
+					"id_str": "16573941",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073193112653230100,
+					"id_str": "1073193112653230080",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"url": "https://t.co/ZL3Kx2OUx8",
+					"display_url": "pic.twitter.com/ZL3Kx2OUx8",
+					"expanded_url": "https://twitter.com/taylorswift13/status/1073205888801009664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073193112653230100,
+					"id_str": "1073193112653230080",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
+					"url": "https://t.co/ZL3Kx2OUx8",
+					"display_url": "pic.twitter.com/ZL3Kx2OUx8",
+					"expanded_url": "https://twitter.com/taylorswift13/status/1073205888801009664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82415,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/320x180/DUZThelzVY-_S-xU.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/640x360/zEwQE1XJRlfANJ8P.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/1280x720/fAQeBMYfRf1KDZSq.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1073193112653230080/pl/ty9El-j9WoPDbKvK.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Taylor Swift reputation Stadium Tour | Official Trailer | Netflix",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17919972,
+			"id_str": "17919972",
+			"name": "Taylor Swift",
+			"screen_name": "taylorswift13",
+			"location": "",
+			"description": "reputation Stadium Tour on Netflix. New Year’s Eve. 12:01am PST.",
+			"url": "https://t.co/eos1wOXU1P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eos1wOXU1P",
+							"expanded_url": "http://taylor.lk/repTourTrailer",
+							"display_url": "taylor.lk/repTourTrailer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83081039,
+			"friends_count": 0,
+			"listed_count": 121387,
+			"created_at": "Sat Dec 06 10:10:54 +0000 2008",
+			"favourites_count": 470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 100,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1544707315",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61454,
+		"favorite_count": 196543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks so much for all the birthday wishes! Today I finally get to show you something we’ve been working on for a while... the trailer for the Reputation Stadium Tour! The entire concert film will premiere on @Netflix at 12:01AM PT December 31. https://t.co/ZL3Kx2OUx8"
+	},
+	{
 		"created_at": "Thu Dec 13 13:19:57 +0000 2018",
 		"id": 1073205888801009700,
 		"id_str": "1073205888801009664",
