@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 23 23:30:34 +0000 2018",
+		"id": 1076983434864742400,
+		"id_str": "1076983434864742401",
+		"full_text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 445754523,
+			"id_str": "445754523",
+			"name": "Hannah Berner",
+			"screen_name": "beingbernz",
+			"location": "Brooklyn, New York",
+			"description": "Podcast Host of Berning In Hell 🔥",
+			"url": "https://t.co/kzVPGmOagS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzVPGmOagS",
+							"expanded_url": "https://itunes.apple.com/us/podcast/hannah-berner/id1442257788?mt=2",
+							"display_url": "itunes.apple.com/us/podcast/han…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4721,
+			"friends_count": 129,
+			"listed_count": 12,
+			"created_at": "Sat Dec 24 20:36:14 +0000 2011",
+			"favourites_count": 1541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445754523/1542557852",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3390,
+		"favorite_count": 21332,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more."
+	},
+	{
 		"created_at": "Tue Dec 25 17:10:36 +0000 2018",
 		"id": 1077612587364352000,
 		"id_str": "1077612587364352000",
