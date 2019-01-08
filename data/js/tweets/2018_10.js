@@ -79,12 +79,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7779,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25495,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -191,12 +191,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7779,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25495,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -362,7 +362,7 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 4657308999,
 			"id_str": "4657308999",
-			"name": "court drawcula 🌙",
+			"name": "courtney! ❄️",
 			"screen_name": "courtdraws",
 			"location": "San Francisco, CA",
 			"description": "risd illus ‘17 • 💖💛💙 • she/her • illustrator living in 2008 • inquiries: courtneybrendle @ gmail • store: https://t.co/Y29CX77nBQ",
@@ -396,16 +396,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4952,
-			"friends_count": 434,
-			"listed_count": 69,
+			"followers_count": 5109,
+			"friends_count": 442,
+			"listed_count": 68,
 			"created_at": "Wed Dec 30 20:32:17 +0000 2015",
-			"favourites_count": 6880,
+			"favourites_count": 7243,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2194,
+			"statuses_count": 2272,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -414,8 +414,8 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1046993425873145858/2U3jMboF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046993425873145858/2U3jMboF_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061466039228092416/58Fv8U0a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061466039228092416/58Fv8U0a_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4657308999/1522652682",
 			"profile_link_color": "668E86",
 			"profile_sidebar_border_color": "000000",
@@ -435,8 +435,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 33337,
-		"favorite_count": 72719,
+		"retweet_count": 34593,
+		"favorite_count": 76227,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -507,12 +507,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7779,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25495,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -627,12 +627,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7779,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25495,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -721,12 +721,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7779,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25495,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "kelly",
 			"screen_name": "BoyYeetsWorld",
 			"location": "Myrtle Beach, SC",
-			"description": "Internet Dumbass™",
+			"description": "22 | idiot | intern @ The Black Sheep",
 			"url": null,
 			"entities": {
 				"description": {
@@ -798,16 +798,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5541,
-			"friends_count": 753,
-			"listed_count": 31,
+			"followers_count": 7609,
+			"friends_count": 744,
+			"listed_count": 37,
 			"created_at": "Fri Jul 06 02:47:20 +0000 2012",
-			"favourites_count": 74296,
+			"favourites_count": 83688,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16181,
+			"statuses_count": 16469,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -816,9 +816,9 @@ Grailbird.data.tweets_2018_10 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1054055020705079296/u5nze34c_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054055020705079296/u5nze34c_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/627970013/1540485024",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081802816451211264/fScXndAS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081802816451211264/fScXndAS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/627970013/1546138343",
 			"profile_link_color": "0084B4",
 			"profile_sidebar_border_color": "FFFFFF",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -837,11 +837,422 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 15953,
-		"favorite_count": 123998,
+		"retweet_count": 15790,
+		"favorite_count": 123467,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
 		"text": "Sorority girls wake up the morning of a tailgate and be like \"Let's get this Brad\""
+	},
+	{
+		"created_at": "Tue Oct 16 17:00:39 +0000 2018",
+		"id": 1052242932722491400,
+		"id_str": "1052242932722491392",
+		"full_text": "♫ My Top 5 #lastfm artists: Halsey (15), Charli XCX (9), DJ Snake (9), Lauv (9) &amp; Philip Strand (8) via @tweeklyfm #music",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lastfm",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tweeklyfm",
+					"name": "Tweekly.fm",
+					"id": 20769495,
+					"id_str": "20769495",
+					"indices": [
+						108,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tweekly.fm\" rel=\"nofollow\">Tweekly.fm App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "♫ My Top 5 #lastfm artists: Halsey (15), Charli XCX (9), DJ Snake (9), Lauv (9) &amp; Philip Strand (8) via @tweeklyfm #music"
+	},
+	{
+		"created_at": "Mon Oct 15 15:47:00 +0000 2018",
+		"id": 1051862008612704300,
+		"id_str": "1051862008612704256",
+		"full_text": "@Jacoemme Ahah no stavo parlando del mio vicino di banco al corso 😂",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jacoemme",
+					"name": "Jacopino 🇪🇺",
+					"id": 28304633,
+					"id_str": "28304633",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051860175429222400,
+		"in_reply_to_status_id_str": "1051860175429222400",
+		"in_reply_to_user_id": 28304633,
+		"in_reply_to_user_id_str": "28304633",
+		"in_reply_to_screen_name": "Jacoemme",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@Jacoemme Ahah no stavo parlando del mio vicino di banco al corso 😂"
+	},
+	{
+		"created_at": "Mon Oct 15 06:59:34 +0000 2018",
+		"id": 1051729276914024400,
+		"id_str": "1051729276914024448",
+		"full_text": "Quando ti mostrano un meme che hai già visto due settimane prima ma non vuoi essere lo stronzo che risponde “ah si l’ho già visto” https://t.co/C842W0TglA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051729230550188000,
+					"id_str": "1051729230550188033",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dph-KbLWwAEzT4g.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dph-KbLWwAEzT4g.jpg",
+					"url": "https://t.co/C842W0TglA",
+					"display_url": "pic.twitter.com/C842W0TglA",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1051729276914024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051729230550188000,
+					"id_str": "1051729230550188033",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dph-KbLWwAEzT4g.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dph-KbLWwAEzT4g.jpg",
+					"url": "https://t.co/C842W0TglA",
+					"display_url": "pic.twitter.com/C842W0TglA",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1051729276914024448/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							45
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dph-KbLWwAEzT4g.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Quando ti mostrano un meme che hai già visto due settimane prima ma non vuoi essere lo stronzo che risponde “ah si l’ho già visto” https://t.co/C842W0TglA"
 	}
 ]

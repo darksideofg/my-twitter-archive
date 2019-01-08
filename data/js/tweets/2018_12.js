@@ -127,16 +127,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7828,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25541,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -222,16 +222,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7828,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25541,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -316,16 +316,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4962,
-			"friends_count": 129,
-			"listed_count": 12,
+			"followers_count": 5283,
+			"friends_count": 135,
+			"listed_count": 13,
 			"created_at": "Sat Dec 24 20:36:14 +0000 2011",
-			"favourites_count": 1606,
+			"favourites_count": 1665,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 572,
+			"statuses_count": 598,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -355,8 +355,8 @@ Grailbird.data.tweets_2018_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4244,
-		"favorite_count": 25374,
+		"retweet_count": 4324,
+		"favorite_count": 25704,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -489,16 +489,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7828,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25541,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -528,1079 +528,7 @@ Grailbird.data.tweets_2018_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 6,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "es",
-		"text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD"
-	},
-	{
-		"created_at": "Sun Dec 23 23:30:34 +0000 2018",
-		"id": 1076983434864742400,
-		"id_str": "1076983434864742401",
-		"full_text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			155
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 445754523,
-			"id_str": "445754523",
-			"name": "Hannah Berner",
-			"screen_name": "beingbernz",
-			"location": "Brooklyn, New York",
-			"description": "Podcast Host of Berning In Hell 🔥",
-			"url": "https://t.co/kzVPGmOagS",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzVPGmOagS",
-							"expanded_url": "https://itunes.apple.com/us/podcast/hannah-berner/id1442257788?mt=2",
-							"display_url": "itunes.apple.com/us/podcast/han…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 4928,
-			"friends_count": 129,
-			"listed_count": 12,
-			"created_at": "Sat Dec 24 20:36:14 +0000 2011",
-			"favourites_count": 1602,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 570,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445754523/1542557852",
-			"profile_link_color": "000000",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 4176,
-		"favorite_count": 25140,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en",
-		"text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more."
-	},
-	{
-		"created_at": "Tue Dec 25 17:10:36 +0000 2018",
-		"id": 1077612587364352000,
-		"id_str": "1077612587364352000",
-		"full_text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			27
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 535277787,
-			"id_str": "535277787",
-			"name": "G (̄・・̄)",
-			"screen_name": "DarkSideOfG",
-			"location": "εᴍ - Siberia",
-			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
-			"url": "https://t.co/kzM9iE3UtX",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzM9iE3UtX",
-							"expanded_url": "http://darksideofg.tk",
-							"display_url": "darksideofg.tk",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 117,
-			"friends_count": 74,
-			"listed_count": 10,
-			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7828,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 25539,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "515151",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_link_color": "686868",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "595959",
-			"profile_text_color": "606060",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 6,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "es",
-		"text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD"
-	},
-	{
-		"created_at": "Sun Dec 23 23:30:34 +0000 2018",
-		"id": 1076983434864742400,
-		"id_str": "1076983434864742401",
-		"full_text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			155
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 445754523,
-			"id_str": "445754523",
-			"name": "Hannah Berner",
-			"screen_name": "beingbernz",
-			"location": "Brooklyn, New York",
-			"description": "Podcast Host of Berning In Hell 🔥",
-			"url": "https://t.co/kzVPGmOagS",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzVPGmOagS",
-							"expanded_url": "https://itunes.apple.com/us/podcast/hannah-berner/id1442257788?mt=2",
-							"display_url": "itunes.apple.com/us/podcast/han…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 4869,
-			"friends_count": 129,
-			"listed_count": 12,
-			"created_at": "Sat Dec 24 20:36:14 +0000 2011",
-			"favourites_count": 1590,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 568,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445754523/1542557852",
-			"profile_link_color": "000000",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 4021,
-		"favorite_count": 24604,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en",
-		"text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more."
-	},
-	{
-		"created_at": "Tue Dec 25 17:10:36 +0000 2018",
-		"id": 1077612587364352000,
-		"id_str": "1077612587364352000",
-		"full_text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			27
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 535277787,
-			"id_str": "535277787",
-			"name": "G (̄・・̄)",
-			"screen_name": "DarkSideOfG",
-			"location": "εᴍ - Siberia",
-			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
-			"url": "https://t.co/kzM9iE3UtX",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzM9iE3UtX",
-							"expanded_url": "http://darksideofg.tk",
-							"display_url": "darksideofg.tk",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 117,
-			"friends_count": 74,
-			"listed_count": 10,
-			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7828,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 25539,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "515151",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_link_color": "686868",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "595959",
-			"profile_text_color": "606060",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 6,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "es",
-		"text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD"
-	},
-	{
-		"created_at": "Sun Dec 23 23:30:34 +0000 2018",
-		"id": 1076983434864742400,
-		"id_str": "1076983434864742401",
-		"full_text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			155
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 445754523,
-			"id_str": "445754523",
-			"name": "Hannah Berner",
-			"screen_name": "beingbernz",
-			"location": "Brooklyn, New York",
-			"description": "Podcast Host of Berning In Hell 🔥",
-			"url": "https://t.co/kzVPGmOagS",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzVPGmOagS",
-							"expanded_url": "https://itunes.apple.com/us/podcast/hannah-berner/id1442257788?mt=2",
-							"display_url": "itunes.apple.com/us/podcast/han…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 4814,
-			"friends_count": 129,
-			"listed_count": 12,
-			"created_at": "Sat Dec 24 20:36:14 +0000 2011",
-			"favourites_count": 1569,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 564,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445754523/1542557852",
-			"profile_link_color": "000000",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 3839,
-		"favorite_count": 23769,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en",
-		"text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more."
-	},
-	{
-		"created_at": "Tue Dec 25 17:10:36 +0000 2018",
-		"id": 1077612587364352000,
-		"id_str": "1077612587364352000",
-		"full_text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			27
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 535277787,
-			"id_str": "535277787",
-			"name": "G (̄・・̄)",
-			"screen_name": "DarkSideOfG",
-			"location": "εᴍ - Siberia",
-			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
-			"url": "https://t.co/kzM9iE3UtX",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzM9iE3UtX",
-							"expanded_url": "http://darksideofg.tk",
-							"display_url": "darksideofg.tk",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 117,
-			"friends_count": 74,
-			"listed_count": 0,
-			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7828,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 25539,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "515151",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_link_color": "686868",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "595959",
-			"profile_text_color": "606060",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 6,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "es",
-		"text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD"
-	},
-	{
-		"created_at": "Sun Dec 23 23:30:34 +0000 2018",
-		"id": 1076983434864742400,
-		"id_str": "1076983434864742401",
-		"full_text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			155
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 445754523,
-			"id_str": "445754523",
-			"name": "Hannah Berner",
-			"screen_name": "beingbernz",
-			"location": "Brooklyn, New York",
-			"description": "Podcast Host of Berning In Hell 🔥",
-			"url": "https://t.co/kzVPGmOagS",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzVPGmOagS",
-							"expanded_url": "https://itunes.apple.com/us/podcast/hannah-berner/id1442257788?mt=2",
-							"display_url": "itunes.apple.com/us/podcast/han…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 4721,
-			"friends_count": 129,
-			"listed_count": 12,
-			"created_at": "Sat Dec 24 20:36:14 +0000 2011",
-			"favourites_count": 1541,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 559,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057130730353053696/ViAoJORM_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445754523/1542557852",
-			"profile_link_color": "000000",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 3390,
-		"favorite_count": 21332,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en",
-		"text": "To all the boys I didn’t really like but then realized they liked me so I started liking them and then they stopped liking me so it made me like them more."
-	},
-	{
-		"created_at": "Tue Dec 25 17:10:36 +0000 2018",
-		"id": 1077612587364352000,
-		"id_str": "1077612587364352000",
-		"full_text": "Finalmente un regalo utile! https://t.co/89pKM5JGzD",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			27
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1077612547975663600,
-					"id_str": "1077612547975663616",
-					"indices": [
-						28,
-						51
-					],
-					"media_url": "http://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DvRy5yeX0AA1wCf.jpg",
-					"url": "https://t.co/89pKM5JGzD",
-					"display_url": "pic.twitter.com/89pKM5JGzD",
-					"expanded_url": "https://twitter.com/DarkSideOfG/status/1077612587364352000/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 535277787,
-			"id_str": "535277787",
-			"name": "G (̄・・̄)",
-			"screen_name": "DarkSideOfG",
-			"location": "εᴍ - Siberia",
-			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
-			"url": "https://t.co/kzM9iE3UtX",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kzM9iE3UtX",
-							"expanded_url": "http://darksideofg.tk",
-							"display_url": "darksideofg.tk",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 117,
-			"friends_count": 74,
-			"listed_count": 10,
-			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7825,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 25538,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "515151",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
-			"profile_link_color": "686868",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "595959",
-			"profile_text_color": "606060",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 6,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -1656,16 +584,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7825,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25538,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1828,16 +756,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7823,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25538,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2037,16 +965,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4188,
-			"friends_count": 673,
-			"listed_count": 23,
+			"followers_count": 4424,
+			"friends_count": 678,
+			"listed_count": 29,
 			"created_at": "Thu Feb 07 19:48:50 +0000 2013",
-			"favourites_count": 19659,
+			"favourites_count": 19932,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14300,
+			"statuses_count": 14381,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2055,9 +983,9 @@ Grailbird.data.tweets_2018_12 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1075350264113229824/L_hS7IUD_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075350264113229824/L_hS7IUD_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1158108548/1539629636",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082066070733766656/x6fVLZsV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082066070733766656/x6fVLZsV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1158108548/1546736058",
 			"profile_link_color": "F5ABB5",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -2076,8 +1004,8 @@ Grailbird.data.tweets_2018_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 115152,
-		"favorite_count": 316275,
+		"retweet_count": 141545,
+		"favorite_count": 379235,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2211,16 +1139,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7823,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25538,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2316,16 +1244,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7823,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25535,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2421,16 +1349,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 117,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7821,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25534,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2580,16 +1508,16 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9058,
-				"friends_count": 1601,
-				"listed_count": 145,
+				"followers_count": 9239,
+				"friends_count": 1602,
+				"listed_count": 147,
 				"created_at": "Wed Feb 05 16:40:49 +0000 2014",
-				"favourites_count": 10603,
+				"favourites_count": 10819,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 9605,
+				"statuses_count": 9758,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2600,7 +1528,7 @@ Grailbird.data.tweets_2018_12 =
 				"profile_background_tile": false,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/973921791839059968/jjzyFXXg_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973921791839059968/jjzyFXXg_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329065619/1541424302",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329065619/1546260917",
 				"profile_link_color": "E81C4F",
 				"profile_sidebar_border_color": "C0DEED",
 				"profile_sidebar_fill_color": "DDEEF6",
@@ -2619,8 +1547,8 @@ Grailbird.data.tweets_2018_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 676,
-			"favorite_count": 1574,
+			"retweet_count": 833,
+			"favorite_count": 1991,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2785,15 +1713,15 @@ Grailbird.data.tweets_2018_12 =
 			"name": "Taylor Swift",
 			"screen_name": "taylorswift13",
 			"location": "",
-			"description": "reputation Stadium Tour on Netflix. New Year’s Eve. 12:01am PST.",
-			"url": "https://t.co/eos1wOXU1P",
+			"description": "The reputation Stadium Tour is streaming now on Netflix.",
+			"url": "https://t.co/RSxHoIri2k",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/eos1wOXU1P",
-							"expanded_url": "http://taylor.lk/repTourTrailer",
-							"display_url": "taylor.lk/repTourTrailer",
+							"url": "https://t.co/RSxHoIri2k",
+							"expanded_url": "http://taylor.lk/repTourNetflix",
+							"display_url": "taylor.lk/repTourNetflix",
 							"indices": [
 								0,
 								23
@@ -2806,16 +1734,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 83081039,
+			"followers_count": 83353163,
 			"friends_count": 0,
-			"listed_count": 121387,
+			"listed_count": 121542,
 			"created_at": "Sat Dec 06 10:10:54 +0000 2008",
-			"favourites_count": 470,
+			"favourites_count": 486,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 100,
+			"statuses_count": 103,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2826,7 +1754,7 @@ Grailbird.data.tweets_2018_12 =
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1544707315",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1546243603",
 			"profile_link_color": "0084B4",
 			"profile_sidebar_border_color": "FFFFFF",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -2845,227 +1773,8 @@ Grailbird.data.tweets_2018_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 61454,
-		"favorite_count": 196543,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Thanks so much for all the birthday wishes! Today I finally get to show you something we’ve been working on for a while... the trailer for the Reputation Stadium Tour! The entire concert film will premiere on @Netflix at 12:01AM PT December 31. https://t.co/ZL3Kx2OUx8"
-	},
-	{
-		"created_at": "Thu Dec 13 13:19:57 +0000 2018",
-		"id": 1073205888801009700,
-		"id_str": "1073205888801009664",
-		"full_text": "Thanks so much for all the birthday wishes! Today I finally get to show you something we’ve been working on for a while... the trailer for the Reputation Stadium Tour! The entire concert film will premiere on @Netflix at 12:01AM PT December 31. https://t.co/ZL3Kx2OUx8",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			244
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "netflix",
-					"name": "Netflix US",
-					"id": 16573941,
-					"id_str": "16573941",
-					"indices": [
-						209,
-						217
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 1073193112653230100,
-					"id_str": "1073193112653230080",
-					"indices": [
-						245,
-						268
-					],
-					"media_url": "http://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
-					"url": "https://t.co/ZL3Kx2OUx8",
-					"display_url": "pic.twitter.com/ZL3Kx2OUx8",
-					"expanded_url": "https://twitter.com/taylorswift13/status/1073205888801009664/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1280,
-							"h": 720,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1073193112653230100,
-					"id_str": "1073193112653230080",
-					"indices": [
-						245,
-						268
-					],
-					"media_url": "http://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DuTA5fcXQAEe2Uu.jpg",
-					"url": "https://t.co/ZL3Kx2OUx8",
-					"display_url": "pic.twitter.com/ZL3Kx2OUx8",
-					"expanded_url": "https://twitter.com/taylorswift13/status/1073205888801009664/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1280,
-							"h": 720,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							16,
-							9
-						],
-						"duration_millis": 82415,
-						"variants": [
-							{
-								"bitrate": 288000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/320x180/DUZThelzVY-_S-xU.mp4?tag=9"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/640x360/zEwQE1XJRlfANJ8P.mp4?tag=9"
-							},
-							{
-								"bitrate": 2176000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/1073193112653230080/vid/1280x720/fAQeBMYfRf1KDZSq.mp4?tag=9"
-							},
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/amplify_video/1073193112653230080/pl/ty9El-j9WoPDbKvK.m3u8?tag=9"
-							}
-						]
-					},
-					"additional_media_info": {
-						"title": "Taylor Swift reputation Stadium Tour | Official Trailer | Netflix",
-						"description": "",
-						"embeddable": true,
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 17919972,
-			"id_str": "17919972",
-			"name": "Taylor Swift",
-			"screen_name": "taylorswift13",
-			"location": "",
-			"description": "reputation Stadium Tour on Netflix. New Year’s Eve. 12:01am PST.",
-			"url": "https://t.co/eos1wOXU1P",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/eos1wOXU1P",
-							"expanded_url": "http://taylor.lk/repTourTrailer",
-							"display_url": "taylor.lk/repTourTrailer",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 83079763,
-			"friends_count": 0,
-			"listed_count": 121383,
-			"created_at": "Sat Dec 06 10:10:54 +0000 2008",
-			"favourites_count": 470,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 100,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900399601282424832/sNDnYYZe_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1544707315",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": true,
-			"translator_type": "regular"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 55070,
-		"favorite_count": 168319,
+		"retweet_count": 65502,
+		"favorite_count": 220129,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -3121,144 +1830,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5577,
-			"friends_count": 1128,
+			"followers_count": 5617,
+			"friends_count": 1132,
 			"listed_count": 86,
 			"created_at": "Mon Feb 05 17:22:19 +0000 2007",
-			"favourites_count": 58556,
+			"favourites_count": 59281,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 97428,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754893/1475579254",
-			"profile_link_color": "4A913C",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "1ea588c12abd39d7",
-			"url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
-			"place_type": "city",
-			"name": "Milan",
-			"full_name": "Milan, Lombardy",
-			"country_code": "IT",
-			"country": "Italy",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							9.040628,
-							45.3867262
-						],
-						[
-							9.2780451,
-							45.3867262
-						],
-						[
-							9.2780451,
-							45.5359644
-						],
-						[
-							9.040628,
-							45.5359644
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 6,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "it",
-		"text": "Sono comunque molto molto stanco e non vedo l’ora sia il VENDUNO TI TICEMPRE sera"
-	},
-	{
-		"created_at": "Wed Dec 12 09:15:27 +0000 2018",
-		"id": 1072781967823921200,
-		"id_str": "1072781967823921153",
-		"full_text": "Sono comunque molto molto stanco e non vedo l’ora sia il VENDUNO TI TICEMPRE sera",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			81
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 754893,
-			"id_str": "754893",
-			"name": "Signor Ponza",
-			"screen_name": "signorponza",
-			"location": "Milan, Lombardy",
-			"description": "Andrea is like Emma Bunton: shy on the outside, but such a nasty bitch inside | Instagram: @signorponza | @signorponzablog e #PZSQ (per 1/4) sono colpa mia",
-			"url": "https://t.co/cuX3NK80dV",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/cuX3NK80dV",
-							"expanded_url": "https://www.instagram.com/signorponza/",
-							"display_url": "instagram.com/signorponza/",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 5578,
-			"friends_count": 1128,
-			"listed_count": 85,
-			"created_at": "Mon Feb 05 17:22:19 +0000 2007",
-			"favourites_count": 58538,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 97418,
+			"statuses_count": 97845,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3395,16 +1976,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7814,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25540,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3502,16 +2083,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1770,
-			"friends_count": 505,
-			"listed_count": 46,
+			"followers_count": 1777,
+			"friends_count": 511,
+			"listed_count": 48,
 			"created_at": "Mon Aug 13 12:28:54 +0000 2007",
-			"favourites_count": 11086,
+			"favourites_count": 11316,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 71693,
+			"statuses_count": 71886,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3597,16 +2178,16 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1043326,
-				"friends_count": 4003,
-				"listed_count": 8431,
+				"followers_count": 1051783,
+				"friends_count": 4028,
+				"listed_count": 8446,
 				"created_at": "Sat Apr 18 16:54:04 +0000 2009",
-				"favourites_count": 9555,
+				"favourites_count": 9925,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 11677,
+				"statuses_count": 12011,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3636,215 +2217,8 @@ Grailbird.data.tweets_2018_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1676,
-			"favorite_count": 5987,
-			"favorited": false,
-			"retweeted": false,
-			"lang": "en"
-		},
-		"retweet_count": 3,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "it",
-		"text": "L'opposizione riparta da: https://t.co/z2UG7wJp70"
-	},
-	{
-		"created_at": "Wed Dec 05 17:05:23 +0000 2018",
-		"id": 1070363518891905000,
-		"id_str": "1070363518891905026",
-		"full_text": "L'opposizione riparta da: https://t.co/z2UG7wJp70",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			49
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/z2UG7wJp70",
-					"expanded_url": "https://twitter.com/pamfoundation/status/1070338993282301954",
-					"display_url": "twitter.com/pamfoundation/…",
-					"indices": [
-						26,
-						49
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": 1063071972735754200,
-		"in_reply_to_status_id_str": "1063071972735754241",
-		"in_reply_to_user_id": 8157822,
-		"in_reply_to_user_id_str": "8157822",
-		"in_reply_to_screen_name": "Maxxeo",
-		"user": {
-			"id": 8157822,
-			"id_str": "8157822",
-			"name": "Matteo Z.",
-			"screen_name": "Maxxeo",
-			"location": "Pisa, Italy.",
-			"description": "No, sinceramente è un lavoro che mi piace e che faccio con passione.",
-			"url": "https://t.co/xXyL0XpaYf",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/xXyL0XpaYf",
-							"expanded_url": "http://www.matteoz.it",
-							"display_url": "matteoz.it",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 1770,
-			"friends_count": 504,
-			"listed_count": 46,
-			"created_at": "Mon Aug 13 12:28:54 +0000 2007",
-			"favourites_count": 11097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 71690,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "EDF0F0",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/979064531086462981/h37NPwPM_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979064531086462981/h37NPwPM_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8157822/1398289237",
-			"profile_link_color": "9E733D",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "F5F554",
-			"profile_text_color": "7A6940",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "regular"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 1070338993282302000,
-		"quoted_status_id_str": "1070338993282301954",
-		"quoted_status_permalink": {
-			"url": "https://t.co/z2UG7wJp70",
-			"expanded": "https://twitter.com/pamfoundation/status/1070338993282301954",
-			"display": "twitter.com/pamfoundation/…"
-		},
-		"quoted_status": {
-			"created_at": "Wed Dec 05 15:27:56 +0000 2018",
-			"id": 1070338993282302000,
-			"id_str": "1070338993282301954",
-			"full_text": "The solution is not more Macron or more Salvini, the actually need each other and reinforce each other, the solution can only be a Pan-European awakening across borders and nationalities,which would be able to tackle the deep economic, social and ecological crisis of Europe today",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				280
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 32939851,
-				"id_str": "32939851",
-				"name": "Pamela Anderson",
-				"screen_name": "pamfoundation",
-				"location": "",
-				"description": "\"Everybody says sex is obscene. The only true obscenity is war\" Henry Miller",
-				"url": "https://t.co/ewatpTCSWd",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/ewatpTCSWd",
-								"expanded_url": "http://pamelaandersonfoundation.org/news/",
-								"display_url": "pamelaandersonfoundation.org/news/",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1040141,
-				"friends_count": 3997,
-				"listed_count": 8429,
-				"created_at": "Sat Apr 18 16:54:04 +0000 2009",
-				"favourites_count": 9553,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 11666,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "1A1B1F",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1012097139143593985/aFqdglFk_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012097139143593985/aFqdglFk_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32939851/1530137737",
-				"profile_link_color": "DD2E44",
-				"profile_sidebar_border_color": "181A1E",
-				"profile_sidebar_fill_color": "252429",
-				"profile_text_color": "999999",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 668,
-			"favorite_count": 2348,
+			"retweet_count": 2038,
+			"favorite_count": 7331,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -3906,16 +2280,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7814,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25540,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4078,16 +2452,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7814,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25540,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4199,16 +2573,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7814,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25538,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4303,16 +2677,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7814,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25537,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4583,16 +2957,16 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 657,
-				"friends_count": 332,
-				"listed_count": 0,
+				"followers_count": 815,
+				"friends_count": 342,
+				"listed_count": 2,
 				"created_at": "Thu Feb 19 18:21:17 +0000 2009",
-				"favourites_count": 3288,
+				"favourites_count": 3630,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 298,
+				"statuses_count": 322,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4621,8 +2995,8 @@ Grailbird.data.tweets_2018_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 9284,
-			"favorite_count": 55473,
+			"retweet_count": 12985,
+			"favorite_count": 74388,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -4652,7 +3026,7 @@ Grailbird.data.tweets_2018_12 =
 			"user_mentions": [
 				{
 					"screen_name": "ale_223",
-					"name": "Ambrosalem Shipper🚡",
+					"name": "Gender Crotalo🚡",
 					"id": 11349762,
 					"id_str": "11349762",
 					"indices": [
@@ -4696,16 +3070,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7814,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25537,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4800,16 +3174,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7814,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25537,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4992,16 +3366,16 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2475446,
-				"friends_count": 146,
-				"listed_count": 35848,
+				"followers_count": 2478871,
+				"friends_count": 158,
+				"listed_count": 35969,
 				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
-				"favourites_count": 1574,
+				"favourites_count": 1569,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 148330,
+				"statuses_count": 149887,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5031,8 +3405,8 @@ Grailbird.data.tweets_2018_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 4266,
-			"favorite_count": 5913,
+			"retweet_count": 5393,
+			"favorite_count": 8221,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -5116,16 +3490,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 116,
+			"followers_count": 118,
 			"friends_count": 74,
 			"listed_count": 10,
 			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
-			"favourites_count": 7810,
+			"favourites_count": 7835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 25534,
+			"statuses_count": 25544,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5338,8 +3712,8 @@ Grailbird.data.tweets_2018_12 =
 				"id_str": "852914744",
 				"name": "aly",
 				"screen_name": "aly_stahp",
-				"location": "",
-				"description": "virgo sun & moon",
+				"location": "jose mari chan",
+				"description": "ur local koreaboo",
 				"url": "https://t.co/y2IJ48PNwc",
 				"entities": {
 					"url": {
@@ -5360,16 +3734,16 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 623,
-				"friends_count": 518,
+				"followers_count": 644,
+				"friends_count": 530,
 				"listed_count": 6,
 				"created_at": "Sat Sep 29 13:50:32 +0000 2012",
-				"favourites_count": 11308,
+				"favourites_count": 11686,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 29555,
+				"statuses_count": 30002,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5378,9 +3752,9 @@ Grailbird.data.tweets_2018_12 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1067746390447538177/_8kNrrca_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067746390447538177/_8kNrrca_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852914744/1543409689",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079455992151064576/cUC8Nb1m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079455992151064576/cUC8Nb1m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852914744/1546316869",
 				"profile_link_color": "4C4646",
 				"profile_sidebar_border_color": "FFFFFF",
 				"profile_sidebar_fill_color": "DDEEF6",
@@ -5399,8 +3773,8 @@ Grailbird.data.tweets_2018_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 16928,
-			"favorite_count": 46915,
+			"retweet_count": 18156,
+			"favorite_count": 50423,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
