@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 19:18:11 +0000 2019",
+		"id": 1097576027583365100,
+		"id_str": "1097843842001317889",
+		"full_text": "Ci abbiamo provato anche noi https://t.co/mAfPogqQtY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097575917516398600,
+					"id_str": "1097575917516398592",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097575917516398592/pu/img/Fe0DfRecs7eOK81J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097575917516398592/pu/img/Fe0DfRecs7eOK81J.jpg",
+					"url": "https://t.co/mAfPogqQtY",
+					"display_url": "pic.twitter.com/mAfPogqQtY",
+					"expanded_url": "https://twitter.com/spinozait/status/1097576027583365120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097575917516398600,
+					"id_str": "1097575917516398592",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097575917516398592/pu/img/Fe0DfRecs7eOK81J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097575917516398592/pu/img/Fe0DfRecs7eOK81J.jpg",
+					"url": "https://t.co/mAfPogqQtY",
+					"display_url": "pic.twitter.com/mAfPogqQtY",
+					"expanded_url": "https://twitter.com/spinozait/status/1097576027583365120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097575917516398592/pu/vid/480x480/aTpwo69QyOyzW_iN.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097575917516398592/pu/vid/320x320/cXnO0TllOwIx_tVB.mp4?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097575917516398592/pu/vid/720x720/plhZWZiA397w4gNU.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1097575917516398592/pu/pl/T8LRA9HKF_JpvMtE.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41667342,
+			"id_str": "41667342",
+			"name": "Spinoza",
+			"screen_name": "spinozait",
+			"location": "",
+			"description": "Un blog serissimo.",
+			"url": "https://t.co/N5gIGzAsH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N5gIGzAsH3",
+							"expanded_url": "http://www.spinoza.it",
+							"display_url": "spinoza.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1671327,
+			"friends_count": 58,
+			"listed_count": 4086,
+			"created_at": "Thu May 21 20:17:45 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4032,
+			"lang": "it",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/224230953/spinoza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/224230953/spinoza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41667342/1505158002",
+			"profile_link_color": "FF9900",
+			"profile_sidebar_border_color": "FF9900",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5407,
+		"favorite_count": 13323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Ci abbiamo provato anche noi https://t.co/mAfPogqQtY"
+	},
+	{
 		"created_at": "Thu Feb 14 16:45:55 +0000 2019",
 		"id": 1096088156682768400,
 		"id_str": "1096088156682768384",
