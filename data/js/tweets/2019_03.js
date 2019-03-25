@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 18:48:03 +0000 2019",
+		"id": 1109156371545636900,
+		"id_str": "1109889630617387008",
+		"full_text": "me at Olive Garden https://t.co/W2lnHzbmJ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W2lnHzbmJ2",
+					"expanded_url": "https://twitter.com/ShawnMendes/status/1109077294998409216",
+					"display_url": "twitter.com/ShawnMendes/st…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325202968,
+			"id_str": "325202968",
+			"name": "cassie  (◡‿◡✿)",
+			"screen_name": "musicforcass",
+			"location": "Austin, TX",
+			"description": "fiat | UT'20 McCombs | catholic | @lifelonghorns vp",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 670,
+			"friends_count": 1222,
+			"listed_count": 9,
+			"created_at": "Mon Jun 27 22:24:10 +0000 2011",
+			"favourites_count": 10270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108256238834462721/Wcdf0Yp4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108256238834462721/Wcdf0Yp4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/325202968/1553059510",
+			"profile_link_color": "D96CB3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109077294998409200,
+		"quoted_status_id_str": "1109077294998409216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W2lnHzbmJ2",
+			"expanded": "https://twitter.com/ShawnMendes/status/1109077294998409216",
+			"display": "twitter.com/ShawnMendes/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 22 13:00:07 +0000 2019",
+			"id": 1109077294998409200,
+			"id_str": "1109077294998409216",
+			"full_text": "Wow I love Italy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 379408088,
+				"id_str": "379408088",
+				"name": "Shawn Mendes",
+				"screen_name": "ShawnMendes",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/8KmM2LUa7K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8KmM2LUa7K",
+								"expanded_url": "http://shawnmendesofficial.com",
+								"display_url": "shawnmendesofficial.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21440812,
+				"friends_count": 58327,
+				"listed_count": 23452,
+				"created_at": "Sat Sep 24 22:29:41 +0000 2011",
+				"favourites_count": 7034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14689,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989364677426733057/HD-2Vnhf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989364677426733057/HD-2Vnhf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/379408088/1543868245",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26097,
+			"favorite_count": 243631,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 25861,
+		"favorite_count": 122357,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "me at Olive Garden https://t.co/W2lnHzbmJ2"
+	},
+	{
+		"created_at": "Sun Mar 24 08:42:13 +0000 2019",
+		"id": 1109737166974959600,
+		"id_str": "1109737166974959616",
+		"full_text": "@askforrudy_ Io non capisco perché mio dice sempre “down X%” ogni settima però rimane sempre tantissimo 😂 https://t.co/avHAv7MOxq",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "askforrudy_",
+					"name": "Rudy",
+					"id": 386579526,
+					"id_str": "386579526",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109737151778955300,
+					"id_str": "1109737151778955264",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D2aUD1XWoAAL3Zw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2aUD1XWoAAL3Zw.jpg",
+					"url": "https://t.co/avHAv7MOxq",
+					"display_url": "pic.twitter.com/avHAv7MOxq",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1109737166974959616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 253,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109737151778955300,
+					"id_str": "1109737151778955264",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D2aUD1XWoAAL3Zw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2aUD1XWoAAL3Zw.jpg",
+					"url": "https://t.co/avHAv7MOxq",
+					"display_url": "pic.twitter.com/avHAv7MOxq",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1109737166974959616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 253,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1109736169489776600,
+		"in_reply_to_status_id_str": "1109736169489776642",
+		"in_reply_to_user_id": 386579526,
+		"in_reply_to_user_id_str": "386579526",
+		"in_reply_to_screen_name": "askforrudy_",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "@askforrudy_ Io non capisco perché mio dice sempre “down X%” ogni settima però rimane sempre tantissimo 😂 https://t.co/avHAv7MOxq"
+	},
+	{
 		"created_at": "Fri Mar 22 18:37:07 +0000 2019",
 		"id": 1109162102965579800,
 		"id_str": "1109162102965579776",
