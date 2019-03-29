@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 21:55:41 +0000 2019",
+		"id": 1111375317040418800,
+		"id_str": "1111386402866884608",
+		"full_text": "Help I’m being oppressed in ways that are indistinguishable from NoSQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1111374875413774300,
+		"in_reply_to_status_id_str": "1111374875413774336",
+		"in_reply_to_user_id": 2436389418,
+		"in_reply_to_user_id_str": "2436389418",
+		"in_reply_to_screen_name": "SwiftOnSecurity",
+		"user": {
+			"id": 2436389418,
+			"id_str": "2436389418",
+			"name": "SwiftOnSecurity",
+			"screen_name": "SwiftOnSecurity",
+			"location": "Cyber, USA",
+			"description": "Talk systems security, author https://t.co/j3RdEScp3t + https://t.co/rzDVLlLn6y, write SciFi stories, sysadmin, & use Oxford commas. they/them",
+			"url": "https://t.co/8OV6y5BH0K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8OV6y5BH0K",
+							"expanded_url": "https://decentsecurity.com",
+							"display_url": "decentsecurity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j3RdEScp3t",
+							"expanded_url": "https://DecentSecurity.com",
+							"display_url": "DecentSecurity.com",
+							"indices": [
+								30,
+								53
+							]
+						},
+						{
+							"url": "https://t.co/rzDVLlLn6y",
+							"expanded_url": "http://GotPhish.com",
+							"display_url": "GotPhish.com",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 269616,
+			"friends_count": 8248,
+			"listed_count": 6246,
+			"created_at": "Thu Apr 10 02:54:26 +0000 2014",
+			"favourites_count": 85197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110732070702202883/fp3Ww5Sg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110732070702202883/fp3Ww5Sg_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 635,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Help I’m being oppressed in ways that are indistinguishable from NoSQL"
+	},
+	{
 		"created_at": "Wed Mar 27 09:23:44 +0000 2019",
 		"id": 1110834781581914100,
 		"id_str": "1110834781581914114",
