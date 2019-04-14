@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 17:26:43 +0000 2019",
+		"id": 1117114363243003900,
+		"id_str": "1117116918928945152",
+		"full_text": "Malissimo https://t.co/CxIAEkB8OR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CxIAEkB8OR",
+					"expanded_url": "https://twitter.com/leedawsonpt/status/1117053513438253056",
+					"display_url": "twitter.com/leedawsonpt/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248201954,
+			"id_str": "248201954",
+			"name": "Francesco",
+			"screen_name": "frangments",
+			"location": "Roma - Salerno",
+			"description": "Until I feel alright I'm gonna fake it.",
+			"url": "https://t.co/YJLcLIcmTm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YJLcLIcmTm",
+							"expanded_url": "http://Instagram.com/framingo__",
+							"display_url": "Instagram.com/framingo__",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369,
+			"friends_count": 280,
+			"listed_count": 11,
+			"created_at": "Sun Feb 06 13:44:04 +0000 2011",
+			"favourites_count": 22983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21355,
+			"lang": "it",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8ACAC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116764749579063296/SQaFChXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116764749579063296/SQaFChXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248201954/1528554525",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117053513438253000,
+		"quoted_status_id_str": "1117053513438253056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CxIAEkB8OR",
+			"expanded": "https://twitter.com/leedawsonpt/status/1117053513438253056",
+			"display": "twitter.com/leedawsonpt/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 13 13:14:46 +0000 2019",
+			"id": 1117053513438253000,
+			"id_str": "1117053513438253056",
+			"full_text": "Why does this sound like a Billie Eilish song https://t.co/reEsec2y2s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117053344076447700,
+						"id_str": "1117053344076447744",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117053344076447744/pu/img/Bg93gmCdrUQmBxhf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117053344076447744/pu/img/Bg93gmCdrUQmBxhf.jpg",
+						"url": "https://t.co/reEsec2y2s",
+						"display_url": "pic.twitter.com/reEsec2y2s",
+						"expanded_url": "https://twitter.com/LeeDawsonPT/status/1117053513438253056/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117053344076447700,
+						"id_str": "1117053344076447744",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117053344076447744/pu/img/Bg93gmCdrUQmBxhf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117053344076447744/pu/img/Bg93gmCdrUQmBxhf.jpg",
+						"url": "https://t.co/reEsec2y2s",
+						"display_url": "pic.twitter.com/reEsec2y2s",
+						"expanded_url": "https://twitter.com/LeeDawsonPT/status/1117053513438253056/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								4
+							],
+							"duration_millis": 71360,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117053344076447744/pu/vid/480x640/ATWYJK4fn-ouqmWq.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1117053344076447744/pu/pl/zU2BOMM44oMvVJGx.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117053344076447744/pu/vid/360x480/U8KhFbUv3zAHfcfF.mp4?tag=8"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117053344076447744/pu/vid/320x426/KfebtGwNwRvtSP2t.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40367042,
+				"id_str": "40367042",
+				"name": "Lee Dawson",
+				"screen_name": "LeeDawsonPT",
+				"location": "Manchester, UK",
+				"description": "hi, I make RuCaps. Watch at https://t.co/8mcFYhGwmt. All Stars 4 RuCaps out now! https://t.co/qFZwOqzaqL",
+				"url": "https://t.co/ABvCDjIyfq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ABvCDjIyfq",
+								"expanded_url": "http://Patreon.com/RuCaps",
+								"display_url": "Patreon.com/RuCaps",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8mcFYhGwmt",
+								"expanded_url": "http://RuCaps.com",
+								"display_url": "RuCaps.com",
+								"indices": [
+									28,
+									51
+								]
+							},
+							{
+								"url": "https://t.co/qFZwOqzaqL",
+								"expanded_url": "http://Instagram.com/LeeDawsonPT",
+								"display_url": "Instagram.com/LeeDawsonPT",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 30769,
+				"friends_count": 1233,
+				"listed_count": 137,
+				"created_at": "Sat May 16 00:07:15 +0000 2009",
+				"favourites_count": 36860,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7653,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEDEDE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999763744807776257/uJbsmx3c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999763744807776257/uJbsmx3c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40367042/1552438604",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E5EFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5275,
+			"favorite_count": 24201,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Malissimo https://t.co/CxIAEkB8OR"
+	},
+	{
 		"created_at": "Wed Apr 10 16:29:21 +0000 2019",
 		"id": 1115952308590870500,
 		"id_str": "1116015320383328257",
