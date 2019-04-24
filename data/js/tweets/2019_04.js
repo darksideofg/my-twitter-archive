@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 18:47:47 +0000 2019",
+		"id": 1120752709383147500,
+		"id_str": "1120761199703023616",
+		"full_text": "[celebrity] as [noun] threads as M&amp;Ms https://t.co/1YwKb98Oku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120752659663867900,
+					"id_str": "1120752659663867904",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D422myBW0AAikAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D422myBW0AAikAL.jpg",
+					"url": "https://t.co/1YwKb98Oku",
+					"display_url": "pic.twitter.com/1YwKb98Oku",
+					"expanded_url": "https://twitter.com/4evrmalone/status/1120752709383147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1164,
+							"h": 696,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1164,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120752659663867900,
+					"id_str": "1120752659663867904",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D422myBW0AAikAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D422myBW0AAikAL.jpg",
+					"url": "https://t.co/1YwKb98Oku",
+					"display_url": "pic.twitter.com/1YwKb98Oku",
+					"expanded_url": "https://twitter.com/4evrmalone/status/1120752709383147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1164,
+							"h": 696,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1164,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120752687635628000,
+					"id_str": "1120752687635628032",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D422oaOWAAAIud1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D422oaOWAAAIud1.jpg",
+					"url": "https://t.co/1YwKb98Oku",
+					"display_url": "pic.twitter.com/1YwKb98Oku",
+					"expanded_url": "https://twitter.com/4evrmalone/status/1120752709383147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 906,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 906,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 288890759,
+			"id_str": "288890759",
+			"name": "Madison Malone Kircher",
+			"screen_name": "4evrmalone",
+			"location": "Brooklyn",
+			"description": "They call me Blog Post Malone. (They don't.) Associate editor @NYMag. @SelectAll forever. @NYMagUnion also forever. madison.kircher@nymag.com",
+			"url": "https://t.co/UQSSZM9d5C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQSSZM9d5C",
+							"expanded_url": "http://nymag.com/author/Madison%20Malone%20Kircher/",
+							"display_url": "nymag.com/author/Madison…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7751,
+			"friends_count": 2210,
+			"listed_count": 194,
+			"created_at": "Wed Apr 27 16:48:49 +0000 2011",
+			"favourites_count": 13952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107739685261139968/WlOxFtub_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107739685261139968/WlOxFtub_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/288890759/1488581713",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 592,
+		"favorite_count": 3527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[celebrity] as [noun] threads as M&amp;Ms https://t.co/1YwKb98Oku"
+	},
+	{
 		"created_at": "Sun Apr 21 17:36:08 +0000 2019",
 		"id": 1120018391954272300,
 		"id_str": "1120018391954272256",
