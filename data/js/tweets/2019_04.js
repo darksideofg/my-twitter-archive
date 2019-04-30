@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 17:37:08 +0000 2019",
+		"id": 1122880368829509600,
+		"id_str": "1122917748340871168",
+		"full_text": "Bambino mi supera in fila pestandomi i piedi per andare nei posti davanti delle montagne russe... \nIo: https://t.co/ysxvj3t4NR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122880295332663300,
+					"id_str": "1122880295332663302",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5VFreiW0AYVe8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5VFreiW0AYVe8J.jpg",
+					"url": "https://t.co/ysxvj3t4NR",
+					"display_url": "pic.twitter.com/ysxvj3t4NR",
+					"expanded_url": "https://twitter.com/fedebruni84/status/1122880368829509633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122880295332663300,
+					"id_str": "1122880295332663302",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5VFreiW0AYVe8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5VFreiW0AYVe8J.jpg",
+					"url": "https://t.co/ysxvj3t4NR",
+					"display_url": "pic.twitter.com/ysxvj3t4NR",
+					"expanded_url": "https://twitter.com/fedebruni84/status/1122880368829509633/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5VFreiW0AYVe8J.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23112137,
+			"id_str": "23112137",
+			"name": "Federico 🐍🦋",
+			"screen_name": "fedebruni84",
+			"location": "Milano",
+			"description": "I would very much like to be excluded from this narrative",
+			"url": "https://t.co/iEmXL5jQrs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iEmXL5jQrs",
+							"expanded_url": "http://www.flickr.com/photos/federicobruni",
+							"display_url": "flickr.com/photos/federic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 1009,
+			"listed_count": 18,
+			"created_at": "Fri Mar 06 20:14:43 +0000 2009",
+			"favourites_count": 34168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56707,
+			"lang": "it",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972914922198847489/hIf49kZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972914922198847489/hIf49kZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23112137/1451317195",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9d29268085000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9d29268085000.json",
+			"place_type": "poi",
+			"name": "Gardaland",
+			"full_name": "Gardaland",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							10.712141990661621,
+							45.45522395252797
+						],
+						[
+							10.712141990661621,
+							45.45522395252797
+						],
+						[
+							10.712141990661621,
+							45.45522395252797
+						],
+						[
+							10.712141990661621,
+							45.45522395252797
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Bambino mi supera in fila pestandomi i piedi per andare nei posti davanti delle montagne russe... \nIo: https://t.co/ysxvj3t4NR"
+	},
+	{
 		"created_at": "Sat Apr 27 21:50:07 +0000 2019",
 		"id": 1122256638612770800,
 		"id_str": "1122256638612770819",
