@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 09:09:51 +0000 2019",
+		"id": 1128588290792263700,
+		"id_str": "1128588290792263680",
+		"full_text": "Ora mi abbono a repubblica solo per farmi venire il sangue nero leggendo questo articolo. https://t.co/0tvNnhfuJ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0tvNnhfuJ4",
+					"expanded_url": "https://twitter.com/repubblica/status/1128537134107910144",
+					"display_url": "twitter.com/repubblica/sta…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 73,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128537134107910100,
+		"quoted_status_id_str": "1128537134107910144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0tvNnhfuJ4",
+			"expanded": "https://twitter.com/repubblica/status/1128537134107910144",
+			"display": "twitter.com/repubblica/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 05:46:34 +0000 2019",
+			"id": 1128537134107910100,
+			"id_str": "1128537134107910144",
+			"full_text": "Nei tour che lo tengono lontano dal ministero, Salvini usa spesso gli aerei della Polizia. Abbiamo ricostruito una ventina di questi voli top secret, leciti perché unisce sempre ai comizi un evento ufficiale. Ma a carico dello Stato https://t.co/AeddEykTEe #ilministrotornosubito",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ilministrotornosubito",
+						"indices": [
+							257,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AeddEykTEe",
+						"expanded_url": "https://larep.it/2VJ2NUc",
+						"display_url": "larep.it/2VJ2NUc",
+						"indices": [
+							233,
+							256
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18935802,
+				"id_str": "18935802",
+				"name": "la Repubblica",
+				"screen_name": "repubblica",
+				"location": "Rome, Italy",
+				"description": "Il twitter feed ufficiale delle notizie di Repubblica.it",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2857166,
+				"friends_count": 363,
+				"listed_count": 11903,
+				"created_at": "Tue Jan 13 11:46:29 +0000 2009",
+				"favourites_count": 112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 604648,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F1F1F1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128063466672148483/ZOWvzKRb_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128063466672148483/ZOWvzKRb_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18935802/1557940532",
+				"profile_link_color": "00376B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "2A292B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 756,
+			"favorite_count": 1227,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Ora mi abbono a repubblica solo per farmi venire il sangue nero leggendo questo articolo. https://t.co/0tvNnhfuJ4"
+	},
+	{
 		"created_at": "Tue May 14 21:10:14 +0000 2019",
 		"id": 1128407191961075700,
 		"id_str": "1128407191961075713",
