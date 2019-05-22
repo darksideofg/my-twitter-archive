@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 17:34:35 +0000 2019",
+		"id": 1130889637294161900,
+		"id_str": "1130889637294161920",
+		"full_text": "Io totally la terza immagine https://t.co/322lgY8n8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/322lgY8n8t",
+					"expanded_url": "https://twitter.com/twoscooters/status/1130037545201491969",
+					"display_url": "twitter.com/twoscooters/st…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130037545201492000,
+		"quoted_status_id_str": "1130037545201491969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/322lgY8n8t",
+			"expanded": "https://twitter.com/twoscooters/status/1130037545201491969",
+			"display": "twitter.com/twoscooters/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 19 09:08:40 +0000 2019",
+			"id": 1130037545201492000,
+			"id_str": "1130037545201491969",
+			"full_text": "This divorce lawyer. I’m screaming https://t.co/oS7BXCLJdM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1130037538293506000,
+						"id_str": "1130037538293506049",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D66zJ2TXYAEuuRx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D66zJ2TXYAEuuRx.jpg",
+						"url": "https://t.co/oS7BXCLJdM",
+						"display_url": "pic.twitter.com/oS7BXCLJdM",
+						"expanded_url": "https://twitter.com/twoscooters/status/1130037545201491969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 943,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 943,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130037538293506000,
+						"id_str": "1130037538293506049",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D66zJ2TXYAEuuRx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D66zJ2TXYAEuuRx.jpg",
+						"url": "https://t.co/oS7BXCLJdM",
+						"display_url": "pic.twitter.com/oS7BXCLJdM",
+						"expanded_url": "https://twitter.com/twoscooters/status/1130037545201491969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 943,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 943,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1130037538297716700,
+						"id_str": "1130037538297716736",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D66zJ2UXoAAf98H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D66zJ2UXoAAf98H.jpg",
+						"url": "https://t.co/oS7BXCLJdM",
+						"display_url": "pic.twitter.com/oS7BXCLJdM",
+						"expanded_url": "https://twitter.com/twoscooters/status/1130037545201491969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 949,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 672,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 949,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1130037538364809200,
+						"id_str": "1130037538364809216",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D66zJ2kXYAAFa0h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D66zJ2kXYAAFa0h.jpg",
+						"url": "https://t.co/oS7BXCLJdM",
+						"display_url": "pic.twitter.com/oS7BXCLJdM",
+						"expanded_url": "https://twitter.com/twoscooters/status/1130037545201491969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 763,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 763,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1130037538348064800,
+						"id_str": "1130037538348064770",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D66zJ2gX4AIgHBa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D66zJ2gX4AIgHBa.jpg",
+						"url": "https://t.co/oS7BXCLJdM",
+						"display_url": "pic.twitter.com/oS7BXCLJdM",
+						"expanded_url": "https://twitter.com/twoscooters/status/1130037545201491969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 933,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 661,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26902304,
+				"id_str": "26902304",
+				"name": "Elizabeth Sampat",
+				"screen_name": "twoscooters",
+				"location": "SEA  ✈️ CPH ✈️ LDN",
+				"description": "Creative Director at a mobile game studio. Co-creator of the Bradley Cooper Cinematic Universe. My shitposts are mine & do not reflect the views of my employer.",
+				"url": "https://t.co/iOtK7um3XN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iOtK7um3XN",
+								"expanded_url": "http://www.elizabethsampat.com",
+								"display_url": "elizabethsampat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11491,
+				"friends_count": 772,
+				"listed_count": 393,
+				"created_at": "Fri Mar 27 00:34:20 +0000 2009",
+				"favourites_count": 34048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 73630,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107668085694070784/pWllNP9N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107668085694070784/pWllNP9N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26902304/1517848811",
+				"profile_link_color": "0BBC0E",
+				"profile_sidebar_border_color": "A62149",
+				"profile_sidebar_fill_color": "FFF6C4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36879,
+			"favorite_count": 98351,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Io totally la terza immagine https://t.co/322lgY8n8t"
+	},
+	{
+		"created_at": "Tue May 21 07:49:41 +0000 2019",
+		"id": 1130742445594087400,
+		"id_str": "1130742445594087424",
+		"full_text": "@Jacoemme https://t.co/XJuV3iiI04",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jacoemme",
+					"name": "Jacopino 🇪🇺",
+					"id": 28304633,
+					"id_str": "28304633",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130742435225772000,
+					"id_str": "1130742435225772032",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7E0QQAXoAAk9ja.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7E0QQAXoAAk9ja.jpg",
+					"url": "https://t.co/XJuV3iiI04",
+					"display_url": "pic.twitter.com/XJuV3iiI04",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1130742445594087424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130742435225772000,
+					"id_str": "1130742435225772032",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7E0QQAXoAAk9ja.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7E0QQAXoAAk9ja.jpg",
+					"url": "https://t.co/XJuV3iiI04",
+					"display_url": "pic.twitter.com/XJuV3iiI04",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1130742445594087424/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7E0QQAXoAAk9ja.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1130740655138005000,
+		"in_reply_to_status_id_str": "1130740655138004992",
+		"in_reply_to_user_id": 28304633,
+		"in_reply_to_user_id_str": "28304633",
+		"in_reply_to_screen_name": "Jacoemme",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Jacoemme https://t.co/XJuV3iiI04"
+	},
+	{
 		"created_at": "Mon May 20 16:14:06 +0000 2019",
 		"id": 1130506998263500800,
 		"id_str": "1130506998263500800",
