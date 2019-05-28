@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 13:57:34 +0000 2019",
+		"id": 1133007170583314400,
+		"id_str": "1133009351000485888",
+		"full_text": "Mi sento maleeeee https://t.co/GZn6l1sE0M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GZn6l1sE0M",
+					"expanded_url": "https://vimeo.com/338642936?ref=tw-share",
+					"display_url": "vimeo.com/338642936?ref=…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11349762,
+			"id_str": "11349762",
+			"name": "Raven Simone Coppi",
+			"screen_name": "ale_223",
+			"location": "Pariggi 😏😏 o Lione 😞",
+			"description": "Prego la regia di staccare sulla mia faccia innervosita",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1704,
+			"friends_count": 454,
+			"listed_count": 54,
+			"created_at": "Wed Dec 19 21:04:16 +0000 2007",
+			"favourites_count": 27663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129031049776979974/v1anYEP0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129031049776979974/v1anYEP0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11349762/1398196864",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Mi sento maleeeee https://t.co/GZn6l1sE0M"
+	},
+	{
 		"created_at": "Sun May 26 11:16:17 +0000 2019",
 		"id": 1132606375358603300,
 		"id_str": "1132606375358603269",
