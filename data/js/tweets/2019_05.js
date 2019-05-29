@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 17:58:42 +0000 2019",
+		"id": 1133398308850950100,
+		"id_str": "1133432421679026179",
+		"full_text": "Ma a voi non manca essere passivi-aggressivi utilizzando come “sottonick” di windows live messenger frasi mirate delle canzoni?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 582151474,
+			"id_str": "582151474",
+			"name": "john lannister",
+			"screen_name": "iamjohnlan",
+			"location": "Milano, Lombardia",
+			"description": "he/him // known as John Lannister // [INFJ-T] // «Un tormentato nel corpo di una marchetta»",
+			"url": "https://t.co/8s1UqojHuG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8s1UqojHuG",
+							"expanded_url": "https://Instagram.com/iamjohnlan",
+							"display_url": "Instagram.com/iamjohnlan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3603,
+			"friends_count": 514,
+			"listed_count": 34,
+			"created_at": "Wed May 16 20:41:03 +0000 2012",
+			"favourites_count": 28753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113747248335208448/yhl5KsXJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113747248335208448/yhl5KsXJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/582151474/1557180930",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "it",
+		"text": "Ma a voi non manca essere passivi-aggressivi utilizzando come “sottonick” di windows live messenger frasi mirate delle canzoni?"
+	},
+	{
+		"created_at": "Tue May 28 16:46:33 +0000 2019",
+		"id": 1133350656260083700,
+		"id_str": "1133414267611488256",
+		"full_text": "\"Che tristezza la chiesa che ha deciso proprio ora di mettersi a fare politica\" \n\nLo capisco certe novità così improvvise sono difficili da digerire, d'altronde già solo dal Grande Scisma quanto sarà passato, poco più di nove secoli? C'è ancora bisogno di metabolizzare.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4784052443,
+			"id_str": "4784052443",
+			"name": "L.",
+			"screen_name": "speroscherzi_",
+			"location": "",
+			"description": "I've been busy procrastinating all day.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1237,
+			"friends_count": 159,
+			"listed_count": 9,
+			"created_at": "Tue Jan 12 12:20:59 +0000 2016",
+			"favourites_count": 29678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082785220154327040/H_DcaUOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082785220154327040/H_DcaUOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4784052443/1495045348",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "it",
+		"text": "\"Che tristezza la chiesa che ha deciso proprio ora di mettersi a fare politica\" \n\nLo capisco certe novità così improvvise sono difficili da digerire, d'altronde già solo dal Grande Scisma quanto sarà passato, poco più di nove secoli? C'è ancora bisogno di metabolizzare."
+	},
+	{
 		"created_at": "Mon May 27 13:57:34 +0000 2019",
 		"id": 1133007170583314400,
 		"id_str": "1133009351000485888",
