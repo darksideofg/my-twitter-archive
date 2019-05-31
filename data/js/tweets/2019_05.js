@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 05:10:20 +0000 2019",
+		"id": 1133201117045764100,
+		"id_str": "1133963832060252161",
+		"full_text": "No one:\n\nMy fat ass after a meal: mmmmm now i want something sweet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1095710973896413200,
+			"id_str": "1095710973896413185",
+			"name": "rogue",
+			"screen_name": "TrippyAtLaw",
+			"location": "Bushwick, Brooklyn",
+			"description": "Leo/Cap/Sag. Alpha female. Yogi. Of course i support men’s rights... men’s right to shut the fuck up!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1403,
+			"friends_count": 830,
+			"listed_count": 0,
+			"created_at": "Wed Feb 13 15:47:08 +0000 2019",
+			"favourites_count": 3731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133459401329844225/GI_BlF0o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133459401329844225/GI_BlF0o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095710973896413185/1558719931",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011add077f4d2da3",
+			"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+			"place_type": "city",
+			"name": "Brooklyn",
+			"full_name": "Brooklyn, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.041878,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.739434
+						],
+						[
+							-74.041878,
+							40.739434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50072,
+		"favorite_count": 179290,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "No one:\n\nMy fat ass after a meal: mmmmm now i want something sweet"
+	},
+	{
 		"created_at": "Tue May 28 17:58:42 +0000 2019",
 		"id": 1133398308850950100,
 		"id_str": "1133432421679026179",
