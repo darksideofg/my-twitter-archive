@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 05:48:32 +0000 2019",
+		"id": 1117178298872635400,
+		"id_str": "1135060611837173761",
+		"full_text": "Cis people always act like gender is confusing, but its actually quite simple. Here is a handy guide I found. Please share to help your cis friends understand. https://t.co/ojkuAZCsKl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117178293172588500,
+					"id_str": "1117178293172588544",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D4EDvRNUUAAYliq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4EDvRNUUAAYliq.jpg",
+					"url": "https://t.co/ojkuAZCsKl",
+					"display_url": "pic.twitter.com/ojkuAZCsKl",
+					"expanded_url": "https://twitter.com/snakmicks/status/1117178298872635392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117178293172588500,
+					"id_str": "1117178293172588544",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D4EDvRNUUAAYliq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4EDvRNUUAAYliq.jpg",
+					"url": "https://t.co/ojkuAZCsKl",
+					"display_url": "pic.twitter.com/ojkuAZCsKl",
+					"expanded_url": "https://twitter.com/snakmicks/status/1117178298872635392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32215718,
+			"id_str": "32215718",
+			"name": "Miss Foe",
+			"screen_name": "snakmicks",
+			"location": "Bay Area, CA",
+			"description": "Heather Cook | She/Her | Pan Tran | You're cute and I probably have a crush on you. |\n\nI mostly make memes and tweet about games/trans/leftist stuff.",
+			"url": "https://t.co/G0I42X47Iv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G0I42X47Iv",
+							"expanded_url": "https://curiouscat.me/snakmicks",
+							"display_url": "curiouscat.me/snakmicks",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 742,
+			"friends_count": 357,
+			"listed_count": 8,
+			"created_at": "Fri Apr 17 00:10:29 +0000 2009",
+			"favourites_count": 4851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133212865416929280/zO9Mxwh9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133212865416929280/zO9Mxwh9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32215718/1559108818",
+			"profile_link_color": "32CD32",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6395,
+		"favorite_count": 22417,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cis people always act like gender is confusing, but its actually quite simple. Here is a handy guide I found. Please share to help your cis friends understand. https://t.co/ojkuAZCsKl"
+	},
+	{
 		"created_at": "Sat Jun 01 06:26:00 +0000 2019",
 		"id": 1134707652360122400,
 		"id_str": "1134707652360122368",
