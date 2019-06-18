@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 14:06:26 +0000 2019",
+		"id": 1140609377046552600,
+		"id_str": "1140621730031046656",
+		"full_text": "1. If you've spent any time on Twitter in June, you've probably seen a bunch of corporations with rainbow flag avatars.\n\nBut do these companies really support LGBTQ equality? \n\nLet's follow the money. \n\nhttps://t.co/j820LcB1Kt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j820LcB1Kt",
+					"expanded_url": "https://popular.info/p/these-rainbow-flag-waiving-corporations",
+					"display_url": "popular.info/p/these-rainbo…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15464697,
+			"id_str": "15464697",
+			"name": "Judd Legum",
+			"screen_name": "JuddLegum",
+			"location": "Washington, DC",
+			"description": "I write Popular Information, a newsletter about the political news that matters most. DMs open. judd@popular.info",
+			"url": "https://t.co/7lEYXJGXf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7lEYXJGXf5",
+							"expanded_url": "http://Popular.info",
+							"display_url": "Popular.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352381,
+			"friends_count": 1235,
+			"listed_count": 5789,
+			"created_at": "Thu Jul 17 05:37:26 +0000 2008",
+			"favourites_count": 3718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 53184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/636336373453053952/yv-YqI5w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/636336373453053952/yv-YqI5w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15464697/1533728641",
+			"profile_link_color": "202037",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1307,
+		"favorite_count": 2065,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1. If you've spent any time on Twitter in June, you've probably seen a bunch of corporations with rainbow flag avatars.\n\nBut do these companies really support LGBTQ equality? \n\nLet's follow the money. \n\nhttps://t.co/j820LcB1Kt"
+	},
+	{
 		"created_at": "Sat Jun 15 16:49:52 +0000 2019",
 		"id": 1139938081937735700,
 		"id_str": "1139938081937735681",
