@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 19:36:01 +0000 2019",
+		"id": 1141791834882084900,
+		"id_str": "1141791834882084866",
+		"full_text": "Cc/ @fedebruni84 😂 https://t.co/5t6YwpLdLy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fedebruni84",
+					"name": "Federico 🐍🦋",
+					"id": 23112137,
+					"id_str": "23112137",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5t6YwpLdLy",
+					"expanded_url": "https://twitter.com/ashleyrcarman/status/1141768962197336064",
+					"display_url": "twitter.com/ashleyrcarman/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141768962197336000,
+		"quoted_status_id_str": "1141768962197336064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5t6YwpLdLy",
+			"expanded": "https://twitter.com/ashleyrcarman/status/1141768962197336064",
+			"display": "twitter.com/ashleyrcarman/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 20 18:05:08 +0000 2019",
+			"id": 1141768962197336000,
+			"id_str": "1141768962197336064",
+			"full_text": "the way i see it is, if you're only gonna \"react\" to my imessage, dont respond at all!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85981713,
+				"id_str": "85981713",
+				"name": "Ashley Carman",
+				"screen_name": "ashleyrcarman",
+				"location": "new york",
+				"description": "reporter @verge. hosts & produces why’d you push that button, the podcast!, and in the making, on youtube! I used to want a flip phone comeback, but I’m over it",
+				"url": "https://t.co/mbIYQ2ffpW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mbIYQ2ffpW",
+								"expanded_url": "https://pod.link/1295289748",
+								"display_url": "pod.link/1295289748",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12399,
+				"friends_count": 1076,
+				"listed_count": 336,
+				"created_at": "Thu Oct 29 03:06:36 +0000 2009",
+				"favourites_count": 2612,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2544,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124266928275709952/9ZUdY-aK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124266928275709952/9ZUdY-aK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85981713/1469810395",
+				"profile_link_color": "4169E1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "C7A04D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Cc/ @fedebruni84 😂 https://t.co/5t6YwpLdLy"
+	},
+	{
+		"created_at": "Thu Jun 20 12:42:02 +0000 2019",
+		"id": 1141687653152317400,
+		"id_str": "1141687653152317441",
+		"full_text": "@fedebruni84 @DukeOfSuffolk Puoi anche non scaricarle in automatico, nell’homepage ti trovi tutti i link delle tue serie preferite che sono uscite nelle ultime settimane.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fedebruni84",
+					"name": "Federico 🐍🦋",
+					"id": 23112137,
+					"id_str": "23112137",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1141685651168997400,
+		"in_reply_to_status_id_str": "1141685651168997376",
+		"in_reply_to_user_id": 23112137,
+		"in_reply_to_user_id_str": "23112137",
+		"in_reply_to_screen_name": "fedebruni84",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@fedebruni84 @DukeOfSuffolk Puoi anche non scaricarle in automatico, nell’homepage ti trovi tutti i link delle tue serie preferite che sono uscite nelle ultime settimane."
+	},
+	{
 		"created_at": "Wed Jun 19 18:17:08 +0000 2019",
 		"id": 1141409595434426400,
 		"id_str": "1141409595434426368",
