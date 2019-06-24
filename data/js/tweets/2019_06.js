@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 09:06:41 +0000 2019",
+		"id": 1142720620511268900,
+		"id_str": "1142720620511268865",
+		"full_text": "I had missed this video. It’s both heartbreaking and heartwarming at the same time. Welcome to the 🏳️‍🌈 community Dan! https://t.co/Ddc6iLn5gX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ddc6iLn5gX",
+					"expanded_url": "https://twitter.com/danielhowell/status/1139246668229021702",
+					"display_url": "twitter.com/danielhowell/s…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139246668229021700,
+		"quoted_status_id_str": "1139246668229021702",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ddc6iLn5gX",
+			"expanded": "https://twitter.com/danielhowell/status/1139246668229021702",
+			"display": "twitter.com/danielhowell/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 13 19:02:26 +0000 2019",
+			"id": 1139246668229021700,
+			"id_str": "1139246668229021702",
+			"full_text": "Basically I'm Gay https://t.co/UHMZYM9imS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UHMZYM9imS",
+						"expanded_url": "https://youtu.be/lrwMja_VoM0",
+						"display_url": "youtu.be/lrwMja_VoM0",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40059553,
+				"id_str": "40059553",
+				"name": "Daniel Howell",
+				"screen_name": "danielhowell",
+				"location": "London, England",
+				"description": "my life is a joke",
+				"url": "https://t.co/RZpeMZxcwU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RZpeMZxcwU",
+								"expanded_url": "http://youtube.com/danhowell",
+								"display_url": "youtube.com/danhowell",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8316102,
+				"friends_count": 771,
+				"listed_count": 9685,
+				"created_at": "Thu May 14 18:55:05 +0000 2009",
+				"favourites_count": 3990,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17679,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139246108411084800/-XlmP5bS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139246108411084800/-XlmP5bS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40059553/1560452778",
+				"profile_link_color": "C80815",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61511,
+			"favorite_count": 304563,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I had missed this video. It’s both heartbreaking and heartwarming at the same time. Welcome to the 🏳️‍🌈 community Dan! https://t.co/Ddc6iLn5gX"
+	},
+	{
 		"created_at": "Thu Jun 20 19:36:01 +0000 2019",
 		"id": 1141791834882084900,
 		"id_str": "1141791834882084866",
