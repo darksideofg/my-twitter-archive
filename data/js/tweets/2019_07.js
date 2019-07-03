@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 16:22:12 +0000 2019",
+		"id": 1145798261615288300,
+		"id_str": "1146091714832228352",
+		"full_text": "When a woman makes a post on Twitter which requires no interaction from random men:\n\nhttps://t.co/hefI8rqkli",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1145702030452895700,
+					"id_str": "1145702030452895744",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145702030452895744/pu/img/9M5oXgY79iS529gS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145702030452895744/pu/img/9M5oXgY79iS529gS.jpg",
+					"url": "https://t.co/hefI8rqkli",
+					"display_url": "pic.twitter.com/hefI8rqkli",
+					"expanded_url": "https://twitter.com/Returnofthepac1/status/1145702081455697921/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1145702081455697900,
+					"source_status_id_str": "1145702081455697921",
+					"source_user_id": 957233504366006300,
+					"source_user_id_str": "957233504366006273"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145702030452895700,
+					"id_str": "1145702030452895744",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145702030452895744/pu/img/9M5oXgY79iS529gS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145702030452895744/pu/img/9M5oXgY79iS529gS.jpg",
+					"url": "https://t.co/hefI8rqkli",
+					"display_url": "pic.twitter.com/hefI8rqkli",
+					"expanded_url": "https://twitter.com/Returnofthepac1/status/1145702081455697921/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1145702081455697900,
+					"source_status_id_str": "1145702081455697921",
+					"source_user_id": 957233504366006300,
+					"source_user_id_str": "957233504366006273",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16233,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1145702030452895744/pu/vid/320x320/s2nY53KOKvPNuJO-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1145702030452895744/pu/vid/480x480/Z1u-pIFX7QxzvQ6z.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1145702030452895744/pu/pl/_zeh07R2NPLItgxm.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 957233504366006300,
+							"id_str": "957233504366006273",
+							"name": "Gaz",
+							"screen_name": "Returnofthepac1",
+							"location": "England, United Kingdom",
+							"description": "Snapchat La_gaz1",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6006,
+							"friends_count": 3841,
+							"listed_count": 20,
+							"created_at": "Sat Jan 27 12:47:06 +0000 2018",
+							"favourites_count": 19903,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 12267,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1124859821738602496/JXKZ0Knf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124859821738602496/JXKZ0Knf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/957233504366006273/1559646445",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122649098,
+			"id_str": "122649098",
+			"name": "Craig Mac Ádaidh",
+			"screen_name": "Craigadd",
+			"location": "Dublin, Ireland",
+			"description": "tóg go bog é",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1029,
+			"friends_count": 399,
+			"listed_count": 2,
+			"created_at": "Sat Mar 13 12:09:42 +0000 2010",
+			"favourites_count": 6740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125467525851095045/y-FDnkhl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125467525851095045/y-FDnkhl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122649098/1544185158",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32244,
+		"favorite_count": 161312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When a woman makes a post on Twitter which requires no interaction from random men:\n\nhttps://t.co/hefI8rqkli"
+	},
+	{
 		"created_at": "Mon Jul 01 15:53:17 +0000 2019",
 		"id": 1145722046799896600,
 		"id_str": "1145722046799896581",
