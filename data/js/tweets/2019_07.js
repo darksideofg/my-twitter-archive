@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 21:40:20 +0000 2019",
+		"id": 1147258937613402100,
+		"id_str": "1147258937613402112",
+		"full_text": "🙌🏻 guerra ai fusilli https://t.co/qmiYcobNjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qmiYcobNjC",
+					"expanded_url": "https://twitter.com/pyxyye/status/1147178727912214528",
+					"display_url": "twitter.com/pyxyye/status/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147178727912214500,
+		"quoted_status_id_str": "1147178727912214528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qmiYcobNjC",
+			"expanded": "https://twitter.com/pyxyye/status/1147178727912214528",
+			"display": "twitter.com/pyxyye/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 05 16:21:36 +0000 2019",
+			"id": 1147178727912214500,
+			"id_str": "1147178727912214528",
+			"full_text": "Se doveste eliminare un tipo di pasta dalla faccia della terra quale sarebbe? Io eliminerei i fusilli",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2400598725,
+				"id_str": "2400598725",
+				"name": "Teresa",
+				"screen_name": "pyxyye",
+				"location": "",
+				"description": "Foto di gati overload",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 359,
+				"friends_count": 299,
+				"listed_count": 1,
+				"created_at": "Mon Mar 10 22:39:22 +0000 2014",
+				"favourites_count": 3448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2714,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135665710603100161/zjXX67rp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135665710603100161/zjXX67rp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400598725/1546193999",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 481,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "🙌🏻 guerra ai fusilli https://t.co/qmiYcobNjC"
+	},
+	{
+		"created_at": "Fri Jul 05 17:31:58 +0000 2019",
+		"id": 1146847016754044900,
+		"id_str": "1147196434929868800",
+		"full_text": "I’m only gonna say this once but Jake Gyllenhaal looks so much like the lion from Madagascar https://t.co/AGhZKAIFPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146847008617111600,
+					"id_str": "1146847008617111553",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D-prRzBXoAEUJel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-prRzBXoAEUJel.jpg",
+					"url": "https://t.co/AGhZKAIFPD",
+					"display_url": "pic.twitter.com/AGhZKAIFPD",
+					"expanded_url": "https://twitter.com/ellkay_/status/1146847016754044928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 1071,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146847008617111600,
+					"id_str": "1146847008617111553",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D-prRzBXoAEUJel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-prRzBXoAEUJel.jpg",
+					"url": "https://t.co/AGhZKAIFPD",
+					"display_url": "pic.twitter.com/AGhZKAIFPD",
+					"expanded_url": "https://twitter.com/ellkay_/status/1146847016754044928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 1071,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744875206737539100,
+			"id_str": "744875206737539072",
+			"name": "Luc",
+			"screen_name": "ellkay_",
+			"location": "",
+			"description": "This is not the best bio in the world, this is just a tribute. IG: ellkayy_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12099,
+			"friends_count": 3080,
+			"listed_count": 1024,
+			"created_at": "Mon Jun 20 12:51:03 +0000 2016",
+			"favourites_count": 814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141404050182873088/FJyBTDnk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141404050182873088/FJyBTDnk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744875206737539072/1544205459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51559,
+		"favorite_count": 285626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m only gonna say this once but Jake Gyllenhaal looks so much like the lion from Madagascar https://t.co/AGhZKAIFPD"
+	},
+	{
 		"created_at": "Wed Jul 03 13:24:39 +0000 2019",
 		"id": 1146409418344620000,
 		"id_str": "1146409418344620033",
