@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 11:27:21 +0000 2019",
+		"id": 1148191837867434000,
+		"id_str": "1148191837867433985",
+		"full_text": "I’m crying we did it kids. https://t.co/jusA59bt6q https://t.co/lNcas32URQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jusA59bt6q",
+					"expanded_url": "https://twitter.com/darksideofg/status/1134707652360122368",
+					"display_url": "twitter.com/darksideofg/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148191833345994800,
+					"id_str": "1148191833345994752",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8yY5iXsAAuh-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8yY5iXsAAuh-p.jpg",
+					"url": "https://t.co/lNcas32URQ",
+					"display_url": "pic.twitter.com/lNcas32URQ",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1148191837867433985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1307,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148191833345994800,
+					"id_str": "1148191833345994752",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8yY5iXsAAuh-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8yY5iXsAAuh-p.jpg",
+					"url": "https://t.co/lNcas32URQ",
+					"display_url": "pic.twitter.com/lNcas32URQ",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1148191837867433985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1307,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134707652360122400,
+		"quoted_status_id_str": "1134707652360122368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jusA59bt6q",
+			"expanded": "https://twitter.com/darksideofg/status/1134707652360122368",
+			"display": "twitter.com/darksideofg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 01 06:26:00 +0000 2019",
+			"id": 1134707652360122400,
+			"id_str": "1134707652360122368",
+			"full_text": "Ogni mattina mi alzo sperando che i miei amici di @TIM_vision abbiano aggiornato la loro app per l’iPad Pro 2018 e ogni mattina da SETTE mesi a questa parte rimango deluso.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TIM_vision",
+						"name": "TIMVISION",
+						"id": 134745857,
+						"id_str": "134745857",
+						"indices": [
+							50,
+							61
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 535277787,
+				"id_str": "535277787",
+				"name": "G (̄・・̄)",
+				"screen_name": "DarkSideOfG",
+				"location": "εᴍ - Siberia",
+				"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+				"url": "https://t.co/kzM9iE3UtX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kzM9iE3UtX",
+								"expanded_url": "http://darksideofg.tk",
+								"display_url": "darksideofg.tk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117,
+				"friends_count": 75,
+				"listed_count": 10,
+				"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+				"favourites_count": 8113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25737,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "515151",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_link_color": "686868",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "595959",
+				"profile_text_color": "606060",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m crying we did it kids. https://t.co/jusA59bt6q https://t.co/lNcas32URQ"
+	},
+	{
 		"created_at": "Sun Jul 07 19:34:16 +0000 2019",
 		"id": 1147951987922800600,
 		"id_str": "1147951987922800646",
