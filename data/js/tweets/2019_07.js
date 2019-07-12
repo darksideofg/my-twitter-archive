@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 19:59:25 +0000 2019",
+		"id": 1149407869877534700,
+		"id_str": "1149407869877534721",
+		"full_text": "Me 100% https://t.co/OG9PLzVlDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OG9PLzVlDc",
+					"expanded_url": "https://twitter.com/film_girl/status/1149407543099195392",
+					"display_url": "twitter.com/film_girl/stat…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149407543099195400,
+		"quoted_status_id_str": "1149407543099195392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OG9PLzVlDc",
+			"expanded": "https://twitter.com/film_girl/status/1149407543099195392",
+			"display": "twitter.com/film_girl/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 11 19:58:07 +0000 2019",
+			"id": 1149407543099195400,
+			"id_str": "1149407543099195392",
+			"full_text": "Seriously, I can’t live without Twitter.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9866582,
+				"id_str": "9866582",
+				"name": "Christina Warren",
+				"screen_name": "film_girl",
+				"location": "SEA via NYC",
+				"description": "Sr Cloud Advocate Microsoft was: @Gizmodo @Mashable hosts: @ovrtrd @_RocketFM. Loves media and tech. I rule. opinions = own christina@christina.is",
+				"url": "https://t.co/pU60V1ZNSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pU60V1ZNSc",
+								"expanded_url": "http://www.christina.is",
+								"display_url": "christina.is",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89742,
+				"friends_count": 12576,
+				"listed_count": 5035,
+				"created_at": "Thu Nov 01 22:45:37 +0000 2007",
+				"favourites_count": 60174,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 106130,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133135765502693376/od7xkDPa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133135765502693376/od7xkDPa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9866582/1398181728",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7291a25672e0d4b1",
+				"url": "https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json",
+				"place_type": "city",
+				"name": "Redmond",
+				"full_name": "Redmond, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.1649,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.73078
+							],
+							[
+								-122.1649,
+								47.73078
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Me 100% https://t.co/OG9PLzVlDc"
+	},
+	{
 		"created_at": "Wed Jul 10 20:24:48 +0000 2019",
 		"id": 1149051868775166000,
 		"id_str": "1149051868775165952",
