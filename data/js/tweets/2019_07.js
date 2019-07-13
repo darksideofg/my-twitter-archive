@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 12:00:27 +0000 2019",
+		"id": 1050997783581401100,
+		"id_str": "1149649718655328258",
+		"full_text": "12. VIRGO\n- best critical reviews\n- will do the worrying for you\n- they keep their handsets high\n- great comedic timing\n- always there for you\n- most caring of all ppl\n- loves to live it up\n-  always clean never crusty\n- dresses sharp and stylish\n- beautiful humans https://t.co/nmzTBXO8cT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050997776954228700,
+					"id_str": "1050997776954228736",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpXk6OMVAAAAzLr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpXk6OMVAAAAzLr.jpg",
+					"url": "https://t.co/nmzTBXO8cT",
+					"display_url": "pic.twitter.com/nmzTBXO8cT",
+					"expanded_url": "https://twitter.com/jennthreads/status/1050997783581401093/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050997776954228700,
+					"id_str": "1050997776954228736",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpXk6OMVAAAAzLr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpXk6OMVAAAAzLr.jpg",
+					"url": "https://t.co/nmzTBXO8cT",
+					"display_url": "pic.twitter.com/nmzTBXO8cT",
+					"expanded_url": "https://twitter.com/jennthreads/status/1050997783581401093/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpXk6OMVAAAAzLr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050997773498273800,
+		"in_reply_to_status_id_str": "1050997773498273792",
+		"in_reply_to_user_id": 1020542137631486000,
+		"in_reply_to_user_id_str": "1020542137631485957",
+		"in_reply_to_screen_name": "jennthreads",
+		"user": {
+			"id": 1020542137631486000,
+			"id_str": "1020542137631485957",
+			"name": "Jenny",
+			"screen_name": "jennthreads",
+			"location": "United States",
+			"description": "hey I like astrology, memes & shit so follow me if u want 🤠| dms are always open 🤪|",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15589,
+			"friends_count": 5,
+			"listed_count": 46,
+			"created_at": "Sat Jul 21 05:33:01 +0000 2018",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101686826006441984/UDQ_GeSl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101686826006441984/UDQ_GeSl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020542137631485957/1552495160",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5317,
+		"favorite_count": 10910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "12. VIRGO\n- best critical reviews\n- will do the worrying for you\n- they keep their handsets high\n- great comedic timing\n- always there for you\n- most caring of all ppl\n- loves to live it up\n-  always clean never crusty\n- dresses sharp and stylish\n- beautiful humans https://t.co/nmzTBXO8cT"
+	},
+	{
 		"created_at": "Thu Jul 11 19:59:25 +0000 2019",
 		"id": 1149407869877534700,
 		"id_str": "1149407869877534721",
