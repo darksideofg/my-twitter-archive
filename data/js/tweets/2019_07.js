@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 17:47:16 +0000 2019",
+		"id": 1150831307187843100,
+		"id_str": "1151186549796724737",
+		"full_text": "So, I ordered a Detective Pikachu plush for my desk at work, and I have to say, this is not how I expected him to be packaged. https://t.co/Lx385ty1mu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150831304146952200,
+					"id_str": "1150831304146952193",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D_iS-UgUIAEqNiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_iS-UgUIAEqNiN.jpg",
+					"url": "https://t.co/Lx385ty1mu",
+					"display_url": "pic.twitter.com/Lx385ty1mu",
+					"expanded_url": "https://twitter.com/bauerpower/status/1150831307187843072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150831304146952200,
+					"id_str": "1150831304146952193",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D_iS-UgUIAEqNiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_iS-UgUIAEqNiN.jpg",
+					"url": "https://t.co/Lx385ty1mu",
+					"display_url": "pic.twitter.com/Lx385ty1mu",
+					"expanded_url": "https://twitter.com/bauerpower/status/1150831307187843072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16362450,
+			"id_str": "16362450",
+			"name": "Betsy Bauer",
+			"screen_name": "bauerpower",
+			"location": "Los Angeles",
+			"description": "Illustrator/author/Visdev in picture books, comics, & animation. Clients: Penguin RH, Dreamworks TV, Google, & more. Agent: @KOrtizzle betsy.bauer.art@gmail.com",
+			"url": "https://t.co/DFshNJZPrb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DFshNJZPrb",
+							"expanded_url": "http://www.betsybauerART.com",
+							"display_url": "betsybauerART.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17593,
+			"friends_count": 1584,
+			"listed_count": 292,
+			"created_at": "Fri Sep 19 12:26:23 +0000 2008",
+			"favourites_count": 57505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147993302869798912/mgCNtEg7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147993302869798912/mgCNtEg7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16362450/1522935667",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22740,
+		"favorite_count": 108397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, I ordered a Detective Pikachu plush for my desk at work, and I have to say, this is not how I expected him to be packaged. https://t.co/Lx385ty1mu"
+	},
+	{
 		"created_at": "Sun Jul 14 07:41:25 +0000 2019",
 		"id": 1150309307675754500,
 		"id_str": "1150309307675754496",
