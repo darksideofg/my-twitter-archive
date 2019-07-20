@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 00:34:42 +0000 2019",
+		"id": 1152027018982068200,
+		"id_str": "1152376249609838592",
+		"full_text": "Real friends\n1. Text you back \n2. Make time for you\n3. Delete all the UTM parameters and referrals before sending you a garbage URL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2347475803,
+			"id_str": "2347475803",
+			"name": "Emily Kager",
+			"screen_name": "EmilyKager",
+			"location": "SF Bay Area",
+			"description": "Trying to make tech better. #Android + @Kotlin @Mozilla 🦊. Dog Lover. Runner. Vegan. Open Source. Jumpsuits. Feminist. She/Her 👩🏼‍🎓 @Penn @MillsCollege",
+			"url": "https://t.co/jjw3I5vWwr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jjw3I5vWwr",
+							"expanded_url": "https://www.emilykager.com/",
+							"display_url": "emilykager.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4102,
+			"friends_count": 1639,
+			"listed_count": 63,
+			"created_at": "Sun Feb 16 21:34:12 +0000 2014",
+			"favourites_count": 5687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143720086861053952/fCNOI_cC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143720086861053952/fCNOI_cC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2347475803/1405334353",
+			"profile_link_color": "E330B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1207,
+		"favorite_count": 6275,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Real friends\n1. Text you back \n2. Make time for you\n3. Delete all the UTM parameters and referrals before sending you a garbage URL"
+	},
+	{
+		"created_at": "Sat Jul 20 00:34:37 +0000 2019",
+		"id": 1019310804640895000,
+		"id_str": "1152376228537688064",
+		"full_text": "There are two kinds of people in this world: those who strip out query strings before sharing URLs with friends — and Muggles.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2417571,
+			"id_str": "2417571",
+			"name": "Cesar Torres ♥️🇺🇸🏳️‍🌈",
+			"screen_name": "cesart",
+			"location": "Manhattan",
+			"description": "Partner at https://t.co/otEDUIOxRS — Past: Chief Creative at GM, Design Director at Sidecar; Asana, Milk Inc, frog design, Apple; Austin & SF",
+			"url": "https://t.co/Bq0eIkjH4G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bq0eIkjH4G",
+							"expanded_url": "http://cesart.me",
+							"display_url": "cesart.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/otEDUIOxRS",
+							"expanded_url": "http://studiohouse.nyc",
+							"display_url": "studiohouse.nyc",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2967,
+			"friends_count": 303,
+			"listed_count": 236,
+			"created_at": "Tue Mar 27 06:20:01 +0000 2007",
+			"favourites_count": 5631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935955161364750337/uQzTi5AA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935955161364750337/uQzTi5AA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2417571/1392496702",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DEDEDE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There are two kinds of people in this world: those who strip out query strings before sharing URLs with friends — and Muggles."
+	},
+	{
 		"created_at": "Thu Jul 18 06:09:06 +0000 2019",
 		"id": 1151735626385043500,
 		"id_str": "1151735626385043457",
