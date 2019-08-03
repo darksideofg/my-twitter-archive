@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 02:03:00 +0000 2019",
+		"id": 1157387847600488400,
+		"id_str": "1157471901154979842",
+		"full_text": "How to walk a human being https://t.co/GOwm33LVtf https://t.co/WWpKxzUeLc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOwm33LVtf",
+					"expanded_url": "https://theoatmeal.com/comics/how_walk_human",
+					"display_url": "theoatmeal.com/comics/how_wal…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157387844840648700,
+					"id_str": "1157387844840648704",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EA_eHN8U8AAnVUL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EA_eHN8U8AAnVUL.png",
+					"url": "https://t.co/WWpKxzUeLc",
+					"display_url": "pic.twitter.com/WWpKxzUeLc",
+					"expanded_url": "https://twitter.com/Oatmeal/status/1157387847600488448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 801,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157387844840648700,
+					"id_str": "1157387844840648704",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EA_eHN8U8AAnVUL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EA_eHN8U8AAnVUL.png",
+					"url": "https://t.co/WWpKxzUeLc",
+					"display_url": "pic.twitter.com/WWpKxzUeLc",
+					"expanded_url": "https://twitter.com/Oatmeal/status/1157387847600488448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 801,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4519121,
+			"id_str": "4519121",
+			"name": "Matthew Inman",
+			"screen_name": "Oatmeal",
+			"location": "Seattle, Washington",
+			"description": "I make comics",
+			"url": "https://t.co/hzHuiYtO6x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hzHuiYtO6x",
+							"expanded_url": "http://theoatmeal.com",
+							"display_url": "theoatmeal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 642333,
+			"friends_count": 547,
+			"listed_count": 16726,
+			"created_at": "Fri Apr 13 16:59:37 +0000 2007",
+			"favourites_count": 5061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF3366",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793613884053532674/teYItBjT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793613884053532674/teYItBjT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4519121/1456343092",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "F5EDF0",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to walk a human being https://t.co/GOwm33LVtf https://t.co/WWpKxzUeLc"
+	},
+	{
 		"created_at": "Thu Aug 01 14:22:10 +0000 2019",
 		"id": 1156683501426684000,
 		"id_str": "1156933143393263616",
