@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 11:16:42 +0000 2019",
+		"id": 1160510347100459000,
+		"id_str": "1160510347100459008",
+		"full_text": "Madonna io https://t.co/OeaIIIoL6u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OeaIIIoL6u",
+					"expanded_url": "https://twitter.com/signorponza/status/1160510101532360704",
+					"display_url": "twitter.com/signorponza/st…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1160510101532360700,
+		"quoted_status_id_str": "1160510101532360704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OeaIIIoL6u",
+			"expanded": "https://twitter.com/signorponza/status/1160510101532360704",
+			"display": "twitter.com/signorponza/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 11 11:15:44 +0000 2019",
+			"id": 1160510101532360700,
+			"id_str": "1160510101532360704",
+			"full_text": "Il coriandolo fa schifooooooooooo dovete infilarvelo nel c non nei piatti, la dovete smettereeeee",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 754893,
+				"id_str": "754893",
+				"name": "Signor Ponza",
+				"screen_name": "signorponza",
+				"location": "Milan, Lombardy",
+				"description": "Andrea is like Emma Bunton: shy on the outside, but such a nasty bitch inside | Instagram: @signorponza | @signorponzablog e #PZSQ (per 1/4) sono colpa mia",
+				"url": "https://t.co/cuX3NK80dV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cuX3NK80dV",
+								"expanded_url": "https://www.instagram.com/signorponza/",
+								"display_url": "instagram.com/signorponza/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5700,
+				"friends_count": 1124,
+				"listed_count": 87,
+				"created_at": "Mon Feb 05 17:22:19 +0000 2007",
+				"favourites_count": 62025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100023,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845678133659516929/p8HsTJKJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/754893/1475579254",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 223,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Madonna io https://t.co/OeaIIIoL6u"
+	},
+	{
+		"created_at": "Sun Aug 11 09:43:04 +0000 2019",
+		"id": 1160486784754684000,
+		"id_str": "1160486784754683909",
+		"full_text": "@DukeOfSuffolk Ha scritto “fixed it” perché ha photoshoppato Britney nello schermo. Non riesco a trovare la foto originale pero.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1160484762580111400,
+		"in_reply_to_status_id_str": "1160484762580111360",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk Ha scritto “fixed it” perché ha photoshoppato Britney nello schermo. Non riesco a trovare la foto originale pero."
+	},
+	{
+		"created_at": "Sun Aug 11 06:15:24 +0000 2019",
+		"id": 1160434520933331000,
+		"id_str": "1160434520933330945",
+		"full_text": "@DukeOfSuffolk Comunque o l’autore del video ha considerato più canzoni nuove rispetto a quelle vecchie oppure mi sembra che negli ultimi anni il numero di na-na-na per anno sia aumentato esponenzialmente lol",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1160321772471955500,
+		"in_reply_to_status_id_str": "1160321772471955456",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 75,
+			"listed_count": 10,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk Comunque o l’autore del video ha considerato più canzoni nuove rispetto a quelle vecchie oppure mi sembra che negli ultimi anni il numero di na-na-na per anno sia aumentato esponenzialmente lol"
+	},
+	{
 		"created_at": "Thu Aug 08 20:58:55 +0000 2019",
 		"id": 1159569702777184300,
 		"id_str": "1159569702777184256",
