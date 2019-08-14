@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 18:08:52 +0000 2019",
+		"id": 1139771904447803400,
+		"id_str": "1161338849072746498",
+		"full_text": "Twitter is great if you can't afford therapy but you also don't want to get any better.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606441611,
+			"id_str": "606441611",
+			"name": "Michael 🏳️‍🌈",
+			"screen_name": "Home_Halfway",
+			"location": "Chicago, IL",
+			"description": "Producer & booking manager of @SpitfireComedy at @iOChicago. Co-admin of @FeministNetflix with @Kelsey_Caine.",
+			"url": "https://t.co/0aqLfjBA05",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0aqLfjBA05",
+							"expanded_url": "http://www.spitfirecomedyshow.com",
+							"display_url": "spitfirecomedyshow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73312,
+			"friends_count": 3030,
+			"listed_count": 1719,
+			"created_at": "Tue Jun 12 16:25:41 +0000 2012",
+			"favourites_count": 785357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/584008679453655041/tuUu6UyI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/584008679453655041/tuUu6UyI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606441611/1498360610",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20254,
+		"favorite_count": 101635,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Twitter is great if you can't afford therapy but you also don't want to get any better."
+	},
+	{
 		"created_at": "Sun Aug 11 11:16:42 +0000 2019",
 		"id": 1160510347100459000,
 		"id_str": "1160510347100459008",
