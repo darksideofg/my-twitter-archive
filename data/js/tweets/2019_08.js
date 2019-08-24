@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 04:57:10 +0000 2019",
+		"id": 1164644391144718300,
+		"id_str": "1164763489929273344",
+		"full_text": "Sorry guys, a spam email auto-filled my calendar, and it looks like I'm all booked up this week. https://t.co/k2fi6jDHDZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1164644386547757000,
+					"id_str": "1164644386547757058",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/ECml5iXU8AI3A64.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECml5iXU8AI3A64.jpg",
+					"url": "https://t.co/k2fi6jDHDZ",
+					"display_url": "pic.twitter.com/k2fi6jDHDZ",
+					"expanded_url": "https://twitter.com/CharmingGrump/status/1164644391144718336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164644386547757000,
+					"id_str": "1164644386547757058",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/ECml5iXU8AI3A64.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECml5iXU8AI3A64.jpg",
+					"url": "https://t.co/k2fi6jDHDZ",
+					"display_url": "pic.twitter.com/k2fi6jDHDZ",
+					"expanded_url": "https://twitter.com/CharmingGrump/status/1164644391144718336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309411152,
+			"id_str": "309411152",
+			"name": "Dr. Tuff Fairington Esq",
+			"screen_name": "CharmingGrump",
+			"location": "Winter. Edmonton. Your mind. ",
+			"description": "I'm belligerently awesome. Everything here is literally literal. If you don't like that, fuck you in the pants. I'm all cute and shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2147,
+			"friends_count": 2321,
+			"listed_count": 117,
+			"created_at": "Thu Jun 02 01:46:57 +0000 2011",
+			"favourites_count": 511069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 348777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162934283440230401/gVxxQ38d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162934283440230401/gVxxQ38d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309411152/1459826210",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sorry guys, a spam email auto-filled my calendar, and it looks like I'm all booked up this week. https://t.co/k2fi6jDHDZ"
+	},
+	{
 		"created_at": "Thu Aug 22 05:53:03 +0000 2019",
 		"id": 1164415163224731600,
 		"id_str": "1164415163224731648",
