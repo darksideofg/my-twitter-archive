@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 05:48:46 +0000 2019",
+		"id": 1171601236128235500,
+		"id_str": "1172024232961875968",
+		"full_text": "do you ever forget that not everyone is as online as you and call the paper cutter a slicey boi and your coworker is like what did you just call it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 228265795,
+			"id_str": "228265795",
+			"name": "whale courage 🐳",
+			"screen_name": "theKatriarch",
+			"location": "deep in the Marianas trench",
+			"description": "reject the patriarchy; demand a Katriarchy. Sea witch & my own wife guy. Reg Barclay apologist. #toastietwitter she/her",
+			"url": "https://t.co/XUijA6ElQL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XUijA6ElQL",
+							"expanded_url": "https://www.zazzle.com/graciewaffle?rf=238802001913243905",
+							"display_url": "zazzle.com/graciewaffle?r…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 660,
+			"friends_count": 535,
+			"listed_count": 7,
+			"created_at": "Sun Dec 19 06:21:49 +0000 2010",
+			"favourites_count": 63790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792221545133252608/ncU61N3Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792221545133252608/ncU61N3Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/228265795/1385629086",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3681,
+		"favorite_count": 20457,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "do you ever forget that not everyone is as online as you and call the paper cutter a slicey boi and your coworker is like what did you just call it"
+	},
+	{
 		"created_at": "Wed Sep 11 19:15:32 +0000 2019",
 		"id": 1171864871480254500,
 		"id_str": "1171864871480254464",
