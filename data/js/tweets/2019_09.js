@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 19:39:02 +0000 2019",
+		"id": 1174511939608883200,
+		"id_str": "1175494664893456385",
+		"full_text": "in honour of hustlers i'd like to let everyone know that jennifer lopez literally invented google images https://t.co/c6Pn9OSeFI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174511930943451100,
+					"id_str": "1174511930943451136",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EEy0YNxXsAAl113.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEy0YNxXsAAl113.jpg",
+					"url": "https://t.co/c6Pn9OSeFI",
+					"display_url": "pic.twitter.com/c6Pn9OSeFI",
+					"expanded_url": "https://twitter.com/alinasknee/status/1174511939608883203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174511930943451100,
+					"id_str": "1174511930943451136",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EEy0YNxXsAAl113.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEy0YNxXsAAl113.jpg",
+					"url": "https://t.co/c6Pn9OSeFI",
+					"display_url": "pic.twitter.com/c6Pn9OSeFI",
+					"expanded_url": "https://twitter.com/alinasknee/status/1174511939608883203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1174511930960224300,
+					"id_str": "1174511930960224256",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EEy0YN1XoAAoPWL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEy0YN1XoAAoPWL.png",
+					"url": "https://t.co/c6Pn9OSeFI",
+					"display_url": "pic.twitter.com/c6Pn9OSeFI",
+					"expanded_url": "https://twitter.com/alinasknee/status/1174511939608883203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 569,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 569,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2958792790,
+			"id_str": "2958792790",
+			"name": "alina",
+			"screen_name": "alinasknee",
+			"location": "toronto, ontario",
+			"description": "neurotic dream girl. lover of film, literature, history & art. defender of hedonism. nic cage fan https://t.co/URCnCPuv0h",
+			"url": "https://t.co/oiujG3Vdcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oiujG3Vdcx",
+							"expanded_url": "http://letterboxd.com/bicyclethieve",
+							"display_url": "letterboxd.com/bicyclethieve",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/URCnCPuv0h",
+							"expanded_url": "http://instagram.com/alinaonfilm",
+							"display_url": "instagram.com/alinaonfilm",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16883,
+			"friends_count": 416,
+			"listed_count": 786,
+			"created_at": "Sat Jan 03 17:13:10 +0000 2015",
+			"favourites_count": 73016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CDB38B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164870893652381696/MUMhXpN8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164870893652381696/MUMhXpN8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2958792790/1569038016",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26133,
+		"favorite_count": 107097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in honour of hustlers i'd like to let everyone know that jennifer lopez literally invented google images https://t.co/c6Pn9OSeFI"
+	},
+	{
 		"created_at": "Mon Sep 16 21:22:35 +0000 2019",
 		"id": 1173708784679686100,
 		"id_str": "1173708784679686151",
