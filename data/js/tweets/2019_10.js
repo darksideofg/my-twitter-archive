@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 19:12:35 +0000 2019",
+		"id": 1185224542198780000,
+		"id_str": "1185634870149763077",
+		"full_text": "You guys say incorrect information with such confidence. it’s amazing. proud of u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185222964641329200,
+		"in_reply_to_status_id_str": "1185222964641329152",
+		"in_reply_to_user_id": 39364684,
+		"in_reply_to_user_id_str": "39364684",
+		"in_reply_to_screen_name": "chrissyteigen",
+		"user": {
+			"id": 39364684,
+			"id_str": "39364684",
+			"name": "christine teigen",
+			"screen_name": "chrissyteigen",
+			"location": "everywhere like such as",
+			"description": "de-motivational speaker",
+			"url": "https://t.co/tAkRWUl9fS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tAkRWUl9fS",
+							"expanded_url": "https://tgt.biz/m38hm",
+							"display_url": "tgt.biz/m38hm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11824133,
+			"friends_count": 5046,
+			"listed_count": 11228,
+			"created_at": "Mon May 11 22:50:04 +0000 2009",
+			"favourites_count": 34415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 68407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "394145",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/680889019073454080/GMxn5fuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/680889019073454080/GMxn5fuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39364684/1504452859",
+			"profile_link_color": "419DE5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7E898F",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3386,
+		"favorite_count": 51195,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "You guys say incorrect information with such confidence. it’s amazing. proud of u"
+	},
+	{
 		"created_at": "Thu Oct 17 07:07:06 +0000 2019",
 		"id": 1184727518424850400,
 		"id_str": "1184727518424850433",
