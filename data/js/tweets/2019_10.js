@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 08:36:53 +0000 2019",
+		"id": 1186199666297331700,
+		"id_str": "1186199666297331713",
+		"full_text": "Madonna ho ancora 9 anni https://t.co/f9ElieOsgV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9ElieOsgV",
+					"expanded_url": "https://open.spotify.com/track/2KLkwRZvyAvXtIlK9EsGjp",
+					"display_url": "open.spotify.com/track/2KLkwRZv…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 75,
+			"listed_count": 9,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			38879744
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Madonna ho ancora 9 anni https://t.co/f9ElieOsgV"
+	},
+	{
 		"created_at": "Sat Oct 19 19:12:35 +0000 2019",
 		"id": 1185224542198780000,
 		"id_str": "1185634870149763077",
