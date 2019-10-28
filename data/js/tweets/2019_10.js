@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 27 07:29:19 +0000 2019",
+		"id": 1188181222742265900,
+		"id_str": "1188356989266595841",
+		"full_text": "Why does Apple Music say Marina Lima instead of MARINA?? 😂 https://t.co/b8LgMSVyeM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188181219290341400,
+					"id_str": "1188181219290341376",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EH1EhhCXYAAul0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH1EhhCXYAAul0r.jpg",
+					"url": "https://t.co/b8LgMSVyeM",
+					"display_url": "pic.twitter.com/b8LgMSVyeM",
+					"expanded_url": "https://twitter.com/kingmxtt/status/1188181222742265857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188181219290341400,
+					"id_str": "1188181219290341376",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EH1EhhCXYAAul0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH1EhhCXYAAul0r.jpg",
+					"url": "https://t.co/b8LgMSVyeM",
+					"display_url": "pic.twitter.com/b8LgMSVyeM",
+					"expanded_url": "https://twitter.com/kingmxtt/status/1188181222742265857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24321512,
+			"id_str": "24321512",
+			"name": "king 💁🏻‍♂️",
+			"screen_name": "kingmxtt",
+			"location": "",
+			"description": "call me by your name. #BLM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 144,
+			"listed_count": 4,
+			"created_at": "Sat Mar 14 03:36:40 +0000 2009",
+			"favourites_count": 1150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066447387386888192/qJWiSZWC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066447387386888192/qJWiSZWC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24321512/1517170650",
+			"profile_link_color": "FFCBA4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "77009E",
+			"profile_text_color": "EB0E93",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why does Apple Music say Marina Lima instead of MARINA?? 😂 https://t.co/b8LgMSVyeM"
+	},
+	{
 		"created_at": "Tue Oct 22 19:41:59 +0000 2019",
 		"id": 1186729431131414500,
 		"id_str": "1186729431131414529",
