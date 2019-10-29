@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 06:32:45 +0000 2019",
+		"id": 1188705143329570800,
+		"id_str": "1188705143329570817",
+		"full_text": "Che domande ovviamente \n- Style\n- Out Of The Woods\n- AYHTDWS\n\ncc/ @fedebruni84 https://t.co/oQGxlDjaQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fedebruni84",
+					"name": "Federico 🚀",
+					"id": 23112137,
+					"id_str": "23112137",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oQGxlDjaQp",
+					"expanded_url": "https://twitter.com/TSUpdatesNYBU/status/1188446834429177856",
+					"display_url": "twitter.com/TSUpdatesNYBU/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 75,
+			"listed_count": 9,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188446834429177900,
+		"quoted_status_id_str": "1188446834429177856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oQGxlDjaQp",
+			"expanded": "https://twitter.com/TSUpdatesNYBU/status/1188446834429177856",
+			"display": "twitter.com/TSUpdatesNYBU/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 27 13:26:20 +0000 2019",
+			"id": 1188446834429177900,
+			"id_str": "1188446834429177856",
+			"full_text": "💿 | In honour of #5YearsOf1989, what is your holy trinity from the album? https://t.co/UreqyXSNlD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "5YearsOf1989",
+						"indices": [
+							17,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1188446814690775000,
+						"id_str": "1188446814690775046",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EH42FNAWkAYq_bS.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EH42FNAWkAYq_bS.jpg",
+						"url": "https://t.co/UreqyXSNlD",
+						"display_url": "pic.twitter.com/UreqyXSNlD",
+						"expanded_url": "https://twitter.com/TSUpdatesNYBU/status/1188446834429177856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188446814690775000,
+						"id_str": "1188446814690775046",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EH42FNAWkAYq_bS.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EH42FNAWkAYq_bS.jpg",
+						"url": "https://t.co/UreqyXSNlD",
+						"display_url": "pic.twitter.com/UreqyXSNlD",
+						"expanded_url": "https://twitter.com/TSUpdatesNYBU/status/1188446834429177856/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 300,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								5
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EH42FNAWkAYq_bS.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 840336878545039400,
+				"id_str": "840336878545039360",
+				"name": "Taylor Swift Updates",
+				"screen_name": "TSUpdatesNYBU",
+				"location": "US | UK",
+				"description": "The best place to find everything Taylor Swift – music, news, appearances, photo shoots, charts & much more! 📲 Turn notifications on | 📧 TSUpdatesNY@gmail.com",
+				"url": "https://t.co/1ecYsgCzr8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1ecYsgCzr8",
+								"expanded_url": "http://taylorswift.com",
+								"display_url": "taylorswift.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28530,
+				"friends_count": 2759,
+				"listed_count": 101,
+				"created_at": "Fri Mar 10 23:01:39 +0000 2017",
+				"favourites_count": 54600,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173227882275123201/1zKhRm1e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173227882275123201/1zKhRm1e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/840336878545039360/1568548639",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 172,
+			"favorite_count": 1219,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Che domande ovviamente \n- Style\n- Out Of The Woods\n- AYHTDWS\n\ncc/ @fedebruni84 https://t.co/oQGxlDjaQp"
+	},
+	{
 		"created_at": "Sun Oct 27 07:29:19 +0000 2019",
 		"id": 1188181222742265900,
 		"id_str": "1188356989266595841",
@@ -103,7 +420,7 @@ Grailbird.data.tweets_2019_10 =
 		"user": {
 			"id": 24321512,
 			"id_str": "24321512",
-			"name": "king 💁🏻‍♂️",
+			"name": "king 💁🏻♂️",
 			"screen_name": "kingmxtt",
 			"location": "",
 			"description": "call me by your name. #BLM",
