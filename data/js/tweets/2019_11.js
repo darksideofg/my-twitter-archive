@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 15:46:39 +0000 2019",
+		"id": 1196812168592797700,
+		"id_str": "1196817067003002880",
+		"full_text": "Omw to steal your man but not really cause it’s 2011 and I’m surfing Tumblr for goth pics that sum up my exact level of existential depression. ⁣\n⁣\nThe ‘Homewrecker’ Apron!https://t.co/wG5hSs6pU5 https://t.co/OdcuGkS7Ut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wG5hSs6pU5",
+					"expanded_url": "http://marinaofficial.co.uk/",
+					"display_url": "marinaofficial.co.uk",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196812162750124000,
+					"id_str": "1196812162750124033",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EJvuUi-WkAEIbf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJvuUi-WkAEIbf7.jpg",
+					"url": "https://t.co/OdcuGkS7Ut",
+					"display_url": "pic.twitter.com/OdcuGkS7Ut",
+					"expanded_url": "https://twitter.com/MarinaDiamandis/status/1196812168592797696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 478,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 246,
+									"y": 447,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 266,
+									"y": 96,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 721,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 371,
+									"y": 674,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 401,
+									"y": 145,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 721,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 371,
+									"y": 674,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 401,
+									"y": 145,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 721,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 371,
+									"y": 674,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 401,
+									"y": 145,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196812162750124000,
+					"id_str": "1196812162750124033",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EJvuUi-WkAEIbf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJvuUi-WkAEIbf7.jpg",
+					"url": "https://t.co/OdcuGkS7Ut",
+					"display_url": "pic.twitter.com/OdcuGkS7Ut",
+					"expanded_url": "https://twitter.com/MarinaDiamandis/status/1196812168592797696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 478,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 246,
+									"y": 447,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 266,
+									"y": 96,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 721,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 371,
+									"y": 674,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 401,
+									"y": 145,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 721,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 371,
+									"y": 674,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 401,
+									"y": 145,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 721,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 371,
+									"y": 674,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 401,
+									"y": 145,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30686649,
+			"id_str": "30686649",
+			"name": "MARINA",
+			"screen_name": "MarinaDiamandis",
+			"location": "Earth",
+			"description": "The Electra Heart Collection, a retro range. Out now. This page is run by Marina HQ.",
+			"url": "https://t.co/zjfCIJXvHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjfCIJXvHI",
+							"expanded_url": "http://www.marinaofficial.co.uk",
+							"display_url": "marinaofficial.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2756147,
+			"friends_count": 0,
+			"listed_count": 5198,
+			"created_at": "Sun Apr 12 17:40:11 +0000 2009",
+			"favourites_count": 2314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196497917516898311/OhUE7-F1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196497917516898311/OhUE7-F1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30686649/1574103013",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CADBD7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1653,
+		"favorite_count": 10651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Omw to steal your man but not really cause it’s 2011 and I’m surfing Tumblr for goth pics that sum up my exact level of existential depression. ⁣\n⁣\nThe ‘Homewrecker’ Apron!https://t.co/wG5hSs6pU5 https://t.co/OdcuGkS7Ut"
+	},
+	{
 		"created_at": "Sun Nov 17 21:53:03 +0000 2019",
 		"id": 1196184500411216000,
 		"id_str": "1196184500411215872",
