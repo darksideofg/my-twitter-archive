@@ -1,10 +1,107 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 21:41:05 +0000 2019",
+		"id": 1199777313300209700,
+		"id_str": "1199805366416084993",
+		"full_text": "We’ve heard you on the impact that this would have on the accounts of the deceased. This was a miss on our part. We will not be removing any inactive accounts until we create a new way for people to memorialize accounts.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1199777312671064000,
+		"in_reply_to_status_id_str": "1199777312671064064",
+		"in_reply_to_user_id": 17874544,
+		"in_reply_to_user_id_str": "17874544",
+		"in_reply_to_screen_name": "TwitterSupport",
+		"user": {
+			"id": 17874544,
+			"id_str": "17874544",
+			"name": "Twitter Support",
+			"screen_name": "TwitterSupport",
+			"location": "Twitter HQ",
+			"description": "Your official source for Twitter Support. Follow us for tips, tricks, and announcements.",
+			"url": "https://t.co/heEvRrl4yN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heEvRrl4yN",
+							"expanded_url": "https://help.twitter.com",
+							"display_url": "help.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6023195,
+			"friends_count": 17,
+			"listed_count": 15294,
+			"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941807338171777025/PRP6vwDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941807338171777025/PRP6vwDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1499274456",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5448,
+		"favorite_count": 7699,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We’ve heard you on the impact that this would have on the accounts of the deceased. This was a miss on our part. We will not be removing any inactive accounts until we create a new way for people to memorialize accounts."
+	},
+	{
 		"created_at": "Tue Nov 19 15:46:39 +0000 2019",
 		"id": 1196812168592797700,
 		"id_str": "1196817067003002880",
-		"full_text": "Omw to steal your man but not really cause it’s 2011 and I’m surfing Tumblr for goth pics that sum up my exact level of existential depression. ⁣\n⁣\nThe ‘Homewrecker’ Apron!https://t.co/wG5hSs6pU5 https://t.co/OdcuGkS7Ut",
+		"full_text": "Omw to steal your man but not really cause it’s 2011 and I’m surfing Tumblr for goth pics that sum up my exact level of existential depression. \n\nThe ‘Homewrecker’ Apron!https://t.co/wG5hSs6pU5 https://t.co/OdcuGkS7Ut",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -364,7 +461,7 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Omw to steal your man but not really cause it’s 2011 and I’m surfing Tumblr for goth pics that sum up my exact level of existential depression. ⁣\n⁣\nThe ‘Homewrecker’ Apron!https://t.co/wG5hSs6pU5 https://t.co/OdcuGkS7Ut"
+		"text": "Omw to steal your man but not really cause it’s 2011 and I’m surfing Tumblr for goth pics that sum up my exact level of existential depression. \n\nThe ‘Homewrecker’ Apron!https://t.co/wG5hSs6pU5 https://t.co/OdcuGkS7Ut"
 	},
 	{
 		"created_at": "Sun Nov 17 21:53:03 +0000 2019",
