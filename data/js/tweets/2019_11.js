@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 17:11:25 +0000 2019",
+		"id": 1200462278962942000,
+		"id_str": "1200462278962941954",
+		"full_text": "@neodie Bose 700 o Sony WH-1000XM3",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neodie",
+					"name": "Il farmacista di Lavagna",
+					"id": 23810329,
+					"id_str": "23810329",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1200446743160197000,
+		"in_reply_to_status_id_str": "1200446743160197120",
+		"in_reply_to_user_id": 23810329,
+		"in_reply_to_user_id_str": "23810329",
+		"in_reply_to_screen_name": "neodie",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 75,
+			"listed_count": 9,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neodie Bose 700 o Sony WH-1000XM3"
+	},
+	{
+		"created_at": "Fri Nov 29 14:10:51 +0000 2019",
+		"id": 1200407233567309800,
+		"id_str": "1200416836963176448",
+		"full_text": "Ready for another AirPods Pro giveaway? Got five pairs this time. Just RT and you're in! Giveaway open worldwide, winners will be picked on Monday. Good luck! https://t.co/R4T8hlZbqU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200407227087179800,
+					"id_str": "1200407227087179777",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EKi0A1RX0AEmmdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKi0A1RX0AEmmdn.jpg",
+					"url": "https://t.co/R4T8hlZbqU",
+					"display_url": "pic.twitter.com/R4T8hlZbqU",
+					"expanded_url": "https://twitter.com/MKBHD/status/1200407233567309826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200407227087179800,
+					"id_str": "1200407227087179777",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EKi0A1RX0AEmmdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKi0A1RX0AEmmdn.jpg",
+					"url": "https://t.co/R4T8hlZbqU",
+					"display_url": "pic.twitter.com/R4T8hlZbqU",
+					"expanded_url": "https://twitter.com/MKBHD/status/1200407233567309826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29873662,
+			"id_str": "29873662",
+			"name": "Marques Brownlee",
+			"screen_name": "MKBHD",
+			"location": "NYC",
+			"description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player | Host of @WVFRM",
+			"url": "https://t.co/zGcF5QxPBI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zGcF5QxPBI",
+							"expanded_url": "http://youtube.com/MKBHD",
+							"display_url": "youtube.com/MKBHD",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3586389,
+			"friends_count": 343,
+			"listed_count": 10200,
+			"created_at": "Thu Apr 09 00:50:00 +0000 2009",
+			"favourites_count": 25622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1549676067",
+			"profile_link_color": "6C4585",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222458,
+		"favorite_count": 72086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ready for another AirPods Pro giveaway? Got five pairs this time. Just RT and you're in! Giveaway open worldwide, winners will be picked on Monday. Good luck! https://t.co/R4T8hlZbqU"
+	},
+	{
 		"created_at": "Wed Nov 27 21:41:05 +0000 2019",
 		"id": 1199777313300209700,
 		"id_str": "1199805366416084993",
