@@ -1,6 +1,819 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 22:21:24 +0000 2019",
+		"id": 1205251332774473700,
+		"id_str": "1205251332774473735",
+		"full_text": "HOW https://t.co/bGThYF0Mkp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bGThYF0Mkp",
+					"expanded_url": "https://twitter.com/SkyNewsBreak/status/1205246112933797891",
+					"display_url": "twitter.com/SkyNewsBreak/s…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 74,
+			"listed_count": 9,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205246112933798000,
+		"quoted_status_id_str": "1205246112933797891",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bGThYF0Mkp",
+			"expanded": "https://twitter.com/SkyNewsBreak/status/1205246112933797891",
+			"display": "twitter.com/SkyNewsBreak/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 12 22:00:40 +0000 2019",
+			"id": 1205246112933798000,
+			"id_str": "1205246112933797891",
+			"full_text": "EXIT POLL: Conservatives projected to win election as Labour suffer major losses #GE2019\n\nCON: 368\nLAB: 191\nLIB DEM: 13\nBREX: 0\nSNP: 55\nGREEN: 1\nOTHER: 22 https://t.co/FkqseCrrnR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GE2019",
+						"indices": [
+							81,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1205243879093678000,
+						"id_str": "1205243879093678080",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/ELni7CEXsAAGzlh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELni7CEXsAAGzlh.jpg",
+						"url": "https://t.co/FkqseCrrnR",
+						"display_url": "pic.twitter.com/FkqseCrrnR",
+						"expanded_url": "https://twitter.com/SkyNewsBreak/status/1205246112933797891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 286,
+										"y": 176,
+										"h": 118,
+										"w": 118
+									},
+									{
+										"x": 50,
+										"y": 153,
+										"h": 148,
+										"w": 148
+									},
+									{
+										"x": 75,
+										"y": 324,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 1490,
+										"y": 161,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 545,
+										"y": 157,
+										"h": 150,
+										"w": 150
+									},
+									{
+										"x": 1237,
+										"y": 176,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1243,
+										"y": 856,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 870,
+										"y": 95,
+										"h": 166,
+										"w": 166
+									},
+									{
+										"x": 262,
+										"y": 639,
+										"h": 230,
+										"w": 230
+									},
+									{
+										"x": 1132,
+										"y": 536,
+										"h": 324,
+										"w": 324
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 286,
+										"y": 176,
+										"h": 118,
+										"w": 118
+									},
+									{
+										"x": 50,
+										"y": 153,
+										"h": 148,
+										"w": 148
+									},
+									{
+										"x": 75,
+										"y": 324,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 1490,
+										"y": 161,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 545,
+										"y": 157,
+										"h": 150,
+										"w": 150
+									},
+									{
+										"x": 1237,
+										"y": 176,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1243,
+										"y": 856,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 870,
+										"y": 95,
+										"h": 166,
+										"w": 166
+									},
+									{
+										"x": 262,
+										"y": 639,
+										"h": 230,
+										"w": 230
+									},
+									{
+										"x": 1132,
+										"y": 536,
+										"h": 324,
+										"w": 324
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 101,
+										"y": 62,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 17,
+										"y": 54,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 26,
+										"y": 114,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 527,
+										"y": 57,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 193,
+										"y": 55,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 438,
+										"y": 62,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 440,
+										"y": 303,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 308,
+										"y": 33,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 92,
+										"y": 226,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 400,
+										"y": 189,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 178,
+										"y": 110,
+										"h": 73,
+										"w": 73
+									},
+									{
+										"x": 31,
+										"y": 95,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 46,
+										"y": 202,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 931,
+										"y": 100,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 340,
+										"y": 98,
+										"h": 93,
+										"w": 93
+									},
+									{
+										"x": 773,
+										"y": 110,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 776,
+										"y": 535,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 543,
+										"y": 59,
+										"h": 103,
+										"w": 103
+									},
+									{
+										"x": 163,
+										"y": 399,
+										"h": 143,
+										"w": 143
+									},
+									{
+										"x": 707,
+										"y": 335,
+										"h": 202,
+										"w": 202
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1205243879093678000,
+						"id_str": "1205243879093678080",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/ELni7CEXsAAGzlh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELni7CEXsAAGzlh.jpg",
+						"url": "https://t.co/FkqseCrrnR",
+						"display_url": "pic.twitter.com/FkqseCrrnR",
+						"expanded_url": "https://twitter.com/SkyNewsBreak/status/1205246112933797891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 286,
+										"y": 176,
+										"h": 118,
+										"w": 118
+									},
+									{
+										"x": 50,
+										"y": 153,
+										"h": 148,
+										"w": 148
+									},
+									{
+										"x": 75,
+										"y": 324,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 1490,
+										"y": 161,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 545,
+										"y": 157,
+										"h": 150,
+										"w": 150
+									},
+									{
+										"x": 1237,
+										"y": 176,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1243,
+										"y": 856,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 870,
+										"y": 95,
+										"h": 166,
+										"w": 166
+									},
+									{
+										"x": 262,
+										"y": 639,
+										"h": 230,
+										"w": 230
+									},
+									{
+										"x": 1132,
+										"y": 536,
+										"h": 324,
+										"w": 324
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 286,
+										"y": 176,
+										"h": 118,
+										"w": 118
+									},
+									{
+										"x": 50,
+										"y": 153,
+										"h": 148,
+										"w": 148
+									},
+									{
+										"x": 75,
+										"y": 324,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 1490,
+										"y": 161,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 545,
+										"y": 157,
+										"h": 150,
+										"w": 150
+									},
+									{
+										"x": 1237,
+										"y": 176,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1243,
+										"y": 856,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 870,
+										"y": 95,
+										"h": 166,
+										"w": 166
+									},
+									{
+										"x": 262,
+										"y": 639,
+										"h": 230,
+										"w": 230
+									},
+									{
+										"x": 1132,
+										"y": 536,
+										"h": 324,
+										"w": 324
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 101,
+										"y": 62,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 17,
+										"y": 54,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 26,
+										"y": 114,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 527,
+										"y": 57,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 193,
+										"y": 55,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 438,
+										"y": 62,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 440,
+										"y": 303,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 308,
+										"y": 33,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 92,
+										"y": 226,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 400,
+										"y": 189,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 178,
+										"y": 110,
+										"h": 73,
+										"w": 73
+									},
+									{
+										"x": 31,
+										"y": 95,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 46,
+										"y": 202,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 931,
+										"y": 100,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 340,
+										"y": 98,
+										"h": 93,
+										"w": 93
+									},
+									{
+										"x": 773,
+										"y": 110,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 776,
+										"y": 535,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 543,
+										"y": 59,
+										"h": 103,
+										"w": 103
+									},
+									{
+										"x": 163,
+										"y": 399,
+										"h": 143,
+										"w": 143
+									},
+									{
+										"x": 707,
+										"y": 335,
+										"h": 202,
+										"w": 202
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87416722,
+				"id_str": "87416722",
+				"name": "Sky News Breaking",
+				"screen_name": "SkyNewsBreak",
+				"location": "London, UK",
+				"description": "The latest breaking news, direct from the Sky News team. Tweet @skynews with any questions or queries.",
+				"url": "http://t.co/EIlY6uS0D1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/EIlY6uS0D1",
+								"expanded_url": "http://www.skynews.com/",
+								"display_url": "skynews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3627895,
+				"friends_count": 3,
+				"listed_count": 20504,
+				"created_at": "Wed Nov 04 11:25:45 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 51369,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "8895A5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87416722/1431029060",
+				"profile_link_color": "385FAC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "BDD6FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5287,
+			"favorite_count": 10301,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "HOW https://t.co/bGThYF0Mkp"
+	},
+	{
 		"created_at": "Sat Dec 07 10:19:41 +0000 2019",
 		"id": 1203257764375605200,
 		"id_str": "1203257764375605249",
