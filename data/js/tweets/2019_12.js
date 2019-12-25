@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 24 08:14:50 +0000 2019",
+		"id": 1209386939234820000,
+		"id_str": "1209386939234820097",
+		"full_text": "@egodome https://t.co/FUSSbE7EIm\n\nhttps://t.co/7QethQ2bnf\n\n😂",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "egodome",
+					"name": "𝗗𝗼𝗺𝗲𝗻𝗶𝗰𝗼",
+					"id": 70259098,
+					"id_str": "70259098",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FUSSbE7EIm",
+					"expanded_url": "https://twitter.com/egodome/status/1122982569761439744",
+					"display_url": "twitter.com/egodome/status…",
+					"indices": [
+						9,
+						32
+					]
+				},
+				{
+					"url": "https://t.co/7QethQ2bnf",
+					"expanded_url": "https://twitter.com/egodome/status/1208699135362293761",
+					"display_url": "twitter.com/egodome/status…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1209385430581465000,
+		"in_reply_to_status_id_str": "1209385430581465088",
+		"in_reply_to_user_id": 70259098,
+		"in_reply_to_user_id_str": "70259098",
+		"in_reply_to_screen_name": "egodome",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 75,
+			"listed_count": 9,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208699135362293800,
+		"quoted_status_id_str": "1208699135362293761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7QethQ2bnf",
+			"expanded": "https://twitter.com/egodome/status/1208699135362293761",
+			"display": "twitter.com/egodome/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 22 10:41:45 +0000 2019",
+			"id": 1208699135362293800,
+			"id_str": "1208699135362293761",
+			"full_text": "Spero di non ricevere un Camilla Cabello treatment quando scoverete i miei tweet di anni fa in cui dicevo che odio lo spagnolo e per me è la lingua del diavolo dopo che da ore sto ascoltando in loop solo Mala Santa di Becky G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70259098,
+				"id_str": "70259098",
+				"name": "𝗗𝗼𝗺𝗲𝗻𝗶𝗰𝗼",
+				"screen_name": "egodome",
+				"location": "Milan, Lombardy",
+				"description": "Più instabile dell'Alsazia.",
+				"url": "https://t.co/iXRnVROAAo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iXRnVROAAo",
+								"expanded_url": "https://www.last.fm/it/user/originalfake8",
+								"display_url": "last.fm/it/user/origin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5254,
+				"friends_count": 440,
+				"listed_count": 69,
+				"created_at": "Mon Aug 31 00:37:10 +0000 2009",
+				"favourites_count": 31803,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 121042,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204523922882007040/1I1xI-2U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204523922882007040/1I1xI-2U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70259098/1571608459",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@egodome https://t.co/FUSSbE7EIm\n\nhttps://t.co/7QethQ2bnf\n\n😂"
+	},
+	{
 		"created_at": "Mon Dec 23 15:14:17 +0000 2019",
 		"id": 1209130108973396000,
 		"id_str": "1209130108973395968",
