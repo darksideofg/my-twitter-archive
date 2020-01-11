@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 20:36:23 +0000 2020",
+		"id": 1215722127250190300,
+		"id_str": "1215734153003618304",
+		"full_text": "Given the recent Lizzie McGuire upheaval, I feel personally attacked by the App Store. https://t.co/JP7VLQ9WR9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215722123102019600,
+					"id_str": "1215722123102019585",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8c1G0UYAEgwDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8c1G0UYAEgwDB.jpg",
+					"url": "https://t.co/JP7VLQ9WR9",
+					"display_url": "pic.twitter.com/JP7VLQ9WR9",
+					"expanded_url": "https://twitter.com/film_girl/status/1215722127250190336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 92,
+									"y": 226,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 162,
+									"y": 399,
+									"h": 283,
+									"w": 283
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 682,
+									"h": 484,
+									"w": 484
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 682,
+									"h": 484,
+									"w": 484
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215722123102019600,
+					"id_str": "1215722123102019585",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8c1G0UYAEgwDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8c1G0UYAEgwDB.jpg",
+					"url": "https://t.co/JP7VLQ9WR9",
+					"display_url": "pic.twitter.com/JP7VLQ9WR9",
+					"expanded_url": "https://twitter.com/film_girl/status/1215722127250190336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 92,
+									"y": 226,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 162,
+									"y": 399,
+									"h": 283,
+									"w": 283
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 682,
+									"h": 484,
+									"w": 484
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 682,
+									"h": 484,
+									"w": 484
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9866582,
+			"id_str": "9866582",
+			"name": "Christina Warren",
+			"screen_name": "film_girl",
+			"location": "SEA via NYC",
+			"description": "Sr Cloud Advocate Microsoft was: @Gizmodo @Mashable hosts: @ovrtrd @_RocketFM. Loves media and tech. I rule. opinions = own christina@christina.is",
+			"url": "https://t.co/pU60V1ZNSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pU60V1ZNSc",
+							"expanded_url": "http://www.christina.is",
+							"display_url": "christina.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91567,
+			"friends_count": 12846,
+			"listed_count": 5040,
+			"created_at": "Thu Nov 01 22:45:37 +0000 2007",
+			"favourites_count": 71348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133135765502693376/od7xkDPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133135765502693376/od7xkDPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9866582/1398181728",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Given the recent Lizzie McGuire upheaval, I feel personally attacked by the App Store. https://t.co/JP7VLQ9WR9"
+	},
+	{
+		"created_at": "Fri Jan 10 20:18:36 +0000 2020",
+		"id": 1215729677639266300,
+		"id_str": "1215729677639266307",
+		"full_text": "E anche il piantino di oggi c’è lo siamo fatti https://t.co/1WT8NjXw4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1WT8NjXw4x",
+					"expanded_url": "https://twitter.com/kmk1072/status/1215115786219589635",
+					"display_url": "twitter.com/kmk1072/status…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 9,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215115786219589600,
+		"quoted_status_id_str": "1215115786219589635",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1WT8NjXw4x",
+			"expanded": "https://twitter.com/kmk1072/status/1215115786219589635",
+			"display": "twitter.com/kmk1072/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 03:39:13 +0000 2020",
+			"id": 1215115786219589600,
+			"id_str": "1215115786219589635",
+			"full_text": "@rabiasquared Addendum: he died last April, and I think of him every time I get in the shower and use the one ever-diminishing bar of soap on the shelf.  And I’m still mad about 48 years of stupid soap wars.",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rabiasquared",
+						"name": "rabia O'chaudry",
+						"id": 2209742392,
+						"id_str": "2209742392",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1215114774633177000,
+			"in_reply_to_status_id_str": "1215114774633177088",
+			"in_reply_to_user_id": 831894753478373400,
+			"in_reply_to_user_id_str": "831894753478373376",
+			"in_reply_to_screen_name": "kmk1072",
+			"user": {
+				"id": 831894753478373400,
+				"id_str": "831894753478373376",
+				"name": "Karla with a K",
+				"screen_name": "kmk1072",
+				"location": "Florida, USA",
+				"description": "I'm here for the beer. And the snark, of course. Always the snark.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 720,
+				"friends_count": 321,
+				"listed_count": 3,
+				"created_at": "Wed Feb 15 15:55:39 +0000 2017",
+				"favourites_count": 51254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10166,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054120210586877952/czO25D2Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054120210586877952/czO25D2Y_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 862,
+			"favorite_count": 13760,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "E anche il piantino di oggi c’è lo siamo fatti https://t.co/1WT8NjXw4x"
+	},
+	{
 		"created_at": "Thu Jan 09 09:37:36 +0000 2020",
 		"id": 1214999342509113300,
 		"id_str": "1215205973687775232",
