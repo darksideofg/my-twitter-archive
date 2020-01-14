@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 09:52:04 +0000 2020",
+		"id": 1215005163095838700,
+		"id_str": "1216659167173337088",
+		"full_text": "Spotify’s ad tech will continue to expand, but it will only affect podcasts if you listen to them in Spotify.\n\nKeep using independent podcast apps, and the surveillance abilities by large podcast publishers will remain extremely limited. https://t.co/gxgcZYKyKO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gxgcZYKyKO",
+					"expanded_url": "https://twitter.com/NathanBLawrence/status/1214978492246265856",
+					"display_url": "twitter.com/NathanBLawrenc…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1673763672,
+			"id_str": "1673763672",
+			"name": "Overcast",
+			"screen_name": "OvercastFM",
+			"location": "New York",
+			"description": "A powerful, simple iPhone podcast app.",
+			"url": "http://t.co/OprOTw2qhu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OprOTw2qhu",
+							"expanded_url": "http://overcast.fm/",
+							"display_url": "overcast.fm",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32402,
+			"friends_count": 0,
+			"listed_count": 1356,
+			"created_at": "Thu Aug 15 18:30:34 +0000 2013",
+			"favourites_count": 280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEE2DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834132706287980544/7hu4Src8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834132706287980544/7hu4Src8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1673763672/1468967260",
+			"profile_link_color": "F77A00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214978492246265900,
+		"quoted_status_id_str": "1214978492246265856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gxgcZYKyKO",
+			"expanded": "https://twitter.com/NathanBLawrence/status/1214978492246265856",
+			"display": "twitter.com/NathanBLawrenc…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 08 18:33:40 +0000 2020",
+			"id": 1214978492246265900,
+			"id_str": "1214978492246265856",
+			"full_text": "RIP the last remaining refuge from mass tracking tools on the web.  \n\nhttps://t.co/3PeEQfqkpt https://t.co/zIK5z73QOT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3PeEQfqkpt",
+						"expanded_url": "https://techcrunch.com/2020/01/08/spotify-brings-streaming-ad-insertion-technology-to-podcasts/",
+						"display_url": "techcrunch.com/2020/01/08/spo…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1214978488446308400,
+						"id_str": "1214978488446308353",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/ENx4f32VUAEL_aI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENx4f32VUAEL_aI.jpg",
+						"url": "https://t.co/zIK5z73QOT",
+						"display_url": "pic.twitter.com/zIK5z73QOT",
+						"expanded_url": "https://twitter.com/NathanBLawrence/status/1214978492246265856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1125,
+								"h": 916,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 554,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214978488446308400,
+						"id_str": "1214978488446308353",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/ENx4f32VUAEL_aI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENx4f32VUAEL_aI.jpg",
+						"url": "https://t.co/zIK5z73QOT",
+						"display_url": "pic.twitter.com/zIK5z73QOT",
+						"expanded_url": "https://twitter.com/NathanBLawrence/status/1214978492246265856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1125,
+								"h": 916,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 554,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175511941,
+				"id_str": "175511941",
+				"name": "Nathan Lawrence 🌈",
+				"screen_name": "NathanBLawrence",
+				"location": "Columbia, MO",
+				"description": "Days: Reporting/editing @KBIA and teaching at @MUJSchool. Nights: Making @NighthawkApp, watching bad TV. /maker queer. My cat is named after Bernadette Peters.",
+				"url": "https://t.co/JK0o9xqSzi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JK0o9xqSzi",
+								"expanded_url": "https://apps.apple.com/app/id1481777438",
+								"display_url": "apps.apple.com/app/id14817774…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7069,
+				"friends_count": 3257,
+				"listed_count": 125,
+				"created_at": "Fri Aug 06 20:28:44 +0000 2010",
+				"favourites_count": 42904,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38744,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981972214135242752/hpqgn2Ie_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981972214135242752/hpqgn2Ie_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/175511941/1526412316",
+				"profile_link_color": "800000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1081,
+		"favorite_count": 1964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spotify’s ad tech will continue to expand, but it will only affect podcasts if you listen to them in Spotify.\n\nKeep using independent podcast apps, and the surveillance abilities by large podcast publishers will remain extremely limited. https://t.co/gxgcZYKyKO"
+	},
+	{
 		"created_at": "Sun Jan 12 18:34:15 +0000 2020",
 		"id": 1216428190496952300,
 		"id_str": "1216428190496952321",
