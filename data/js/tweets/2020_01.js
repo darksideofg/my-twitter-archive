@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 18:12:31 +0000 2020",
+		"id": 1217582078260215800,
+		"id_str": "1218234662306435072",
+		"full_text": "and in that moment...I swear we were infinite https://t.co/4RMGV5lCVz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217582074472759300,
+					"id_str": "1217582074472759296",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EOW4chnVAAAL-hg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOW4chnVAAAL-hg.jpg",
+					"url": "https://t.co/4RMGV5lCVz",
+					"display_url": "pic.twitter.com/4RMGV5lCVz",
+					"expanded_url": "https://twitter.com/ihatealmonds/status/1217582078260215808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 861,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217582074472759300,
+					"id_str": "1217582074472759296",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EOW4chnVAAAL-hg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOW4chnVAAAL-hg.jpg",
+					"url": "https://t.co/4RMGV5lCVz",
+					"display_url": "pic.twitter.com/4RMGV5lCVz",
+					"expanded_url": "https://twitter.com/ihatealmonds/status/1217582078260215808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 861,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1422127238,
+			"id_str": "1422127238",
+			"name": "incel",
+			"screen_name": "ihatealmonds",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12809,
+			"friends_count": 194,
+			"listed_count": 380,
+			"created_at": "Sun May 12 03:16:33 +0000 2013",
+			"favourites_count": 49940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217988959424241665/8I9Jh7O-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217988959424241665/8I9Jh7O-_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88020,
+		"favorite_count": 289314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "and in that moment...I swear we were infinite https://t.co/4RMGV5lCVz"
+	},
+	{
 		"created_at": "Thu Jan 16 06:14:37 +0000 2020",
 		"id": 1217691608742813700,
 		"id_str": "1217691608742813698",
