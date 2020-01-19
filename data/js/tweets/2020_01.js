@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 18:31:46 +0000 2020",
+		"id": 1218601894593036300,
+		"id_str": "1218601894593036291",
+		"full_text": "Più che una rom-com è una tragedia https://t.co/UFA8lgpAMk https://t.co/LzUKJ40ViZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UFA8lgpAMk",
+					"expanded_url": "https://twitter.com/tsuiharked/status/1218140392983597056",
+					"display_url": "twitter.com/tsuiharked/sta…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218601886422642700,
+					"id_str": "1218601886422642689",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EOlX9ZLXsAE-pjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOlX9ZLXsAE-pjE.jpg",
+					"url": "https://t.co/LzUKJ40ViZ",
+					"display_url": "pic.twitter.com/LzUKJ40ViZ",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1218601894593036291/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1589,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 938,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218601886422642700,
+					"id_str": "1218601886422642689",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EOlX9ZLXsAE-pjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOlX9ZLXsAE-pjE.jpg",
+					"url": "https://t.co/LzUKJ40ViZ",
+					"display_url": "pic.twitter.com/LzUKJ40ViZ",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1218601894593036291/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1589,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 938,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 8,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218140392983597000,
+		"quoted_status_id_str": "1218140392983597056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UFA8lgpAMk",
+			"expanded": "https://twitter.com/tsuiharked/status/1218140392983597056",
+			"display": "twitter.com/tsuiharked/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 11:57:56 +0000 2020",
+			"id": 1218140392983597000,
+			"id_str": "1218140392983597056",
+			"full_text": "open your spotify on repeat playlist and the first five songs are the soundtrack to your own romantic comedy https://t.co/rsEvqLlsGm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1218140389254844400,
+						"id_str": "1218140389254844416",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EOe0OuQXUAAIoFr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOe0OuQXUAAIoFr.jpg",
+						"url": "https://t.co/rsEvqLlsGm",
+						"display_url": "pic.twitter.com/rsEvqLlsGm",
+						"expanded_url": "https://twitter.com/tsuiharked/status/1218140392983597056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 645,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 645,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 609,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 525,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 525,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 470,
+										"y": 495,
+										"h": 93,
+										"w": 93
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 525,
+										"h": 99,
+										"w": 99
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1218140389254844400,
+						"id_str": "1218140389254844416",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EOe0OuQXUAAIoFr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOe0OuQXUAAIoFr.jpg",
+						"url": "https://t.co/rsEvqLlsGm",
+						"display_url": "pic.twitter.com/rsEvqLlsGm",
+						"expanded_url": "https://twitter.com/tsuiharked/status/1218140392983597056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 645,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 645,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 609,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 525,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 525,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 470,
+										"y": 495,
+										"h": 93,
+										"w": 93
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 525,
+										"h": 99,
+										"w": 99
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2353687364,
+				"id_str": "2353687364",
+				"name": "emily dick",
+				"screen_name": "tsuiharked",
+				"location": "",
+				"description": "EVERYTHING YOU LOVE WILL LOVE YOU EVERYTHING YOU LOVE WILL LOVE YOU EVERYTHING YOU LOVE WILL LOVE YOU EVERYTHING YOU LOVE WILL LOVE YOU EVERYTHING YOU LOVE WILL",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 291,
+				"friends_count": 184,
+				"listed_count": 6,
+				"created_at": "Thu Feb 20 19:28:34 +0000 2014",
+				"favourites_count": 12838,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8798,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212850933501173761/40HpdQd__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212850933501173761/40HpdQd__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353687364/1577306371",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 168,
+			"favorite_count": 6561,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Più che una rom-com è una tragedia https://t.co/UFA8lgpAMk https://t.co/LzUKJ40ViZ"
+	},
+	{
 		"created_at": "Fri Jan 17 18:12:31 +0000 2020",
 		"id": 1217582078260215800,
 		"id_str": "1218234662306435072",
