@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 21:27:13 +0000 2020",
+		"id": 1218993219222065200,
+		"id_str": "1219008432465960963",
+		"full_text": "Salvini in collegamento da Giletti mentre cucina la pizza nel forno a legna, pala in mano 🔝✈️\n\nItalia paese meraviglioso. Non abbiamo niente da invidiare ai populismi sudamericani.\n\nAh e in ore di scemenze neanche un contrasto, un “ma”, niente.\n\nLa pagheremo tutti, sta cosa.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94324642,
+			"id_str": "94324642",
+			"name": "Alessandro Masala",
+			"screen_name": "ShooterHatesYou",
+			"location": "Cagliari",
+			"description": "Quello di Breaking Italy e di HEYA. Non mi prendo sul serio, non dovresti neanche tu.",
+			"url": "https://t.co/Axpm5wWbdv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Axpm5wWbdv",
+							"expanded_url": "http://www.BreakingItaly.club",
+							"display_url": "BreakingItaly.club",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84011,
+			"friends_count": 622,
+			"listed_count": 216,
+			"created_at": "Thu Dec 03 13:03:30 +0000 2009",
+			"favourites_count": 2311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205024045181390848/oNgwCf8k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205024045181390848/oNgwCf8k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94324642/1573115846",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 2599,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "it",
+		"text": "Salvini in collegamento da Giletti mentre cucina la pizza nel forno a legna, pala in mano 🔝✈️\n\nItalia paese meraviglioso. Non abbiamo niente da invidiare ai populismi sudamericani.\n\nAh e in ore di scemenze neanche un contrasto, un “ma”, niente.\n\nLa pagheremo tutti, sta cosa."
+	},
+	{
 		"created_at": "Sat Jan 18 18:31:46 +0000 2020",
 		"id": 1218601894593036300,
 		"id_str": "1218601894593036291",
