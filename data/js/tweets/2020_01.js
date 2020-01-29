@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 07:24:56 +0000 2020",
+		"id": 1222054467459321900,
+		"id_str": "1222057955920633857",
+		"full_text": "Ogni tanto mi sveglio con quella voglia di San Junipero. https://t.co/j0L5WgITUI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222054455316750300,
+					"id_str": "1222054455316750336",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPWcDWlWoAA2LEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPWcDWlWoAA2LEL.jpg",
+					"url": "https://t.co/j0L5WgITUI",
+					"display_url": "pic.twitter.com/j0L5WgITUI",
+					"expanded_url": "https://twitter.com/broomplant/status/1222054467459321856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222054455316750300,
+					"id_str": "1222054455316750336",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPWcDWlWoAA2LEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPWcDWlWoAA2LEL.jpg",
+					"url": "https://t.co/j0L5WgITUI",
+					"display_url": "pic.twitter.com/j0L5WgITUI",
+					"expanded_url": "https://twitter.com/broomplant/status/1222054467459321856/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EPWcDWlWoAA2LEL.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 355790063,
+			"id_str": "355790063",
+			"name": "mattia_pecundria",
+			"screen_name": "broomplant",
+			"location": "Piacenza, Emilia Romagna",
+			"description": "Vorrei uno stipendio fisso per poter viaggiare, pagarmi un analista e un buon fisioterapista.\n\nTelegram: https://t.co/7nc15M0vFK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7nc15M0vFK",
+							"expanded_url": "http://t.me/sunset_91",
+							"display_url": "t.me/sunset_91",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2152,
+			"friends_count": 1893,
+			"listed_count": 5,
+			"created_at": "Mon Aug 15 22:05:53 +0000 2011",
+			"favourites_count": 17298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202600675923902464/1HLa9_gj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202600675923902464/1HLa9_gj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/355790063/1561915593",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Ogni tanto mi sveglio con quella voglia di San Junipero. https://t.co/j0L5WgITUI"
+	},
+	{
 		"created_at": "Mon Jan 27 13:41:30 +0000 2020",
 		"id": 1221790335933829000,
 		"id_str": "1221790335933829122",
