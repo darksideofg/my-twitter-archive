@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 05:49:42 +0000 2020",
+		"id": 1222396380087554000,
+		"id_str": "1222396380087554048",
+		"full_text": "Qualsiasi Story su IG postata da un Android: https://t.co/g8yObMWzOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g8yObMWzOv",
+					"expanded_url": "https://twitter.com/chaselyons/status/1221851704200695808",
+					"display_url": "twitter.com/chaselyons/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 74,
+			"listed_count": 8,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221851704200695800,
+		"quoted_status_id_str": "1221851704200695808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g8yObMWzOv",
+			"expanded": "https://twitter.com/chaselyons/status/1221851704200695808",
+			"display": "twitter.com/chaselyons/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 17:45:21 +0000 2020",
+			"id": 1221851704200695800,
+			"id_str": "1221851704200695808",
+			"full_text": "guys please stop hating on my Android https://t.co/xKdsMz2ZMS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1221851449749115000,
+						"id_str": "1221851449749114883",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221851449749114883/pu/img/iDPZ-soBVY73XlkZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221851449749114883/pu/img/iDPZ-soBVY73XlkZ.jpg",
+						"url": "https://t.co/xKdsMz2ZMS",
+						"display_url": "pic.twitter.com/xKdsMz2ZMS",
+						"expanded_url": "https://twitter.com/chaselyons/status/1221851704200695808/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221851449749115000,
+						"id_str": "1221851449749114883",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221851449749114883/pu/img/iDPZ-soBVY73XlkZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221851449749114883/pu/img/iDPZ-soBVY73XlkZ.jpg",
+						"url": "https://t.co/xKdsMz2ZMS",
+						"display_url": "pic.twitter.com/xKdsMz2ZMS",
+						"expanded_url": "https://twitter.com/chaselyons/status/1221851704200695808/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 6507,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1221851449749114883/pu/vid/720x1280/9GhTs6JIsXsA6ePj.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1221851449749114883/pu/pl/2ZZ3DIrXGr5xzBnk.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1221851449749114883/pu/vid/360x640/qlAFFlozyR2c7ClN.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1221851449749114883/pu/vid/320x568/AB-lF_HghoeYpXwB.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1681067162,
+				"id_str": "1681067162",
+				"name": "Chase",
+				"screen_name": "chaselyons",
+				"location": "satire",
+				"description": "Streaming on Twitch and Tweeting on Twitter | Very Handsome, Very Humble. | Code LYONS on @GFuelEnergy",
+				"url": "https://t.co/uFNGpQUQVi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uFNGpQUQVi",
+								"expanded_url": "http://twitch.tv/realchaselyons",
+								"display_url": "twitch.tv/realchaselyons",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92267,
+				"friends_count": 985,
+				"listed_count": 116,
+				"created_at": "Sun Aug 18 16:06:58 +0000 2013",
+				"favourites_count": 54115,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8827,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1210264680482181121/XvoHnAKj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210264680482181121/XvoHnAKj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1681067162/1560719048",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8838,
+			"favorite_count": 50891,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Qualsiasi Story su IG postata da un Android: https://t.co/g8yObMWzOv"
+	},
+	{
 		"created_at": "Tue Jan 28 07:24:56 +0000 2020",
 		"id": 1222054467459321900,
 		"id_str": "1222057955920633857",
