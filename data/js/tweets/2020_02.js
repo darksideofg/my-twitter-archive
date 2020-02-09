@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 17:34:27 +0000 2020",
+		"id": 1226196433809944600,
+		"id_str": "1226197613453758464",
+		"full_text": "https://t.co/7atekI9ww8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7atekI9ww8",
+					"expanded_url": "https://www.teens4pete.com",
+					"display_url": "teens4pete.com",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1225998227855593500,
+		"in_reply_to_status_id_str": "1225998227855593472",
+		"in_reply_to_user_id": 40773381,
+		"in_reply_to_user_id_str": "40773381",
+		"in_reply_to_screen_name": "Deno_Tron",
+		"user": {
+			"id": 40773381,
+			"id_str": "40773381",
+			"name": "Deno DeMartino",
+			"screen_name": "Deno_Tron",
+			"location": "Very Cool Brooklyn",
+			"description": "Stand Up Comic | Deep Web Italian",
+			"url": "https://t.co/v1q9ONQbbJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1q9ONQbbJ",
+							"expanded_url": "http://www.tedcruzforhumanpresident.com",
+							"display_url": "tedcruzforhumanpresident.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4577,
+			"friends_count": 977,
+			"listed_count": 50,
+			"created_at": "Mon May 18 00:42:15 +0000 2009",
+			"favourites_count": 9326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D3D9DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171160219365367808/qObNKZgQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171160219365367808/qObNKZgQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40773381/1514993127",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "5AC3E9",
+			"profile_sidebar_fill_color": "2D1E29",
+			"profile_text_color": "A177AB",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011add077f4d2da3",
+			"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+			"place_type": "city",
+			"name": "Brooklyn",
+			"full_name": "Brooklyn, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.041878,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.739434
+						],
+						[
+							-74.041878,
+							40.739434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 675,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7atekI9ww8"
+	},
+	{
 		"created_at": "Fri Feb 07 10:26:38 +0000 2020",
 		"id": 1225727561784844300,
 		"id_str": "1225727561784844289",
