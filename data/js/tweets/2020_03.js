@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 19:10:28 +0000 2020",
+		"id": 1237908825103048700,
+		"id_str": "1238180576630276097",
+		"full_text": "Everybody on this site has spent years tweeting about canceling plans, staying inside, and wanting to die ... well",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37590736,
+			"id_str": "37590736",
+			"name": "Gabriella Paiella",
+			"screen_name": "GMPaiella",
+			"location": "Brooklyn, NY",
+			"description": "Culture writer @GQMagazine",
+			"url": "https://t.co/jZDGyrlmeL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jZDGyrlmeL",
+							"expanded_url": "http://www.gabriellapaiella.com",
+							"display_url": "gabriellapaiella.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47928,
+			"friends_count": 1239,
+			"listed_count": 466,
+			"created_at": "Mon May 04 04:06:23 +0000 2009",
+			"favourites_count": 100730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228858188289728513/BqppdjLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228858188289728513/BqppdjLI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37590736/1583536290",
+			"profile_link_color": "CF0F0F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5525,
+		"favorite_count": 38066,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Everybody on this site has spent years tweeting about canceling plans, staying inside, and wanting to die ... well"
+	},
+	{
 		"created_at": "Tue Mar 10 20:14:31 +0000 2020",
 		"id": 1237471919303245800,
 		"id_str": "1237471919303245824",
