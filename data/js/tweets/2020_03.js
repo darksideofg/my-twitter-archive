@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 22:15:16 +0000 2020",
+		"id": 1238888025519767600,
+		"id_str": "1238951857537548289",
+		"full_text": "È importante ricordare che il nostro eccellente SSN non è veramente gratis, ma pagato dalle tasse. Ecco perché se evadi le tasse sei uno stronzo. E se evadi le tasse, ti ammali e ti curiamo gratis sei doppiamente stronzo. Ricordatevelo quando finisce l’emergenza. https://t.co/ErSowPWBBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ErSowPWBBo",
+					"expanded_url": "https://twitter.com/tboeri/status/1238766792769785856",
+					"display_url": "twitter.com/tboeri/status/…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754893,
+			"id_str": "754893",
+			"name": "Signor Ponza",
+			"screen_name": "signorponza",
+			"location": "Milan, Lombardy",
+			"description": "In onda con #Popper ogni domenica dalle 19:30 alle 21:00 su Radio Stonata \n📷 @signorponza",
+			"url": "https://t.co/ENU6YSN4Ra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ENU6YSN4Ra",
+							"expanded_url": "https://tinyletter.com/signorponza",
+							"display_url": "tinyletter.com/signorponza",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5792,
+			"friends_count": 1129,
+			"listed_count": 88,
+			"created_at": "Mon Feb 05 17:22:19 +0000 2007",
+			"favourites_count": 66095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224763227722207233/-zcOnKBy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224763227722207233/-zcOnKBy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754893/1475579254",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238766792769785900,
+		"quoted_status_id_str": "1238766792769785856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ErSowPWBBo",
+			"expanded": "https://twitter.com/tboeri/status/1238766792769785856",
+			"display": "twitter.com/tboeri/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 14 09:59:53 +0000 2020",
+			"id": 1238766792769785900,
+			"id_str": "1238766792769785856",
+			"full_text": "Spero che l'esempio di infermieri, medici e personale paramedico di questi giorni faccia riflettere i tanti evasori che ci sono nel nostro paese. Pagando tutti le tasse potremmo salvare molte più vite umane.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488357978,
+				"id_str": "488357978",
+				"name": "Tito Boeri",
+				"screen_name": "Tboeri",
+				"location": "milano",
+				"description": "economista",
+				"url": "http://t.co/39vIwrTpND",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/39vIwrTpND",
+								"expanded_url": "http://didattica.unibocconi.eu/myigier/index.php?IdUte=48791",
+								"display_url": "didattica.unibocconi.eu/myigier/index.…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 142061,
+				"friends_count": 15,
+				"listed_count": 814,
+				"created_at": "Fri Feb 10 11:10:17 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 867,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1817165601/boeri_tito_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1817165601/boeri_tito_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1797,
+			"favorite_count": 6322,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 86,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "È importante ricordare che il nostro eccellente SSN non è veramente gratis, ma pagato dalle tasse. Ecco perché se evadi le tasse sei uno stronzo. E se evadi le tasse, ti ammali e ti curiamo gratis sei doppiamente stronzo. Ricordatevelo quando finisce l’emergenza. https://t.co/ErSowPWBBo"
+	},
+	{
 		"created_at": "Fri Mar 13 07:15:34 +0000 2020",
 		"id": 1238363053261021200,
 		"id_str": "1238363053261021184",
