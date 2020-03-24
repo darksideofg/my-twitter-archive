@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 06:57:07 +0000 2020",
+		"id": 1241372904287277000,
+		"id_str": "1241982289451638785",
+		"full_text": "just a reminder when Shakespeare was quarantined, he wrote “The Devil Wears Prada” for his wife, Anne Hathaway. https://t.co/WwvIfzmvTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241372898276905000,
+					"id_str": "1241372898276904967",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ETo-EuuXkAcndVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETo-EuuXkAcndVB.jpg",
+					"url": "https://t.co/WwvIfzmvTH",
+					"display_url": "pic.twitter.com/WwvIfzmvTH",
+					"expanded_url": "https://twitter.com/MrMichaelSwartz/status/1241372904287277056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241372898276905000,
+					"id_str": "1241372898276904967",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ETo-EuuXkAcndVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETo-EuuXkAcndVB.jpg",
+					"url": "https://t.co/WwvIfzmvTH",
+					"display_url": "pic.twitter.com/WwvIfzmvTH",
+					"expanded_url": "https://twitter.com/MrMichaelSwartz/status/1241372904287277056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1241372898285232000,
+					"id_str": "1241372898285232129",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ETo-EuwWoAESFWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETo-EuwWoAESFWe.jpg",
+					"url": "https://t.co/WwvIfzmvTH",
+					"display_url": "pic.twitter.com/WwvIfzmvTH",
+					"expanded_url": "https://twitter.com/MrMichaelSwartz/status/1241372904287277056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37467178,
+			"id_str": "37467178",
+			"name": "𝕄𝕚𝕔𝕙𝕒𝕖𝕝 𝕊𝕨𝕒𝕣𝕥𝕫",
+			"screen_name": "MrMichaelSwartz",
+			"location": "Astoria, Queens",
+			"description": "Professor of Memeological Studies. Proud Pokédad. Co-Creator, The #XChangeRate.",
+			"url": "https://t.co/XzaaY81Lsf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzaaY81Lsf",
+							"expanded_url": "http://MrMichaelSwartz.com",
+							"display_url": "MrMichaelSwartz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1942,
+			"friends_count": 595,
+			"listed_count": 23,
+			"created_at": "Sun May 03 18:15:51 +0000 2009",
+			"favourites_count": 65544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240159037569871872/J82QLgVt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240159037569871872/J82QLgVt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37467178/1583728098",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9630,
+		"favorite_count": 47665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "just a reminder when Shakespeare was quarantined, he wrote “The Devil Wears Prada” for his wife, Anne Hathaway. https://t.co/WwvIfzmvTH"
+	},
+	{
 		"created_at": "Sun Mar 22 13:18:44 +0000 2020",
 		"id": 1241324377213460500,
 		"id_str": "1241715938250166273",
