@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 09:15:57 +0000 2020",
+		"id": 1244191555973517300,
+		"id_str": "1244191555973517312",
+		"full_text": "So che arrivo sempre tardi, ma qualcuno sa il titolo/autore di questa canzone pazzesca? https://t.co/VNTxXLJawy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244191486629068800,
+					"id_str": "1244191486629068800",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244191486629068800/pu/img/soQ7BRw5dKMfIKyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244191486629068800/pu/img/soQ7BRw5dKMfIKyX.jpg",
+					"url": "https://t.co/VNTxXLJawy",
+					"display_url": "pic.twitter.com/VNTxXLJawy",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1244191555973517312/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244191486629068800,
+					"id_str": "1244191486629068800",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244191486629068800/pu/img/soQ7BRw5dKMfIKyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244191486629068800/pu/img/soQ7BRw5dKMfIKyX.jpg",
+					"url": "https://t.co/VNTxXLJawy",
+					"display_url": "pic.twitter.com/VNTxXLJawy",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1244191555973517312/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							397
+						],
+						"duration_millis": 97880,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244191486629068800/pu/vid/320x634/_vhjVSmMAaaDIezj.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244191486629068800/pu/vid/400x794/4zZhBWuhjQwpcEg3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244191486629068800/pu/pl/eDioRP2HvEHqvdoY.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 74,
+			"listed_count": 8,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "So che arrivo sempre tardi, ma qualcuno sa il titolo/autore di questa canzone pazzesca? https://t.co/VNTxXLJawy"
+	},
+	{
 		"created_at": "Mon Mar 23 06:57:07 +0000 2020",
 		"id": 1241372904287277000,
 		"id_str": "1241982289451638785",
