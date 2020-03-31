@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 20:56:45 +0000 2020",
+		"id": 1244730303991689200,
+		"id_str": "1244730303991689228",
+		"full_text": "Che me https://t.co/mdGZH4RQCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mdGZH4RQCo",
+					"expanded_url": "https://twitter.com/borderlineyikes/status/1243287914387300355",
+					"display_url": "twitter.com/borderlineyike…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 74,
+			"listed_count": 8,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243287914387300400,
+		"quoted_status_id_str": "1243287914387300355",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mdGZH4RQCo",
+			"expanded": "https://twitter.com/borderlineyikes/status/1243287914387300355",
+			"display": "twitter.com/borderlineyike…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 26 21:25:12 +0000 2020",
+			"id": 1243287914387300400,
+			"id_str": "1243287914387300355",
+			"full_text": "Me: why does my back hurt\n\nAlso me: https://t.co/aqffaJa3A9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1243287909635182600,
+						"id_str": "1243287909635182594",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/EUELxD9X0AIYHHC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUELxD9X0AIYHHC.jpg",
+						"url": "https://t.co/aqffaJa3A9",
+						"display_url": "pic.twitter.com/aqffaJa3A9",
+						"expanded_url": "https://twitter.com/borderlineyikes/status/1243287914387300355/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 398,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 398,
+								"h": 308,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 398,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1243287909635182600,
+						"id_str": "1243287909635182594",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/EUELxD9X0AIYHHC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUELxD9X0AIYHHC.jpg",
+						"url": "https://t.co/aqffaJa3A9",
+						"display_url": "pic.twitter.com/aqffaJa3A9",
+						"expanded_url": "https://twitter.com/borderlineyikes/status/1243287914387300355/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 398,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 398,
+								"h": 308,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 398,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1654802472,
+				"id_str": "1654802472",
+				"name": "wajed",
+				"screen_name": "borderlineyikes",
+				"location": "He/Him",
+				"description": "London/Brighton. Law/American studies student. Photography. 🇧🇩 🇬🇧",
+				"url": "https://t.co/QFLHqSGfQU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QFLHqSGfQU",
+								"expanded_url": "http://Instagram.com/borderline.yikes",
+								"display_url": "Instagram.com/borderline.yik…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120660,
+				"friends_count": 57894,
+				"listed_count": 147,
+				"created_at": "Thu Aug 08 07:41:58 +0000 2013",
+				"favourites_count": 59280,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1795,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ED37ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235416920792412162/_UPXR5D5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235416920792412162/_UPXR5D5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654802472/1585359575",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7ef79c5ab17d518c",
+				"url": "https://api.twitter.com/1.1/geo/id/7ef79c5ab17d518c.json",
+				"place_type": "city",
+				"name": "Barnet",
+				"full_name": "Barnet, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.2925791,
+								51.555179
+							],
+							[
+								-0.12921,
+								51.555179
+							],
+							[
+								-0.12921,
+								51.6685903
+							],
+							[
+								-0.2925791,
+								51.6685903
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 103575,
+			"favorite_count": 327688,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Che me https://t.co/mdGZH4RQCo"
+	},
+	{
+		"created_at": "Mon Mar 30 18:28:22 +0000 2020",
+		"id": 1244329772424941600,
+		"id_str": "1244692963399290880",
+		"full_text": "You: \"I play Animal Crossing to escape the stress.\"\n\nAnimal Crossing:\n• Massive loans on getting a small room\n• Turnip prices fluctuate; stuck with rotten vegetables\n• Must mow the lawn regularly\n• Attacked by bees and spiders\n• Prices on goods worse than a college bookstore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47547933,
+			"id_str": "47547933",
+			"name": "Den Delimarsky",
+			"screen_name": "DennisCode",
+			"location": "North America",
+			"description": "Senior PM • Building @docsmsft • Founder of the @pmtrack community • Running the https://t.co/GjBi2A4SuO blog.",
+			"url": "https://t.co/a4bgaSQLLn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a4bgaSQLLn",
+							"expanded_url": "https://den.dev",
+							"display_url": "den.dev",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GjBi2A4SuO",
+							"expanded_url": "http://dataframe.ca",
+							"display_url": "dataframe.ca",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6748,
+			"friends_count": 520,
+			"listed_count": 256,
+			"created_at": "Tue Jun 16 05:02:50 +0000 2009",
+			"favourites_count": 18763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208505843487920128/BIcD_yYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208505843487920128/BIcD_yYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47547933/1585118962",
+			"profile_link_color": "0024B5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "You: \"I play Animal Crossing to escape the stress.\"\n\nAnimal Crossing:\n• Massive loans on getting a small room\n• Turnip prices fluctuate; stuck with rotten vegetables\n• Must mow the lawn regularly\n• Attacked by bees and spiders\n• Prices on goods worse than a college bookstore"
+	},
+	{
+		"created_at": "Mon Mar 30 18:08:32 +0000 2020",
+		"id": 1244687973540606000,
+		"id_str": "1244687973540605953",
+		"full_text": "@ilbrembils86 Grazie ❤️",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilbrembils86",
+					"name": "Maurinø",
+					"id": 413897446,
+					"id_str": "413897446",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1244687495926874000,
+		"in_reply_to_status_id_str": "1244687495926874115",
+		"in_reply_to_user_id": 413897446,
+		"in_reply_to_user_id_str": "413897446",
+		"in_reply_to_screen_name": "ilbrembils86",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 74,
+			"listed_count": 8,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@ilbrembils86 Grazie ❤️"
+	},
+	{
 		"created_at": "Sun Mar 29 09:15:57 +0000 2020",
 		"id": 1244191555973517300,
 		"id_str": "1244191555973517312",
