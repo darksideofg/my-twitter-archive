@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 06:04:48 +0000 2020",
+		"id": 1245438325487480800,
+		"id_str": "1245955388551442433",
+		"full_text": "Current Stan Culture would have never survived the It Girl War of the Early 2000’s. A thread. https://t.co/C76cuxdCHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245438319409987600,
+					"id_str": "1245438319409987601",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EUivjYoXgBEj7de.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUivjYoXgBEj7de.jpg",
+					"url": "https://t.co/C76cuxdCHL",
+					"display_url": "pic.twitter.com/C76cuxdCHL",
+					"expanded_url": "https://twitter.com/DearArchie/status/1245438325487480833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245438319409987600,
+					"id_str": "1245438319409987601",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EUivjYoXgBEj7de.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUivjYoXgBEj7de.jpg",
+					"url": "https://t.co/C76cuxdCHL",
+					"display_url": "pic.twitter.com/C76cuxdCHL",
+					"expanded_url": "https://twitter.com/DearArchie/status/1245438325487480833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 290975377,
+			"id_str": "290975377",
+			"name": "Archie",
+			"screen_name": "DearArchie",
+			"location": "",
+			"description": "It took me 26 years to realize my name sounds like a sneeze. 🥃  #smiler #britneysarmy #swiftie #riverdale",
+			"url": "https://t.co/vd9AW2XfoE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vd9AW2XfoE",
+							"expanded_url": "http://instagram.com/deararchie",
+							"display_url": "instagram.com/deararchie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11176,
+			"friends_count": 2671,
+			"listed_count": 40,
+			"created_at": "Sun May 01 08:17:50 +0000 2011",
+			"favourites_count": 4411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245491186946670597/T3CkCdJL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245491186946670597/T3CkCdJL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/290975377/1579097611",
+			"profile_link_color": "0D1C38",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5305,
+		"favorite_count": 19913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Current Stan Culture would have never survived the It Girl War of the Early 2000’s. A thread. https://t.co/C76cuxdCHL"
+	},
+	{
 		"created_at": "Thu Apr 02 18:36:24 +0000 2020",
 		"id": 1245782150017933300,
 		"id_str": "1245782150017933314",
