@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 18:49:22 +0000 2020",
+		"id": 1249057146051821600,
+		"id_str": "1249409291389411331",
+		"full_text": "every single party in San Francisco👍 https://t.co/xjOEFtTAZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249055946799640600,
+					"id_str": "1249055946799640576",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249055946799640576/pu/img/LwBu1IAvN4BnDKBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249055946799640576/pu/img/LwBu1IAvN4BnDKBu.jpg",
+					"url": "https://t.co/xjOEFtTAZF",
+					"display_url": "pic.twitter.com/xjOEFtTAZF",
+					"expanded_url": "https://twitter.com/yayalexisgay/status/1249057146051821568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249055946799640600,
+					"id_str": "1249055946799640576",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249055946799640576/pu/img/LwBu1IAvN4BnDKBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249055946799640576/pu/img/LwBu1IAvN4BnDKBu.jpg",
+					"url": "https://t.co/xjOEFtTAZF",
+					"display_url": "pic.twitter.com/xjOEFtTAZF",
+					"expanded_url": "https://twitter.com/yayalexisgay/status/1249057146051821568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59826,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249055946799640576/pu/vid/480x480/0BXodgNkJsAKJTgk.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249055946799640576/pu/vid/320x320/4RSYrtAM8OmQ93XU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1249055946799640576/pu/pl/3D7dz1f8Sn871auR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249055946799640576/pu/vid/720x720/bJ7MmV08veX5UJkz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22785963,
+			"id_str": "22785963",
+			"name": "Alexis Gay",
+			"screen_name": "yayalexisgay",
+			"location": "San Francisco, CA",
+			"description": "Part-time Comedyperson | Full-time Biz Ops & Creator Partnerships @patreon | Type A NYC transplant pretending to be chill enough to live in the bay 🙃",
+			"url": "https://t.co/pgJ2lr2vwU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgJ2lr2vwU",
+							"expanded_url": "https://www.youtube.com/AlexisGay",
+							"display_url": "youtube.com/AlexisGay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12815,
+			"friends_count": 486,
+			"listed_count": 57,
+			"created_at": "Wed Mar 04 15:22:09 +0000 2009",
+			"favourites_count": 19661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035006827870662657/FOHyiKbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035006827870662657/FOHyiKbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22785963/1531805499",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "030303",
+			"profile_sidebar_fill_color": "AEB1F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8964,
+		"favorite_count": 60058,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "every single party in San Francisco👍 https://t.co/xjOEFtTAZF"
+	},
+	{
 		"created_at": "Fri Apr 10 21:13:46 +0000 2020",
 		"id": 1248720855498133500,
 		"id_str": "1248720855498133506",
