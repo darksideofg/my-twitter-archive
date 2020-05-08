@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 12:14:17 +0000 2020",
+		"id": 1258298406017130500,
+		"id_str": "1258369562543886338",
+		"full_text": "Madonna che feels https://t.co/P5hKQZ6d8g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258298401827020800,
+					"id_str": "1258298401827020800",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZfus5XYAAVPx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZfus5XYAAVPx-.jpg",
+					"url": "https://t.co/P5hKQZ6d8g",
+					"display_url": "pic.twitter.com/P5hKQZ6d8g",
+					"expanded_url": "https://twitter.com/SpotiFei/status/1258298406017130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 522,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258298401827020800,
+					"id_str": "1258298401827020800",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EXZfus5XYAAVPx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXZfus5XYAAVPx-.jpg",
+					"url": "https://t.co/P5hKQZ6d8g",
+					"display_url": "pic.twitter.com/P5hKQZ6d8g",
+					"expanded_url": "https://twitter.com/SpotiFei/status/1258298406017130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 522,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1228264978035159000,
+			"id_str": "1228264978035159041",
+			"name": "Spotifei",
+			"screen_name": "SpotiFei",
+			"location": "",
+			"description": "leggo cose, scanzo gente",
+			"url": "https://t.co/6Xitbp8hPZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Xitbp8hPZ",
+							"expanded_url": "https://www.instagram.com/andrea_manonmicichiamanessuno/",
+							"display_url": "instagram.com/andrea_manonmi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140,
+			"friends_count": 585,
+			"listed_count": 0,
+			"created_at": "Fri Feb 14 10:29:36 +0000 2020",
+			"favourites_count": 1327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229520203471622145/9tVWl1uC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229520203471622145/9tVWl1uC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228264978035159041/1587743833",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 482,
+		"favorite_count": 2914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Madonna che feels https://t.co/P5hKQZ6d8g"
+	},
+	{
 		"created_at": "Mon May 04 19:22:49 +0000 2020",
 		"id": 1257390242665050000,
 		"id_str": "1257390242665050112",
