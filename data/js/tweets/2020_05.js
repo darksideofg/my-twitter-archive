@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 18:34:24 +0000 2020",
+		"id": 1264263426580381700,
+		"id_str": "1264263426580381697",
+		"full_text": "💁🏼‍♀️ https://t.co/81pYgCmkVZ https://t.co/vnLV6eqvrv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/81pYgCmkVZ",
+					"expanded_url": "https://twitter.com/ZeSpoooky/status/1264081704173494273",
+					"display_url": "twitter.com/ZeSpoooky/stat…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1264263412231671800,
+					"id_str": "1264263412231671809",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EYuQ4ASXkAEDb1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYuQ4ASXkAEDb1s.jpg",
+					"url": "https://t.co/vnLV6eqvrv",
+					"display_url": "pic.twitter.com/vnLV6eqvrv",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1264263426580381697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 243,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 138,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264263412231671800,
+					"id_str": "1264263412231671809",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EYuQ4ASXkAEDb1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYuQ4ASXkAEDb1s.jpg",
+					"url": "https://t.co/vnLV6eqvrv",
+					"display_url": "pic.twitter.com/vnLV6eqvrv",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1264263426580381697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 243,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 138,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 74,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264081704173494300,
+		"quoted_status_id_str": "1264081704173494273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/81pYgCmkVZ",
+			"expanded": "https://twitter.com/ZeSpoooky/status/1264081704173494273",
+			"display": "twitter.com/ZeSpoooky/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 23 06:32:18 +0000 2020",
+			"id": 1264081704173494300,
+			"id_str": "1264081704173494273",
+			"full_text": "1. Open your Spotify\n2. Search for \"on repeat\"\n3. Post the songs\n4. Let people judge you https://t.co/mLqca9xlnF https://t.co/tDDYcW2pLh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mLqca9xlnF",
+						"expanded_url": "https://twitter.com/OmarMuzaffar/status/1264068474524979200",
+						"display_url": "twitter.com/OmarMuzaffar/s…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1264081692123213800,
+						"id_str": "1264081692123213824",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EYrrmgIUMAAzUs0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYrrmgIUMAAzUs0.jpg",
+						"url": "https://t.co/tDDYcW2pLh",
+						"display_url": "pic.twitter.com/tDDYcW2pLh",
+						"expanded_url": "https://twitter.com/ZeSpoooky/status/1264081704173494273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264081692123213800,
+						"id_str": "1264081692123213824",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EYrrmgIUMAAzUs0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYrrmgIUMAAzUs0.jpg",
+						"url": "https://t.co/tDDYcW2pLh",
+						"display_url": "pic.twitter.com/tDDYcW2pLh",
+						"expanded_url": "https://twitter.com/ZeSpoooky/status/1264081704173494273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1264081692119068700,
+						"id_str": "1264081692119068672",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EYrrmgHU8AAGdyo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYrrmgHU8AAGdyo.jpg",
+						"url": "https://t.co/tDDYcW2pLh",
+						"display_url": "pic.twitter.com/tDDYcW2pLh",
+						"expanded_url": "https://twitter.com/ZeSpoooky/status/1264081704173494273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1264081692123250700,
+						"id_str": "1264081692123250688",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EYrrmgIUwAACKhq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYrrmgIUwAACKhq.jpg",
+						"url": "https://t.co/tDDYcW2pLh",
+						"display_url": "pic.twitter.com/tDDYcW2pLh",
+						"expanded_url": "https://twitter.com/ZeSpoooky/status/1264081704173494273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1264081692123259000,
+						"id_str": "1264081692123258881",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EYrrmgIU4AEhkZn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYrrmgIU4AEhkZn.jpg",
+						"url": "https://t.co/tDDYcW2pLh",
+						"display_url": "pic.twitter.com/tDDYcW2pLh",
+						"expanded_url": "https://twitter.com/ZeSpoooky/status/1264081704173494273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41128123,
+				"id_str": "41128123",
+				"name": "Ze",
+				"screen_name": "ZeSpoooky",
+				"location": "Kuala Lumpur/ Tatooine",
+				"description": "Digital Content Creator, Vocalist of @SpookyWetDreams",
+				"url": "https://t.co/4WrjFwiQgN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4WrjFwiQgN",
+								"expanded_url": "http://www.thelevel.my/author/shazwan/",
+								"display_url": "thelevel.my/author/shazwan/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2700,
+				"friends_count": 924,
+				"listed_count": 19,
+				"created_at": "Tue May 19 14:42:18 +0000 2009",
+				"favourites_count": 3702,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 94634,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1251890957982658561/pnvLVE6-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251890957982658561/pnvLVE6-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41128123/1531493089",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1264068474524979200,
+			"quoted_status_id_str": "1264068474524979200",
+			"quoted_status_permalink": {
+				"url": "https://t.co/mLqca9xlnF",
+				"expanded": "https://twitter.com/OmarMuzaffar/status/1264068474524979200",
+				"display": "twitter.com/OmarMuzaffar/s…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💁🏼‍♀️ https://t.co/81pYgCmkVZ https://t.co/vnLV6eqvrv"
+	},
+	{
 		"created_at": "Tue May 19 08:25:07 +0000 2020",
 		"id": 1262660544869384200,
 		"id_str": "1262660544869384194",
