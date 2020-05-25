@@ -1,10 +1,222 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 17:50:41 +0000 2020",
+		"id": 1263837005693063200,
+		"id_str": "1264614812492890113",
+		"full_text": "During the pandemic, classical musicians and orchestras are reliant on streaming their performances to maintain their profile and solicit donations. That's a problem, because the platforms' copyright bots HATE classical music.\n\nhttps://t.co/2OmKjDDgfQ\n\n1/ https://t.co/uYhVESovOg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2OmKjDDgfQ",
+					"expanded_url": "https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html",
+					"display_url": "washingtonpost.com/entertainment/…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263830752602386400,
+					"id_str": "1263830752602386432",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EYoHX5kUcAA6yIh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYoHX5kUcAA6yIh.jpg",
+					"url": "https://t.co/uYhVESovOg",
+					"display_url": "pic.twitter.com/uYhVESovOg",
+					"expanded_url": "https://twitter.com/doctorow/status/1263837005693063168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263830752602386400,
+					"id_str": "1263830752602386432",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EYoHX5kUcAA6yIh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYoHX5kUcAA6yIh.jpg",
+					"url": "https://t.co/uYhVESovOg",
+					"display_url": "pic.twitter.com/uYhVESovOg",
+					"expanded_url": "https://twitter.com/doctorow/status/1263837005693063168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "Covered Dish People",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Writer, activist. If you want a reply, use email.  Blog: https://t.co/ECPLW3AJGU. Newsletter: https://t.co/WWoHcnt5gT Books: https://t.co/x4ih0Xrx8f.",
+			"url": "https://t.co/x4ih0X9WgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0X9WgH",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ECPLW3AJGU",
+							"expanded_url": "http://pluralistic.net",
+							"display_url": "pluralistic.net",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/WWoHcnt5gT",
+							"expanded_url": "https://pluralistic.net/plura-list",
+							"display_url": "pluralistic.net/plura-list",
+							"indices": [
+								94,
+								117
+							]
+						},
+						{
+							"url": "https://t.co/x4ih0Xrx8f",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 425107,
+			"friends_count": 1846,
+			"listed_count": 12505,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 256528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 495,
+		"favorite_count": 687,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "During the pandemic, classical musicians and orchestras are reliant on streaming their performances to maintain their profile and solicit donations. That's a problem, because the platforms' copyright bots HATE classical music.\n\nhttps://t.co/2OmKjDDgfQ\n\n1/ https://t.co/uYhVESovOg"
+	},
+	{
 		"created_at": "Sat May 23 18:34:24 +0000 2020",
 		"id": 1264263426580381700,
 		"id_str": "1264263426580381697",
-		"full_text": "💁🏼‍♀️ https://t.co/81pYgCmkVZ https://t.co/vnLV6eqvrv",
+		"full_text": "💁🏼♀️ https://t.co/81pYgCmkVZ https://t.co/vnLV6eqvrv",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -486,7 +698,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "💁🏼‍♀️ https://t.co/81pYgCmkVZ https://t.co/vnLV6eqvrv"
+		"text": "💁🏼♀️ https://t.co/81pYgCmkVZ https://t.co/vnLV6eqvrv"
 	},
 	{
 		"created_at": "Tue May 19 08:25:07 +0000 2020",
