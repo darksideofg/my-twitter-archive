@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 12:02:36 +0000 2020",
+		"id": 1269937436936810500,
+		"id_str": "1269963031242510338",
+		"full_text": "Every black person in Europe has a horror story about Italy/Italians",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325728905,
+			"id_str": "325728905",
+			"name": "Tianna, the Writer 🌸",
+			"screen_name": "dontsmileattee",
+			"location": "nw london ",
+			"description": "the writer part is ironic ♤ greek mythology stan account ◇ garlic mayo enthusiast ♧ founder of black girls camping trip",
+			"url": "https://t.co/ggEwGhtraM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ggEwGhtraM",
+							"expanded_url": "https://www.blackgirlscampingtrip.com/the-founder",
+							"display_url": "blackgirlscampingtrip.com/the-founder",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3788,
+			"friends_count": 641,
+			"listed_count": 17,
+			"created_at": "Tue Jun 28 19:34:38 +0000 2011",
+			"favourites_count": 220252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266368320443314184/akcWU004_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266368320443314184/akcWU004_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/325728905/1590760820",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5044,
+		"favorite_count": 24869,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Every black person in Europe has a horror story about Italy/Italians"
+	},
+	{
+		"created_at": "Mon Jun 08 06:11:28 +0000 2020",
+		"id": 1269873048577962000,
+		"id_str": "1269874668825174016",
+		"full_text": "@SwiftOnSecurity https://t.co/m9kKxhPsph\nHoly shit\n\nWhat the hell\n\nI really hope you're not right about this\n\n\"Imagine large cities without power for a week, a month, or a year\" https://t.co/N9DAN69X2c",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwiftOnSecurity",
+					"name": "Swift⬡nSecurity: Hexagon Edition",
+					"id": 2436389418,
+					"id_str": "2436389418",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m9kKxhPsph",
+					"expanded_url": "http://archive.is/exBg9",
+					"display_url": "archive.is/exBg9",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269873010724401200,
+					"id_str": "1269873010724401152",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ9-xnIVcAATDMA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ9-xnIVcAATDMA.png",
+					"url": "https://t.co/N9DAN69X2c",
+					"display_url": "pic.twitter.com/N9DAN69X2c",
+					"expanded_url": "https://twitter.com/h_bash/status/1269873048577961985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 432,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269873010724401200,
+					"id_str": "1269873010724401152",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ9-xnIVcAATDMA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ9-xnIVcAATDMA.png",
+					"url": "https://t.co/N9DAN69X2c",
+					"display_url": "pic.twitter.com/N9DAN69X2c",
+					"expanded_url": "https://twitter.com/h_bash/status/1269873048577961985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 432,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269870079233179600,
+		"in_reply_to_status_id_str": "1269870079233179649",
+		"in_reply_to_user_id": 2436389418,
+		"in_reply_to_user_id_str": "2436389418",
+		"in_reply_to_screen_name": "SwiftOnSecurity",
+		"user": {
+			"id": 33384286,
+			"id_str": "33384286",
+			"name": "Hani ✊🏽🧢",
+			"screen_name": "h_bash",
+			"location": "San Francisco, CA",
+			"description": "I am very good at mashing my thumbs on the glowy rectangle on the bird site",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1618,
+			"friends_count": 224,
+			"listed_count": 16,
+			"created_at": "Mon Apr 20 02:19:30 +0000 2009",
+			"favourites_count": 12424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199847879105363969/2scsY_xX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199847879105363969/2scsY_xX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33384286/1557875815",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SwiftOnSecurity https://t.co/m9kKxhPsph\nHoly shit\n\nWhat the hell\n\nI really hope you're not right about this\n\n\"Imagine large cities without power for a week, a month, or a year\" https://t.co/N9DAN69X2c"
+	},
+	{
 		"created_at": "Fri Jun 05 20:16:08 +0000 2020",
 		"id": 1268919762962264000,
 		"id_str": "1269000070046846976",
