@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 20:55:40 +0000 2020",
+		"id": 1270459573367984000,
+		"id_str": "1270459573367984128",
+		"full_text": "ICONIC https://t.co/MmkgQ7X4Zi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MmkgQ7X4Zi",
+					"expanded_url": "https://twitter.com/ClaireWyckoff/status/1270169193896226817",
+					"display_url": "twitter.com/ClaireWyckoff/…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 74,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270169193896226800,
+		"quoted_status_id_str": "1270169193896226817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MmkgQ7X4Zi",
+			"expanded": "https://twitter.com/ClaireWyckoff/status/1270169193896226817",
+			"display": "twitter.com/ClaireWyckoff/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 09 01:41:49 +0000 2020",
+			"id": 1270169193896226800,
+			"id_str": "1270169193896226817",
+			"full_text": "Dear fellow white ladies, https://t.co/sQQWBqLddc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1270169074648014800,
+						"id_str": "1270169074648014848",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270169074648014848/pu/img/K8tW5W0BSQluHsl6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270169074648014848/pu/img/K8tW5W0BSQluHsl6.jpg",
+						"url": "https://t.co/sQQWBqLddc",
+						"display_url": "pic.twitter.com/sQQWBqLddc",
+						"expanded_url": "https://twitter.com/ClaireWyckoff/status/1270169193896226817/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270169074648014800,
+						"id_str": "1270169074648014848",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270169074648014848/pu/img/K8tW5W0BSQluHsl6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270169074648014848/pu/img/K8tW5W0BSQluHsl6.jpg",
+						"url": "https://t.co/sQQWBqLddc",
+						"display_url": "pic.twitter.com/sQQWBqLddc",
+						"expanded_url": "https://twitter.com/ClaireWyckoff/status/1270169193896226817/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 58758,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270169074648014848/pu/vid/720x1280/8-cr7Uj_4Z1Wu22T.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270169074648014848/pu/vid/320x568/VbToFbiSZT5v3fCA.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270169074648014848/pu/vid/360x640/eCOZ1MJ3XKsq3M8Z.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1270169074648014848/pu/pl/Qyu1d2-UZxPeZNh3.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17111114,
+				"id_str": "17111114",
+				"name": "claire wyckoff",
+				"screen_name": "ClaireWyckoff",
+				"location": "Los Angeles, CA",
+				"description": "BLACK LIVES MATTER. Comedy writer, sometimes performer. Inventor of Dickrunning. Let me write on your show, LA! IG: og_dick_run_claire | She/her/fuckstick",
+				"url": "https://t.co/IZ57ye71gp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IZ57ye71gp",
+								"expanded_url": "http://clairewyckoff.com",
+								"display_url": "clairewyckoff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4435,
+				"friends_count": 1130,
+				"listed_count": 33,
+				"created_at": "Sun Nov 02 05:25:51 +0000 2008",
+				"favourites_count": 5483,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201213968397651968/t9s0YtOa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201213968397651968/t9s0YtOa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17111114/1559603015",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6023,
+			"favorite_count": 16923,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICONIC https://t.co/MmkgQ7X4Zi"
+	},
+	{
 		"created_at": "Mon Jun 08 12:02:36 +0000 2020",
 		"id": 1269937436936810500,
 		"id_str": "1269963031242510338",
