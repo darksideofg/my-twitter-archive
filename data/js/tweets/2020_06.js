@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 22:07:04 +0000 2020",
+		"id": 1270829871086870500,
+		"id_str": "1270839927002083335",
+		"full_text": "Emma Watson and Daniel Radcliffe said: fuck J.K Rowling’s rights\n\nI stan and respect these legends✨ https://t.co/XsnDbLriXO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270829836777541600,
+					"id_str": "1270829836777541633",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EaLlAN8X0AE3Q-E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaLlAN8X0AE3Q-E.jpg",
+					"url": "https://t.co/XsnDbLriXO",
+					"display_url": "pic.twitter.com/XsnDbLriXO",
+					"expanded_url": "https://twitter.com/itsteenwolfx/status/1270829871086870528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 988,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 988,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270829836777541600,
+					"id_str": "1270829836777541633",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EaLlAN8X0AE3Q-E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaLlAN8X0AE3Q-E.jpg",
+					"url": "https://t.co/XsnDbLriXO",
+					"display_url": "pic.twitter.com/XsnDbLriXO",
+					"expanded_url": "https://twitter.com/itsteenwolfx/status/1270829871086870528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 988,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 988,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270829837721260000,
+					"id_str": "1270829837721260033",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EaLlARdX0AEODz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaLlARdX0AEODz5.jpg",
+					"url": "https://t.co/XsnDbLriXO",
+					"display_url": "pic.twitter.com/XsnDbLriXO",
+					"expanded_url": "https://twitter.com/itsteenwolfx/status/1270829871086870528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 959,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2716068767,
+			"id_str": "2716068767",
+			"name": "black widow",
+			"screen_name": "itsteenwolfx",
+			"location": "Milano, Lombardia",
+			"description": "𝙴𝚟𝚎𝚛𝚢𝚘𝚗𝚎 𝚢𝚘𝚞 𝚖𝚎𝚎𝚝 𝚒𝚜 𝚏𝚒𝚐𝚑𝚝𝚒𝚗𝚐 𝚊 𝚋𝚊𝚝𝚝𝚕𝚎 𝚢𝚘𝚞 𝚔𝚗𝚘𝚠 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝. 𝙱𝚎 𝚔𝚒𝚗𝚍. 𝙰𝚕𝚠𝚊𝚢𝚜.  🦁&🐍",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8127,
+			"friends_count": 6457,
+			"listed_count": 36,
+			"created_at": "Thu Jul 17 22:15:05 +0000 2014",
+			"favourites_count": 78617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270782959352713218/cR43QMaM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270782959352713218/cR43QMaM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2716068767/1591813247",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 875,
+		"favorite_count": 3820,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Emma Watson and Daniel Radcliffe said: fuck J.K Rowling’s rights\n\nI stan and respect these legends✨ https://t.co/XsnDbLriXO"
+	},
+	{
+		"created_at": "Wed Jun 10 22:02:28 +0000 2020",
+		"id": 1270787941275762700,
+		"id_str": "1270838770959618048",
+		"full_text": "Since JK Rowling has blocked any reply to this litany of half-truths and transphobic dogwhistles, I thought I'd catalogue them properly here: https://t.co/vo3AsrZJLz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vo3AsrZJLz",
+					"expanded_url": "https://twitter.com/jk_rowling/status/1270749170215903232",
+					"display_url": "twitter.com/jk_rowling/sta…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36620095,
+			"id_str": "36620095",
+			"name": "Andrew James Carter",
+			"screen_name": "Carter_AndrewJ",
+			"location": "Oxford, UK",
+			"description": "CEO and Co-Founder of Podium. Building a user-moderated social network to stop toxicity, misinformation, and abuse online. Follow @PodiumNetwork. He/Him.",
+			"url": "https://t.co/hal1RmEsq1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hal1RmEsq1",
+							"expanded_url": "https://www.podium-network.com/",
+							"display_url": "podium-network.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4775,
+			"friends_count": 826,
+			"listed_count": 41,
+			"created_at": "Thu Apr 30 07:50:19 +0000 2009",
+			"favourites_count": 54014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173904044458487808/uxI-U3-d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173904044458487808/uxI-U3-d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36620095/1583929439",
+			"profile_link_color": "00AA22",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270749170215903200,
+		"quoted_status_id_str": "1270749170215903232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vo3AsrZJLz",
+			"expanded": "https://twitter.com/jk_rowling/status/1270749170215903232",
+			"display": "twitter.com/jk_rowling/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 10 16:06:26 +0000 2020",
+			"id": 1270749170215903200,
+			"id_str": "1270749170215903232",
+			"full_text": "TERF wars\n\nhttps://t.co/mc58tGXOjs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mc58tGXOjs",
+						"expanded_url": "https://www.jkrowling.com/answers/",
+						"display_url": "jkrowling.com/answers/",
+						"indices": [
+							11,
+							34
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62513246,
+				"id_str": "62513246",
+				"name": "J.K. Rowling",
+				"screen_name": "jk_rowling",
+				"location": "Scotland",
+				"description": "Writer sometimes known as Robert Galbraith",
+				"url": "https://t.co/7iaKMs3iC6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7iaKMs3iC6",
+								"expanded_url": "http://www.jkrowling.com",
+								"display_url": "jkrowling.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14548662,
+				"friends_count": 787,
+				"listed_count": 34236,
+				"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+				"favourites_count": 30376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13825,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1590495260",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10463,
+			"favorite_count": 42125,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24436,
+		"favorite_count": 65696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since JK Rowling has blocked any reply to this litany of half-truths and transphobic dogwhistles, I thought I'd catalogue them properly here: https://t.co/vo3AsrZJLz"
+	},
+	{
+		"created_at": "Wed Jun 10 18:08:33 +0000 2020",
+		"id": 1270779901642236000,
+		"id_str": "1270779901642235906",
+		"full_text": "https://t.co/Q5pRZfTjHg https://t.co/h7LUwer8jt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q5pRZfTjHg",
+					"expanded_url": "https://twitter.com/jk_rowling/status/1270749170215903232",
+					"display_url": "twitter.com/jk_rowling/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270779897749876700,
+					"id_str": "1270779897749876736",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EaK3lYkWsAAVU0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaK3lYkWsAAVU0l.jpg",
+					"url": "https://t.co/h7LUwer8jt",
+					"display_url": "pic.twitter.com/h7LUwer8jt",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1270779901642235906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270779897749876700,
+					"id_str": "1270779897749876736",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EaK3lYkWsAAVU0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaK3lYkWsAAVU0l.jpg",
+					"url": "https://t.co/h7LUwer8jt",
+					"display_url": "pic.twitter.com/h7LUwer8jt",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1270779901642235906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 74,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270749170215903200,
+		"quoted_status_id_str": "1270749170215903232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q5pRZfTjHg",
+			"expanded": "https://twitter.com/jk_rowling/status/1270749170215903232",
+			"display": "twitter.com/jk_rowling/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 10 16:06:26 +0000 2020",
+			"id": 1270749170215903200,
+			"id_str": "1270749170215903232",
+			"full_text": "TERF wars\n\nhttps://t.co/mc58tGXOjs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mc58tGXOjs",
+						"expanded_url": "https://www.jkrowling.com/answers/",
+						"display_url": "jkrowling.com/answers/",
+						"indices": [
+							11,
+							34
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62513246,
+				"id_str": "62513246",
+				"name": "J.K. Rowling",
+				"screen_name": "jk_rowling",
+				"location": "Scotland",
+				"description": "Writer sometimes known as Robert Galbraith",
+				"url": "https://t.co/7iaKMs3iC6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7iaKMs3iC6",
+								"expanded_url": "http://www.jkrowling.com",
+								"display_url": "jkrowling.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14548662,
+				"friends_count": 787,
+				"listed_count": 34236,
+				"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+				"favourites_count": 30376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13825,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1590495260",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10463,
+			"favorite_count": 42125,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Q5pRZfTjHg https://t.co/h7LUwer8jt"
+	},
+	{
 		"created_at": "Tue Jun 09 20:55:40 +0000 2020",
 		"id": 1270459573367984000,
 		"id_str": "1270459573367984128",
