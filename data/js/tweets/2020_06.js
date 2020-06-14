@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 05:39:38 +0000 2020",
+		"id": 1271678594813747200,
+		"id_str": "1271678594813747200",
+		"full_text": "Tldr gli spaghetti B@rill@ sono la fonte del virus https://t.co/Dtp22V86vn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dtp22V86vn",
+					"expanded_url": "https://twitter.com/whmullally/status/1271109120997933058",
+					"display_url": "twitter.com/whmullally/sta…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 74,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271109120997933000,
+		"quoted_status_id_str": "1271109120997933058",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dtp22V86vn",
+			"expanded": "https://twitter.com/whmullally/status/1271109120997933058",
+			"display": "twitter.com/whmullally/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 11 15:56:45 +0000 2020",
+			"id": 1271109120997933000,
+			"id_str": "1271109120997933058",
+			"full_text": "A friend who’s fully into the covid conspiracies sent me this post that says Captain America predicted the coronavirus outbreak in 2011, and while its obviously bs, I started fixating on that circled image on the right. https://t.co/N4XywDTZEx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1271109108851245000,
+						"id_str": "1271109108851245057",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPi__fXgAEeyHS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPi__fXgAEeyHS.jpg",
+						"url": "https://t.co/N4XywDTZEx",
+						"display_url": "pic.twitter.com/N4XywDTZEx",
+						"expanded_url": "https://twitter.com/whmullally/status/1271109120997933058/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1046,
+								"h": 2047,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 613,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 347,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271109108851245000,
+						"id_str": "1271109108851245057",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPi__fXgAEeyHS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPi__fXgAEeyHS.jpg",
+						"url": "https://t.co/N4XywDTZEx",
+						"display_url": "pic.twitter.com/N4XywDTZEx",
+						"expanded_url": "https://twitter.com/whmullally/status/1271109120997933058/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1046,
+								"h": 2047,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 613,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 347,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15181621,
+				"id_str": "15181621",
+				"name": "William Mullally 🚮",
+				"screen_name": "whmullally",
+				"location": "Dubai, United Arab Emirates",
+				"description": "Writer/Film Critic/TV & Radio Broadcaster | The Cutaway | The Insider Arabia - Dubai TV | Arab News | The National | Dubai Eye 103.8 | GQ | It’s spaghetti.",
+				"url": "https://t.co/LS1H79r5Ov",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LS1H79r5Ov",
+								"expanded_url": "http://youtube.com/c/thecutaway",
+								"display_url": "youtube.com/c/thecutaway",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5756,
+				"friends_count": 2108,
+				"listed_count": 67,
+				"created_at": "Fri Jun 20 16:40:42 +0000 2008",
+				"favourites_count": 34372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49861,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1041322237238886400/LtBGKh4o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041322237238886400/LtBGKh4o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15181621/1401457032",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22353,
+			"favorite_count": 69678,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Tldr gli spaghetti B@rill@ sono la fonte del virus https://t.co/Dtp22V86vn"
+	},
+	{
 		"created_at": "Wed Jun 10 22:07:04 +0000 2020",
 		"id": 1270829871086870500,
 		"id_str": "1270839927002083335",
