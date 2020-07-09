@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 15:04:36 +0000 2020",
+		"id": 1211422066278310000,
+		"id_str": "1280880471363260418",
+		"full_text": "@InternetHippo @SwiftOnSecurity So, Twitter is like an eldritch lovecraftian prison where we, the prisoners, can leave, but we decided to stay",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InternetHippo",
+					"name": "chief posting officer",
+					"id": 19638752,
+					"id_str": "19638752",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SwiftOnSecurity",
+					"name": "Swift⬡nSecurity",
+					"id": 2436389418,
+					"id_str": "2436389418",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1211329727119679500,
+		"in_reply_to_status_id_str": "1211329727119679488",
+		"in_reply_to_user_id": 19638752,
+		"in_reply_to_user_id_str": "19638752",
+		"in_reply_to_screen_name": "InternetHippo",
+		"user": {
+			"id": 111968882,
+			"id_str": "111968882",
+			"name": "Neohumano",
+			"screen_name": "Leokdar",
+			"location": "Madrid, Comunidad de Madrid",
+			"description": "Un fantasma en la maquina",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1857,
+			"friends_count": 1860,
+			"listed_count": 30,
+			"created_at": "Sat Feb 06 19:58:16 +0000 2010",
+			"favourites_count": 26729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 110360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262185472572436481/ciW_J_m9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262185472572436481/ciW_J_m9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111968882/1486485005",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@InternetHippo @SwiftOnSecurity So, Twitter is like an eldritch lovecraftian prison where we, the prisoners, can leave, but we decided to stay"
+	},
+	{
 		"created_at": "Wed Jul 01 15:21:16 +0000 2020",
 		"id": 1278091924948357000,
 		"id_str": "1278347949559382016",
