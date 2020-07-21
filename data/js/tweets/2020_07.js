@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 13:04:32 +0000 2020",
+		"id": 1284861906189275100,
+		"id_str": "1285198909862813696",
+		"full_text": "friendly reminder that one direction’s 10th anniversary is in 85 hours",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139372385042350100,
+			"id_str": "1139372385042350085",
+			"name": "𝒓𝒂𝒄𝒉𝒆𝒍 ☻",
+			"screen_name": "canyon_lou",
+			"location": "𝟷/𝟹 𝚘𝚏 𝚛𝚎𝚖𝚋𝚢 / 𝓈𝒽𝑒",
+			"description": "“𝐬𝐡𝐮𝐭 𝐮𝐩! 𝐢’𝐦 𝐦𝐚𝐬𝐬𝐢𝐯𝐞.” ◟̽◞̽ 𝘭𝘰𝘶𝘪𝘦/𝘭𝘢𝘳𝘳𝘪𝘦/𝘻𝘢𝘺𝘯²⁸",
+			"url": "https://t.co/BV1BdHYMkN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BV1BdHYMkN",
+							"expanded_url": "https://curiouscat.qa/canyon_lou",
+							"display_url": "curiouscat.qa/canyon_lou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7763,
+			"friends_count": 876,
+			"listed_count": 33,
+			"created_at": "Fri Jun 14 03:21:59 +0000 2019",
+			"favourites_count": 7534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283276682086973440/OGQOEiks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283276682086973440/OGQOEiks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139372385042350085/1594791978",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2544,
+		"favorite_count": 18605,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "friendly reminder that one direction’s 10th anniversary is in 85 hours"
+	},
+	{
 		"created_at": "Fri Jul 17 12:57:04 +0000 2020",
 		"id": 1284109864797704200,
 		"id_str": "1284109864797704193",
