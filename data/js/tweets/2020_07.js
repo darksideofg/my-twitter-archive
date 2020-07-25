@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 24 12:39:16 +0000 2020",
+		"id": 1286281033449705500,
+		"id_str": "1286642102655483908",
+		"full_text": "Taylor posed inside of a white gay’s tattoo sleeve! https://t.co/YB2IUL6RUZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1286281023643361300,
+					"id_str": "1286281023643361281",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EdnJxqeWoAEVGzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdnJxqeWoAEVGzB.jpg",
+					"url": "https://t.co/YB2IUL6RUZ",
+					"display_url": "pic.twitter.com/YB2IUL6RUZ",
+					"expanded_url": "https://twitter.com/ryanbloomquist/status/1286281033449705474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286281023643361300,
+					"id_str": "1286281023643361281",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EdnJxqeWoAEVGzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdnJxqeWoAEVGzB.jpg",
+					"url": "https://t.co/YB2IUL6RUZ",
+					"display_url": "pic.twitter.com/YB2IUL6RUZ",
+					"expanded_url": "https://twitter.com/ryanbloomquist/status/1286281033449705474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21399236,
+			"id_str": "21399236",
+			"name": "Ryan Bloomquist",
+			"screen_name": "ryanbloomquist",
+			"location": "New York City",
+			"description": "Development Director for the Anna Delvey Foundation. | Co-author of Riverdish: The Unauthorized Case Files of Riverdale",
+			"url": "https://t.co/fp3dcP6vhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fp3dcP6vhv",
+							"expanded_url": "http://www.ryanbloomquist.com",
+							"display_url": "ryanbloomquist.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4690,
+			"friends_count": 987,
+			"listed_count": 19,
+			"created_at": "Fri Feb 20 14:17:08 +0000 2009",
+			"favourites_count": 54783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229804775581081602/WUkn3KT1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229804775581081602/WUkn3KT1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21399236/1563631559",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 711,
+		"favorite_count": 7268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Taylor posed inside of a white gay’s tattoo sleeve! https://t.co/YB2IUL6RUZ"
+	},
+	{
 		"created_at": "Thu Jul 23 13:49:38 +0000 2020",
 		"id": 1286297422973599700,
 		"id_str": "1286297422973599744",
