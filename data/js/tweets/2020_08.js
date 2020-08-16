@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 13:49:22 +0000 2020",
+		"id": 1294400478013534200,
+		"id_str": "1294632276052119553",
+		"full_text": "Men who follow me, there's an awful truth that I need you try to sit with and wrap your head around:\n\nSome of your male friends, who you love like a brother, who would give you the shirt off their back? \n\nThey are UNSPEAKABLY horrible to me and mine when you're not around.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739837524,
+			"id_str": "739837524",
+			"name": "NickyKnacks",
+			"screen_name": "nickyknacks",
+			"location": "Philadelphia, PA",
+			"description": "I write for money and dismantle the patriarchy for free. Check out my Medium https://t.co/fPiK546to1 and crafting blog https://t.co/HsTxPNeg7N she/her #binders",
+			"url": "https://t.co/0NZW3invFV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0NZW3invFV",
+							"expanded_url": "http://www.nickyknacks.com",
+							"display_url": "nickyknacks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fPiK546to1",
+							"expanded_url": "http://medium.com/@nickyknacks",
+							"display_url": "medium.com/@nickyknacks",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/HsTxPNeg7N",
+							"expanded_url": "http://nickyknacks.com",
+							"display_url": "nickyknacks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5977,
+			"friends_count": 378,
+			"listed_count": 82,
+			"created_at": "Mon Aug 06 04:26:23 +0000 2012",
+			"favourites_count": 2552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289076159481815041/1arbtXEg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289076159481815041/1arbtXEg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739837524/1445707159",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 534,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Men who follow me, there's an awful truth that I need you try to sit with and wrap your head around:\n\nSome of your male friends, who you love like a brother, who would give you the shirt off their back? \n\nThey are UNSPEAKABLY horrible to me and mine when you're not around."
+	},
+	{
 		"created_at": "Sat Aug 01 06:46:22 +0000 2020",
 		"id": 1289452396637089800,
 		"id_str": "1289452396637089792",
