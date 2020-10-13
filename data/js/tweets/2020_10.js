@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 10:25:02 +0000 2020",
+		"id": 1315415997797425200,
+		"id_str": "1315599349070663681",
+		"full_text": "Today’s Annie and Hallie’s birthday 😳 https://t.co/8JRjdQqAT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315415967074189300,
+					"id_str": "1315415967074189312",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315415967074189312/pu/img/duopuF1V6Dd-d9Hs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315415967074189312/pu/img/duopuF1V6Dd-d9Hs.jpg",
+					"url": "https://t.co/8JRjdQqAT9",
+					"display_url": "pic.twitter.com/8JRjdQqAT9",
+					"expanded_url": "https://twitter.com/drugproblem/status/1315415997797425152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315415967074189300,
+					"id_str": "1315415967074189312",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315415967074189312/pu/img/duopuF1V6Dd-d9Hs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315415967074189312/pu/img/duopuF1V6Dd-d9Hs.jpg",
+					"url": "https://t.co/8JRjdQqAT9",
+					"display_url": "pic.twitter.com/8JRjdQqAT9",
+					"expanded_url": "https://twitter.com/drugproblem/status/1315415997797425152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12680,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315415967074189312/pu/vid/480x270/ErtzaRXkSNUR0mJY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1315415967074189312/pu/pl/wHPI3c8Y0-P7ip2G.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315415967074189312/pu/vid/640x360/F2lTw6KOrjasIyLJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 972097664786444300,
+			"id_str": "972097664786444291",
+			"name": "not lindsay lohan",
+			"screen_name": "drugproblem",
+			"location": "West Hollywood, CA",
+			"description": "fan account. i am not affiliated with lindsay lohan. please respect my privacy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19489,
+			"friends_count": 1503,
+			"listed_count": 66,
+			"created_at": "Fri Mar 09 13:11:58 +0000 2018",
+			"favourites_count": 31199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301270682383212544/IQQzrh-y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301270682383212544/IQQzrh-y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/972097664786444291/1558943246",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today’s Annie and Hallie’s birthday 😳 https://t.co/8JRjdQqAT9"
+	},
+	{
 		"created_at": "Sun Oct 11 20:49:46 +0000 2020",
 		"id": 1315166301422186500,
 		"id_str": "1315394181402185728",
