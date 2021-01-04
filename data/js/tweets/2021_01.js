@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 19:26:26 +0000 2021",
+		"id": 1030225104234373100,
+		"id_str": "1345813791121035265",
+		"full_text": "@am_anatiala imagine if keeping your car idling 24/7 produced solved Sudokus you could trade for heroin",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "am_anatiala",
+					"name": "asia murphy, fuck ICE (waiting out the parameter)",
+					"id": 2944953687,
+					"id_str": "2944953687",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1030223326826950700,
+		"in_reply_to_status_id_str": "1030223326826950656",
+		"in_reply_to_user_id": 2944953687,
+		"in_reply_to_user_id_str": "2944953687",
+		"in_reply_to_screen_name": "am_anatiala",
+		"user": {
+			"id": 268052347,
+			"id_str": "268052347",
+			"name": "rev. howard arson",
+			"screen_name": "Theophite",
+			"location": "en route",
+			"description": "No highly esteemed deed is commemorated here. Nothing valued is here. This place is a message and part of a system of messages. \n\nAny pronouns are fine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11348,
+			"friends_count": 996,
+			"listed_count": 104,
+			"created_at": "Fri Mar 18 02:02:09 +0000 2011",
+			"favourites_count": 22676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335437776989261825/Uz7TqNvv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335437776989261825/Uz7TqNvv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/268052347/1597770130",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5129,
+		"favorite_count": 20800,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@am_anatiala imagine if keeping your car idling 24/7 produced solved Sudokus you could trade for heroin"
+	},
+	{
 		"created_at": "Sat Jan 02 16:20:38 +0000 2021",
 		"id": 1345404647289315300,
 		"id_str": "1345404647289315328",
