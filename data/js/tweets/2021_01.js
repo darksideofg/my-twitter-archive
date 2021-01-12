@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 06:05:52 +0000 2021",
+		"id": 1348511425904390100,
+		"id_str": "1348511425904390145",
+		"full_text": "Pazzesco https://t.co/chIfPhqafs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/chIfPhqafs",
+					"expanded_url": "https://twitter.com/chartdata/status/1348393068156776451",
+					"display_url": "twitter.com/chartdata/stat…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 72,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348393068156776400,
+		"quoted_status_id_str": "1348393068156776451",
+		"quoted_status_permalink": {
+			"url": "https://t.co/chIfPhqafs",
+			"expanded": "https://twitter.com/chartdata/status/1348393068156776451",
+			"display": "twitter.com/chartdata/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 10 22:15:34 +0000 2021",
+			"id": 1348393068156776400,
+			"id_str": "1348393068156776451",
+			"full_text": ".@RynWeaver's \"Pierre\" debuts at #8 on the global Spotify Viral 50 chart, the top new entry.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RynWeaver",
+						"name": "✦ Ryn Weaver ✦",
+						"id": 2546367552,
+						"id_str": "2546367552",
+						"indices": [
+							1,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744260935527735300,
+				"id_str": "744260935527735296",
+				"name": "chart data",
+				"screen_name": "chartdata",
+				"location": "turn on notifications",
+				"description": "music charts, awards, news and more in real time | business inquiries : contact@chartdata.org | https://t.co/yuPb2rfNtG",
+				"url": "https://t.co/0Di7NvHR43",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Di7NvHR43",
+								"expanded_url": "http://chartdata.org",
+								"display_url": "chartdata.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yuPb2rfNtG",
+								"expanded_url": "http://instagram.com/chartdata.twt",
+								"display_url": "instagram.com/chartdata.twt",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 758945,
+				"friends_count": 439,
+				"listed_count": 1971,
+				"created_at": "Sat Jun 18 20:10:09 +0000 2016",
+				"favourites_count": 2685,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 93177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1342086006149791750/Ar0drcXS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342086006149791750/Ar0drcXS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744260935527735296/1601471660",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 601,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Pazzesco https://t.co/chIfPhqafs"
+	},
+	{
 		"created_at": "Sun Jan 10 09:49:42 +0000 2021",
 		"id": 1348205367134662700,
 		"id_str": "1348205367134662656",
