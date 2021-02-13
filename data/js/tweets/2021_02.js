@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 19:24:25 +0000 2021",
+		"id": 1360303533510299600,
+		"id_str": "1360308798586519552",
+		"full_text": "Brunetta, Gelmini e Carfagna? Siamo passati direttamente al 2010?!? https://t.co/8lDulfLEtC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8lDulfLEtC",
+					"expanded_url": "https://twitter.com/neodie/status/1359985201296928772",
+					"display_url": "twitter.com/neodie/status/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23810329,
+			"id_str": "23810329",
+			"name": "Il farmacista di Lavagna",
+			"screen_name": "neodie",
+			"location": "Cavi di Lavagna",
+			"description": "If vision is the only validation then most of my life isn't real ~ he/him",
+			"url": "https://t.co/dkiBSU2W0I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dkiBSU2W0I",
+							"expanded_url": "http://www.instagram.com/neodie/",
+							"display_url": "instagram.com/neodie/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11332,
+			"friends_count": 1734,
+			"listed_count": 67,
+			"created_at": "Wed Mar 11 19:11:52 +0000 2009",
+			"favourites_count": 400257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 226562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162716619250032641/tYJ0bhTk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162716619250032641/tYJ0bhTk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23810329/1475423569",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359985201296928800,
+		"quoted_status_id_str": "1359985201296928772",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8lDulfLEtC",
+			"expanded": "https://twitter.com/neodie/status/1359985201296928772",
+			"display": "twitter.com/neodie/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 11 21:58:33 +0000 2021",
+			"id": 1359985201296928800,
+			"id_str": "1359985201296928772",
+			"full_text": "Harry Potter, Il diavolo veste Prada, stiamo rivivendo il 2020 insomma\n\n https://t.co/Ezy4TeVAtB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1348328405402595300,
+						"id_str": "1348328405402595328",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1348328405402595328/pu/img/_whzF5cUM1l9Xu2-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1348328405402595328/pu/img/_whzF5cUM1l9Xu2-.jpg",
+						"url": "https://t.co/Ezy4TeVAtB",
+						"display_url": "pic.twitter.com/Ezy4TeVAtB",
+						"expanded_url": "https://twitter.com/carolin08856256/status/1348328430832594944/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1348328430832595000,
+						"source_status_id_str": "1348328430832594944",
+						"source_user_id": 1327017983106031600,
+						"source_user_id_str": "1327017983106031619"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1348328405402595300,
+						"id_str": "1348328405402595328",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1348328405402595328/pu/img/_whzF5cUM1l9Xu2-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1348328405402595328/pu/img/_whzF5cUM1l9Xu2-.jpg",
+						"url": "https://t.co/Ezy4TeVAtB",
+						"display_url": "pic.twitter.com/Ezy4TeVAtB",
+						"expanded_url": "https://twitter.com/carolin08856256/status/1348328430832594944/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1348328430832595000,
+						"source_status_id_str": "1348328430832594944",
+						"source_user_id": 1327017983106031600,
+						"source_user_id_str": "1327017983106031619",
+						"video_info": {
+							"aspect_ratio": [
+								414,
+								229
+							],
+							"duration_millis": 16332,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1348328405402595328/pu/vid/488x270/sBuQIF9102heGWP2.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1348328405402595328/pu/pl/47mp_zNl101Pn9c6.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1348328405402595328/pu/vid/828x458/QwwkuaHHbEdZF_GN.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1327017983106031600,
+								"id_str": "1327017983106031619",
+								"name": "SSSC🐍❤️",
+								"screen_name": "ssscarolina8",
+								"location": "",
+								"description": "Appassionata di cinema impegnato, di trash e... soprattutto di Stefania Orlando 🐍👑",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 198,
+								"friends_count": 120,
+								"listed_count": 2,
+								"created_at": "Thu Nov 12 22:38:48 +0000 2020",
+								"favourites_count": 3249,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1076,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1358965024165941248/yocrjsb1_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358965024165941248/yocrjsb1_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1327017983106031619/1606479936",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23810329,
+				"id_str": "23810329",
+				"name": "Il farmacista di Lavagna",
+				"screen_name": "neodie",
+				"location": "Cavi di Lavagna",
+				"description": "If vision is the only validation then most of my life isn't real ~ he/him",
+				"url": "https://t.co/dkiBSU2W0I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dkiBSU2W0I",
+								"expanded_url": "http://www.instagram.com/neodie/",
+								"display_url": "instagram.com/neodie/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11332,
+				"friends_count": 1734,
+				"listed_count": 67,
+				"created_at": "Wed Mar 11 19:11:52 +0000 2009",
+				"favourites_count": 400257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 226562,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1162716619250032641/tYJ0bhTk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162716619250032641/tYJ0bhTk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23810329/1475423569",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 1,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Brunetta, Gelmini e Carfagna? Siamo passati direttamente al 2010?!? https://t.co/8lDulfLEtC"
+	},
+	{
 		"created_at": "Wed Feb 10 22:18:53 +0000 2021",
 		"id": 1359627929244885000,
 		"id_str": "1359627929244884995",
