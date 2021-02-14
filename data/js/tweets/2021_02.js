@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 13 22:35:56 +0000 2021",
+		"id": 1360715347372875800,
+		"id_str": "1360719382561886209",
+		"full_text": "On the one hand, you couldn’t actually pay me to fly on Frontier Airlines. Barring a legitimate life and death situation, I will never do it. On the other hand, this is the best self-inflicted social media brand fail we’ve seen in years, so I’m here for it. https://t.co/os2Q5GzVnO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/os2Q5GzVnO",
+					"expanded_url": "https://twitter.com/flyfrontier/status/1360623029705875456",
+					"display_url": "twitter.com/flyfrontier/st…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9866582,
+			"id_str": "9866582",
+			"name": "Christina Warren",
+			"screen_name": "film_girl",
+			"location": "SEA via NYC",
+			"description": "Sr Cloud Advocate Microsoft was: @Gizmodo @Mashable hosts: @ovrtrd @_RocketFM Networked: 5G Future. Loves media and tech. opinions = own christina@christina.is",
+			"url": "https://t.co/pU60V1ZNSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pU60V1ZNSc",
+							"expanded_url": "http://www.christina.is",
+							"display_url": "christina.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93918,
+			"friends_count": 13478,
+			"listed_count": 4897,
+			"created_at": "Thu Nov 01 22:45:37 +0000 2007",
+			"favourites_count": 105641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308921120360288256/17MPMqYU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308921120360288256/17MPMqYU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9866582/1398181728",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1360623029705875500,
+		"quoted_status_id_str": "1360623029705875456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/os2Q5GzVnO",
+			"expanded": "https://twitter.com/flyfrontier/status/1360623029705875456",
+			"display": "twitter.com/flyfrontier/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 13 16:13:04 +0000 2021",
+			"id": 1360623029705875500,
+			"id_str": "1360623029705875456",
+			"full_text": "Frontier wants Britneys to Fly for Free! If your first name is ‘Britney’ you can fly free.* Enter here: https://t.co/lgc1mQfIvd.\n \n#FreeBritney #BritneysFlyFree\n \n*Terms and conditions apply https://t.co/ifLzFR0yj5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FreeBritney",
+						"indices": [
+							131,
+							143
+						]
+					},
+					{
+						"text": "BritneysFlyFree",
+						"indices": [
+							144,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lgc1mQfIvd",
+						"expanded_url": "http://bit.ly/3rNlEJ9",
+						"display_url": "bit.ly/3rNlEJ9",
+						"indices": [
+							104,
+							127
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1360623025276731400,
+						"id_str": "1360623025276731394",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/EuHnbr7WQAI05Zh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuHnbr7WQAI05Zh.jpg",
+						"url": "https://t.co/ifLzFR0yj5",
+						"display_url": "pic.twitter.com/ifLzFR0yj5",
+						"expanded_url": "https://twitter.com/FlyFrontier/status/1360623029705875456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1360623025276731400,
+						"id_str": "1360623025276731394",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/EuHnbr7WQAI05Zh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuHnbr7WQAI05Zh.jpg",
+						"url": "https://t.co/ifLzFR0yj5",
+						"display_url": "pic.twitter.com/ifLzFR0yj5",
+						"expanded_url": "https://twitter.com/FlyFrontier/status/1360623029705875456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14172570,
+				"id_str": "14172570",
+				"name": "Frontier Airlines",
+				"screen_name": "FlyFrontier",
+				"location": "Denver, CO",
+				"description": "Frontier is committed to ensuring the Sky is for Everyone! Visit our @FrontierCare account for questions & concerns & @FlyFrontierJobs to become a team member!",
+				"url": "https://t.co/nikZmUZQkS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nikZmUZQkS",
+								"expanded_url": "http://bit.ly/FrontierSupportForm",
+								"display_url": "bit.ly/FrontierSuppor…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121370,
+				"friends_count": 1862,
+				"listed_count": 1736,
+				"created_at": "Tue Mar 18 21:07:16 +0000 2008",
+				"favourites_count": 6888,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "006643",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1353776661464895503/9W4z-tRr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353776661464895503/9W4z-tRr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14172570/1612557915",
+				"profile_link_color": "006643",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 149,
+			"favorite_count": 411,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the one hand, you couldn’t actually pay me to fly on Frontier Airlines. Barring a legitimate life and death situation, I will never do it. On the other hand, this is the best self-inflicted social media brand fail we’ve seen in years, so I’m here for it. https://t.co/os2Q5GzVnO"
+	},
+	{
 		"created_at": "Fri Feb 12 19:24:25 +0000 2021",
 		"id": 1360303533510299600,
 		"id_str": "1360308798586519552",
