@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 07:20:05 +0000 2021",
+		"id": 1362560363867164700,
+		"id_str": "1362663228229226496",
+		"full_text": "most of us harbor fears our friends secretly hate us but today Heidi Cruz’s friends said “wonder no more bitch!” and I think that’s beautiful.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 289754148,
+			"id_str": "289754148",
+			"name": "Ali Drucker",
+			"screen_name": "ali_drucker",
+			"location": "Los Angeles, CA",
+			"description": "Freelance writer covering sexual health + relationships || writing a book about college + sex || alexandra dot drucker at gmail dot com",
+			"url": "https://t.co/oe3YaDn9zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oe3YaDn9zb",
+							"expanded_url": "https://www.instagram.com/ali_drucker/",
+							"display_url": "instagram.com/ali_drucker/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5216,
+			"friends_count": 967,
+			"listed_count": 70,
+			"created_at": "Fri Apr 29 04:45:47 +0000 2011",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172556255153442817/Gnz3FKoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172556255153442817/Gnz3FKoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289754148/1581626991",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 617,
+		"favorite_count": 6132,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "most of us harbor fears our friends secretly hate us but today Heidi Cruz’s friends said “wonder no more bitch!” and I think that’s beautiful."
+	},
+	{
 		"created_at": "Wed Feb 17 21:30:55 +0000 2021",
 		"id": 1362149364953587700,
 		"id_str": "1362152570899292163",
