@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 09 21:46:11 +0000 2021",
+		"id": 1369404170667778000,
+		"id_str": "1369404170667778057",
+		"full_text": "Il bridge di marjorie.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109,
+			"friends_count": 75,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "Il bridge di marjorie."
+	},
+	{
+		"created_at": "Tue Mar 09 20:11:31 +0000 2021",
+		"id": 1369346460911734800,
+		"id_str": "1369380349139181569",
+		"full_text": "every single park hang in San Francisco https://t.co/fApsQ674YD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1369341235257700400,
+					"id_str": "1369341235257700355",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+					"url": "https://t.co/fApsQ674YD",
+					"display_url": "pic.twitter.com/fApsQ674YD",
+					"expanded_url": "https://twitter.com/yayalexisgay/status/1369346460911734784/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1614,
+							"h": 1608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1369341235257700400,
+					"id_str": "1369341235257700355",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+					"url": "https://t.co/fApsQ674YD",
+					"display_url": "pic.twitter.com/fApsQ674YD",
+					"expanded_url": "https://twitter.com/yayalexisgay/status/1369346460911734784/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1614,
+							"h": 1608,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59760,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369341235257700355/vid/320x320/C0Cig2bIzhjKbH0n.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1369341235257700355/pl/2l6Zmt25jAUNzL-P.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369341235257700355/vid/540x540/cVCZ-KIOZx_-Oleo.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369341235257700355/vid/720x720/t2Wd3SI8UVxGEQPE.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22785963,
+			"id_str": "22785963",
+			"name": "Alexis Gay",
+			"screen_name": "yayalexisgay",
+			"location": "San Francisco, CA",
+			"description": "Comedyperson | Host of @NonTechnicalPod | prev. Biz Ops & Partnerships @patreon | Type A NYC transplant pretending to be chill enough to live in the bay 🙃",
+			"url": "https://t.co/d3uN2kMmc3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d3uN2kMmc3",
+							"expanded_url": "http://youtube.com/alexisgay",
+							"display_url": "youtube.com/alexisgay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69901,
+			"friends_count": 707,
+			"listed_count": 354,
+			"created_at": "Wed Mar 04 15:22:09 +0000 2009",
+			"favourites_count": 28952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334189139080654849/1SDCGHVe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334189139080654849/1SDCGHVe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22785963/1607531069",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "030303",
+			"profile_sidebar_fill_color": "AEB1F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2176,
+		"favorite_count": 19828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "every single park hang in San Francisco https://t.co/fApsQ674YD"
+	},
+	{
 		"created_at": "Mon Mar 08 22:33:12 +0000 2021",
 		"id": 1368790222599782400,
 		"id_str": "1369053614304559105",
@@ -106,7 +408,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "𝒊𝒔𝒏𝒕𝒅𝒂𝒗𝒆𝒐𝒏𝒆 ⭑⋆⃟⊱✪⃝⊰⋆⃟⭑",
 			"screen_name": "IsntDaveOne",
 			"location": "🌎 Planet Earth 🏝",
-			"description": "👩‍👧‍👧 Proud Mommy of Two Beautiful Intelligent Daughters! ✨ Energy / Aura 🔮",
+			"description": "👩👧👧 Proud Mommy of Two Beautiful Intelligent Daughters! ✨ Energy / Aura 🔮",
 			"url": "https://t.co/wWembfEspc",
 			"entities": {
 				"url": {
