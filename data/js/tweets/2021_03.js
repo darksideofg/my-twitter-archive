@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 13 15:25:57 +0000 2021",
+		"id": 1370730288586850300,
+		"id_str": "1370758036097220614",
+		"full_text": "I am not going to make it in the new age. I hope they just kill me quickly and allow me a top sheet in my casket. https://t.co/LDmw6qLGYW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LDmw6qLGYW",
+					"expanded_url": "https://twitter.com/aprettypr/status/1370585816733511683",
+					"display_url": "twitter.com/aprettypr/stat…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148593548,
+			"id_str": "148593548",
+			"name": "Tressie McMillan Cottom",
+			"screen_name": "tressiemcphd",
+			"location": "Chapel Hill, NC",
+			"description": "When I measure, I include the measurer.  Literary: @DorianKarchmar Speaking: @tuesdayagency General: info@tressiemc.com #MacFellow",
+			"url": "https://t.co/aZNas1ECkJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aZNas1ECkJ",
+							"expanded_url": "https://tressie.substack.com",
+							"display_url": "tressie.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168442,
+			"friends_count": 4158,
+			"listed_count": 2031,
+			"created_at": "Thu May 27 03:06:44 +0000 2010",
+			"favourites_count": 49690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 286919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF3300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359976411344343050/9H15Nl5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359976411344343050/9H15Nl5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148593548/1569078414",
+			"profile_link_color": "AB241D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7900A",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370585816733511700,
+		"quoted_status_id_str": "1370585816733511683",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LDmw6qLGYW",
+			"expanded": "https://twitter.com/aprettypr/status/1370585816733511683",
+			"display": "twitter.com/aprettypr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 13 04:01:37 +0000 2021",
+			"id": 1370585816733511700,
+			"id_str": "1370585816733511683",
+			"full_text": "They just made that look so easy😭 https://t.co/8ng8J3mqp5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1370585710802141200,
+						"id_str": "1370585710802141184",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1370585710802141184/pu/img/-z2tFEDPCN-E8kIF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1370585710802141184/pu/img/-z2tFEDPCN-E8kIF.jpg",
+						"url": "https://t.co/8ng8J3mqp5",
+						"display_url": "pic.twitter.com/8ng8J3mqp5",
+						"expanded_url": "https://twitter.com/aprettyPR/status/1370585816733511683/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1370585710802141200,
+						"id_str": "1370585710802141184",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1370585710802141184/pu/img/-z2tFEDPCN-E8kIF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1370585710802141184/pu/img/-z2tFEDPCN-E8kIF.jpg",
+						"url": "https://t.co/8ng8J3mqp5",
+						"display_url": "pic.twitter.com/8ng8J3mqp5",
+						"expanded_url": "https://twitter.com/aprettyPR/status/1370585816733511683/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 59092,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1370585710802141184/pu/pl/0bTAsGWJQRL7GBu0.m3u8?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1370585710802141184/pu/vid/480x852/Fic-wU7QvYn00Khu.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1370585710802141184/pu/vid/576x1024/vZFZ2Xz5mHAgYdAa.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1370585710802141184/pu/vid/320x568/0X5tC6I6xUmfHjF5.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1370585038035763200,
+			"in_reply_to_status_id_str": "1370585038035763200",
+			"in_reply_to_user_id": 984033491737305100,
+			"in_reply_to_user_id_str": "984033491737305091",
+			"in_reply_to_screen_name": "aprettyPR",
+			"user": {
+				"id": 984033491737305100,
+				"id_str": "984033491737305091",
+				"name": "The God Tongue",
+				"screen_name": "aprettyPR",
+				"location": "Narnia ",
+				"description": "All I need is anime and women. maybe just anime and food. and water. and my phone. ok. anime, women, food, and my phone. #spoonie AKA💖💚 P/R💙🤍",
+				"url": "https://t.co/BCyVNfwTqX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BCyVNfwTqX",
+								"expanded_url": "https://youtu.be/C24S5YMNXXI",
+								"display_url": "youtu.be/C24S5YMNXXI",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6361,
+				"friends_count": 480,
+				"listed_count": 37,
+				"created_at": "Wed Apr 11 11:40:41 +0000 2018",
+				"favourites_count": 47475,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 126909,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349036732113694720/HbmKHqCZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349036732113694720/HbmKHqCZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/984033491737305091/1593703192",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 279,
+			"favorite_count": 1986,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 604,
+		"favorite_count": 6179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am not going to make it in the new age. I hope they just kill me quickly and allow me a top sheet in my casket. https://t.co/LDmw6qLGYW"
+	},
+	{
 		"created_at": "Fri Mar 12 20:04:39 +0000 2021",
 		"id": 1370465785659981800,
 		"id_str": "1370465785659981826",
