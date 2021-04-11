@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 10 18:27:49 +0000 2021",
+		"id": 1380871830114693000,
+		"id_str": "1380950662775590912",
+		"full_text": "microdosing a relationship by getting into arguments with my male friends",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135191418,
+			"id_str": "135191418",
+			"name": "i can be your long lost pal",
+			"screen_name": "PallaviGunalan",
+			"location": "Los Angeles, CA",
+			"description": "writer for Lovett or Leave It (@crookedmedia). co-executive director @respiraworks. free tutoring for Black students (DM). she/her",
+			"url": "https://t.co/hp9XbedvdO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hp9XbedvdO",
+							"expanded_url": "https://linktr.ee/pallavigunalan",
+							"display_url": "linktr.ee/pallavigunalan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50662,
+			"friends_count": 1764,
+			"listed_count": 119,
+			"created_at": "Tue Apr 20 15:56:45 +0000 2010",
+			"favourites_count": 167733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340799826225590273/hg-JjEcw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340799826225590273/hg-JjEcw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135191418/1608357773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4651,
+		"favorite_count": 68077,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "microdosing a relationship by getting into arguments with my male friends"
+	},
+	{
 		"created_at": "Fri Apr 09 17:07:51 +0000 2021",
 		"id": 1380317289120141300,
 		"id_str": "1380568149943320576",
@@ -25,7 +120,7 @@ Grailbird.data.tweets_2021_04 =
 		"user": {
 			"id": 538584246,
 			"id_str": "538584246",
-			"name": "Dinosaur Dracula 🦖🧛‍♂️",
+			"name": "Dinosaur Dracula 🦖🧛♂️",
 			"screen_name": "DinosaurDracula",
 			"location": "NYC and also Saturn",
 			"description": "I'm Matt. I run Dinosaur Dracula, a site about 1980s toys, 1990s candy, holidays, horror movies and weird recipes. Also 1/2 of the Purple Stuff Podcast.",
