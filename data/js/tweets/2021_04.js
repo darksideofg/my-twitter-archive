@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 06:39:40 +0000 2021",
+		"id": 1385725055821361200,
+		"id_str": "1386208268180234240",
+		"full_text": "the forbidden swimming pools https://t.co/niWCjawiSA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385725022581428200,
+					"id_str": "1385725022581428226",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsVkO9WEAIdqRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsVkO9WEAIdqRo.jpg",
+					"url": "https://t.co/niWCjawiSA",
+					"display_url": "pic.twitter.com/niWCjawiSA",
+					"expanded_url": "https://twitter.com/huei_sears/status/1385725055821361152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385725022581428200,
+					"id_str": "1385725022581428226",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsVkO9WEAIdqRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsVkO9WEAIdqRo.jpg",
+					"url": "https://t.co/niWCjawiSA",
+					"display_url": "pic.twitter.com/niWCjawiSA",
+					"expanded_url": "https://twitter.com/huei_sears/status/1385725055821361152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1385723711026761700,
+					"id_str": "1385723711026761734",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsUX5CWEAY9OcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsUX5CWEAY9OcJ.jpg",
+					"url": "https://t.co/niWCjawiSA",
+					"display_url": "pic.twitter.com/niWCjawiSA",
+					"expanded_url": "https://twitter.com/huei_sears/status/1385725055821361152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1385724217233232000,
+					"id_str": "1385724217233231878",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsU1WzX0AYHegv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsU1WzX0AYHegv.jpg",
+					"url": "https://t.co/niWCjawiSA",
+					"display_url": "pic.twitter.com/niWCjawiSA",
+					"expanded_url": "https://twitter.com/huei_sears/status/1385725055821361152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93041954,
+			"id_str": "93041954",
+			"name": "Huei 🌟",
+			"screen_name": "huei_sears",
+			"location": "",
+			"description": "✨ she/her ✨ PhD student at @nuciera ✨ I love Bones, math, coffee, Gillian Anderson, & Taylor Swift ✨ @APSphysics ambassador & @astrobites author & socials ✨",
+			"url": "https://t.co/4Mzo6aF3MK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Mzo6aF3MK",
+							"expanded_url": "https://blacklivesmatters.carrd.co/#",
+							"display_url": "blacklivesmatters.carrd.co/#",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 566,
+			"listed_count": 7,
+			"created_at": "Fri Nov 27 20:30:49 +0000 2009",
+			"favourites_count": 31384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357622307905286147/_VnuWSWK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357622307905286147/_VnuWSWK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93041954/1580760191",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "878387",
+			"profile_text_color": "030303",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 969,
+		"favorite_count": 7838,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the forbidden swimming pools https://t.co/niWCjawiSA"
+	},
+	{
 		"created_at": "Sat Apr 24 10:40:09 +0000 2021",
 		"id": 1385906400363155500,
 		"id_str": "1385906400363155457",
