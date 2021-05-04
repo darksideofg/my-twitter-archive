@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 03 21:07:28 +0000 2021",
+		"id": 1389325760280813600,
+		"id_str": "1389325760280813572",
+		"full_text": "se non ce l’hanno fatta loro che speranza abbiamo noi comuni mortali https://t.co/vldJR01Gh7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vldJR01Gh7",
+					"expanded_url": "https://twitter.com/BillGates/status/1389316412259270657",
+					"display_url": "twitter.com/BillGates/stat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 74,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389316412259270700,
+		"quoted_status_id_str": "1389316412259270657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vldJR01Gh7",
+			"expanded": "https://twitter.com/BillGates/status/1389316412259270657",
+			"display": "twitter.com/BillGates/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 03 20:30:19 +0000 2021",
+			"id": 1389316412259270700,
+			"id_str": "1389316412259270657",
+			"full_text": "https://t.co/padmHSgWGc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1389315641882992600,
+						"id_str": "1389315641882992640",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E0fXNyNUYAAWfXS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0fXNyNUYAAWfXS.jpg",
+						"url": "https://t.co/padmHSgWGc",
+						"display_url": "pic.twitter.com/padmHSgWGc",
+						"expanded_url": "https://twitter.com/BillGates/status/1389316412259270657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1389315641882992600,
+						"id_str": "1389315641882992640",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E0fXNyNUYAAWfXS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0fXNyNUYAAWfXS.jpg",
+						"url": "https://t.co/padmHSgWGc",
+						"display_url": "pic.twitter.com/padmHSgWGc",
+						"expanded_url": "https://twitter.com/BillGates/status/1389316412259270657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50393960,
+				"id_str": "50393960",
+				"name": "Bill Gates",
+				"screen_name": "BillGates",
+				"location": "Seattle, WA",
+				"description": "Sharing things I'm learning through my foundation work and other interests.",
+				"url": "https://t.co/qbZHDSH3Bx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qbZHDSH3Bx",
+								"expanded_url": "http://gatesnot.es/HowToAvoidAClimateDisaster",
+								"display_url": "gatesnot.es/HowToAvoidACli…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54747543,
+				"friends_count": 281,
+				"listed_count": 121012,
+				"created_at": "Wed Jun 24 18:44:10 +0000 2009",
+				"favourites_count": 168,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3534,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50393960/1573055931",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27876,
+			"favorite_count": 129039,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "se non ce l’hanno fatta loro che speranza abbiamo noi comuni mortali https://t.co/vldJR01Gh7"
+	},
+	{
 		"created_at": "Sat May 01 06:24:18 +0000 2021",
 		"id": 1388378728170983400,
 		"id_str": "1388378728170983425",
