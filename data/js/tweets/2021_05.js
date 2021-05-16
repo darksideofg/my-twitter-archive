@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 15:46:40 +0000 2021",
+		"id": 1045907408474665000,
+		"id_str": "1393593682578784256",
+		"full_text": "well, well, well, if it isn't the consequences of my own actions",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 178550031,
+			"id_str": "178550031",
+			"name": "lil du bois ☄️🤔",
+			"screen_name": "geraldinreverse",
+			"location": "crummycarpet",
+			"description": "|poortraits| the smallest hand on the fastest clock in the house . @cjstoddi 💕",
+			"url": "https://t.co/Az5QsrmvE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Az5QsrmvE9",
+							"expanded_url": "https://open.spotify.com/artist/5GXPQTQbVAmAIiVaMChX8k?si=3UjVexY8SVGrJCfUJ7QVZQ",
+							"display_url": "open.spotify.com/artist/5GXPQTQ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2874,
+			"friends_count": 514,
+			"listed_count": 19,
+			"created_at": "Sun Aug 15 02:18:11 +0000 2010",
+			"favourites_count": 170828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270383962683174916/UTG_0PGt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270383962683174916/UTG_0PGt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178550031/1619842886",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138386,
+		"favorite_count": 300598,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "well, well, well, if it isn't the consequences of my own actions"
+	},
+	{
 		"created_at": "Sun May 09 08:23:03 +0000 2021",
 		"id": 1391307717374095400,
 		"id_str": "1391307717374095361",
