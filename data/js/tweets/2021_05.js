@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 19 19:05:45 +0000 2021",
+		"id": 1395062702280695800,
+		"id_str": "1395093335103217669",
+		"full_text": "io veramente sempre più basito i dont wanna live in a man's world anymore https://t.co/ULZeSbrnXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ULZeSbrnXF",
+					"expanded_url": "https://twitter.com/Agenzia_Ansa/status/1395032320411947008",
+					"display_url": "twitter.com/Agenzia_Ansa/s…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961245221492330500,
+			"id_str": "961245221492330496",
+			"name": "sebs",
+			"screen_name": "ilfusebs",
+			"location": "Milano, Lombardia",
+			"description": "i could tell you stories about Lady Gaga. i know a lot of stories about Lady Gaga. he/him • 1/3 di #sacapop 🧁🎤🍰",
+			"url": "https://t.co/nAvKHhbFSY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nAvKHhbFSY",
+							"expanded_url": "http://www.instagram.com/godseb_",
+							"display_url": "instagram.com/godseb_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2180,
+			"friends_count": 1045,
+			"listed_count": 4,
+			"created_at": "Wed Feb 07 14:28:14 +0000 2018",
+			"favourites_count": 187302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364728746259795969/GPPRLo8j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364728746259795969/GPPRLo8j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961245221492330496/1593039157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395032320411947000,
+		"quoted_status_id_str": "1395032320411947008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ULZeSbrnXF",
+			"expanded": "https://twitter.com/Agenzia_Ansa/status/1395032320411947008",
+			"display": "twitter.com/Agenzia_Ansa/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 19 15:03:18 +0000 2021",
+			"id": 1395032320411947000,
+			"id_str": "1395032320411947008",
+			"full_text": "FLASH | Il ministro della Salute, Roberto Speranza, ha firmato un'ordinanza valida \"esclusivamente nella giornata di oggi\" e solo \"in relazione allo svolgimento della Finale di Coppa Italia che si terrà a Reggio Emilia\", che sposta l'inizio del coprifuoco alle 24. #ANSA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ANSA",
+						"indices": [
+							265,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150725695,
+				"id_str": "150725695",
+				"name": "Agenzia ANSA",
+				"screen_name": "Agenzia_Ansa",
+				"location": "Via della Dataria, 94 - Roma",
+				"description": "Le top news dell’ANSA, la più importante agenzia d’informazione in Italia. Ultim’ora, notizie, foto e video da tutto il mondo. Aggiornamenti 24 ore su 24. #ANSA",
+				"url": "https://t.co/oPOg6GQvOb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oPOg6GQvOb",
+								"expanded_url": "http://www.ansa.it",
+								"display_url": "ansa.it",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1391092,
+				"friends_count": 259,
+				"listed_count": 5836,
+				"created_at": "Tue Jun 01 17:19:41 +0000 2010",
+				"favourites_count": 522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 217914,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201426005644189699/18875BQn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201426005644189699/18875BQn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150725695/1610989012",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 265,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 5,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "io veramente sempre più basito i dont wanna live in a man's world anymore https://t.co/ULZeSbrnXF"
+	},
+	{
 		"created_at": "Tue May 18 21:03:04 +0000 2021",
 		"id": 1394760470914076700,
 		"id_str": "1394760470914076680",
