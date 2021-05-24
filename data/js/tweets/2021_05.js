@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 23 16:39:57 +0000 2021",
+		"id": 1396396576151679000,
+		"id_str": "1396506197566574593",
+		"full_text": "piuttosto lo diamo ai francesi https://t.co/zkf3gXmpco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zkf3gXmpco",
+					"expanded_url": "https://twitter.com/Maria084268194/status/1396272626885173248",
+					"display_url": "twitter.com/Maria084268194…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15331902,
+			"id_str": "15331902",
+			"name": "quattordici luglio.",
+			"screen_name": "feverwyatt",
+			"location": "Milano",
+			"description": "no está machete mi amor se ha roto el machete (he/him) | IG: quattordiciluglio",
+			"url": "https://t.co/PxGv5nuXE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PxGv5nuXE5",
+							"expanded_url": "http://canzonincomplete.tumblr.com/",
+							"display_url": "canzonincomplete.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2854,
+			"friends_count": 659,
+			"listed_count": 26,
+			"created_at": "Sun Jul 06 10:17:43 +0000 2008",
+			"favourites_count": 19088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345762347000999936/cWS5ZQO9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345762347000999936/cWS5ZQO9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15331902/1533592934",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1396272626885173200,
+		"quoted_status_id_str": "1396272626885173248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zkf3gXmpco",
+			"expanded": "https://twitter.com/Maria084268194/status/1396272626885173248",
+			"display": "twitter.com/Maria084268194…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 23 01:11:50 +0000 2021",
+			"id": 1396272626885173200,
+			"id_str": "1396272626885173248",
+			"full_text": "@louviiaa @Viperissima_ @tommaso_zorzi sarebbe perfetto, è giovane, conosce l'inglese alla perfezione come se fosse di madre lingua, ha una cultura musicale molto approfondita, è intelligente, simpatico, brillante e di ottima presenza. Cosa volere di più?Penso che le sue credenziali siano indiscutibili.",
+			"truncated": false,
+			"display_text_range": [
+				24,
+				304
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "louviiaa",
+						"name": "rachelsette | ITALY EUROVISION WINNER !!!",
+						"id": 3781622242,
+						"id_str": "3781622242",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "Viperissima_",
+						"name": "Viperissima Trash",
+						"id": 2396672482,
+						"id_str": "2396672482",
+						"indices": [
+							10,
+							23
+						]
+					},
+					{
+						"screen_name": "tommaso_zorzi",
+						"name": "Tommaso Zorzi",
+						"id": 3143681471,
+						"id_str": "3143681471",
+						"indices": [
+							24,
+							38
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1396263971687129000,
+			"in_reply_to_status_id_str": "1396263971687129089",
+			"in_reply_to_user_id": 3781622242,
+			"in_reply_to_user_id_str": "3781622242",
+			"in_reply_to_screen_name": "louviiaa",
+			"user": {
+				"id": 1368310322138906600,
+				"id_str": "1368310322138906627",
+				"name": ".♡~•Maria•~♡.",
+				"screen_name": "Maria084268194",
+				"location": "",
+				"description": "Mi stia lontano chi ha cuore arido e ciglia asciutte. \n\nJ.W.V.Goethe 🥀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74,
+				"friends_count": 306,
+				"listed_count": 0,
+				"created_at": "Sat Mar 06 21:21:28 +0000 2021",
+				"favourites_count": 7103,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1750,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368321694121799682/Mq3tbgs5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368321694121799682/Mq3tbgs5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1368310322138906627/1619209992",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 3,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "piuttosto lo diamo ai francesi https://t.co/zkf3gXmpco"
+	},
+	{
 		"created_at": "Sat May 22 22:49:47 +0000 2021",
 		"id": 1396236880459538400,
 		"id_str": "1396236880459538436",
