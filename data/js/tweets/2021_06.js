@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 11:25:17 +0000 2021",
+		"id": 1400238320987246600,
+		"id_str": "1400413272315150336",
+		"full_text": "It was a fun 11 days https://t.co/Br3G6G6nfP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1400238196076683300,
+					"id_str": "1400238196076683266",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/E26lOHYVoAIk8FB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E26lOHYVoAIk8FB.jpg",
+					"url": "https://t.co/Br3G6G6nfP",
+					"display_url": "pic.twitter.com/Br3G6G6nfP",
+					"expanded_url": "https://twitter.com/scottsimpson/status/1400238320987246592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1019,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400238196076683300,
+					"id_str": "1400238196076683266",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/E26lOHYVoAIk8FB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E26lOHYVoAIk8FB.jpg",
+					"url": "https://t.co/Br3G6G6nfP",
+					"display_url": "pic.twitter.com/Br3G6G6nfP",
+					"expanded_url": "https://twitter.com/scottsimpson/status/1400238320987246592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1019,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 926981,
+			"id_str": "926981",
+			"name": "Scott Simpson",
+			"screen_name": "scottsimpson",
+			"location": "Burlingame Volunteer Living",
+			"description": "moderate to severe",
+			"url": "https://t.co/Bo4uPatwBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bo4uPatwBf",
+							"expanded_url": "https://www.californiaking.org",
+							"display_url": "californiaking.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22097,
+			"friends_count": 488,
+			"listed_count": 1470,
+			"created_at": "Sun Mar 11 15:12:52 +0000 2007",
+			"favourites_count": 36579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/63487780/twitterphoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/63487780/twitterphoto_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/926981/1620355102",
+			"profile_link_color": "A81F19",
+			"profile_sidebar_border_color": "203576",
+			"profile_sidebar_fill_color": "D0C3C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was a fun 11 days https://t.co/Br3G6G6nfP"
+	},
+	{
 		"created_at": "Wed Jun 02 22:43:31 +0000 2021",
 		"id": 1400221570711306200,
 		"id_str": "1400221570711306243",
