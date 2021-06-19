@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 18:37:27 +0000 2021",
+		"id": 1405947270491558000,
+		"id_str": "1405957849235214336",
+		"full_text": "UPDATE: 🚨| Jake Gyllenhaal has entered the Witness Protection program.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919969711256780800,
+			"id_str": "919969711256780800",
+			"name": "Jake Gyllenhaal news & updates",
+			"screen_name": "folkxlore",
+			"location": "📍 the trenches",
+			"description": "living in the Taylor Cinematic Universe",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1317,
+			"friends_count": 773,
+			"listed_count": 15,
+			"created_at": "Mon Oct 16 16:54:06 +0000 2017",
+			"favourites_count": 89572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401733072303788033/2LJYa1hI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401733072303788033/2LJYa1hI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919969711256780800/1623040749",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2164,
+		"favorite_count": 13760,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "UPDATE: 🚨| Jake Gyllenhaal has entered the Witness Protection program."
+	},
+	{
+		"created_at": "Fri Jun 18 18:31:56 +0000 2021",
+		"id": 1405952134756061200,
+		"id_str": "1405956461755240455",
+		"full_text": "Alison tweeting her announcement on Scoots birthday: https://t.co/ypP3j9okQI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405952119157493800,
+					"id_str": "1405952119157493760",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4LyANmXEAA1jjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4LyANmXEAA1jjl.jpg",
+					"url": "https://t.co/ypP3j9okQI",
+					"display_url": "pic.twitter.com/ypP3j9okQI",
+					"expanded_url": "https://twitter.com/exilehive/status/1405952134756061191/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405952119157493800,
+					"id_str": "1405952119157493760",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4LyANmXEAA1jjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4LyANmXEAA1jjl.jpg",
+					"url": "https://t.co/ypP3j9okQI",
+					"display_url": "pic.twitter.com/ypP3j9okQI",
+					"expanded_url": "https://twitter.com/exilehive/status/1405952134756061191/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							40
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4LyANmXEAA1jjl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 920361603614363600,
+			"id_str": "920361603614363648",
+			"name": "Mo 🇵🇸 // nbnchive",
+			"screen_name": "exilehive",
+			"location": "",
+			"description": "I got wasted like all my potential.        she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9016,
+			"friends_count": 4012,
+			"listed_count": 30,
+			"created_at": "Tue Oct 17 18:51:20 +0000 2017",
+			"favourites_count": 13072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399479767620112386/zUTkhWiG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399479767620112386/zUTkhWiG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/920361603614363648/1622496953",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alison tweeting her announcement on Scoots birthday: https://t.co/ypP3j9okQI"
+	},
+	{
+		"created_at": "Fri Jun 18 18:14:14 +0000 2021",
+		"id": 1405952005491806200,
+		"id_str": "1405952005491806211",
+		"full_text": "Ama chi ci arriva vivo a novembre https://t.co/33M2zRk6w8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/33M2zRk6w8",
+					"expanded_url": "https://twitter.com/taylorswift13/status/1405946647092371464",
+					"display_url": "twitter.com/taylorswift13/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 75,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405946647092371500,
+		"quoted_status_id_str": "1405946647092371464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/33M2zRk6w8",
+			"expanded": "https://twitter.com/taylorswift13/status/1405946647092371464",
+			"display": "twitter.com/taylorswift13/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 18 17:52:56 +0000 2021",
+			"id": 1405946647092371500,
+			"id_str": "1405946647092371464",
+			"full_text": "The next album that I’ll be releasing is my version of Red, which will be out on November 19. This will be the first time you hear all 30 songs that were meant to go on Red. And hey, one of them is even ten minutes long🧣 https://t.co/FOBLS5aHpS https://t.co/6zWa64Owgp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FOBLS5aHpS",
+						"expanded_url": "https://Taylor.lnk.to/RedTaylorsVersion",
+						"display_url": "Taylor.lnk.to/RedTaylorsVers…",
+						"indices": [
+							221,
+							244
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1405946634429776000,
+						"id_str": "1405946634429775883",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/E4LtA9ZXwAsgl1V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4LtA9ZXwAsgl1V.jpg",
+						"url": "https://t.co/6zWa64Owgp",
+						"display_url": "pic.twitter.com/6zWa64Owgp",
+						"expanded_url": "https://twitter.com/taylorswift13/status/1405946647092371464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405946634429776000,
+						"id_str": "1405946634429775883",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/E4LtA9ZXwAsgl1V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4LtA9ZXwAsgl1V.jpg",
+						"url": "https://t.co/6zWa64Owgp",
+						"display_url": "pic.twitter.com/6zWa64Owgp",
+						"expanded_url": "https://twitter.com/taylorswift13/status/1405946647092371464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1405946634433962000,
+						"id_str": "1405946634433961992",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/E4LtA9aXoAgw1ge.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4LtA9aXoAgw1ge.jpg",
+						"url": "https://t.co/6zWa64Owgp",
+						"display_url": "pic.twitter.com/6zWa64Owgp",
+						"expanded_url": "https://twitter.com/taylorswift13/status/1405946647092371464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17919972,
+				"id_str": "17919972",
+				"name": "Taylor Swift",
+				"screen_name": "taylorswift13",
+				"location": "",
+				"description": "Happy, free, confused and lonely at the same time. Nov. 19th, 2021",
+				"url": "https://t.co/pipAfRVirB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pipAfRVirB",
+								"expanded_url": "https://taylor.lnk.to/RedTaylorsVersion",
+								"display_url": "taylor.lnk.to/RedTaylorsVers…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88490418,
+				"friends_count": 0,
+				"listed_count": 113475,
+				"created_at": "Sat Dec 06 10:10:54 +0000 2008",
+				"favourites_count": 1310,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 670,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1405947624184713220/aCLC4bTE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405947624184713220/aCLC4bTE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1624040718",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 176289,
+			"favorite_count": 569169,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Ama chi ci arriva vivo a novembre https://t.co/33M2zRk6w8"
+	},
+	{
 		"created_at": "Thu Jun 17 14:30:41 +0000 2021",
 		"id": 1405533361997697000,
 		"id_str": "1405533361997697028",
