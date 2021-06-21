@@ -1,6 +1,625 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 20 21:39:28 +0000 2021",
+		"id": 1406648201373945900,
+		"id_str": "1406728432315158532",
+		"full_text": "Superare gli stereotipi di genere dovrebbe essere prioritario (e conveniente) innanzitutto per gli uomini https://t.co/ZKRiqXMhwP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZKRiqXMhwP",
+					"expanded_url": "https://www.iltascabile.com/societa/maschile/",
+					"display_url": "iltascabile.com/societa/maschi…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754893,
+			"id_str": "754893",
+			"name": "Signor Ponza",
+			"screen_name": "signorponza",
+			"location": "Milan, Lombardy",
+			"description": "Sul social delle foto e delle storie mi trovate sempre come 📷 @signorponza | he/him/lui | 🔗 Le ultime cose che ho scritto / consigliato le trovate nel link 👇",
+			"url": "https://t.co/ZGHwMLKJzv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZGHwMLKJzv",
+							"expanded_url": "https://linktr.ee/signorponza",
+							"display_url": "linktr.ee/signorponza",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5850,
+			"friends_count": 1225,
+			"listed_count": 78,
+			"created_at": "Mon Feb 05 17:22:19 +0000 2007",
+			"favourites_count": 73921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 111020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272529388643500032/nyy5MlOD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272529388643500032/nyy5MlOD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754893/1592229624",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Superare gli stereotipi di genere dovrebbe essere prioritario (e conveniente) innanzitutto per gli uomini https://t.co/ZKRiqXMhwP"
+	},
+	{
+		"created_at": "Sun Jun 20 15:27:25 +0000 2021",
+		"id": 1406634803517177900,
+		"id_str": "1406634803517177858",
+		"full_text": "Avvisate Lana Del Rey https://t.co/6zVC8YFFUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zVC8YFFUl",
+					"expanded_url": "https://youtu.be/GARFBHz51nk",
+					"display_url": "youtu.be/GARFBHz51nk",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 75,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Avvisate Lana Del Rey https://t.co/6zVC8YFFUl"
+	},
+	{
+		"created_at": "Sun Jun 20 14:10:43 +0000 2021",
+		"id": 1406615497999855600,
+		"id_str": "1406615497999855630",
+		"full_text": "https://t.co/Qnp8b1uS7J https://t.co/vtjpKtNdcO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qnp8b1uS7J",
+					"expanded_url": "https://twitter.com/bastilledan/status/1406603574864400395",
+					"display_url": "twitter.com/bastilledan/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1406615468467789800,
+					"id_str": "1406615468467789836",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4VNUOWXoAwZq3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4VNUOWXoAwZq3J.jpg",
+					"url": "https://t.co/vtjpKtNdcO",
+					"display_url": "pic.twitter.com/vtjpKtNdcO",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1406615497999855630/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 236,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406615468467789800,
+					"id_str": "1406615468467789836",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4VNUOWXoAwZq3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4VNUOWXoAwZq3J.jpg",
+					"url": "https://t.co/vtjpKtNdcO",
+					"display_url": "pic.twitter.com/vtjpKtNdcO",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1406615497999855630/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 236,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 236,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							59
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4VNUOWXoAwZq3J.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 75,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1406603574864400400,
+		"quoted_status_id_str": "1406603574864400395",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qnp8b1uS7J",
+			"expanded": "https://twitter.com/bastilledan/status/1406603574864400395",
+			"display": "twitter.com/bastilledan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 20 13:23:20 +0000 2021",
+			"id": 1406603574864400400,
+			"id_str": "1406603574864400395",
+			"full_text": "https://t.co/OEkq2U8f8x \n\n#FutureInc https://t.co/zh77bgm6Wb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FutureInc",
+						"indices": [
+							26,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OEkq2U8f8x",
+						"expanded_url": "https://Bastille.lnk.to/DLBPre-SaveTW",
+						"display_url": "Bastille.lnk.to/DLBPre-SaveTW",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1406603569567088600,
+						"id_str": "1406603569567088640",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/E4VCfnfXwAAeFbO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4VCfnfXwAAeFbO.jpg",
+						"url": "https://t.co/zh77bgm6Wb",
+						"display_url": "pic.twitter.com/zh77bgm6Wb",
+						"expanded_url": "https://twitter.com/bastilledan/status/1406603574864400395/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1406603569567088600,
+						"id_str": "1406603569567088640",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/E4VCfnfXwAAeFbO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4VCfnfXwAAeFbO.jpg",
+						"url": "https://t.co/zh77bgm6Wb",
+						"display_url": "pic.twitter.com/zh77bgm6Wb",
+						"expanded_url": "https://twitter.com/bastilledan/status/1406603574864400395/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21433995,
+				"id_str": "21433995",
+				"name": "BASTILLE",
+				"screen_name": "bastilledan",
+				"location": "London",
+				"description": "DISTORTED LIGHT BEAM //  PreSave NOW: https://t.co/mjxLh0xoUp Out 23 June",
+				"url": "https://t.co/mVf61axaCO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mVf61axaCO",
+								"expanded_url": "https://www.futureinc.world/",
+								"display_url": "futureinc.world",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mjxLh0xoUp",
+								"expanded_url": "https://Bastille.lnk.to/DLBPre-SaveTW",
+								"display_url": "Bastille.lnk.to/DLBPre-SaveTW",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1366119,
+				"friends_count": 147,
+				"listed_count": 2236,
+				"created_at": "Fri Feb 20 21:07:37 +0000 2009",
+				"favourites_count": 2487,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17795,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E7E3DD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1402658904333488132/yazm2LYh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402658904333488132/yazm2LYh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21433995/1623746152",
+				"profile_link_color": "AD2F1A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EECEBF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 1131,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Qnp8b1uS7J https://t.co/vtjpKtNdcO"
+	},
+	{
 		"created_at": "Sat Jun 19 11:09:13 +0000 2021",
 		"id": 1406207436336382000,
 		"id_str": "1406207436336381958",
