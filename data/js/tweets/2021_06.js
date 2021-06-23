@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 21:56:14 +0000 2021",
+		"id": 1407457427138695200,
+		"id_str": "1407457427138695177",
+		"full_text": "Quando sono stati firmati i patti lateranensi? https://t.co/sq0XirzZb6 https://t.co/f3sgNxDZ7a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sq0XirzZb6",
+					"expanded_url": "https://overcast.fm/+XN29_wiA0/35:19",
+					"display_url": "overcast.fm/+XN29_wiA0/35:…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407457397229199400,
+					"id_str": "1407457397229199364",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407457397229199364/pu/img/sOFiUVif79G2PNwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407457397229199364/pu/img/sOFiUVif79G2PNwy.jpg",
+					"url": "https://t.co/f3sgNxDZ7a",
+					"display_url": "pic.twitter.com/f3sgNxDZ7a",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1407457427138695177/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407457397229199400,
+					"id_str": "1407457397229199364",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407457397229199364/pu/img/sOFiUVif79G2PNwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407457397229199364/pu/img/sOFiUVif79G2PNwy.jpg",
+					"url": "https://t.co/f3sgNxDZ7a",
+					"display_url": "pic.twitter.com/f3sgNxDZ7a",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1407457427138695177/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 2500,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407457397229199364/pu/vid/320x320/UFcy4Gzx5bH6_IGR.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1407457397229199364/pu/pl/warn34TsiAFCOsJE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407457397229199364/pu/vid/540x540/W806fOOR9pGgf76Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407457397229199364/pu/vid/720x720/8smo8zSLdxKhbhfx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 75,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Quando sono stati firmati i patti lateranensi? https://t.co/sq0XirzZb6 https://t.co/f3sgNxDZ7a"
+	},
+	{
+		"created_at": "Tue Jun 22 11:26:02 +0000 2021",
+		"id": 1407281728591483000,
+		"id_str": "1407298830979276808",
+		"full_text": "L'Italia riparta da Elodie https://t.co/nXFyZJO8yp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407279454880211000,
+					"id_str": "1407279454880210945",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407279454880210945/pu/img/XGN0you4gnX-Dwyq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407279454880210945/pu/img/XGN0you4gnX-Dwyq.jpg",
+					"url": "https://t.co/nXFyZJO8yp",
+					"display_url": "pic.twitter.com/nXFyZJO8yp",
+					"expanded_url": "https://twitter.com/falizzo/status/1407279510857424898/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1407279510857425000,
+					"source_status_id_str": "1407279510857424898",
+					"source_user_id": 1014867241,
+					"source_user_id_str": "1014867241"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407279454880211000,
+					"id_str": "1407279454880210945",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407279454880210945/pu/img/XGN0you4gnX-Dwyq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407279454880210945/pu/img/XGN0you4gnX-Dwyq.jpg",
+					"url": "https://t.co/nXFyZJO8yp",
+					"display_url": "pic.twitter.com/nXFyZJO8yp",
+					"expanded_url": "https://twitter.com/falizzo/status/1407279510857424898/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1407279510857425000,
+					"source_status_id_str": "1407279510857424898",
+					"source_user_id": 1014867241,
+					"source_user_id_str": "1014867241",
+					"video_info": {
+						"aspect_ratio": [
+							183,
+							320
+						],
+						"duration_millis": 6127,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407279454880210945/pu/vid/720x1258/HSpMIAnUXLS70NH3.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407279454880210945/pu/vid/480x838/BDca7JPqDn18q8oJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407279454880210945/pu/vid/320x558/zivJbPAbsh3hrpvk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1407279454880210945/pu/pl/qssAh6eFdxEtI50Q.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1014867241,
+							"id_str": "1014867241",
+							"name": "bricolo",
+							"screen_name": "falizzo",
+							"location": "Bari, Puglia",
+							"description": "a me letteralmente non interessa",
+							"url": "https://t.co/HjuMsB8ptm",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/HjuMsB8ptm",
+											"expanded_url": "http://instagram.com/fabrizio.cmp",
+											"display_url": "instagram.com/fabrizio.cmp",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4237,
+							"friends_count": 710,
+							"listed_count": 15,
+							"created_at": "Sun Dec 16 09:49:17 +0000 2012",
+							"favourites_count": 101153,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 47750,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1389719075241275394/mW-OPlUc_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389719075241275394/mW-OPlUc_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014867241/1623659765",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "C0DFEC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1161949064759599000,
+			"id_str": "1161949064759599104",
+			"name": "napolecano",
+			"screen_name": "carlhoe_",
+			"location": "Pompei",
+			"description": "intentionally blank & tanti altri difetti",
+			"url": "https://t.co/0Kh4FTEppQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Kh4FTEppQ",
+							"expanded_url": "https://www.instagram.com/carlolanziero/",
+							"display_url": "instagram.com/carlolanziero/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3921,
+			"friends_count": 728,
+			"listed_count": 3,
+			"created_at": "Thu Aug 15 10:33:39 +0000 2019",
+			"favourites_count": 115210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388673357508403202/F7WqQ5UM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388673357508403202/F7WqQ5UM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1161949064759599104/1620120684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "L'Italia riparta da Elodie https://t.co/nXFyZJO8yp"
+	},
+	{
+		"created_at": "Tue Jun 22 06:48:42 +0000 2021",
+		"id": 1407229039593599000,
+		"id_str": "1407229039593598976",
+		"full_text": "🤮 https://t.co/ot1bEHSQP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ot1bEHSQP0",
+					"expanded_url": "https://twitter.com/Corriere/status/1407205494180270086",
+					"display_url": "twitter.com/Corriere/statu…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 75,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407205494180270000,
+		"quoted_status_id_str": "1407205494180270086",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ot1bEHSQP0",
+			"expanded": "https://twitter.com/Corriere/status/1407205494180270086",
+			"display": "twitter.com/Corriere/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 22 05:15:09 +0000 2021",
+			"id": 1407205494180270000,
+			"id_str": "1407205494180270086",
+			"full_text": "🔴 Il Vaticano ha attivato i propri canali diplomatici per chiedere formalmente al governo italiano di modificare il «ddl Zan»: non era mai successo prima\nhttps://t.co/rKk3bd37Ku",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rKk3bd37Ku",
+						"expanded_url": "https://trib.al/411Z3Bj",
+						"display_url": "trib.al/411Z3Bj",
+						"indices": [
+							154,
+							177
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 395218906,
+				"id_str": "395218906",
+				"name": "Corriere della Sera",
+				"screen_name": "Corriere",
+				"location": "Milano",
+				"description": "L'informazione in 280 caratteri, 24 ore su 24. Anche su Instagram 👉 https://t.co/XKpef2Ijjy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XKpef2Ijjy",
+								"expanded_url": "http://www.instagram.com/corriere/",
+								"display_url": "instagram.com/corriere/",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2372683,
+				"friends_count": 260,
+				"listed_count": 8441,
+				"created_at": "Fri Oct 21 10:00:47 +0000 2011",
+				"favourites_count": 6937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 468051,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346840486871498753/jKHuhU3J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346840486871498753/jKHuhU3J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/395218906/1609946770",
+				"profile_link_color": "4F48B0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "25262E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 193,
+			"favorite_count": 956,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤮 https://t.co/ot1bEHSQP0"
+	},
+	{
 		"created_at": "Mon Jun 21 20:43:53 +0000 2021",
 		"id": 1407076829677097000,
 		"id_str": "1407076829677096967",
