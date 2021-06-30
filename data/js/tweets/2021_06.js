@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 06:33:36 +0000 2021",
+		"id": 1409759572869345300,
+		"id_str": "1409761952440668162",
+		"full_text": "by 2040, 90% of coders will be making productivity software. the other 10% will be making productivity tools for the people who make productivity software. when the sea levels rise we'll float through our cities on kanban boards like venice while discussing new agile practices",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1047644343874465800,
+			"id_str": "1047644343874465792",
+			"name": "Kat Maddox",
+			"screen_name": "ctrlshifti",
+			"location": "Gadigal land",
+			"description": "writes about politics and tech drama @ https://t.co/9gNkqrMFLO ; dms open no promos ; they/them 🏴",
+			"url": "https://t.co/Md7nCEZKNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Md7nCEZKNi",
+							"expanded_url": "https://ko-fi.com/katmaddox",
+							"display_url": "ko-fi.com/katmaddox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9gNkqrMFLO",
+							"expanded_url": "http://leftalign.substack.com",
+							"display_url": "leftalign.substack.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 78524,
+			"friends_count": 295,
+			"listed_count": 628,
+			"created_at": "Thu Oct 04 00:27:30 +0000 2018",
+			"favourites_count": 19194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1365414681754574849/PygWqtod_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365414681754574849/PygWqtod_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1047644343874465792/1597111899",
+			"profile_link_color": "6F4E37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 713,
+		"favorite_count": 5189,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "by 2040, 90% of coders will be making productivity software. the other 10% will be making productivity tools for the people who make productivity software. when the sea levels rise we'll float through our cities on kanban boards like venice while discussing new agile practices"
+	},
+	{
 		"created_at": "Sun Jun 27 13:01:06 +0000 2021",
 		"id": 1409134693711241200,
 		"id_str": "1409134693711241216",
