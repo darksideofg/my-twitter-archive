@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 18:37:37 +0000 2021",
+		"id": 1418258740202123300,
+		"id_str": "1418279077795057665",
+		"full_text": "This is the video of the year. I don’t want to hear it. https://t.co/KfMNxLktRl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418258713668898800,
+					"id_str": "1418258713668898822",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418258713668898822/pu/img/mqayZCY6r2dHysfJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418258713668898822/pu/img/mqayZCY6r2dHysfJ.jpg",
+					"url": "https://t.co/KfMNxLktRl",
+					"display_url": "pic.twitter.com/KfMNxLktRl",
+					"expanded_url": "https://twitter.com/JoeSantagato/status/1418258740202123269/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418258713668898800,
+					"id_str": "1418258713668898822",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418258713668898822/pu/img/mqayZCY6r2dHysfJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418258713668898822/pu/img/mqayZCY6r2dHysfJ.jpg",
+					"url": "https://t.co/KfMNxLktRl",
+					"display_url": "pic.twitter.com/KfMNxLktRl",
+					"expanded_url": "https://twitter.com/JoeSantagato/status/1418258740202123269/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							367,
+							360
+						],
+						"duration_millis": 9803,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418258713668898822/pu/vid/734x720/LG79iiA6OY8f6_SL.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418258713668898822/pu/vid/274x270/pjsDwAuORDSXd4wa.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418258713668898822/pu/vid/366x360/F3d35CVgdBmqVMNr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418258713668898822/pu/pl/x8iUIRiYfQG388aF.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191717056,
+			"id_str": "191717056",
+			"name": "Joe Santagato",
+			"screen_name": "JoeSantagato",
+			"location": "📍NYC",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647991,
+			"friends_count": 43,
+			"listed_count": 603,
+			"created_at": "Fri Sep 17 04:31:56 +0000 2010",
+			"favourites_count": 11512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414755703923920902/rTYrQfY5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414755703923920902/rTYrQfY5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191717056/1582589098",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 958,
+		"favorite_count": 6696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the video of the year. I don’t want to hear it. https://t.co/KfMNxLktRl"
+	},
+	{
+		"created_at": "Thu Jul 22 06:53:46 +0000 2021",
+		"id": 1418101950076362800,
+		"id_str": "1418101950076362753",
+		"full_text": "Spotify non ti pare un po’ too much? https://t.co/fnKXet8gKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418101934767157200,
+					"id_str": "1418101934767157248",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E64cMj0XMAAYe7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E64cMj0XMAAYe7K.jpg",
+					"url": "https://t.co/fnKXet8gKC",
+					"display_url": "pic.twitter.com/fnKXet8gKC",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1418101950076362753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418101934767157200,
+					"id_str": "1418101934767157248",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E64cMj0XMAAYe7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E64cMj0XMAAYe7K.jpg",
+					"url": "https://t.co/fnKXet8gKC",
+					"display_url": "pic.twitter.com/fnKXet8gKC",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1418101950076362753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spotify non ti pare un po’ too much? https://t.co/fnKXet8gKC"
+	},
+	{
 		"created_at": "Tue Jul 20 13:50:11 +0000 2021",
 		"id": 1417481133026070500,
 		"id_str": "1417481970393702408",
