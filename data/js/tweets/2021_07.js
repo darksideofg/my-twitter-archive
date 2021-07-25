@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 14:51:54 +0000 2021",
+		"id": 1418947050700480500,
+		"id_str": "1418947050700480513",
+		"full_text": "🥵 https://t.co/W2rbOBiBqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W2rbOBiBqL",
+					"expanded_url": "https://twitter.com/oldroadside/status/1418928169407627278",
+					"display_url": "twitter.com/oldroadside/st…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1418928169407627300,
+		"quoted_status_id_str": "1418928169407627278",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W2rbOBiBqL",
+			"expanded": "https://twitter.com/oldroadside/status/1418928169407627278",
+			"display": "twitter.com/oldroadside/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 24 13:36:52 +0000 2021",
+			"id": 1418928169407627300,
+			"id_str": "1418928169407627278",
+			"full_text": "sunbather, daytona beach, florida, 1985 https://t.co/kH2khbzqii",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1418928165699956700,
+						"id_str": "1418928165699956737",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/E7ELph5XsAEL2Nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7ELph5XsAEL2Nr.jpg",
+						"url": "https://t.co/kH2khbzqii",
+						"display_url": "pic.twitter.com/kH2khbzqii",
+						"expanded_url": "https://twitter.com/oldroadside/status/1418928169407627278/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1413,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 828,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1418928165699956700,
+						"id_str": "1418928165699956737",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/E7ELph5XsAEL2Nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7ELph5XsAEL2Nr.jpg",
+						"url": "https://t.co/kH2khbzqii",
+						"display_url": "pic.twitter.com/kH2khbzqii",
+						"expanded_url": "https://twitter.com/oldroadside/status/1418928169407627278/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1413,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 828,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.parkerhiggins.net\" rel=\"nofollow\">xorbots</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1284163123574911000,
+				"id_str": "1284163123574910979",
+				"name": "old roadside pics",
+				"screen_name": "oldroadside",
+				"location": "",
+				"description": "i post public domain photographs from the john margolies roadside america archive in the library of congress. unaffiliated. if i'm acting up ping @xor!",
+				"url": "https://t.co/mbFsoJo6NO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mbFsoJo6NO",
+								"expanded_url": "https://www.loc.gov/rr/print/coll/john-margolies-roadside-america-photograph-archive.html",
+								"display_url": "loc.gov/rr/print/coll/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15866,
+				"friends_count": 1,
+				"listed_count": 103,
+				"created_at": "Fri Jul 17 16:29:05 +0000 2020",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1284196268630319105/FvKIv1p__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284196268630319105/FvKIv1p__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1284163123574910979/1595010930",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 199,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🥵 https://t.co/W2rbOBiBqL"
+	},
+	{
 		"created_at": "Thu Jul 22 18:37:37 +0000 2021",
 		"id": 1418258740202123300,
 		"id_str": "1418279077795057665",
