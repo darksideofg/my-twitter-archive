@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 27 21:58:47 +0000 2021",
+		"id": 1420138688382738400,
+		"id_str": "1420141643731283978",
+		"full_text": "I am hearing that Microsoft CEO Satya Nadella voiced the words \"enterprise metaverse\" on the call today. Pls make it stop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18699145,
+			"id_str": "18699145",
+			"name": "Gerrit De Vynck",
+			"screen_name": "GerritD",
+			"location": "Brooklyn",
+			"description": "Tech reporter for @WashingtonPost. Formerly Bloomberg. Cover Alphabet/Google, ransomware, algorithms. gerrit.devynck@washpost.com. DM for cell number/Signal🇨🇦",
+			"url": "https://t.co/kDgw8wE4Fe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDgw8wE4Fe",
+							"expanded_url": "https://www.washingtonpost.com/people/gerrit-de-vynck/",
+							"display_url": "washingtonpost.com/people/gerrit-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7180,
+			"friends_count": 5155,
+			"listed_count": 292,
+			"created_at": "Tue Jan 06 22:34:04 +0000 2009",
+			"favourites_count": 11978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0B02",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346578285447274499/FXNT7pdd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346578285447274499/FXNT7pdd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18699145/1621357277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9D95B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am hearing that Microsoft CEO Satya Nadella voiced the words \"enterprise metaverse\" on the call today. Pls make it stop"
+	},
+	{
+		"created_at": "Tue Jul 27 21:57:13 +0000 2021",
+		"id": 1420141247881257000,
+		"id_str": "1420141247881256961",
+		"full_text": "Comunque con tutti gli ascolti di Mentre Nessuno Guarda che ho fatto ultimamente per colpa di #sacapop avevo il sincero timore di uscire nel top 1% di Mecna.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sacapop",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1420140159014686700,
+		"in_reply_to_status_id_str": "1420140159014686727",
+		"in_reply_to_user_id": 535277787,
+		"in_reply_to_user_id_str": "535277787",
+		"in_reply_to_screen_name": "DarkSideOfG",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "Comunque con tutti gli ascolti di Mentre Nessuno Guarda che ho fatto ultimamente per colpa di #sacapop avevo il sincero timore di uscire nel top 1% di Mecna."
+	},
+	{
+		"created_at": "Tue Jul 27 21:52:53 +0000 2021",
+		"id": 1420140159014686700,
+		"id_str": "1420140159014686727",
+		"full_text": "Altro che il top 1% di Only Fans https://t.co/tN9Xy6p7mE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1420140149963436000,
+					"id_str": "1420140149963436032",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/E7VZ8THXMAAILtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7VZ8THXMAAILtd.jpg",
+					"url": "https://t.co/tN9Xy6p7mE",
+					"display_url": "pic.twitter.com/tN9Xy6p7mE",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1420140159014686727/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1347,
+							"h": 990,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 882,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1420140149963436000,
+					"id_str": "1420140149963436032",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/E7VZ8THXMAAILtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7VZ8THXMAAILtd.jpg",
+					"url": "https://t.co/tN9Xy6p7mE",
+					"display_url": "pic.twitter.com/tN9Xy6p7mE",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1420140159014686727/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1347,
+							"h": 990,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 882,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Altro che il top 1% di Only Fans https://t.co/tN9Xy6p7mE"
+	},
+	{
+		"created_at": "Tue Jul 27 17:48:54 +0000 2021",
+		"id": 1420052885354725400,
+		"id_str": "1420078756950065152",
+		"full_text": "Comunque è davvero il grande exploit del QR code dato per spacciato",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23810329,
+			"id_str": "23810329",
+			"name": "Il farmacista di Lavagna",
+			"screen_name": "neodie",
+			"location": "Cavi di Lavagna",
+			"description": "Se la sfiga fosse nebbia io sarei un banco di nebbia ~ he/him",
+			"url": "https://t.co/0dcvCkIOaL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0dcvCkIOaL",
+							"expanded_url": "http://www.instagram.com/neodie/",
+							"display_url": "instagram.com/neodie/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12579,
+			"friends_count": 1941,
+			"listed_count": 67,
+			"created_at": "Wed Mar 11 19:11:52 +0000 2009",
+			"favourites_count": 435776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 238909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162716619250032641/tYJ0bhTk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162716619250032641/tYJ0bhTk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23810329/1475423569",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "it",
+		"text": "Comunque è davvero il grande exploit del QR code dato per spacciato"
+	},
+	{
 		"created_at": "Mon Jul 26 20:11:53 +0000 2021",
 		"id": 1419752352702242800,
 		"id_str": "1419752352702242817",
