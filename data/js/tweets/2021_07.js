@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 28 06:30:27 +0000 2021",
+		"id": 1149726844385521700,
+		"id_str": "1420270410927587330",
+		"full_text": "Confident in my ability to properly tennis, I take the court. I smile at my opponent. Serena does not return the gesture. She'd be prettier if she did, I think. She serves. The ball passes cleanly through my skull, killing me instantly https://t.co/Tqptbh0vOp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tqptbh0vOp",
+					"expanded_url": "https://twitter.com/YouGov/status/1149699495002853376",
+					"display_url": "twitter.com/YouGov/status/…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45869342,
+			"id_str": "45869342",
+			"name": "Jason",
+			"screen_name": "longwall26",
+			"location": "Nashville, TN",
+			"description": "Novelist (https://t.co/aICJqBNGW7), @rifftrax contributor, motorcycle person, more machine now than man",
+			"url": "https://t.co/58sI7rwW6l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/58sI7rwW6l",
+							"expanded_url": "https://www.jasonphilipmiller.com",
+							"display_url": "jasonphilipmiller.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aICJqBNGW7",
+							"expanded_url": "https://www.harpercollins.com/author/cr-112352/jason-miller/",
+							"display_url": "harpercollins.com/author/cr-1123…",
+							"indices": [
+								10,
+								33
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43127,
+			"friends_count": 1704,
+			"listed_count": 830,
+			"created_at": "Tue Jun 09 16:03:53 +0000 2009",
+			"favourites_count": 299000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 57387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412566287058931713/yKOByu0B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412566287058931713/yKOByu0B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45869342/1531947834",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149699495002853400,
+		"quoted_status_id_str": "1149699495002853376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tqptbh0vOp",
+			"expanded": "https://twitter.com/YouGov/status/1149699495002853376",
+			"display": "twitter.com/YouGov/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 12 15:18:14 +0000 2019",
+			"id": 1149699495002853400,
+			"id_str": "1149699495002853376",
+			"full_text": "One in eight men (12%) say they could win a point in a game of tennis against 23 time grand slam winner Serena Williams https://t.co/q0eNBjn7Vu https://t.co/3InBOWdYwh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/q0eNBjn7Vu",
+						"expanded_url": "https://yougov.co.uk/opi/surveys/results?utm_source=twitter&utm_medium=daily_questions&utm_campaign=question_1#/survey/344ce84b-a48d-11e9-8e40-79d1f09423a3/question/4d73bd62-a48f-11e9-aee6-6742cfe83f15/gender",
+						"display_url": "yougov.co.uk/opi/surveys/re…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1149691124677849100,
+						"id_str": "1149691124677849088",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D_SF_I_XsAABV3r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_SF_I_XsAABV3r.jpg",
+						"url": "https://t.co/3InBOWdYwh",
+						"display_url": "pic.twitter.com/3InBOWdYwh",
+						"expanded_url": "https://twitter.com/YouGov/status/1149699495002853376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 604,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 996,
+								"h": 604,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1149691124677849100,
+						"id_str": "1149691124677849088",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D_SF_I_XsAABV3r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_SF_I_XsAABV3r.jpg",
+						"url": "https://t.co/3InBOWdYwh",
+						"display_url": "pic.twitter.com/3InBOWdYwh",
+						"expanded_url": "https://twitter.com/YouGov/status/1149699495002853376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 604,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 996,
+								"h": 604,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14810076,
+				"id_str": "14810076",
+				"name": "YouGov",
+				"screen_name": "YouGov",
+				"location": "Earth",
+				"description": "Exploring what the world thinks, every day",
+				"url": "https://t.co/37D4WIGFrW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/37D4WIGFrW",
+								"expanded_url": "https://yougov.co.uk/?utm_source=twitter&utm_medium=twitter_link&utm_campaign=profile_bio_link",
+								"display_url": "yougov.co.uk/?utm_source=tw…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 236600,
+				"friends_count": 377,
+				"listed_count": 3047,
+				"created_at": "Sat May 17 11:50:07 +0000 2008",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18223,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278292448998014979/OTnBjzwe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278292448998014979/OTnBjzwe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14810076/1589988921",
+				"profile_link_color": "644AAB",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "31373A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3276,
+			"favorite_count": 12793,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 39860,
+		"favorite_count": 202313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Confident in my ability to properly tennis, I take the court. I smile at my opponent. Serena does not return the gesture. She'd be prettier if she did, I think. She serves. The ball passes cleanly through my skull, killing me instantly https://t.co/Tqptbh0vOp"
+	},
+	{
 		"created_at": "Tue Jul 27 21:58:47 +0000 2021",
 		"id": 1420138688382738400,
 		"id_str": "1420141643731283978",
