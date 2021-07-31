@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 30 19:59:47 +0000 2021",
+		"id": 1421198859133464600,
+		"id_str": "1421198859133464578",
+		"full_text": "Totalmente io quando i miei colleghi vedono la mia inbox 0 su Gmail se condivido lo schermo 💅🏻 https://t.co/k2H4FPjOYE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k2H4FPjOYE",
+					"expanded_url": "https://twitter.com/yayalexisgay/status/1421174517238484995",
+					"display_url": "twitter.com/yayalexisgay/s…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1421174517238485000,
+		"quoted_status_id_str": "1421174517238484995",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k2H4FPjOYE",
+			"expanded": "https://twitter.com/yayalexisgay/status/1421174517238484995",
+			"display": "twitter.com/yayalexisgay/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 30 18:23:03 +0000 2021",
+			"id": 1421174517238485000,
+			"id_str": "1421174517238484995",
+			"full_text": "“I have a very particular set of skills”\n\n– me re-organizing your Gmail",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22785963,
+				"id_str": "22785963",
+				"name": "Alexis Gay",
+				"screen_name": "yayalexisgay",
+				"location": "",
+				"description": "Type A comedian 😎 | Host of @NonTechnicalPod 🎙️ | Prev. @Patreon 💻 | Videos here! ⬇️ 🎥",
+				"url": "https://t.co/cbJk2w5XVG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cbJk2w5XVG",
+								"expanded_url": "http://alexis.gay/videos",
+								"display_url": "alexis.gay/videos",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89305,
+				"friends_count": 755,
+				"listed_count": 445,
+				"created_at": "Wed Mar 04 15:22:09 +0000 2009",
+				"favourites_count": 31003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6992,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1334189139080654849/1SDCGHVe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334189139080654849/1SDCGHVe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22785963/1619144598",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "030303",
+				"profile_sidebar_fill_color": "AEB1F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Totalmente io quando i miei colleghi vedono la mia inbox 0 su Gmail se condivido lo schermo 💅🏻 https://t.co/k2H4FPjOYE"
+	},
+	{
 		"created_at": "Wed Jul 28 06:30:27 +0000 2021",
 		"id": 1149726844385521700,
 		"id_str": "1420270410927587330",
