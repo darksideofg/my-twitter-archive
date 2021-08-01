@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 31 16:46:01 +0000 2021",
+		"id": 1421512486499590100,
+		"id_str": "1421512486499590144",
+		"full_text": "Ho appena visto un tipo correre su un monopattino elettrico con in mano un sacco di patate e trovo abbastanza poetico.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "Ho appena visto un tipo correre su un monopattino elettrico con in mano un sacco di patate e trovo abbastanza poetico."
+	},
+	{
+		"created_at": "Sat Jul 31 11:52:39 +0000 2021",
+		"id": 1421317439686590500,
+		"id_str": "1421438655009370112",
+		"full_text": "God forbid anyone says anything positive on Twitter. Only eternal suffering is permitted by the TOS.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20581923,
+			"id_str": "20581923",
+			"name": "Natalia Antonova",
+			"screen_name": "NataliaAntonova",
+			"location": "Washington, DC",
+			"description": "Check out my substack if you want to stay safe from stalkers, Russian spies & assorted creeps. I also write for Foreign Policy, GlobalComment, Guardian, etc.",
+			"url": "https://t.co/AzBMtriQQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AzBMtriQQp",
+							"expanded_url": "https://nataliaantonova.substack.com/",
+							"display_url": "nataliaantonova.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42897,
+			"friends_count": 2206,
+			"listed_count": 908,
+			"created_at": "Wed Feb 11 10:07:49 +0000 2009",
+			"favourites_count": 71177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 67039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377664710267523074/ODoWeqPj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377664710267523074/ODoWeqPj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20581923/1601581660",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 451,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "God forbid anyone says anything positive on Twitter. Only eternal suffering is permitted by the TOS."
+	},
+	{
+		"created_at": "Sat Jul 31 11:26:32 +0000 2021",
+		"id": 1420772166610690000,
+		"id_str": "1421432085953359872",
+		"full_text": "me after saying “why can’t we just print more money” to a group of straight men and watching the chaos ensue  https://t.co/B00Yw3gULG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1420116568424521700,
+					"id_str": "1420116568424521730",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1420116568424521730/pu/img/hrggnYidcdRsF1YR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1420116568424521730/pu/img/hrggnYidcdRsF1YR.jpg",
+					"url": "https://t.co/B00Yw3gULG",
+					"display_url": "pic.twitter.com/B00Yw3gULG",
+					"expanded_url": "https://twitter.com/JasonErnBedwell/status/1420116617875296263/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 892,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 892,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1420116617875296300,
+					"source_status_id_str": "1420116617875296263",
+					"source_user_id": 2152471728,
+					"source_user_id_str": "2152471728"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1420116568424521700,
+					"id_str": "1420116568424521730",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1420116568424521730/pu/img/hrggnYidcdRsF1YR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1420116568424521730/pu/img/hrggnYidcdRsF1YR.jpg",
+					"url": "https://t.co/B00Yw3gULG",
+					"display_url": "pic.twitter.com/B00Yw3gULG",
+					"expanded_url": "https://twitter.com/JasonErnBedwell/status/1420116617875296263/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 892,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 892,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1420116617875296300,
+					"source_status_id_str": "1420116617875296263",
+					"source_user_id": 2152471728,
+					"source_user_id_str": "2152471728",
+					"video_info": {
+						"aspect_ratio": [
+							222,
+							223
+						],
+						"duration_millis": 10170,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1420116568424521730/pu/vid/720x722/25yI3WG6n2RW7DsK.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1420116568424521730/pu/vid/480x482/cJ6fbiKXxbooM3OC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1420116568424521730/pu/pl/rx0oAOfOy6p5CJKJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1420116568424521730/pu/vid/320x320/fRXhqIyFPVVxo8Ej.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2152471728,
+							"id_str": "2152471728",
+							"name": "Jason Ernest Bedwell",
+							"screen_name": "JasonErnBedwell",
+							"location": "London, England",
+							"description": "30. Scottish & South American. Sales & Events Manager. Can be found drinking wine in a bath.",
+							"url": "https://t.co/ruURciXB4h",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ruURciXB4h",
+											"expanded_url": "http://instagram.com/jasonbedwell_",
+											"display_url": "instagram.com/jasonbedwell_",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 671,
+							"friends_count": 474,
+							"listed_count": 2,
+							"created_at": "Thu Oct 24 07:44:33 +0000 2013",
+							"favourites_count": 13403,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 3389,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1263424477137862659/EFnbn8Pu_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263424477137862659/EFnbn8Pu_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2152471728/1498171137",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1122178138992259100,
+			"id_str": "1122178138992259079",
+			"name": "ig: didyoujustsaywig",
+			"screen_name": "2002scoobydoo",
+			"location": "spooky island",
+			"description": "now who’s the damsel in distress?",
+			"url": "https://t.co/tmzOIh5fln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tmzOIh5fln",
+							"expanded_url": "http://instagram.com/didyoujustsaywig",
+							"display_url": "instagram.com/didyoujustsayw…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6020,
+			"friends_count": 255,
+			"listed_count": 1,
+			"created_at": "Sat Apr 27 16:38:12 +0000 2019",
+			"favourites_count": 31457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378623231129698308/b4sP1Ka1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378623231129698308/b4sP1Ka1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122178138992259079/1600249521",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14817,
+		"favorite_count": 77342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "me after saying “why can’t we just print more money” to a group of straight men and watching the chaos ensue  https://t.co/B00Yw3gULG"
+	},
+	{
 		"created_at": "Fri Jul 30 19:59:47 +0000 2021",
 		"id": 1421198859133464600,
 		"id_str": "1421198859133464578",
