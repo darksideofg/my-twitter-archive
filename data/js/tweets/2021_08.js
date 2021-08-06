@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 21:15:28 +0000 2021",
+		"id": 1423379738861711400,
+		"id_str": "1423392232414060547",
+		"full_text": "This is important. https://t.co/jRCCEgR6fB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jRCCEgR6fB",
+					"expanded_url": "https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life",
+					"display_url": "eff.org/deeplinks/2021…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9866582,
+			"id_str": "9866582",
+			"name": "Christina Warren",
+			"screen_name": "film_girl",
+			"location": "SEA via NYC",
+			"description": "Sr Cloud Advocate Microsoft was: @Gizmodo @Mashable hosts: @ovrtrd @_RocketFM Networked: 5G Future. Loves media and tech. opinions = own christina@christina.is",
+			"url": "https://t.co/pU60V1ZNSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pU60V1ZNSc",
+							"expanded_url": "http://www.christina.is",
+							"display_url": "christina.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95598,
+			"friends_count": 13705,
+			"listed_count": 4862,
+			"created_at": "Thu Nov 01 22:45:37 +0000 2007",
+			"favourites_count": 117998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308921120360288256/17MPMqYU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308921120360288256/17MPMqYU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9866582/1398181728",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "300bcc6e23a88361",
+			"url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+			"place_type": "city",
+			"name": "Seattle",
+			"full_name": "Seattle, WA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.436232,
+							47.4953154
+						],
+						[
+							-122.2249728,
+							47.4953154
+						],
+						[
+							-122.2249728,
+							47.734319
+						],
+						[
+							-122.436232,
+							47.734319
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is important. https://t.co/jRCCEgR6fB"
+	},
+	{
 		"created_at": "Tue Aug 03 12:50:47 +0000 2021",
 		"id": 1422540450620117000,
 		"id_str": "1422540450620116994",
