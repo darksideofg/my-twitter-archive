@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 20:10:02 +0000 2021",
+		"id": 1428086810018783200,
+		"id_str": "1428086810018783241",
+		"full_text": "Con orgoglio dalla parte sbagliata https://t.co/dazp2RatNV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dazp2RatNV",
+					"expanded_url": "https://twitter.com/Focus_it/status/1428071700231458821",
+					"display_url": "twitter.com/Focus_it/statu…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1428071700231458800,
+		"quoted_status_id_str": "1428071700231458821",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dazp2RatNV",
+			"expanded": "https://twitter.com/Focus_it/status/1428071700231458821",
+			"display": "twitter.com/Focus_it/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 18 19:10:00 +0000 2021",
+			"id": 1428071700231458800,
+			"id_str": "1428071700231458821",
+			"full_text": "Perché è meglio dormire nudi? https://t.co/R7975VOBGk https://t.co/TXyuI5kqd1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R7975VOBGk",
+						"expanded_url": "https://www.focus.it/scienza/salute/dormire-nudi-e-meglio",
+						"display_url": "focus.it/scienza/salute…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1425016659165827000,
+						"id_str": "1425016659165827075",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/E8atGfiX0AM-Qub.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8atGfiX0AM-Qub.jpg",
+						"url": "https://t.co/TXyuI5kqd1",
+						"display_url": "pic.twitter.com/TXyuI5kqd1",
+						"expanded_url": "https://twitter.com/Focus_it/status/1428071700231458821/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1020,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1020,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1425016659165827000,
+						"id_str": "1425016659165827075",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/E8atGfiX0AM-Qub.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8atGfiX0AM-Qub.jpg",
+						"url": "https://t.co/TXyuI5kqd1",
+						"display_url": "pic.twitter.com/TXyuI5kqd1",
+						"expanded_url": "https://twitter.com/Focus_it/status/1428071700231458821/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1020,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1020,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24269420,
+				"id_str": "24269420",
+				"name": "Focus",
+				"screen_name": "Focus_it",
+				"location": "Italy",
+				"description": "Focus, il mensile di scienza, curiosità, ambiente e natura. Uno sguardo curioso al mondo che cambia.",
+				"url": "http://t.co/KWqI67F1re",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KWqI67F1re",
+								"expanded_url": "http://www.focus.it",
+								"display_url": "focus.it",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 256152,
+				"friends_count": 455,
+				"listed_count": 1000,
+				"created_at": "Fri Mar 13 22:26:37 +0000 2009",
+				"favourites_count": 814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E32219",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/446677051446005760/4ebKsyxW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/446677051446005760/4ebKsyxW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24269420/1416170680",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E32219",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Con orgoglio dalla parte sbagliata https://t.co/dazp2RatNV"
+	},
+	{
 		"created_at": "Mon Aug 16 15:59:58 +0000 2021",
 		"id": 1427299099909439500,
 		"id_str": "1427299099909439490",
