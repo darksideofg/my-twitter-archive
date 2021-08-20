@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 10:50:40 +0000 2021",
+		"id": 1428308427206545400,
+		"id_str": "1428308427206545413",
+		"full_text": "@ilfusebs Greatest hits annunciato in esclusiva su #SacAPop quasi sei mesi fa vorrei dire https://t.co/ts9QGjVP8S",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SacAPop",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilfusebs",
+					"name": "sebs",
+					"id": 961245221492330500,
+					"id_str": "961245221492330496",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428308385217360000,
+					"id_str": "1428308385217359876",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428308385217359876/pu/img/iolUfaXiw2ybEQVx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428308385217359876/pu/img/iolUfaXiw2ybEQVx.jpg",
+					"url": "https://t.co/ts9QGjVP8S",
+					"display_url": "pic.twitter.com/ts9QGjVP8S",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1428308427206545413/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428308385217360000,
+					"id_str": "1428308385217359876",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428308385217359876/pu/img/iolUfaXiw2ybEQVx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428308385217359876/pu/img/iolUfaXiw2ybEQVx.jpg",
+					"url": "https://t.co/ts9QGjVP8S",
+					"display_url": "pic.twitter.com/ts9QGjVP8S",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1428308427206545413/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26600,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428308385217359876/pu/vid/720x720/Z7A1I3X7jxsWozuS.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428308385217359876/pu/vid/320x320/kvAu0pUn5aJz4OyH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428308385217359876/pu/pl/IuyNxmLzkiJjFMou.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428308385217359876/pu/vid/540x540/jiLh76u2pqx_18jD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1428301229474685000,
+		"in_reply_to_status_id_str": "1428301229474684936",
+		"in_reply_to_user_id": 961245221492330500,
+		"in_reply_to_user_id_str": "961245221492330496",
+		"in_reply_to_screen_name": "ilfusebs",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "@ilfusebs Greatest hits annunciato in esclusiva su #SacAPop quasi sei mesi fa vorrei dire https://t.co/ts9QGjVP8S"
+	},
+	{
 		"created_at": "Wed Aug 18 20:10:02 +0000 2021",
 		"id": 1428086810018783200,
 		"id_str": "1428086810018783241",
