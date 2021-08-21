@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 17:08:50 +0000 2021",
+		"id": 1428765982269583400,
+		"id_str": "1428765982269583366",
+		"full_text": "@ale_223 Si accontenta di vitto e alloggio e non devi neanche pagargli i contributi. Futuro della balneazione.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ale_223",
+					"name": "palazzolo acreidueduetre",
+					"id": 11349762,
+					"id_str": "11349762",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1428733263858868200,
+		"in_reply_to_status_id_str": "1428733263858868227",
+		"in_reply_to_user_id": 11349762,
+		"in_reply_to_user_id_str": "11349762",
+		"in_reply_to_screen_name": "ale_223",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@ale_223 Si accontenta di vitto e alloggio e non devi neanche pagargli i contributi. Futuro della balneazione."
+	},
+	{
+		"created_at": "Fri Aug 20 08:09:20 +0000 2021",
+		"id": 1428402825185435600,
+		"id_str": "1428630215228600321",
+		"full_text": "The very suggestion of something called \"the infinite office\" has me wanting to launch myself into the sun https://t.co/DVEx292jhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DVEx292jhj",
+					"expanded_url": "https://twitter.com/LaurenGoode/status/1428399946693111810",
+					"display_url": "twitter.com/LaurenGoode/st…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3949831,
+			"id_str": "3949831",
+			"name": "Sara Campbell",
+			"screen_name": "janedonuts",
+			"location": "Los Angeles, CA",
+			"description": "I write Tiny Revolutions, a newsletter about becoming who you are. Tweets about life in LA, Zen Buddhism, mental health, writing, and assorted absurdities.",
+			"url": "https://t.co/Rs9RrtOUog",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rs9RrtOUog",
+							"expanded_url": "http://tinyrevolutions.co",
+							"display_url": "tinyrevolutions.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 582,
+			"listed_count": 57,
+			"created_at": "Mon Apr 09 22:23:51 +0000 2007",
+			"favourites_count": 17182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "413E4A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280103717790982149/4iI4kAb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280103717790982149/4iI4kAb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3949831/1398704215",
+			"profile_link_color": "B38184",
+			"profile_sidebar_border_color": "F7E4BE",
+			"profile_sidebar_fill_color": "F0B49E",
+			"profile_text_color": "73626E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1428399946693111800,
+		"quoted_status_id_str": "1428399946693111810",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DVEx292jhj",
+			"expanded": "https://twitter.com/LaurenGoode/status/1428399946693111810",
+			"display": "twitter.com/LaurenGoode/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 19 16:54:20 +0000 2021",
+			"id": 1428399946693111800,
+			"id_str": "1428399946693111810",
+			"full_text": "\"Workrooms represents Facebook’s first public attempt to enable what Zuckerberg has called the “infinite office.” Turns out the Metaverse might be more like a Meetaverse.\" via @provenself https://t.co/et4zEzvBOp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "provenself",
+						"name": "Peter Rubin",
+						"id": 18225633,
+						"id_str": "18225633",
+						"indices": [
+							176,
+							187
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/et4zEzvBOp",
+						"expanded_url": "https://www.wired.com/story/facebook-horizon-workrooms-metaverse/",
+						"display_url": "wired.com/story/facebook…",
+						"indices": [
+							188,
+							211
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22843337,
+				"id_str": "22843337",
+				"name": "Lauren Goode",
+				"screen_name": "LaurenGoode",
+				"location": "Uncanny Valley",
+				"description": "Senior Writer @WIRED and co-host of the Gadget Lab podcast. Lover of plot twists. lauren_goode@wired.com, DMs open, contact for Signal info.",
+				"url": "https://t.co/XWopAF54XW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XWopAF54XW",
+								"expanded_url": "https://www.wired.com/",
+								"display_url": "wired.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91976,
+				"friends_count": 2038,
+				"listed_count": 3033,
+				"created_at": "Wed Mar 04 22:09:23 +0000 2009",
+				"favourites_count": 37932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8994,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1404530911102730248/DwdnvRtI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404530911102730248/DwdnvRtI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22843337/1615558860",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The very suggestion of something called \"the infinite office\" has me wanting to launch myself into the sun https://t.co/DVEx292jhj"
+	},
+	{
 		"created_at": "Thu Aug 19 10:50:40 +0000 2021",
 		"id": 1428308427206545400,
 		"id_str": "1428308427206545413",
