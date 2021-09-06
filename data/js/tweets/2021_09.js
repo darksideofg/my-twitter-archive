@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 19:19:37 +0000 2021",
+		"id": 1433741560089170000,
+		"id_str": "1434597104723369989",
+		"full_text": "Interviewer: Can you explain the gap in your CV? \nMe: I spent 6 hours formatting it in Google Docs and you've opened it in Word.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41562575,
+			"id_str": "41562575",
+			"name": "Clarissa Maycock",
+			"screen_name": "ClarissaDM",
+			"location": "London, UK",
+			"description": "Comedy producer and writer based in London & Somerset. Formerly @BBCComedy, @BBCR1, @BBCRadio4. Glitzy Ghost Hunter 👻. Reboxer📦. Explains It All 🗺. Uses PDFs",
+			"url": "https://t.co/mCGJxtfmW2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mCGJxtfmW2",
+							"expanded_url": "http://www.clarissamaycock.com/edfringe",
+							"display_url": "clarissamaycock.com/edfringe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 919,
+			"listed_count": 22,
+			"created_at": "Thu May 21 10:23:41 +0000 2009",
+			"favourites_count": 6604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773306390987300864/GrWnv3M2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773306390987300864/GrWnv3M2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41562575/1426206112",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15917,
+		"favorite_count": 172120,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Interviewer: Can you explain the gap in your CV? \nMe: I spent 6 hours formatting it in Google Docs and you've opened it in Word."
+	},
+	{
 		"created_at": "Sat Sep 04 10:15:08 +0000 2021",
 		"id": 1434097689856299000,
 		"id_str": "1434097689856299011",
