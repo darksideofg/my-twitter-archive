@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 14:21:28 +0000 2021",
+		"id": 1440320278752489500,
+		"id_str": "1440320278752489490",
+		"full_text": "@apn https://t.co/21KxnvhvdB",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "apn",
+					"name": "apn",
+					"id": 8711362,
+					"id_str": "8711362",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/21KxnvhvdB",
+					"expanded_url": "https://twitter.com/zhuowei/status/1440072228213723154",
+					"display_url": "twitter.com/zhuowei/status…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1440283757584392200,
+		"in_reply_to_status_id_str": "1440283757584392197",
+		"in_reply_to_user_id": 8711362,
+		"in_reply_to_user_id_str": "8711362",
+		"in_reply_to_screen_name": "apn",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440072228213723100,
+		"quoted_status_id_str": "1440072228213723154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/21KxnvhvdB",
+			"expanded": "https://twitter.com/zhuowei/status/1440072228213723154",
+			"display": "twitter.com/zhuowei/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 20 21:55:49 +0000 2021",
+			"id": 1440072228213723100,
+			"id_str": "1440072228213723154",
+			"full_text": "https://t.co/kvYt8Q3Foe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1440072224371708000,
+						"id_str": "1440072224371707906",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E_wqDuiVEAIRpmK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_wqDuiVEAIRpmK.jpg",
+						"url": "https://t.co/kvYt8Q3Foe",
+						"display_url": "pic.twitter.com/kvYt8Q3Foe",
+						"expanded_url": "https://twitter.com/zhuowei/status/1440072228213723154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 677,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 677,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1440072224371708000,
+						"id_str": "1440072224371707906",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E_wqDuiVEAIRpmK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_wqDuiVEAIRpmK.jpg",
+						"url": "https://t.co/kvYt8Q3Foe",
+						"display_url": "pic.twitter.com/kvYt8Q3Foe",
+						"expanded_url": "https://twitter.com/zhuowei/status/1440072228213723154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 677,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 677,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 383083538,
+				"id_str": "383083538",
+				"name": "Zhuowei Zhang",
+				"screen_name": "zhuowei",
+				"location": "he/him, opinions are my own",
+				"description": "link in bio\n⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩\n⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩\n⬛⬛🟧⬛🟩🟫🟫🟫🟫🟫🟫🟩\n⬛⬛🟧⬛🟫🟫🟫🟫🟫🟫🟫🟫\n⬛⬛🟧🟧🟫🟧🟩🟧🟧🟩🟧🟫🟧\n⬛⬛🟧🟧🟫🟧🟫🟧🟧🟫🟧🟫🟧\n⬛⬛⬛🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧\n⬛⬛⬛🟩🟩🟧🟧🟫🟫🟧🟧🟩🟩\n⬛🟫🟫🟫🟫🟫🟧🟧🟧🟧🟩🟩🟫\n🟫🟫🟧🟫🟫🟫🟫🟩🟩🟩🟩🟩🟧\n🟫🟧🟧🟧🟫🟫🟧🟫🟫🟩🟩🟧🟧",
+				"url": "https://t.co/3lwwhucBZF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3lwwhucBZF",
+								"expanded_url": "https://zhuoweizhang.net",
+								"display_url": "zhuoweizhang.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24096,
+				"friends_count": 190,
+				"listed_count": 164,
+				"created_at": "Sat Oct 01 07:16:51 +0000 2011",
+				"favourites_count": 26376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48549,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1801896736/twitteravatar_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801896736/twitteravatar_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/383083538/1357330465",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 144,
+			"favorite_count": 1412,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@apn https://t.co/21KxnvhvdB"
+	},
+	{
 		"created_at": "Wed Sep 15 09:53:40 +0000 2021",
 		"id": 1438078557104885800,
 		"id_str": "1438078557104885763",
