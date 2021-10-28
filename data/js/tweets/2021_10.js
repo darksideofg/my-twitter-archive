@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 27 14:17:28 +0000 2021",
+		"id": 1453333032828559400,
+		"id_str": "1453365234916286467",
+		"full_text": "Ma puoi https://t.co/ucNJ0GSeQm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ucNJ0GSeQm",
+					"expanded_url": "https://twitter.com/grande_flagello/status/1453326690042646534",
+					"display_url": "twitter.com/grande_flagell…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754893,
+			"id_str": "754893",
+			"name": "Signor Ponza",
+			"screen_name": "signorponza",
+			"location": "Milan, Lombardy",
+			"description": "Sul social delle foto e delle storie mi trovate sempre come 📷 @signorponza | he/him/lui | 🔗 Le ultime cose che ho scritto / consigliato le trovate nel link 👇",
+			"url": "https://t.co/ZGHwMLKJzv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZGHwMLKJzv",
+							"expanded_url": "https://linktr.ee/signorponza",
+							"display_url": "linktr.ee/signorponza",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5868,
+			"friends_count": 1223,
+			"listed_count": 76,
+			"created_at": "Mon Feb 05 17:22:19 +0000 2007",
+			"favourites_count": 74914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 111967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272529388643500032/nyy5MlOD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272529388643500032/nyy5MlOD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754893/1592229624",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1ea588c12abd39d7",
+			"url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
+			"place_type": "city",
+			"name": "Milan",
+			"full_name": "Milan, Lombardy",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							9.040628,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.5359644
+						],
+						[
+							9.040628,
+							45.5359644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1453326690042646500,
+		"quoted_status_id_str": "1453326690042646534",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ucNJ0GSeQm",
+			"expanded": "https://twitter.com/grande_flagello/status/1453326690042646534",
+			"display": "twitter.com/grande_flagell…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 27 11:44:19 +0000 2021",
+			"id": 1453326690042646500,
+			"id_str": "1453326690042646534",
+			"full_text": "Il #Senato affossa il #DDLZan. Vince il \"non al passaggio agli articoli\" Urla e applausi in aula. https://t.co/2Efl4aeGJ2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Senato",
+						"indices": [
+							3,
+							10
+						]
+					},
+					{
+						"text": "DDLZan",
+						"indices": [
+							22,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1453326314384068600,
+						"id_str": "1453326314384068608",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/FCtBAEtXMAMm0rI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCtBAEtXMAMm0rI.jpg",
+						"url": "https://t.co/2Efl4aeGJ2",
+						"display_url": "pic.twitter.com/2Efl4aeGJ2",
+						"expanded_url": "https://twitter.com/grande_flagello/status/1453326690042646534/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1453326314384068600,
+						"id_str": "1453326314384068608",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/FCtBAEtXMAMm0rI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCtBAEtXMAMm0rI.jpg",
+						"url": "https://t.co/2Efl4aeGJ2",
+						"display_url": "pic.twitter.com/2Efl4aeGJ2",
+						"expanded_url": "https://twitter.com/grande_flagello/status/1453326690042646534/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 25333,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1453326314384068608/pu/vid/480x270/9IB-BNk4rI6RmSXj.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1453326314384068608/pu/vid/640x360/W2G2_78Wmk3wwLXu.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1453326314384068608/pu/pl/HWDg5nq6YNUnlUee.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1453326314384068608/pu/vid/1280x720/NZbG_fmMaRHyDSz3.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1327963286676123600,
+				"id_str": "1327963286676123649",
+				"name": "Il Grande Flagello",
+				"screen_name": "grande_flagello",
+				"location": "",
+				"description": "Satira e Arte salveranno il mondo. Montaggi su tv e attualità. Sono l'anello (debole) di congiunzione tra Blob e la Gialappa's. In 2 parole: sono un cazzaro.",
+				"url": "https://t.co/CzZmI0OHi5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CzZmI0OHi5",
+								"expanded_url": "http://instagram.com/grande_flagello",
+								"display_url": "instagram.com/grande_flagello",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12894,
+				"friends_count": 57,
+				"listed_count": 31,
+				"created_at": "Sun Nov 15 13:15:03 +0000 2020",
+				"favourites_count": 12257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11193,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1327965221865082881/1X7SsBf9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327965221865082881/1X7SsBf9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1327963286676123649/1624990322",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 176,
+			"favorite_count": 1302,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 1,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Ma puoi https://t.co/ucNJ0GSeQm"
+	},
+	{
+		"created_at": "Wed Oct 27 10:23:01 +0000 2021",
+		"id": 1453306232752771000,
+		"id_str": "1453306232752771073",
+		"full_text": "@robepere @lechatnoir_89 Dovrebbe essere una quarantina di minuti senza traffico. In ora di punta il traffico va in direzione opposta (la gente va Padova per lavorare, non da Padova di solito), però tu avrai i turni presumo quindi dipende.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robepere",
+					"name": "Robepere",
+					"id": 53206068,
+					"id_str": "53206068",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "lechatnoir_89",
+					"name": "Elsa Morente",
+					"id": 68671526,
+					"id_str": "68671526",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1453305768464326700,
+		"in_reply_to_status_id_str": "1453305768464326668",
+		"in_reply_to_user_id": 53206068,
+		"in_reply_to_user_id_str": "53206068",
+		"in_reply_to_screen_name": "robepere",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@robepere @lechatnoir_89 Dovrebbe essere una quarantina di minuti senza traffico. In ora di punta il traffico va in direzione opposta (la gente va Padova per lavorare, non da Padova di solito), però tu avrai i turni presumo quindi dipende."
+	},
+	{
 		"created_at": "Tue Oct 26 17:58:06 +0000 2021",
 		"id": 1453058371037302800,
 		"id_str": "1453058371037302785",
