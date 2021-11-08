@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 07 11:58:00 +0000 2021",
+		"id": 1457316402868666400,
+		"id_str": "1457316402868666368",
+		"full_text": "@signorponza https://t.co/ASkXMrEtgd",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "signorponza",
+					"name": "Signor Ponza",
+					"id": 754893,
+					"id_str": "754893",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457316391082680300,
+					"id_str": "1457316391082680324",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FDltiVfWYAQcmHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDltiVfWYAQcmHK.jpg",
+					"url": "https://t.co/ASkXMrEtgd",
+					"display_url": "pic.twitter.com/ASkXMrEtgd",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1457316402868666368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 277,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 157,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457316391082680300,
+					"id_str": "1457316391082680324",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FDltiVfWYAQcmHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDltiVfWYAQcmHK.jpg",
+					"url": "https://t.co/ASkXMrEtgd",
+					"display_url": "pic.twitter.com/ASkXMrEtgd",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1457316402868666368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 277,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 157,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457316394995945500,
+					"id_str": "1457316394995945476",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FDltikEWEAQTcCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDltikEWEAQTcCX.jpg",
+					"url": "https://t.co/ASkXMrEtgd",
+					"display_url": "pic.twitter.com/ASkXMrEtgd",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1457316402868666368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1457292793047568400,
+		"in_reply_to_status_id_str": "1457292793047568389",
+		"in_reply_to_user_id": 754893,
+		"in_reply_to_user_id_str": "754893",
+		"in_reply_to_screen_name": "signorponza",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@signorponza https://t.co/ASkXMrEtgd"
+	},
+	{
 		"created_at": "Sat Nov 06 18:38:23 +0000 2021",
 		"id": 1457054773413359600,
 		"id_str": "1457054773413359620",
