@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 20:25:43 +0000 2021",
+		"id": 1461068052267737000,
+		"id_str": "1461068052267737089",
+		"full_text": "Team SICKOS https://t.co/B4wGFMLt3w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B4wGFMLt3w",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1461052851363405826",
+					"display_url": "twitter.com/WaltHickey/sta…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461052851363405800,
+		"quoted_status_id_str": "1461052851363405826",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B4wGFMLt3w",
+			"expanded": "https://twitter.com/WaltHickey/status/1461052851363405826",
+			"display": "twitter.com/WaltHickey/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 17 19:25:19 +0000 2021",
+			"id": 1461052851363405800,
+			"id_str": "1461052851363405826",
+			"full_text": "21 percent of Twitter users visit it \"too many times to count\" per day hey do you recognize anyone in here https://t.co/EmJVLqI6St https://t.co/tIELWEiJZh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EmJVLqI6St",
+						"expanded_url": "https://numlock.substack.com/p/numlock-news-november-17-2021-kidneys",
+						"display_url": "numlock.substack.com/p/numlock-news…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1461052579383754800,
+						"id_str": "1461052579383754760",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FEazlHhWQAgAZYA.png",
+						"media_url_https": "https://pbs.twimg.com/media/FEazlHhWQAgAZYA.png",
+						"url": "https://t.co/tIELWEiJZh",
+						"display_url": "pic.twitter.com/tIELWEiJZh",
+						"expanded_url": "https://twitter.com/WaltHickey/status/1461052851363405826/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 534,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 303,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1618,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461052579383754800,
+						"id_str": "1461052579383754760",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FEazlHhWQAgAZYA.png",
+						"media_url_https": "https://pbs.twimg.com/media/FEazlHhWQAgAZYA.png",
+						"url": "https://t.co/tIELWEiJZh",
+						"display_url": "pic.twitter.com/tIELWEiJZh",
+						"expanded_url": "https://twitter.com/WaltHickey/status/1461052851363405826/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 534,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 303,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1618,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 235700566,
+				"id_str": "235700566",
+				"name": "Walter Hickey",
+				"screen_name": "WaltHickey",
+				"location": "New York",
+				"description": "https://t.co/FUsQZ4YrUf & Senior Editor for Data, @thisisinsider. Previously: @FiveThirtyEight and @WilliamAndMary.",
+				"url": "https://t.co/1oAOS72FPZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1oAOS72FPZ",
+								"expanded_url": "http://numlocknews.com",
+								"display_url": "numlocknews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FUsQZ4YrUf",
+								"expanded_url": "http://numlock.news",
+								"display_url": "numlock.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22440,
+				"friends_count": 2534,
+				"listed_count": 630,
+				"created_at": "Sat Jan 08 21:53:02 +0000 2011",
+				"favourites_count": 43933,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 41936,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343387746853937159/BXb3Kpr8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343387746853937159/BXb3Kpr8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/235700566/1542336792",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Team SICKOS https://t.co/B4wGFMLt3w"
+	},
+	{
+		"created_at": "Wed Nov 17 18:28:42 +0000 2021",
+		"id": 1461038601987408000,
+		"id_str": "1461038601987407872",
+		"full_text": "@vultrf Non funziona sempre bene. Quando non va uso Better Touch Tool ma $.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vultrf",
+					"name": "Vultrf",
+					"id": 466904152,
+					"id_str": "466904152",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1461038340489236500,
+		"in_reply_to_status_id_str": "1461038340489236491",
+		"in_reply_to_user_id": 466904152,
+		"in_reply_to_user_id_str": "466904152",
+		"in_reply_to_screen_name": "vultrf",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@vultrf Non funziona sempre bene. Quando non va uso Better Touch Tool ma $."
+	},
+	{
 		"created_at": "Tue Nov 16 06:28:25 +0000 2021",
 		"id": 1460494952014749700,
 		"id_str": "1460494952014749697",
