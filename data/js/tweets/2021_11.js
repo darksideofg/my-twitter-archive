@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 14:09:08 +0000 2021",
+		"id": 1461331520149504000,
+		"id_str": "1461335670161657859",
+		"full_text": "Adele’s highly-anticipated new album comes out tomorrow and everyone is talking about it, which is great news for Adele but even better news for Jake Gyllenhaal.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22785963,
+			"id_str": "22785963",
+			"name": "Alexis Gay",
+			"screen_name": "yayalexisgay",
+			"location": "",
+			"description": "Type A comedian 😎 | Host of @NonTechnicalPod 🎙️ | Prev. @Patreon 💻 | Videos here! ⬇️ 🎥",
+			"url": "https://t.co/cbJk2w5XVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cbJk2w5XVG",
+							"expanded_url": "http://alexis.gay/videos",
+							"display_url": "alexis.gay/videos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102199,
+			"friends_count": 815,
+			"listed_count": 502,
+			"created_at": "Wed Mar 04 15:22:09 +0000 2009",
+			"favourites_count": 32419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334189139080654849/1SDCGHVe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334189139080654849/1SDCGHVe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22785963/1619144598",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "030303",
+			"profile_sidebar_fill_color": "AEB1F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 660,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Adele’s highly-anticipated new album comes out tomorrow and everyone is talking about it, which is great news for Adele but even better news for Jake Gyllenhaal."
+	},
+	{
 		"created_at": "Wed Nov 17 20:25:43 +0000 2021",
 		"id": 1461068052267737000,
 		"id_str": "1461068052267737089",
