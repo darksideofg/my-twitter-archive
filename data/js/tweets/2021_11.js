@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 17:23:24 +0000 2021",
+		"id": 1461746947052736500,
+		"id_str": "1461746947052736519",
+		"full_text": "@ghezzwhat @fedebruni84 L’avevi preso sullo store europeo o americano?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ghezzwhat",
+					"name": "ghezzwhat",
+					"id": 70389696,
+					"id_str": "70389696",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "fedebruni84",
+					"name": "Federico 🚀",
+					"id": 23112137,
+					"id_str": "23112137",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1461739461532962800,
+		"in_reply_to_status_id_str": "1461739461532962835",
+		"in_reply_to_user_id": 70389696,
+		"in_reply_to_user_id_str": "70389696",
+		"in_reply_to_screen_name": "ghezzwhat",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@ghezzwhat @fedebruni84 L’avevi preso sullo store europeo o americano?"
+	},
+	{
+		"created_at": "Fri Nov 19 14:33:18 +0000 2021",
+		"id": 1461151704267829200,
+		"id_str": "1461704138094530567",
+		"full_text": "every time i log on to twitter, @taylorswift13 has found a new way to lengthen the All Too Well title and i love it https://t.co/XmYnrLyUJc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taylorswift13",
+					"name": "Taylor Swift",
+					"id": 17919972,
+					"id_str": "17919972",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461151272078393300,
+					"id_str": "1461151272078393348",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcNVydXwAQIskQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcNVydXwAQIskQ.jpg",
+					"url": "https://t.co/XmYnrLyUJc",
+					"display_url": "pic.twitter.com/XmYnrLyUJc",
+					"expanded_url": "https://twitter.com/tays_version_13/status/1461151704267829248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 418,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461151272078393300,
+					"id_str": "1461151272078393348",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcNVydXwAQIskQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcNVydXwAQIskQ.jpg",
+					"url": "https://t.co/XmYnrLyUJc",
+					"display_url": "pic.twitter.com/XmYnrLyUJc",
+					"expanded_url": "https://twitter.com/tays_version_13/status/1461151704267829248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 418,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1401926514086719500,
+			"id_str": "1401926514086719495",
+			"name": "jayde luvs ren 💛🧣",
+			"screen_name": "tays_version_13",
+			"location": "15 - she/they",
+			"description": "☁ i'm a gay little mirrorball ☁ the rest is confetti ☆ abigail williams defense attorney ☆",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3128,
+			"friends_count": 3148,
+			"listed_count": 11,
+			"created_at": "Mon Jun 07 15:38:33 +0000 2021",
+			"favourites_count": 41811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1459568002609946630/sfH3xEQu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459568002609946630/sfH3xEQu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1401926514086719495/1636823070",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14196,
+		"favorite_count": 86475,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "every time i log on to twitter, @taylorswift13 has found a new way to lengthen the All Too Well title and i love it https://t.co/XmYnrLyUJc"
+	},
+	{
 		"created_at": "Thu Nov 18 14:09:08 +0000 2021",
 		"id": 1461331520149504000,
 		"id_str": "1461335670161657859",
