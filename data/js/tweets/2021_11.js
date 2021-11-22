@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 17:38:22 +0000 2021",
+		"id": 1462475486701969400,
+		"id_str": "1462475486701969421",
+		"full_text": "Scusate ma il livello di RANDOM? https://t.co/tq34kuS7V6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tq34kuS7V6",
+					"expanded_url": "https://open.spotify.com/track/0UhSorL8bpS84Ag0DZv33s?si=Irn1TFDHQE2OlCu5ZjTHSw",
+					"display_url": "open.spotify.com/track/0UhSorL8…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Scusate ma il livello di RANDOM? https://t.co/tq34kuS7V6"
+	},
+	{
+		"created_at": "Sun Nov 21 12:34:57 +0000 2021",
+		"id": 1462399130140094500,
+		"id_str": "1462399130140094468",
+		"full_text": "@gianlucawho pazzesche entrambe. Ho chiaramente un debole per quelle che perculano il Veneto.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gianlucawho",
+					"name": "gianlucasbagliato",
+					"id": 216920539,
+					"id_str": "216920539",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462397956305346600,
+		"in_reply_to_status_id_str": "1462397956305346560",
+		"in_reply_to_user_id": 216920539,
+		"in_reply_to_user_id_str": "216920539",
+		"in_reply_to_screen_name": "gianlucawho",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@gianlucawho pazzesche entrambe. Ho chiaramente un debole per quelle che perculano il Veneto."
+	},
+	{
+		"created_at": "Sun Nov 21 12:22:47 +0000 2021",
+		"id": 1462396068642103300,
+		"id_str": "1462396068642103307",
+		"full_text": "One:                          Two:\nDon’t pick up.          Don’t let\nthe phone.                him in. https://t.co/csCnXZMCvb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462396058592551000,
+					"id_str": "1462396058592550912",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FEt5d5lXIAApzkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEt5d5lXIAApzkG.jpg",
+					"url": "https://t.co/csCnXZMCvb",
+					"display_url": "pic.twitter.com/csCnXZMCvb",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1462396068642103307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 847,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 847,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462396058592551000,
+					"id_str": "1462396058592550912",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FEt5d5lXIAApzkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEt5d5lXIAApzkG.jpg",
+					"url": "https://t.co/csCnXZMCvb",
+					"display_url": "pic.twitter.com/csCnXZMCvb",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1462396068642103307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 847,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 847,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462396059414671400,
+					"id_str": "1462396059414671361",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FEt5d8pXsAECR7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEt5d8pXsAECR7_.jpg",
+					"url": "https://t.co/csCnXZMCvb",
+					"display_url": "pic.twitter.com/csCnXZMCvb",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1462396068642103307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 754,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 754,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One:                          Two:\nDon’t pick up.          Don’t let\nthe phone.                him in. https://t.co/csCnXZMCvb"
+	},
+	{
+		"created_at": "Sun Nov 21 12:19:39 +0000 2021",
+		"id": 1462395281765539800,
+		"id_str": "1462395281765539844",
+		"full_text": "La mia nuova puntata preferita assieme a quella delle nutrie #RUBRICHETTE https://t.co/dAAjzwXhyn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RUBRICHETTE",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dAAjzwXhyn",
+					"expanded_url": "https://twitter.com/EdoardoZaggia/status/1461741283337289734",
+					"display_url": "twitter.com/EdoardoZaggia/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461741283337289700,
+		"quoted_status_id_str": "1461741283337289734",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dAAjzwXhyn",
+			"expanded": "https://twitter.com/EdoardoZaggia/status/1461741283337289734",
+			"display": "twitter.com/EdoardoZaggia/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 19 17:00:54 +0000 2021",
+			"id": 1461741283337289700,
+			"id_str": "1461741283337289734",
+			"full_text": "RAGA NUOVISSIMA PUNTATA DI #RUBRICHETTE ✨!\nL’unico show che vuole un programma su una tv veneta!\n\nSegui il più bel ragazzo veneto di questo programma: @albertopots\n\nSe hai mai sentito parlare del Veneto clicca qui: https://t.co/vkosZALECe https://t.co/jl5MvZ9x0x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RUBRICHETTE",
+						"indices": [
+							27,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AlbertoPots",
+						"name": "AlbertoS",
+						"id": 400170220,
+						"id_str": "400170220",
+						"indices": [
+							151,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vkosZALECe",
+						"expanded_url": "https://youtu.be/jU5Wq6r9unc",
+						"display_url": "youtu.be/jU5Wq6r9unc",
+						"indices": [
+							215,
+							238
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1461734039015108600,
+						"id_str": "1461734039015108614",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461734039015108614/pu/img/WDVDYqtzYZeege1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461734039015108614/pu/img/WDVDYqtzYZeege1B.jpg",
+						"url": "https://t.co/jl5MvZ9x0x",
+						"display_url": "pic.twitter.com/jl5MvZ9x0x",
+						"expanded_url": "https://twitter.com/EdoardoZaggia/status/1461741283337289734/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461734039015108600,
+						"id_str": "1461734039015108614",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461734039015108614/pu/img/WDVDYqtzYZeege1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461734039015108614/pu/img/WDVDYqtzYZeege1B.jpg",
+						"url": "https://t.co/jl5MvZ9x0x",
+						"display_url": "pic.twitter.com/jl5MvZ9x0x",
+						"expanded_url": "https://twitter.com/EdoardoZaggia/status/1461741283337289734/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30833,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1461734039015108614/pu/vid/640x360/vMyR6naYqvAGpeVN.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1461734039015108614/pu/vid/480x270/oIUXbq9BTidqJKpw.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1461734039015108614/pu/pl/6hS_M0Pq0lgDi6Ap.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1461734039015108614/pu/vid/1280x720/yc5mpKW0PbHUfa-U.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2181774421,
+				"id_str": "2181774421",
+				"name": "Edoardo Zaggia ✨",
+				"screen_name": "EdoardoZaggia",
+				"location": "",
+				"description": "Oh bio Dio! 🎞️NUOVISSIMA PUNTATA: https://t.co/p8MviHu4gE\n\nGuarda tutte le #RUBRICHETTE e iscriviti! 👇👇👇",
+				"url": "https://t.co/Vzgr7gSYJt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vzgr7gSYJt",
+								"expanded_url": "https://www.youtube.com/c/EdoardoZaggia",
+								"display_url": "youtube.com/c/EdoardoZaggia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/p8MviHu4gE",
+								"expanded_url": "https://youtu.be/jU5Wq6r9unc",
+								"display_url": "youtu.be/jU5Wq6r9unc",
+								"indices": [
+									34,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5554,
+				"friends_count": 584,
+				"listed_count": 7,
+				"created_at": "Fri Nov 08 08:29:17 +0000 2013",
+				"favourites_count": 106363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238489817446572032/bBNx9JW7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238489817446572032/bBNx9JW7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2181774421/1588952581",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 131,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "La mia nuova puntata preferita assieme a quella delle nutrie #RUBRICHETTE https://t.co/dAAjzwXhyn"
+	},
+	{
+		"created_at": "Sun Nov 21 08:33:17 +0000 2021",
+		"id": 1462338315231940600,
+		"id_str": "1462338315231940613",
+		"full_text": "@matteo__o Galaxy brain: non comprare nessun mobile oltre a letto e se qualcuno chiede qualcosa dire che ti stai ispirando a Steve Jobs https://t.co/YdBYtMLj2z",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matteo__o",
+					"name": "Judy Gardaland",
+					"id": 186545667,
+					"id_str": "186545667",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462338308785283000,
+					"id_str": "1462338308785283075",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtE8ayXoAMyqCi.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEtE8ayXoAMyqCi.png",
+					"url": "https://t.co/YdBYtMLj2z",
+					"display_url": "pic.twitter.com/YdBYtMLj2z",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1462338315231940613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1001,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462338308785283000,
+					"id_str": "1462338308785283075",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtE8ayXoAMyqCi.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEtE8ayXoAMyqCi.png",
+					"url": "https://t.co/YdBYtMLj2z",
+					"display_url": "pic.twitter.com/YdBYtMLj2z",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1462338315231940613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1001,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1462335071986278400,
+		"in_reply_to_status_id_str": "1462335071986278401",
+		"in_reply_to_user_id": 186545667,
+		"in_reply_to_user_id_str": "186545667",
+		"in_reply_to_screen_name": "matteo__o",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "@matteo__o Galaxy brain: non comprare nessun mobile oltre a letto e se qualcuno chiede qualcosa dire che ti stai ispirando a Steve Jobs https://t.co/YdBYtMLj2z"
+	},
+	{
 		"created_at": "Fri Nov 19 17:23:24 +0000 2021",
 		"id": 1461746947052736500,
 		"id_str": "1461746947052736519",
