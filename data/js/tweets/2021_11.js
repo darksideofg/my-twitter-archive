@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 17:58:51 +0000 2021",
+		"id": 1463205417916539000,
+		"id_str": "1463205417916538881",
+		"full_text": "Vabbé ha già vinto Folklore non può vincere Evermore, quindi quello escluso dai. https://t.co/yorCnoxh7t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yorCnoxh7t",
+					"expanded_url": "https://twitter.com/chartdata/status/1463204063684837376",
+					"display_url": "twitter.com/chartdata/stat…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 77,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463204063684837400,
+		"quoted_status_id_str": "1463204063684837376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yorCnoxh7t",
+			"expanded": "https://twitter.com/chartdata/status/1463204063684837376",
+			"display": "twitter.com/chartdata/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 23 17:53:28 +0000 2021",
+			"id": 1463204063684837400,
+			"id_str": "1463204063684837376",
+			"full_text": "#GRAMMYs Album of the Year Nominees:\nSOUR @oliviarodrigo\nPlanet Her @DojaCat\nevermore @taylorswift13\nLove For Sale @itstonybennett &amp; @ladygaga\nJustice @justinbieber\nHappier Than Ever @billieeilish\nBack of My Mind @HERMusicx \nWe Are @JonBatiste\nMONTERO @LilNasX\nDONDA @kanyewest",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GRAMMYs",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "oliviarodrigo",
+						"name": "Olivia Rodrigo",
+						"id": 3213979153,
+						"id_str": "3213979153",
+						"indices": [
+							42,
+							56
+						]
+					},
+					{
+						"screen_name": "DojaCat",
+						"name": "peepoop",
+						"id": 568545739,
+						"id_str": "568545739",
+						"indices": [
+							68,
+							76
+						]
+					},
+					{
+						"screen_name": "taylorswift13",
+						"name": "Taylor Swift",
+						"id": 17919972,
+						"id_str": "17919972",
+						"indices": [
+							86,
+							100
+						]
+					},
+					{
+						"screen_name": "itstonybennett",
+						"name": "Tony Bennett",
+						"id": 337921759,
+						"id_str": "337921759",
+						"indices": [
+							115,
+							130
+						]
+					},
+					{
+						"screen_name": "ladygaga",
+						"name": "Lady Gaga",
+						"id": 14230524,
+						"id_str": "14230524",
+						"indices": [
+							137,
+							146
+						]
+					},
+					{
+						"screen_name": "justinbieber",
+						"name": "Justin Bieber",
+						"id": 27260086,
+						"id_str": "27260086",
+						"indices": [
+							155,
+							168
+						]
+					},
+					{
+						"screen_name": "billieeilish",
+						"name": "billie eilish",
+						"id": 2150327072,
+						"id_str": "2150327072",
+						"indices": [
+							187,
+							200
+						]
+					},
+					{
+						"screen_name": "HERMusicx",
+						"name": "H.E.R.",
+						"id": 774357990711316500,
+						"id_str": "774357990711316481",
+						"indices": [
+							217,
+							227
+						]
+					},
+					{
+						"screen_name": "JonBatiste",
+						"name": "jon batiste",
+						"id": 59839834,
+						"id_str": "59839834",
+						"indices": [
+							236,
+							247
+						]
+					},
+					{
+						"screen_name": "LilNasX",
+						"name": "MONTERO 🦋",
+						"id": 754006735468261400,
+						"id_str": "754006735468261376",
+						"indices": [
+							256,
+							264
+						]
+					},
+					{
+						"screen_name": "kanyewest",
+						"name": "ye",
+						"id": 169686021,
+						"id_str": "169686021",
+						"indices": [
+							271,
+							281
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744260935527735300,
+				"id_str": "744260935527735296",
+				"name": "chart data",
+				"screen_name": "chartdata",
+				"location": "turn on notifications",
+				"description": "music charts, awards, industry news and more in real time | inquiries : contact@chartdata.org | https://t.co/NU5PQY5aFo",
+				"url": "https://t.co/VHd4DXWNUt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VHd4DXWNUt",
+								"expanded_url": "http://chartdata.org",
+								"display_url": "chartdata.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NU5PQY5aFo",
+								"expanded_url": "https://linktr.ee/chartdata",
+								"display_url": "linktr.ee/chartdata",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1232081,
+				"friends_count": 642,
+				"listed_count": 2917,
+				"created_at": "Sat Jun 18 20:10:09 +0000 2016",
+				"favourites_count": 3210,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 105262,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1342086006149791750/Ar0drcXS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342086006149791750/Ar0drcXS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744260935527735296/1601471660",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8267,
+			"favorite_count": 36759,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Vabbé ha già vinto Folklore non può vincere Evermore, quindi quello escluso dai. https://t.co/yorCnoxh7t"
+	},
+	{
 		"created_at": "Mon Nov 22 18:55:37 +0000 2021",
 		"id": 1462857317360275500,
 		"id_str": "1462857317360275458",
