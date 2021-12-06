@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 17:12:19 +0000 2021",
+		"id": 1466784319846944800,
+		"id_str": "1467542362062786560",
+		"full_text": "HUGE NEWS: We just made the first ever codable music video with @dojacat. You can control the story using code 🙀 Go try it now at https://t.co/EgVStNr5om! #dojacode https://t.co/q2MQhMDd0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dojacode",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DojaCat",
+					"name": "peepoop",
+					"id": 568545739,
+					"id_str": "568545739",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EgVStNr5om",
+					"expanded_url": "http://dojacode.com",
+					"display_url": "dojacode.com",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466782617978691600,
+					"id_str": "1466782617978691590",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FFsPBQtWYAYvn-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFsPBQtWYAYvn-F.jpg",
+					"url": "https://t.co/q2MQhMDd0s",
+					"display_url": "pic.twitter.com/q2MQhMDd0s",
+					"expanded_url": "https://twitter.com/GirlsWhoCode/status/1466784319846944771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466782617978691600,
+					"id_str": "1466782617978691590",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FFsPBQtWYAYvn-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFsPBQtWYAYvn-F.jpg",
+					"url": "https://t.co/q2MQhMDd0s",
+					"display_url": "pic.twitter.com/q2MQhMDd0s",
+					"expanded_url": "https://twitter.com/GirlsWhoCode/status/1466784319846944771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 430995737,
+			"id_str": "430995737",
+			"name": "Girls Who Code",
+			"screen_name": "GirlsWhoCode",
+			"location": "USA + Canada + UK + India",
+			"description": "here to change the face of tech",
+			"url": "https://t.co/5Sp1MCJbrK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Sp1MCJbrK",
+							"expanded_url": "https://girlswhocode.com/programs/code-at-home",
+							"display_url": "girlswhocode.com/programs/code-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 337694,
+			"friends_count": 8102,
+			"listed_count": 4319,
+			"created_at": "Wed Dec 07 20:07:48 +0000 2011",
+			"favourites_count": 30350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6ECEB2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256217094745657344/G8Byq6Ws_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256217094745657344/G8Byq6Ws_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/430995737/1582062754",
+			"profile_link_color": "01426A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 750,
+		"favorite_count": 2054,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HUGE NEWS: We just made the first ever codable music video with @dojacat. You can control the story using code 🙀 Go try it now at https://t.co/EgVStNr5om! #dojacode https://t.co/q2MQhMDd0s"
+	},
+	{
 		"created_at": "Sat Dec 04 08:37:16 +0000 2021",
 		"id": 1467050359965294600,
 		"id_str": "1467050359965294594",
