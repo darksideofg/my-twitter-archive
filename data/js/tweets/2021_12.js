@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 22:34:46 +0000 2021",
+		"id": 1468348285698158600,
+		"id_str": "1468348285698158593",
+		"full_text": "Sto già urlando https://t.co/m5xaFuCP9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m5xaFuCP9v",
+					"expanded_url": "https://twitter.com/9to5mac/status/1468280328339046402",
+					"display_url": "twitter.com/9to5mac/status…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468280328339046400,
+		"quoted_status_id_str": "1468280328339046402",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m5xaFuCP9v",
+			"expanded": "https://twitter.com/9to5mac/status/1468280328339046402",
+			"display": "twitter.com/9to5mac/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 07 18:04:44 +0000 2021",
+			"id": 1468280328339046400,
+			"id_str": "1468280328339046402",
+			"full_text": "Apple TV+ to produce Theranos movie 'Bad Blood', starring Jennifer Lawrence as Elizabeth Holmes https://t.co/kYTibfmRtf by @bzamayo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bzamayo",
+						"name": "Benjamin Mayo",
+						"id": 167398227,
+						"id_str": "167398227",
+						"indices": [
+							123,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kYTibfmRtf",
+						"expanded_url": "https://9to5mac.com/2021/12/07/apple-tv-to-produce-theranos-movie-bad-blood-starring-jennifer-lawrence-as-elizabeth-holmes/",
+						"display_url": "9to5mac.com/2021/12/07/app…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.9to5Mac.com\" rel=\"nofollow\">9to5Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15944436,
+				"id_str": "15944436",
+				"name": "9to5Mac.com",
+				"screen_name": "9to5mac",
+				"location": "Cupertino, California",
+				"description": "We break Apple news. tips@9to5mac.com http://t.co/08acwjc8Rl and http://t.co/0nnwbET9zQ for the best gear and deals.",
+				"url": "https://t.co/qrfifoIghP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qrfifoIghP",
+								"expanded_url": "http://www.9to5mac.com",
+								"display_url": "9to5mac.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/08acwjc8Rl",
+								"expanded_url": "http://facebook.com/9to5mac",
+								"display_url": "facebook.com/9to5mac",
+								"indices": [
+									38,
+									60
+								]
+							},
+							{
+								"url": "http://t.co/0nnwbET9zQ",
+								"expanded_url": "http://9to5toys.com",
+								"display_url": "9to5toys.com",
+								"indices": [
+									65,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 687157,
+				"friends_count": 27,
+				"listed_count": 13502,
+				"created_at": "Fri Aug 22 13:06:35 +0000 2008",
+				"favourites_count": 728,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 80912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "636363",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/659486593649012736/-TGFT8rs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/659486593649012736/-TGFT8rs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15944436/1537027695",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 169,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Sto già urlando https://t.co/m5xaFuCP9v"
+	},
+	{
 		"created_at": "Mon Dec 06 21:24:20 +0000 2021",
 		"id": 1467968172406063000,
 		"id_str": "1467968172406063104",
