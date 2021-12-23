@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 22 22:48:23 +0000 2021",
+		"id": 1473787528541094000,
+		"id_str": "1473787528541093895",
+		"full_text": "Io che guardo la seconda stagione di Emily In Paris https://t.co/xKrdlZn6Dx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1473787523994423300,
+					"id_str": "1473787523994423298",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FHPx8dIXEAI9a2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHPx8dIXEAI9a2m.jpg",
+					"url": "https://t.co/xKrdlZn6Dx",
+					"display_url": "pic.twitter.com/xKrdlZn6Dx",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1473787528541093895/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 667,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473787523994423300,
+					"id_str": "1473787523994423298",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FHPx8dIXEAI9a2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHPx8dIXEAI9a2m.jpg",
+					"url": "https://t.co/xKrdlZn6Dx",
+					"display_url": "pic.twitter.com/xKrdlZn6Dx",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1473787528541093895/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 667,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Io che guardo la seconda stagione di Emily In Paris https://t.co/xKrdlZn6Dx"
+	},
+	{
 		"created_at": "Sat Dec 18 16:41:03 +0000 2021",
 		"id": 1472245536430465000,
 		"id_str": "1472245536430465028",
