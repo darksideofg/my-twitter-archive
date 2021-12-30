@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 29 17:01:18 +0000 2021",
+		"id": 1475658369822306300,
+		"id_str": "1476236897701834752",
+		"full_text": "the first nft https://t.co/aNWoyuVCsp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1475658366575911000,
+					"id_str": "1475658366575910914",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FHqXd02XIAIesoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHqXd02XIAIesoN.jpg",
+					"url": "https://t.co/aNWoyuVCsp",
+					"display_url": "pic.twitter.com/aNWoyuVCsp",
+					"expanded_url": "https://twitter.com/NicoIate/status/1475658369822306308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 248,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 248,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 248,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1475658366575911000,
+					"id_str": "1475658366575910914",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FHqXd02XIAIesoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHqXd02XIAIesoN.jpg",
+					"url": "https://t.co/aNWoyuVCsp",
+					"display_url": "pic.twitter.com/aNWoyuVCsp",
+					"expanded_url": "https://twitter.com/NicoIate/status/1475658369822306308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 248,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 248,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 248,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 202106561,
+			"id_str": "202106561",
+			"name": "nicole🌟",
+			"screen_name": "NicoIate",
+			"location": "Switzerland ☆ she/her",
+			"description": "I take screenshots professionally ✨@dreamcasthime✨",
+			"url": "https://t.co/HXfy9CbM2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HXfy9CbM2O",
+							"expanded_url": "https://anilist.co/user/Nicolate/",
+							"display_url": "anilist.co/user/Nicolate/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4967,
+			"friends_count": 1190,
+			"listed_count": 67,
+			"created_at": "Wed Oct 13 09:29:45 +0000 2010",
+			"favourites_count": 189620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 186707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466064697820684289/nTh-oAIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466064697820684289/nTh-oAIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/202106561/1595372052",
+			"profile_link_color": "FF532E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14286,
+		"favorite_count": 142194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the first nft https://t.co/aNWoyuVCsp"
+	},
+	{
 		"created_at": "Mon Dec 27 21:58:02 +0000 2021",
 		"id": 1475586798927630300,
 		"id_str": "1475586798927630343",
