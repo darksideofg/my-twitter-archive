@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 12:55:18 +0000 2022",
+		"id": 1478711704754208800,
+		"id_str": "1478711704754208772",
+		"full_text": "@Jacoemme @ralloz Se aspetti ancora un po’ puoi rispondere direttamente con gli auguri di buona Pasqua 😆 https://t.co/P4JF2a0bnR",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jacoemme",
+					"name": "Jacopino 🇪🇺",
+					"id": 28304633,
+					"id_str": "28304633",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ralloz",
+					"name": "matte",
+					"id": 60254933,
+					"id_str": "60254933",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478711696730513400,
+					"id_str": "1478711696730513410",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIVwdCDWYAIPFac.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIVwdCDWYAIPFac.jpg",
+					"url": "https://t.co/P4JF2a0bnR",
+					"display_url": "pic.twitter.com/P4JF2a0bnR",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1478711704754208772/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 466,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478711696730513400,
+					"id_str": "1478711696730513410",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIVwdCDWYAIPFac.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIVwdCDWYAIPFac.jpg",
+					"url": "https://t.co/P4JF2a0bnR",
+					"display_url": "pic.twitter.com/P4JF2a0bnR",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1478711704754208772/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 466,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							233,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FIVwdCDWYAIPFac.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478710277759721500,
+		"in_reply_to_status_id_str": "1478710277759721473",
+		"in_reply_to_user_id": 28304633,
+		"in_reply_to_user_id_str": "28304633",
+		"in_reply_to_screen_name": "Jacoemme",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "@Jacoemme @ralloz Se aspetti ancora un po’ puoi rispondere direttamente con gli auguri di buona Pasqua 😆 https://t.co/P4JF2a0bnR"
+	},
+	{
+		"created_at": "Wed Jan 05 12:29:06 +0000 2022",
+		"id": 1478705113724240000,
+		"id_str": "1478705113724239879",
+		"full_text": "@ralloz @Jacoemme Madonna facciamo un picchetto sotto casa",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ralloz",
+					"name": "matte",
+					"id": 60254933,
+					"id_str": "60254933",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Jacoemme",
+					"name": "Jacopino 🇪🇺",
+					"id": 28304633,
+					"id_str": "28304633",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1478704812011233300,
+		"in_reply_to_status_id_str": "1478704812011233285",
+		"in_reply_to_user_id": 60254933,
+		"in_reply_to_user_id_str": "60254933",
+		"in_reply_to_screen_name": "ralloz",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@ralloz @Jacoemme Madonna facciamo un picchetto sotto casa"
+	},
+	{
 		"created_at": "Mon Jan 03 23:08:16 +0000 2022",
 		"id": 1478100346425675800,
 		"id_str": "1478141189459173382",
