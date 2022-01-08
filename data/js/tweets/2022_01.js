@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 20:49:14 +0000 2022",
+		"id": 1477330932382126000,
+		"id_str": "1479555750536138754",
+		"full_text": "The fact that this is not called a hippopottoman is a huge failure... https://t.co/AZT0CsYDxI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477330895120048000,
+					"id_str": "1477330895120048130",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FICInzNXIAIH4aC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FICInzNXIAIH4aC.jpg",
+					"url": "https://t.co/AZT0CsYDxI",
+					"display_url": "pic.twitter.com/AZT0CsYDxI",
+					"expanded_url": "https://twitter.com/DylanMacKayPhD/status/1477330932382126081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477330895120048000,
+					"id_str": "1477330895120048130",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FICInzNXIAIH4aC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FICInzNXIAIH4aC.jpg",
+					"url": "https://t.co/AZT0CsYDxI",
+					"display_url": "pic.twitter.com/AZT0CsYDxI",
+					"expanded_url": "https://twitter.com/DylanMacKayPhD/status/1477330932382126081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2233788032,
+			"id_str": "2233788032",
+			"name": "Dylan MacKay",
+			"screen_name": "DylanMacKayPhD",
+			"location": "Settler in Treaty One, MB",
+			"description": "Dad | Husband of @KDMackNP | #T1D | #AAPS user | Assistant Professor | Newfoundlander | Clinical Trialist | ADHD | he/him | views my own |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4431,
+			"friends_count": 4099,
+			"listed_count": 111,
+			"created_at": "Sat Dec 07 02:00:50 +0000 2013",
+			"favourites_count": 40698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466426107889127425/y3xsMLTt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466426107889127425/y3xsMLTt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2233788032/1387116288",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6991,
+		"favorite_count": 59893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The fact that this is not called a hippopottoman is a huge failure... https://t.co/AZT0CsYDxI"
+	},
+	{
+		"created_at": "Fri Jan 07 19:17:31 +0000 2022",
+		"id": 1479097967344636000,
+		"id_str": "1479532671034437636",
+		"full_text": "Why is my brain like this? https://t.co/qygvdfIVSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479097465370337300,
+					"id_str": "1479097465370337280",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbPTuOUYAA9aWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbPTuOUYAA9aWy.jpg",
+					"url": "https://t.co/qygvdfIVSu",
+					"display_url": "pic.twitter.com/qygvdfIVSu",
+					"expanded_url": "https://twitter.com/JenMsft/status/1479097967344635906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 556,
+							"h": 379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 556,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479097465370337300,
+					"id_str": "1479097465370337280",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbPTuOUYAA9aWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbPTuOUYAA9aWy.jpg",
+					"url": "https://t.co/qygvdfIVSu",
+					"display_url": "pic.twitter.com/qygvdfIVSu",
+					"expanded_url": "https://twitter.com/JenMsft/status/1479097967344635906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 556,
+							"h": 379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 556,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309105596,
+			"id_str": "3309105596",
+			"name": "Jen Gentleman 🌺",
+			"screen_name": "JenMsft",
+			"location": "Seattle, WA",
+			"description": "I work on the Windows engineering team at Microsoft and help with feedback for Start menu, Settings, taskbar, input + more",
+			"url": "https://t.co/vjyrpsORPI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vjyrpsORPI",
+							"expanded_url": "https://www.linkedin.com/in/jennifer-gentleman-9a2ba29b",
+							"display_url": "linkedin.com/in/jennifer-ge…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55026,
+			"friends_count": 242,
+			"listed_count": 730,
+			"created_at": "Fri Aug 07 22:21:33 +0000 2015",
+			"favourites_count": 402705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 103202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152088451161845761/9kyCQCs1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152088451161845761/9kyCQCs1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309105596/1524338784",
+			"profile_link_color": "CB26D1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 2951,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why is my brain like this? https://t.co/qygvdfIVSu"
+	},
+	{
 		"created_at": "Thu Jan 06 20:14:20 +0000 2022",
 		"id": 1479184579365847000,
 		"id_str": "1479184579365847045",
