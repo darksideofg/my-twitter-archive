@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 19:25:13 +0000 2022",
+		"id": 1479496002428096500,
+		"id_str": "1479896996173520902",
+		"full_text": "How did Chris Pratt get famous with the personality of a youth pastor and the aesthetic of a game stop employee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 195388862,
+			"id_str": "195388862",
+			"name": "xanax in a cinnabon (ali)",
+			"screen_name": "xanabon",
+			"location": "pittsburgh - she/her",
+			"description": "writer. funny online. stoner and sad music enjoyer. cat mama. typical cancerian 🦀 yogi. the shein version of Adriana la Cerva.",
+			"url": "https://t.co/G0el3Vm3rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G0el3Vm3rf",
+							"expanded_url": "http://instagram.com/xanabon",
+							"display_url": "instagram.com/xanabon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13028,
+			"friends_count": 1887,
+			"listed_count": 26,
+			"created_at": "Sun Sep 26 15:42:56 +0000 2010",
+			"favourites_count": 77874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477422941134544896/ceqzXtsz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477422941134544896/ceqzXtsz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/195388862/1624835874",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10113,
+		"favorite_count": 149975,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How did Chris Pratt get famous with the personality of a youth pastor and the aesthetic of a game stop employee"
+	},
+	{
 		"created_at": "Fri Jan 07 20:49:14 +0000 2022",
 		"id": 1477330932382126000,
 		"id_str": "1479555750536138754",
