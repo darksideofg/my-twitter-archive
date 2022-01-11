@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 20:20:01 +0000 2022",
+		"id": 1479678149394849800,
+		"id_str": "1480635559970234369",
+		"full_text": "thinking of a tweet that will get 4 likes https://t.co/1bArsl4F37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479678144793751600,
+					"id_str": "1479678144793751556",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FIjfbtpXMAQvb_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIjfbtpXMAQvb_A.jpg",
+					"url": "https://t.co/1bArsl4F37",
+					"display_url": "pic.twitter.com/1bArsl4F37",
+					"expanded_url": "https://twitter.com/IdiotRyanKahl/status/1479678149394849792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1206,
+							"h": 1353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1070,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479678144793751600,
+					"id_str": "1479678144793751556",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FIjfbtpXMAQvb_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIjfbtpXMAQvb_A.jpg",
+					"url": "https://t.co/1bArsl4F37",
+					"display_url": "pic.twitter.com/1bArsl4F37",
+					"expanded_url": "https://twitter.com/IdiotRyanKahl/status/1479678149394849792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1206,
+							"h": 1353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1070,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481820605,
+			"id_str": "481820605",
+			"name": "ryan kahl",
+			"screen_name": "IdiotRyanKahl",
+			"location": "Minneapolis, MN",
+			"description": "ancient stoic philosopher @wecoolpodcast",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2236,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Feb 03 06:36:13 +0000 2012",
+			"favourites_count": 31426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451026507346890761/7GKLeWs2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451026507346890761/7GKLeWs2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481820605/1622850806",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6078,
+		"favorite_count": 70577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "thinking of a tweet that will get 4 likes https://t.co/1bArsl4F37"
+	},
+	{
 		"created_at": "Sat Jan 08 19:25:13 +0000 2022",
 		"id": 1479496002428096500,
 		"id_str": "1479896996173520902",
