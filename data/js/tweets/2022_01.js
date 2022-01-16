@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 18:05:48 +0000 2022",
+		"id": 1280239175078273000,
+		"id_str": "1482413725487353863",
+		"full_text": "Sometimes the best debugging and testing tools were the friends we made along the way https://t.co/LAjuFaHWyF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280239137866412000,
+					"id_str": "1280239137866412032",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280239137866412032/pu/img/dNMOXLWthbMRzyoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280239137866412032/pu/img/dNMOXLWthbMRzyoJ.jpg",
+					"url": "https://t.co/LAjuFaHWyF",
+					"display_url": "pic.twitter.com/LAjuFaHWyF",
+					"expanded_url": "https://twitter.com/cassidoo/status/1280239175078273024/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280239137866412000,
+					"id_str": "1280239137866412032",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280239137866412032/pu/img/dNMOXLWthbMRzyoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280239137866412032/pu/img/dNMOXLWthbMRzyoJ.jpg",
+					"url": "https://t.co/LAjuFaHWyF",
+					"display_url": "pic.twitter.com/LAjuFaHWyF",
+					"expanded_url": "https://twitter.com/cassidoo/status/1280239175078273024/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							269
+						],
+						"duration_millis": 15100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1280239137866412032/pu/pl/TVLfIbimXJ831m49.m3u8?tag=10&v=7a7"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280239137866412032/pu/vid/320x478/efHiA2l8dxNF3azO.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280239137866412032/pu/vid/360x538/YCcdqgQ-r4UD-upz.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280239137866412032/pu/vid/720x1076/5ndeTSjuWGbhf3Uc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 400286802,
+			"id_str": "400286802",
+			"name": "Cassidy",
+			"screen_name": "cassidoo",
+			"location": "Chicago, IL",
+			"description": "Making memes and dreams and software! Head of DX and Education at @remote. Married to @ijoosong. I like jokes, karaoke, and mechanical keyboards! She/Her ✝️",
+			"url": "https://t.co/hmxqNTTZ8N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hmxqNTTZ8N",
+							"expanded_url": "http://cassidoo.co",
+							"display_url": "cassidoo.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177463,
+			"friends_count": 626,
+			"listed_count": 2082,
+			"created_at": "Fri Oct 28 19:54:25 +0000 2011",
+			"favourites_count": 117741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471241948853936132/1d5PR5ge_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471241948853936132/1d5PR5ge_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/400286802/1624902615",
+			"profile_link_color": "24D05A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1997,
+		"favorite_count": 10607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes the best debugging and testing tools were the friends we made along the way https://t.co/LAjuFaHWyF"
+	},
+	{
 		"created_at": "Fri Jan 14 16:48:00 +0000 2022",
 		"id": 1482031758904332300,
 		"id_str": "1482031758904332297",
