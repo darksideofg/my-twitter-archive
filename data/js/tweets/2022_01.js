@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 12:36:19 +0000 2022",
+		"id": 1483780357757493200,
+		"id_str": "1483780357757493251",
+		"full_text": "Se questo fosse un mondo giusto il video di Sparks avrebbe 10B views su YouTube invece di Baby Shark. https://t.co/v1awr4VsKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v1awr4VsKg",
+					"expanded_url": "https://twitter.com/PopCrave/status/1483624012043456517",
+					"display_url": "twitter.com/PopCrave/statu…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483624012043456500,
+		"quoted_status_id_str": "1483624012043456517",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v1awr4VsKg",
+			"expanded": "https://twitter.com/PopCrave/status/1483624012043456517",
+			"display": "twitter.com/PopCrave/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 19 02:15:03 +0000 2022",
+			"id": 1483624012043456500,
+			"id_str": "1483624012043456517",
+			"full_text": "Hilary Duff talks to @Cosmopolitan about her daughter discovering her 2015 song “Sparks”:\n\n“I'm rolling up to her preschool, &amp; every time I turn it way down she's like, ‘Why you turn it off?’ Like, girl. I'm not rolling up to your preschool blasting my own shit. So embarrassing” https://t.co/eTsnhgbZMz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Cosmopolitan",
+						"name": "Cosmopolitan",
+						"id": 23482952,
+						"id_str": "23482952",
+						"indices": [
+							21,
+							34
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1483624006909632500,
+						"id_str": "1483624006909632520",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FJbkLHgXIAgq0O_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJbkLHgXIAgq0O_.jpg",
+						"url": "https://t.co/eTsnhgbZMz",
+						"display_url": "pic.twitter.com/eTsnhgbZMz",
+						"expanded_url": "https://twitter.com/PopCrave/status/1483624012043456517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 759,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 759,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1483624006909632500,
+						"id_str": "1483624006909632520",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FJbkLHgXIAgq0O_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJbkLHgXIAgq0O_.jpg",
+						"url": "https://t.co/eTsnhgbZMz",
+						"display_url": "pic.twitter.com/eTsnhgbZMz",
+						"expanded_url": "https://twitter.com/PopCrave/status/1483624012043456517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 759,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 759,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1483624006913777700,
+						"id_str": "1483624006913777667",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FJbkLHhWYAMUvzY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJbkLHhWYAMUvzY.jpg",
+						"url": "https://t.co/eTsnhgbZMz",
+						"display_url": "pic.twitter.com/eTsnhgbZMz",
+						"expanded_url": "https://twitter.com/PopCrave/status/1483624012043456517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4429003533,
+				"id_str": "4429003533",
+				"name": "Pop Crave",
+				"screen_name": "PopCrave",
+				"location": "Miami, FL",
+				"description": "All Things Pop Culture. info@popcrave.com",
+				"url": "https://t.co/oNqbtKv2zN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oNqbtKv2zN",
+								"expanded_url": "http://PopCrave.com",
+								"display_url": "PopCrave.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 857910,
+				"friends_count": 3034,
+				"listed_count": 2225,
+				"created_at": "Wed Dec 09 18:00:33 +0000 2015",
+				"favourites_count": 4424,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77424,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1394266006395228162/qIjjvzl7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394266006395228162/qIjjvzl7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4429003533/1621253896",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 781,
+			"favorite_count": 8707,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Se questo fosse un mondo giusto il video di Sparks avrebbe 10B views su YouTube invece di Baby Shark. https://t.co/v1awr4VsKg"
+	},
+	{
 		"created_at": "Mon Jan 17 15:49:47 +0000 2022",
 		"id": 1483104270056661000,
 		"id_str": "1483104270056661006",
