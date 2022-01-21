@@ -1,6 +1,792 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 22:16:16 +0000 2022",
+		"id": 1483977689983766500,
+		"id_str": "1484288696866254848",
+		"full_text": "Huge fan of the reverse Pomodoro (5 minutes of work, 25 minutes of lying on my back in existential despair)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2850181816,
+			"id_str": "2850181816",
+			"name": "Ginny Hogan_",
+			"screen_name": "ginnyhogan_",
+			"location": "New York, USA",
+			"description": "come see me do an hour of stand up in NYC Feb 26 ✨ link in bio for tickets✨if you’re interested in reading my drama feature THE TRIPLE please DM me",
+			"url": "https://t.co/HSSErBU9mh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HSSErBU9mh",
+							"expanded_url": "https://www.westsidecomedyclub.com/events/ginny-hogan",
+							"display_url": "westsidecomedyclub.com/events/ginny-h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120977,
+			"friends_count": 5923,
+			"listed_count": 371,
+			"created_at": "Wed Oct 29 17:51:42 +0000 2014",
+			"favourites_count": 49163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473053555540082689/2buJpNoK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473053555540082689/2buJpNoK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2850181816/1556118457",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 2114,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Huge fan of the reverse Pomodoro (5 minutes of work, 25 minutes of lying on my back in existential despair)"
+	},
+	{
+		"created_at": "Thu Jan 20 20:14:53 +0000 2022",
+		"id": 1484238451809607700,
+		"id_str": "1484258148043087873",
+		"full_text": "I think we all died on the Lost Island, and this reality is a Flash Sideways as we come to accept our mortality. https://t.co/xil8MSL6DH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xil8MSL6DH",
+					"expanded_url": "https://twitter.com/tomwarren/status/1484230094772133891",
+					"display_url": "twitter.com/tomwarren/stat…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17264476,
+			"id_str": "17264476",
+			"name": "Brianna Wu",
+			"screen_name": "BriannaWu",
+			"location": "Dedham, MA",
+			"description": "Executive Director of @rebellionpac. Former Candidate for US House in MA. Software engineer. brianna@hey.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105735,
+			"friends_count": 7218,
+			"listed_count": 2380,
+			"created_at": "Sun Nov 09 04:14:42 +0000 2008",
+			"favourites_count": 256637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300883963913924609/fa7pguUP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300883963913924609/fa7pguUP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17264476/1604780787",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484230094772134000,
+		"quoted_status_id_str": "1484230094772133891",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xil8MSL6DH",
+			"expanded": "https://twitter.com/tomwarren/status/1484230094772133891",
+			"display": "twitter.com/tomwarren/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 20 18:23:24 +0000 2022",
+			"id": 1484230094772134000,
+			"id_str": "1484230094772133891",
+			"full_text": "Twitter has just launched NFT profile photos. They’re hexagon-shaped https://t.co/7sotIVLHSn https://t.co/fhnWijgVyi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7sotIVLHSn",
+						"expanded_url": "https://www.theverge.com/e/22657543",
+						"display_url": "theverge.com/e/22657543",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1484230089134989300,
+						"id_str": "1484230089134989315",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/FJkLZvvWYAMVqJU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJkLZvvWYAMVqJU.jpg",
+						"url": "https://t.co/fhnWijgVyi",
+						"display_url": "pic.twitter.com/fhnWijgVyi",
+						"expanded_url": "https://twitter.com/tomwarren/status/1484230094772133891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 721,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1947,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 409,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1484230089134989300,
+						"id_str": "1484230089134989315",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/FJkLZvvWYAMVqJU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJkLZvvWYAMVqJU.jpg",
+						"url": "https://t.co/fhnWijgVyi",
+						"display_url": "pic.twitter.com/fhnWijgVyi",
+						"expanded_url": "https://twitter.com/tomwarren/status/1484230094772133891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 721,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1947,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 409,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1484230089147568000,
+						"id_str": "1484230089147568133",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/FJkLZvyWUAUIEaS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJkLZvyWUAUIEaS.jpg",
+						"url": "https://t.co/fhnWijgVyi",
+						"display_url": "pic.twitter.com/fhnWijgVyi",
+						"expanded_url": "https://twitter.com/tomwarren/status/1484230094772133891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 663,
+								"h": 385,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 663,
+								"h": 385,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 663,
+								"h": 385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12273252,
+				"id_str": "12273252",
+				"name": "Tom Warren",
+				"screen_name": "tomwarren",
+				"location": "London, UK",
+				"description": "Senior Editor at The Verge @verge ║ I cover all things PC, console, and Microsoft ║ DMs open ║ tips? Signal: +442081230413",
+				"url": "https://t.co/84e5n1CYz3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/84e5n1CYz3",
+								"expanded_url": "https://linktr.ee/tomwarren",
+								"display_url": "linktr.ee/tomwarren",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 184942,
+				"friends_count": 1760,
+				"listed_count": 3161,
+				"created_at": "Tue Jan 15 14:42:09 +0000 2008",
+				"favourites_count": 5935,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1484240745280294926/DiRkwtc0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484240745280294926/DiRkwtc0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12273252/1601467340",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1789,
+			"favorite_count": 12127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think we all died on the Lost Island, and this reality is a Flash Sideways as we come to accept our mortality. https://t.co/xil8MSL6DH"
+	},
+	{
+		"created_at": "Thu Jan 20 20:03:52 +0000 2022",
+		"id": 1484255376015081500,
+		"id_str": "1484255376015081472",
+		"full_text": "I blame #Sacapop https://t.co/WnIW6AK93P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sacapop",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484255361934807000,
+					"id_str": "1484255361934807041",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FJkiY0QX0AEWzkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJkiY0QX0AEWzkZ.jpg",
+					"url": "https://t.co/WnIW6AK93P",
+					"display_url": "pic.twitter.com/WnIW6AK93P",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1484255376015081472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1047,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484255361934807000,
+					"id_str": "1484255361934807041",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FJkiY0QX0AEWzkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJkiY0QX0AEWzkZ.jpg",
+					"url": "https://t.co/WnIW6AK93P",
+					"display_url": "pic.twitter.com/WnIW6AK93P",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1484255376015081472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1047,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1484241723593314300,
+		"in_reply_to_status_id_str": "1484241723593314308",
+		"in_reply_to_user_id": 535277787,
+		"in_reply_to_user_id_str": "535277787",
+		"in_reply_to_screen_name": "DarkSideOfG",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I blame #Sacapop https://t.co/WnIW6AK93P"
+	},
+	{
+		"created_at": "Thu Jan 20 19:09:37 +0000 2022",
+		"id": 1484241723593314300,
+		"id_str": "1484241723593314308",
+		"full_text": "Cose che ho fatto oggi: tampone di uscita dalla quarantena e comprato i biglietti per un concerto a giugno https://t.co/r9mmXmhzIK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484241659101687800,
+					"id_str": "1484241659101687818",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJkV7NOXsAoKMIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJkV7NOXsAoKMIB.jpg",
+					"url": "https://t.co/r9mmXmhzIK",
+					"display_url": "pic.twitter.com/r9mmXmhzIK",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1484241723593314308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484241659101687800,
+					"id_str": "1484241659101687818",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJkV7NOXsAoKMIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJkV7NOXsAoKMIB.jpg",
+					"url": "https://t.co/r9mmXmhzIK",
+					"display_url": "pic.twitter.com/r9mmXmhzIK",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1484241723593314308/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FJkV7NOXsAoKMIB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Cose che ho fatto oggi: tampone di uscita dalla quarantena e comprato i biglietti per un concerto a giugno https://t.co/r9mmXmhzIK"
+	},
+	{
 		"created_at": "Wed Jan 19 12:36:19 +0000 2022",
 		"id": 1483780357757493200,
 		"id_str": "1483780357757493251",
