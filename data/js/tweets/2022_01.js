@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 19:44:59 +0000 2022",
+		"id": 1482845556821037000,
+		"id_str": "1484975400241532928",
+		"full_text": "a dating app called unhinged and its just people from twitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242688225,
+			"id_str": "242688225",
+			"name": "Gilad Rom (🐶,👾)",
+			"screen_name": "giladrom",
+			"location": "Derry, ME",
+			"description": "founder @gethuan | @beondeck ODF | follow for weird startup observations",
+			"url": "https://t.co/Wht0ww6jvf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wht0ww6jvf",
+							"expanded_url": "https://gethuan.com/",
+							"display_url": "gethuan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1064,
+			"friends_count": 808,
+			"listed_count": 27,
+			"created_at": "Tue Jan 25 10:52:01 +0000 2011",
+			"favourites_count": 66786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1435647452556582913/AWm1EkFd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1435647452556582913/AWm1EkFd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242688225/1622407138",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8843,
+		"favorite_count": 107897,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "a dating app called unhinged and its just people from twitter"
+	},
+	{
 		"created_at": "Fri Jan 21 23:48:35 +0000 2022",
 		"id": 1484674315144552400,
 		"id_str": "1484674315144552450",
