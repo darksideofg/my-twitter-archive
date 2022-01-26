@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 14:58:28 +0000 2022",
+		"id": 1485990460267106300,
+		"id_str": "1485990460267106314",
+		"full_text": "@askforrudy_ La rossa è la deluxe https://t.co/mME9BBtPvS",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "askforrudy_",
+					"name": "rudy",
+					"id": 386579526,
+					"id_str": "386579526",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485990449697415200,
+					"id_str": "1485990449697415172",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ9McN3WYAQewx9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ9McN3WYAQewx9.jpg",
+					"url": "https://t.co/mME9BBtPvS",
+					"display_url": "pic.twitter.com/mME9BBtPvS",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1485990460267106314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1284,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 972,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485990449697415200,
+					"id_str": "1485990449697415172",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ9McN3WYAQewx9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ9McN3WYAQewx9.jpg",
+					"url": "https://t.co/mME9BBtPvS",
+					"display_url": "pic.twitter.com/mME9BBtPvS",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1485990460267106314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1284,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 972,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1485984855859073000,
+		"in_reply_to_status_id_str": "1485984855859073039",
+		"in_reply_to_user_id": 386579526,
+		"in_reply_to_user_id_str": "386579526",
+		"in_reply_to_screen_name": "askforrudy_",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "@askforrudy_ La rossa è la deluxe https://t.co/mME9BBtPvS"
+	},
+	{
 		"created_at": "Sun Jan 23 23:04:13 +0000 2022",
 		"id": 1485387928205418500,
 		"id_str": "1485387928205418504",
