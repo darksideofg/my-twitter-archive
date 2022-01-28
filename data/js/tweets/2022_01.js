@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 21:23:09 +0000 2022",
+		"id": 1486209017814954000,
+		"id_str": "1486812043726532608",
+		"full_text": "Normalize replying to emails with https://t.co/1dP3lp6O7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486209007807258600,
+					"id_str": "1486209007807258625",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FKATN-RWYAEqnD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKATN-RWYAEqnD4.jpg",
+					"url": "https://t.co/1dP3lp6O7F",
+					"display_url": "pic.twitter.com/1dP3lp6O7F",
+					"expanded_url": "https://twitter.com/makorina/status/1486209017814953988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 643,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486209007807258600,
+					"id_str": "1486209007807258625",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FKATN-RWYAEqnD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKATN-RWYAEqnD4.jpg",
+					"url": "https://t.co/1dP3lp6O7F",
+					"display_url": "pic.twitter.com/1dP3lp6O7F",
+					"expanded_url": "https://twitter.com/makorina/status/1486209017814953988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 643,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51561421,
+			"id_str": "51561421",
+			"name": "magda navarrete",
+			"screen_name": "makorina",
+			"location": "mexico city",
+			"description": "The master of leaving parties early. Rocky ♡ #todoporgordita",
+			"url": "https://t.co/B5rbVB6zn8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B5rbVB6zn8",
+							"expanded_url": "http://www.instagram.com/homeyforhomies",
+							"display_url": "instagram.com/homeyforhomies",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726,
+			"friends_count": 1098,
+			"listed_count": 7,
+			"created_at": "Sat Jun 27 21:28:22 +0000 2009",
+			"favourites_count": 32143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2FBFC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/815956858045247488/hf8bCwBe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/815956858045247488/hf8bCwBe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51561421/1483374250",
+			"profile_link_color": "C197D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A4ABAB",
+			"profile_text_color": "630C63",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8095,
+		"favorite_count": 48480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Normalize replying to emails with https://t.co/1dP3lp6O7F"
+	},
+	{
 		"created_at": "Tue Jan 25 14:58:28 +0000 2022",
 		"id": 1485990460267106300,
 		"id_str": "1485990460267106314",
