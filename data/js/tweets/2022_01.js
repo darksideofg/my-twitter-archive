@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 30 22:37:39 +0000 2022",
+		"id": 1485468087235199000,
+		"id_str": "1487917955031744522",
+		"full_text": "is this euphoria ive never seen it https://t.co/lMTbmeSS8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485468078439755800,
+					"id_str": "1485468078439755779",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ1xWNSVcAM5IBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ1xWNSVcAM5IBX.jpg",
+					"url": "https://t.co/lMTbmeSS8M",
+					"display_url": "pic.twitter.com/lMTbmeSS8M",
+					"expanded_url": "https://twitter.com/lizzzzzielogan/status/1485468087235198977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 393,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485468078439755800,
+					"id_str": "1485468078439755779",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ1xWNSVcAM5IBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ1xWNSVcAM5IBX.jpg",
+					"url": "https://t.co/lMTbmeSS8M",
+					"display_url": "pic.twitter.com/lMTbmeSS8M",
+					"expanded_url": "https://twitter.com/lizzzzzielogan/status/1485468087235198977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 393,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302100980,
+			"id_str": "302100980",
+			"name": "Lizzie Logan",
+			"screen_name": "lizzzzzielogan",
+			"location": "",
+			"description": "human woman. \nheadlines @theonion \nhumor @reductress @mcsweeneys @tnyshouts",
+			"url": "https://t.co/JmRAJhqphZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JmRAJhqphZ",
+							"expanded_url": "http://lizzielogan.com",
+							"display_url": "lizzielogan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12704,
+			"friends_count": 1374,
+			"listed_count": 61,
+			"created_at": "Fri May 20 16:07:44 +0000 2011",
+			"favourites_count": 37428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484795530651701250/u9eSNckN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484795530651701250/u9eSNckN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302100980/1641715086",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "is this euphoria ive never seen it https://t.co/lMTbmeSS8M"
+	},
+	{
+		"created_at": "Sun Jan 30 18:16:31 +0000 2022",
+		"id": 1487852241293824000,
+		"id_str": "1487852241293824001",
+		"full_text": "@ale_223 Unə per adesso. Ma siamo pochi.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ale_223",
+					"name": "ale",
+					"id": 11349762,
+					"id_str": "11349762",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1487847160825659400,
+		"in_reply_to_status_id_str": "1487847160825659395",
+		"in_reply_to_user_id": 11349762,
+		"in_reply_to_user_id_str": "11349762",
+		"in_reply_to_screen_name": "ale_223",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@ale_223 Unə per adesso. Ma siamo pochi."
+	},
+	{
 		"created_at": "Sat Jan 29 19:07:48 +0000 2022",
 		"id": 1487502757368111000,
 		"id_str": "1487502757368111105",
