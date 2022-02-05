@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 07:18:17 +0000 2022",
+		"id": 1489498530695848000,
+		"id_str": "1489498530695847937",
+		"full_text": "Onestamente sorpreso che questa cover non fosse dedicata a @ghezzwhat https://t.co/R7KlrtMexe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ghezzwhat",
+					"name": "ghezzwhat",
+					"id": 70389696,
+					"id_str": "70389696",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R7KlrtMexe",
+					"expanded_url": "https://twitter.com/SIRIUSXM/status/1489362221104836610",
+					"display_url": "twitter.com/SIRIUSXM/statu…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1489362221104836600,
+		"quoted_status_id_str": "1489362221104836610",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R7KlrtMexe",
+			"expanded": "https://twitter.com/SIRIUSXM/status/1489362221104836610",
+			"display": "twitter.com/SIRIUSXM/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 03 22:16:39 +0000 2022",
+			"id": 1489362221104836600,
+			"id_str": "1489362221104836610",
+			"full_text": ".@bastille covering @taylorswift13's \"Exile\" is all of our wildest dreams coming true! 😍  Find more like this on @altnation. https://t.co/wj8bAtL8O0 https://t.co/pS9FgcmE8b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bastille",
+						"name": "BASTILLE",
+						"id": 21433995,
+						"id_str": "21433995",
+						"indices": [
+							1,
+							10
+						]
+					},
+					{
+						"screen_name": "taylorswift13",
+						"name": "Taylor Swift",
+						"id": 17919972,
+						"id_str": "17919972",
+						"indices": [
+							20,
+							34
+						]
+					},
+					{
+						"screen_name": "altnation",
+						"name": "Alt Nation",
+						"id": 14402113,
+						"id_str": "14402113",
+						"indices": [
+							113,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wj8bAtL8O0",
+						"expanded_url": "https://siriusxm.us/BastilleTWT",
+						"display_url": "siriusxm.us/BastilleTWT",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1489362090796138500,
+						"id_str": "1489362090796138499",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1489362090796138499/img/ZW-gUnqgZ8d_hWL7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1489362090796138499/img/ZW-gUnqgZ8d_hWL7.jpg",
+						"url": "https://t.co/pS9FgcmE8b",
+						"display_url": "pic.twitter.com/pS9FgcmE8b",
+						"expanded_url": "https://twitter.com/SIRIUSXM/status/1489362221104836610/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1489362090796138500,
+						"id_str": "1489362090796138499",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1489362090796138499/img/ZW-gUnqgZ8d_hWL7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1489362090796138499/img/ZW-gUnqgZ8d_hWL7.jpg",
+						"url": "https://t.co/pS9FgcmE8b",
+						"display_url": "pic.twitter.com/pS9FgcmE8b",
+						"expanded_url": "https://twitter.com/SIRIUSXM/status/1489362221104836610/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 242836,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1489362090796138499/vid/1280x720/vY8jkNnhFxlTtLN4.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1489362090796138499/pl/rOI2Fl1R-CrHKzOr.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1489362090796138499/vid/640x360/QXapU4XfTBfz_PCD.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1489362090796138499/vid/480x270/BB8usicXuBe4TiQs.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Bastille performs 'Exile' by Taylor Swift feat. Bon Iver",
+							"description": "",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 189258194,
+				"id_str": "189258194",
+				"name": "SiriusXM",
+				"screen_name": "SIRIUSXM",
+				"location": "",
+				"description": "Your favorite music, commercial-free, plus uncensored talk and entertainment, sports and Howard Stern. For listener care, @SXM_Help.",
+				"url": "https://t.co/flu2dwjnyj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/flu2dwjnyj",
+								"expanded_url": "https://siriusxm.us/Guidelines",
+								"display_url": "siriusxm.us/Guidelines",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 303832,
+				"friends_count": 8767,
+				"listed_count": 1907,
+				"created_at": "Fri Sep 10 20:02:33 +0000 2010",
+				"favourites_count": 22859,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50727,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182289764365557760/4qDnhQ1K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182289764365557760/4qDnhQ1K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/189258194/1641567368",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1595,
+			"favorite_count": 9311,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Onestamente sorpreso che questa cover non fosse dedicata a @ghezzwhat https://t.co/R7KlrtMexe"
+	},
+	{
 		"created_at": "Tue Feb 01 19:30:18 +0000 2022",
 		"id": 1488207386657497000,
 		"id_str": "1488595585099780101",
