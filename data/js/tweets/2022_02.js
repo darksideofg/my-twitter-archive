@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 19:19:03 +0000 2022",
+		"id": 1491031633872703500,
+		"id_str": "1491491855330123779",
+		"full_text": "Apologize to Hilary duff right now I’m being so serious https://t.co/DsB6VlBRPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DsB6VlBRPf",
+					"expanded_url": "https://twitter.com/disneyplusuk/status/1490750285454659590",
+					"display_url": "twitter.com/disneyplusuk/s…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2915785789,
+			"id_str": "2915785789",
+			"name": "𝘮𝘪𝘤𝘩𝘢𝘦𝘭𝘭𝘢",
+			"screen_name": "sometimeslrun",
+			"location": "",
+			"description": "@lmsocurious was suspended",
+			"url": "https://t.co/SN2solsxxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SN2solsxxv",
+							"expanded_url": "http://instagram.com/emailmyheartt",
+							"display_url": "instagram.com/emailmyheartt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1098,
+			"friends_count": 554,
+			"listed_count": 13,
+			"created_at": "Mon Dec 01 15:49:01 +0000 2014",
+			"favourites_count": 159655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483123669123710984/6vjA9lAZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483123669123710984/6vjA9lAZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2915785789/1642439213",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490750285454659600,
+		"quoted_status_id_str": "1490750285454659590",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DsB6VlBRPf",
+			"expanded": "https://twitter.com/disneyplusuk/status/1490750285454659590",
+			"display": "twitter.com/disneyplusuk/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 07 18:12:19 +0000 2022",
+			"id": 1490750285454659600,
+			"id_str": "1490750285454659590",
+			"full_text": "shatter all expectations.\n#TheKardashians streaming April 14 on #DisneyPlus. https://t.co/QUPEjJnSF4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheKardashians",
+						"indices": [
+							26,
+							41
+						]
+					},
+					{
+						"text": "DisneyPlus",
+						"indices": [
+							64,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1490750178944598000,
+						"id_str": "1490750178944598022",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/FLA13EFXoAghPcn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLA13EFXoAghPcn.jpg",
+						"url": "https://t.co/QUPEjJnSF4",
+						"display_url": "pic.twitter.com/QUPEjJnSF4",
+						"expanded_url": "https://twitter.com/DisneyPlusUK/status/1490750285454659590/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1490750178944598000,
+						"id_str": "1490750178944598022",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/FLA13EFXoAghPcn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLA13EFXoAghPcn.jpg",
+						"url": "https://t.co/QUPEjJnSF4",
+						"display_url": "pic.twitter.com/QUPEjJnSF4",
+						"expanded_url": "https://twitter.com/DisneyPlusUK/status/1490750285454659590/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30030,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1490750178944598022/pu/vid/1280x720/u89D9O6Y3Y7XJR8Z.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1490750178944598022/pu/vid/480x270/R9eXa1YH1dI9vOZj.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1490750178944598022/pu/vid/640x360/-ydE2lhafgT3l9nV.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1490750178944598022/pu/pl/niglxoxsmEXjTxiZ.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1010209426869870600,
+				"id_str": "1010209426869870592",
+				"name": "Disney+ UK",
+				"screen_name": "DisneyPlusUK",
+				"location": "",
+				"description": "Disney + Pixar + Marvel + Star Wars + Nat Geo + Star = #DisneyPlus \nThe home of Disney+ UK & Ireland",
+				"url": "https://t.co/m1MODPHVhR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m1MODPHVhR",
+								"expanded_url": "https://www.disneyplus.com/en-gb",
+								"display_url": "disneyplus.com/en-gb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 118975,
+				"friends_count": 13,
+				"listed_count": 194,
+				"created_at": "Fri Jun 22 17:14:30 +0000 2018",
+				"favourites_count": 289,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2248,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1459164451974877202/H1_dXNHq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459164451974877202/H1_dXNHq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1010209426869870592/1640773912",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1537,
+			"favorite_count": 14175,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12220,
+		"favorite_count": 95374,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apologize to Hilary duff right now I’m being so serious https://t.co/DsB6VlBRPf"
+	},
+	{
 		"created_at": "Tue Feb 08 18:48:16 +0000 2022",
 		"id": 1491010276871016400,
 		"id_str": "1491121722061381642",
