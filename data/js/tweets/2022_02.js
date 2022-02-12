@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 23:41:43 +0000 2022",
+		"id": 1492282733925748700,
+		"id_str": "1492282733925748743",
+		"full_text": "♫ There's nothing really going on\nBut I heard about a rager\nI won't be waiting by the phone\nSo you can hit me on the pager ♫\n\nhttps://t.co/4VVpNSvcF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4VVpNSvcF8",
+					"expanded_url": "https://songwhip.com/kacey-musgraves/simple-times",
+					"display_url": "songwhip.com/kacey-musgrave…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "♫ There's nothing really going on\nBut I heard about a rager\nI won't be waiting by the phone\nSo you can hit me on the pager ♫\n\nhttps://t.co/4VVpNSvcF8"
+	},
+	{
+		"created_at": "Fri Feb 11 19:51:01 +0000 2022",
+		"id": 1492219267365802000,
+		"id_str": "1492224674440392712",
+		"full_text": "It's always a mistake to have someone watching Murder She Wrote in your show, as it may lead the viewer to realise they could be watching Murder She Wrote. https://t.co/zDuLSAb7wZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1492219264450793500,
+					"id_str": "1492219264450793474",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FLVtg9CVkAIaWol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLVtg9CVkAIaWol.jpg",
+					"url": "https://t.co/zDuLSAb7wZ",
+					"display_url": "pic.twitter.com/zDuLSAb7wZ",
+					"expanded_url": "https://twitter.com/Pentadact/status/1492219267365801985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 697,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 697,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492219264450793500,
+					"id_str": "1492219264450793474",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FLVtg9CVkAIaWol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLVtg9CVkAIaWol.jpg",
+					"url": "https://t.co/zDuLSAb7wZ",
+					"display_url": "pic.twitter.com/zDuLSAb7wZ",
+					"expanded_url": "https://twitter.com/Pentadact/status/1492219267365801985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 697,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 697,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5867722,
+			"id_str": "5867722",
+			"name": "Tom Francis",
+			"screen_name": "Pentadact",
+			"location": "Vancouver",
+			"description": "Designer/writer/coder of @GunpointGame @HeatSig and @BreachWizards. More about those, my short stories, and other stuff I do on my blog (below)",
+			"url": "https://t.co/DspibrKdCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DspibrKdCb",
+							"expanded_url": "http://www.pentadact.com",
+							"display_url": "pentadact.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93013,
+			"friends_count": 618,
+			"listed_count": 637,
+			"created_at": "Tue May 08 15:58:36 +0000 2007",
+			"favourites_count": 38080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "374A5F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074331522235281408/jcR5Q90o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074331522235281408/jcR5Q90o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5867722/1398932004",
+			"profile_link_color": "75879D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCD8E4",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's always a mistake to have someone watching Murder She Wrote in your show, as it may lead the viewer to realise they could be watching Murder She Wrote. https://t.co/zDuLSAb7wZ"
+	},
+	{
 		"created_at": "Wed Feb 09 19:19:03 +0000 2022",
 		"id": 1491031633872703500,
 		"id_str": "1491491855330123779",
