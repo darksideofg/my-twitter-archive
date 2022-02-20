@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 12:09:39 +0000 2022",
+		"id": 1495007672722198500,
+		"id_str": "1495007672722198535",
+		"full_text": "Honestly a bop https://t.co/NWPvvHWYOG https://t.co/J9NzJyh5Bz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NWPvvHWYOG",
+					"expanded_url": "https://open.spotify.com/track/5ZBKXaiKksaMq07XSnyOQ4",
+					"display_url": "open.spotify.com/track/5ZBKXaiK…",
+					"indices": [
+						15,
+						38
+					]
+				},
+				{
+					"url": "https://t.co/J9NzJyh5Bz",
+					"expanded_url": "https://twitter.com/sogniiappvsi/status/1494751412357668875",
+					"display_url": "twitter.com/sogniiappvsi/s…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1494751412357668900,
+		"quoted_status_id_str": "1494751412357668875",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J9NzJyh5Bz",
+			"expanded": "https://twitter.com/sogniiappvsi/status/1494751412357668875",
+			"display": "twitter.com/sogniiappvsi/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 18 19:11:22 +0000 2022",
+			"id": 1494751412357668900,
+			"id_str": "1494751412357668875",
+			"full_text": "potete farvi un tatuaggio gratis ma è il titolo dell'ultima canzone che avete ascoltato,qual è?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1488234711424159700,
+				"id_str": "1488234711424159747",
+				"name": "elly♑︎",
+				"screen_name": "sogniiappvsi",
+				"location": "she/her",
+				"description": "ho letto frasi d’amore sui muri,erano tutte con verbi al passato",
+				"url": "https://t.co/Dqr2kJU12X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dqr2kJU12X",
+								"expanded_url": "https://youtu.be/cV99VwHTFBI",
+								"display_url": "youtu.be/cV99VwHTFBI",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 549,
+				"friends_count": 681,
+				"listed_count": 1,
+				"created_at": "Mon Jan 31 19:36:47 +0000 2022",
+				"favourites_count": 1739,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6552,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1494751790998372356/T_y8115L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494751790998372356/T_y8115L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1488234711424159747/1645109925",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 1529,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honestly a bop https://t.co/NWPvvHWYOG https://t.co/J9NzJyh5Bz"
+	},
+	{
 		"created_at": "Fri Feb 18 19:30:52 +0000 2022",
 		"id": 1494756320481788000,
 		"id_str": "1494756320481787907",
