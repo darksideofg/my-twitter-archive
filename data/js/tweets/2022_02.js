@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 22:38:10 +0000 2022",
+		"id": 1495243877334364200,
+		"id_str": "1495528229339336711",
+		"full_text": "Coincidence? https://t.co/jvXdPCV8vP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495243858090905600,
+					"id_str": "1495243858090905601",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAsXeYX0AERgt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAsXeYX0AERgt2.jpg",
+					"url": "https://t.co/jvXdPCV8vP",
+					"display_url": "pic.twitter.com/jvXdPCV8vP",
+					"expanded_url": "https://twitter.com/MikeKofiA/status/1495243877334364167/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 495,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 495,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495243858090905600,
+					"id_str": "1495243858090905601",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAsXeYX0AERgt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAsXeYX0AERgt2.jpg",
+					"url": "https://t.co/jvXdPCV8vP",
+					"display_url": "pic.twitter.com/jvXdPCV8vP",
+					"expanded_url": "https://twitter.com/MikeKofiA/status/1495243877334364167/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 495,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 495,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1152035260831535100,
+			"id_str": "1152035260831535105",
+			"name": "Michael Kofi A.||♤🇬🇭",
+			"screen_name": "MikeKofiA",
+			"location": "Babylon ",
+			"description": "We posted up live in the death throes of a crumbling empire watching the wheels come off. Marxist-Leninist (21)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15005,
+			"friends_count": 960,
+			"listed_count": 66,
+			"created_at": "Fri Jul 19 01:59:44 +0000 2019",
+			"favourites_count": 66045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1458358339331629060/r2J1cWI4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458358339331629060/r2J1cWI4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1152035260831535105/1598332262",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1347,
+		"favorite_count": 19020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coincidence? https://t.co/jvXdPCV8vP"
+	},
+	{
 		"created_at": "Sat Feb 19 12:09:39 +0000 2022",
 		"id": 1495007672722198500,
 		"id_str": "1495007672722198535",
