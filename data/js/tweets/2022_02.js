@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 18:49:17 +0000 2022",
+		"id": 1496195408413999000,
+		"id_str": "1496195408413999106",
+		"full_text": "Me as a parent? https://t.co/kGRVNEObS4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kGRVNEObS4",
+					"expanded_url": "https://twitter.com/RichardHanania/status/1496174082743808001",
+					"display_url": "twitter.com/RichardHanania…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496174082743808000,
+		"quoted_status_id_str": "1496174082743808001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kGRVNEObS4",
+			"expanded": "https://twitter.com/RichardHanania/status/1496174082743808001",
+			"display": "twitter.com/RichardHanania…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 22 17:24:33 +0000 2022",
+			"id": 1496174082743808000,
+			"id_str": "1496174082743808001",
+			"full_text": "Female Democratic House candidate in Oklahoma gets drunk, goes to a sleepover of 12 and 13 year old girls watching Titanic.\n\nShe swears at them, tells them she is a person of color, insults a girl's acne, and throws up in one of the girl's shoes. https://t.co/cQv2jzh7aG https://t.co/oDWaqMhYaA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cQv2jzh7aG",
+						"expanded_url": "https://www.nytimes.com/2022/02/21/us/politics/abby-broyles-party.html",
+						"display_url": "nytimes.com/2022/02/21/us/…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1496173431624138800,
+						"id_str": "1496173431624138752",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FMN5zxpVgAAPuvo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMN5zxpVgAAPuvo.jpg",
+						"url": "https://t.co/oDWaqMhYaA",
+						"display_url": "pic.twitter.com/oDWaqMhYaA",
+						"expanded_url": "https://twitter.com/RichardHanania/status/1496174082743808001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1564,
+								"h": 1572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496173431624138800,
+						"id_str": "1496173431624138752",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FMN5zxpVgAAPuvo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMN5zxpVgAAPuvo.jpg",
+						"url": "https://t.co/oDWaqMhYaA",
+						"display_url": "pic.twitter.com/oDWaqMhYaA",
+						"expanded_url": "https://twitter.com/RichardHanania/status/1496174082743808001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1564,
+								"h": 1572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1496173466164228000,
+						"id_str": "1496173466164228097",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FMN51yUVcAEA0Zg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMN51yUVcAEA0Zg.jpg",
+						"url": "https://t.co/oDWaqMhYaA",
+						"display_url": "pic.twitter.com/oDWaqMhYaA",
+						"expanded_url": "https://twitter.com/RichardHanania/status/1496174082743808001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 675,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1346,
+								"h": 1356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1191,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1496173567527948300,
+						"id_str": "1496173567527948288",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FMN57r7VEAAACKs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMN57r7VEAAACKs.jpg",
+						"url": "https://t.co/oDWaqMhYaA",
+						"display_url": "pic.twitter.com/oDWaqMhYaA",
+						"expanded_url": "https://twitter.com/RichardHanania/status/1496174082743808001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 498,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1288,
+								"h": 944,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 880,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1041044330092195800,
+				"id_str": "1041044330092195840",
+				"name": "Richard Hanania",
+				"screen_name": "RichardHanania",
+				"location": "United States",
+				"description": "President, @CSPICenterOrg. Fellow, Defense Priorities. Former @ColumbiaSIPA. Post pictures from books.",
+				"url": "https://t.co/SvhwJ0PQNY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SvhwJ0PQNY",
+								"expanded_url": "http://richardhanania.substack.com",
+								"display_url": "richardhanania.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33438,
+				"friends_count": 975,
+				"listed_count": 351,
+				"created_at": "Sat Sep 15 19:21:24 +0000 2018",
+				"favourites_count": 16129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25446,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1491910936738680833/rSVRkS84_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491910936738680833/rSVRkS84_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 218,
+			"favorite_count": 611,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me as a parent? https://t.co/kGRVNEObS4"
+	},
+	{
 		"created_at": "Mon Feb 21 20:21:18 +0000 2022",
 		"id": 1495856174054445000,
 		"id_str": "1495856174054445061",
