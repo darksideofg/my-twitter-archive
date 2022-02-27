@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 15:33:03 +0000 2022",
+		"id": 1497595572181778400,
+		"id_str": "1497595572181778432",
+		"full_text": "Madonna quanto https://t.co/i9DD4GcJIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i9DD4GcJIX",
+					"expanded_url": "https://twitter.com/kingbealestreet/status/1497325649069019145",
+					"display_url": "twitter.com/kingbealestree…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 7959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1497325649069019100,
+		"quoted_status_id_str": "1497325649069019145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i9DD4GcJIX",
+			"expanded": "https://twitter.com/kingbealestreet/status/1497325649069019145",
+			"display": "twitter.com/kingbealestree…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 25 21:40:28 +0000 2022",
+			"id": 1497325649069019100,
+			"id_str": "1497325649069019145",
+			"full_text": "SPEAK! 🗣🗣 https://t.co/AvtpbAzYmU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1497325647038926800,
+						"id_str": "1497325647038926852",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/FMeRvijWUAQZDHA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMeRvijWUAQZDHA.jpg",
+						"url": "https://t.co/AvtpbAzYmU",
+						"display_url": "pic.twitter.com/AvtpbAzYmU",
+						"expanded_url": "https://twitter.com/kingbealestreet/status/1497325649069019145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 930,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1393,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1497325647038926800,
+						"id_str": "1497325647038926852",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/FMeRvijWUAQZDHA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMeRvijWUAQZDHA.jpg",
+						"url": "https://t.co/AvtpbAzYmU",
+						"display_url": "pic.twitter.com/AvtpbAzYmU",
+						"expanded_url": "https://twitter.com/kingbealestreet/status/1497325649069019145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 930,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1393,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1446611263166062600,
+				"id_str": "1446611263166062593",
+				"name": "Waystar Royco Intern",
+				"screen_name": "kingbealestreet",
+				"location": "Engweri",
+				"description": "TV version of a cinephile | animation lover | heist film connoisseur | amateur music video critic | she/her | 26\n\nSubscribe to my newsletter!",
+				"url": "https://t.co/K8AiffFx5z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K8AiffFx5z",
+								"expanded_url": "https://www.getrevue.co/profile/kingbealestreet",
+								"display_url": "getrevue.co/profile/kingbe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12272,
+				"friends_count": 217,
+				"listed_count": 23,
+				"created_at": "Fri Oct 08 22:59:45 +0000 2021",
+				"favourites_count": 31005,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1484857179538665474/yMz4B1Dx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484857179538665474/yMz4B1Dx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1446611263166062593/1633734505",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14203,
+			"favorite_count": 132719,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Madonna quanto https://t.co/i9DD4GcJIX"
+	},
+	{
 		"created_at": "Thu Feb 24 22:36:18 +0000 2022",
 		"id": 1496977312566460400,
 		"id_str": "1496977312566460424",
