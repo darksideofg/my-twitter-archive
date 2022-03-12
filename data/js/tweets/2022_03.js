@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 08:24:39 +0000 2022",
+		"id": 1502100163023700000,
+		"id_str": "1502198807567683585",
+		"full_text": "Virgo ♍️\nTypeface: ITC Garamond\n\nI love most Virgos. Their calm and consistent energy is very grounding.\n\nVirgos are deeply rooted in the material world and can come across as stoic and unfeeling.\n\nBut Virgos simply understand balance and make space for feelings when helpful. https://t.co/5GAHPNcxuB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502099533018263600,
+					"id_str": "1502099533018263557",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FNiHkRrVcAUPvTO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNiHkRrVcAUPvTO.png",
+					"url": "https://t.co/5GAHPNcxuB",
+					"display_url": "pic.twitter.com/5GAHPNcxuB",
+					"expanded_url": "https://twitter.com/annaecook/status/1502100163023699968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502099533018263600,
+					"id_str": "1502099533018263557",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FNiHkRrVcAUPvTO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNiHkRrVcAUPvTO.png",
+					"url": "https://t.co/5GAHPNcxuB",
+					"display_url": "pic.twitter.com/5GAHPNcxuB",
+					"expanded_url": "https://twitter.com/annaecook/status/1502100163023699968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502094220064018400,
+		"in_reply_to_status_id_str": "1502094220064018433",
+		"in_reply_to_user_id": 549861506,
+		"in_reply_to_user_id_str": "549861506",
+		"in_reply_to_screen_name": "annaecook",
+		"user": {
+			"id": 549861506,
+			"id_str": "549861506",
+			"name": "Anna E. Cook",
+			"screen_name": "annaecook",
+			"location": "United States",
+			"description": "Senior Accessibility Designer. Speaker. Writing a book on accessibility for designers. Opinions=mine. She/They 🌈 🥄",
+			"url": "https://t.co/JWFPe0e4rR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JWFPe0e4rR",
+							"expanded_url": "http://annaecook.com/links",
+							"display_url": "annaecook.com/links",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17062,
+			"friends_count": 8407,
+			"listed_count": 340,
+			"created_at": "Tue Apr 10 06:21:59 +0000 2012",
+			"favourites_count": 51593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1493362124864720896/7zs7xsNp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1493362124864720896/7zs7xsNp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/549861506/1646408506",
+			"profile_link_color": "DD223D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Virgo ♍️\nTypeface: ITC Garamond\n\nI love most Virgos. Their calm and consistent energy is very grounding.\n\nVirgos are deeply rooted in the material world and can come across as stoic and unfeeling.\n\nBut Virgos simply understand balance and make space for feelings when helpful. https://t.co/5GAHPNcxuB"
+	},
+	{
 		"created_at": "Thu Mar 10 20:46:16 +0000 2022",
 		"id": 1501662153119518700,
 		"id_str": "1502023050337959945",
