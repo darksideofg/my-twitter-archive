@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 19:25:16 +0000 2022",
+		"id": 1504865106072518700,
+		"id_str": "1504901772288135171",
+		"full_text": "bottoms will be like “this track makes me FERAL” and it’s just charli singing about some guy who hurt her feelings",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4352323695,
+			"id_str": "4352323695",
+			"name": "zach fruit",
+			"screen_name": "zacharyfruit",
+			"location": "???",
+			"description": "post-doc at ucla, faculty @bklyninstitute",
+			"url": "https://t.co/5qZB4nG2fK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5qZB4nG2fK",
+							"expanded_url": "https://soundcloud.com/zacfru",
+							"display_url": "soundcloud.com/zacfru",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2261,
+			"friends_count": 1491,
+			"listed_count": 6,
+			"created_at": "Wed Dec 02 16:41:56 +0000 2015",
+			"favourites_count": 37070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111649113748262913/SfoRR_9y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111649113748262913/SfoRR_9y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4352323695/1458568317",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "bottoms will be like “this track makes me FERAL” and it’s just charli singing about some guy who hurt her feelings"
+	},
+	{
 		"created_at": "Thu Mar 17 21:45:08 +0000 2022",
 		"id": 1504574580551209000,
 		"id_str": "1504574580551208967",
