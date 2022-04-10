@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 09 17:07:24 +0000 2022",
+		"id": 1512836138565832700,
+		"id_str": "1512839607737589768",
+		"full_text": "Everybody angry at Holmes is just angry they couldn't pull the look in this video this off https://t.co/Xlmyye9pEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512836136145768400,
+					"id_str": "1512836136145768448",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FP6sc1JX0AAUDyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP6sc1JX0AAUDyR.jpg",
+					"url": "https://t.co/Xlmyye9pEL",
+					"display_url": "pic.twitter.com/Xlmyye9pEL",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/1512836138565832706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1145,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1145,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512836136145768400,
+					"id_str": "1512836136145768448",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FP6sc1JX0AAUDyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP6sc1JX0AAUDyR.jpg",
+					"url": "https://t.co/Xlmyye9pEL",
+					"display_url": "pic.twitter.com/Xlmyye9pEL",
+					"expanded_url": "https://twitter.com/SwiftOnSecurity/status/1512836138565832706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1145,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1145,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2436389418,
+			"id_str": "2436389418",
+			"name": "SwiftOnSecurity",
+			"screen_name": "SwiftOnSecurity",
+			"location": "Cyber, USA",
+			"description": "Systems security, author https://t.co/bPyDgh9XZO, SciFi @ https://t.co/2h2g0EGTiF, sysadmin & F500 SecEng. Microsoft MVP, Client Security 2021. they/them/tay",
+			"url": "https://t.co/mbqpcAFmb3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mbqpcAFmb3",
+							"expanded_url": "https://decentsecurity.com",
+							"display_url": "decentsecurity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bPyDgh9XZO",
+							"expanded_url": "http://DecentSecurity.com",
+							"display_url": "DecentSecurity.com",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/2h2g0EGTiF",
+							"expanded_url": "http://UniversalShards.com",
+							"display_url": "UniversalShards.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 351185,
+			"friends_count": 9209,
+			"listed_count": 6926,
+			"created_at": "Thu Apr 10 02:54:26 +0000 2014",
+			"favourites_count": 127155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510802415393591302/iYzhV8ga_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510802415393591302/iYzhV8ga_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2436389418/1598152150",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everybody angry at Holmes is just angry they couldn't pull the look in this video this off https://t.co/Xlmyye9pEL"
+	},
+	{
 		"created_at": "Fri Apr 08 20:06:20 +0000 2022",
 		"id": 1512522249911341000,
 		"id_str": "1512522249911341062",
