@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 19:15:27 +0000 2022",
+		"id": 1516483580804972500,
+		"id_str": "1516495711931703313",
+		"full_text": "Teenage bounty not getting a second season is honestly homophobic idc https://t.co/qSpJlqDXuS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qSpJlqDXuS",
+					"expanded_url": "https://twitter.com/arizonaniston/status/1516478822337720325",
+					"display_url": "twitter.com/arizonaniston/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 920361603614363600,
+			"id_str": "920361603614363648",
+			"name": "Mo 🇵🇸 (Taylor’s Version)",
+			"screen_name": "exilehive",
+			"location": "",
+			"description": "I’d meet you where the spirits meets the bones. she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10854,
+			"friends_count": 4507,
+			"listed_count": 36,
+			"created_at": "Tue Oct 17 18:51:20 +0000 2017",
+			"favourites_count": 18249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399479767620112386/zUTkhWiG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399479767620112386/zUTkhWiG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/920361603614363648/1622496953",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516478822337720300,
+		"quoted_status_id_str": "1516478822337720325",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qSpJlqDXuS",
+			"expanded": "https://twitter.com/arizonaniston/status/1516478822337720325",
+			"display": "twitter.com/arizonaniston/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 19 18:08:20 +0000 2022",
+			"id": 1516478822337720300,
+			"id_str": "1516478822337720325",
+			"full_text": "https://t.co/Mrf97tIvn6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1516478820177657900,
+						"id_str": "1516478820177657860",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FQudc8oXwAQrVTI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQudc8oXwAQrVTI.jpg",
+						"url": "https://t.co/Mrf97tIvn6",
+						"display_url": "pic.twitter.com/Mrf97tIvn6",
+						"expanded_url": "https://twitter.com/arizonaniston/status/1516478822337720325/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 647,
+								"h": 724,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 608,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 647,
+								"h": 724,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1516478820177657900,
+						"id_str": "1516478820177657860",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FQudc8oXwAQrVTI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQudc8oXwAQrVTI.jpg",
+						"url": "https://t.co/Mrf97tIvn6",
+						"display_url": "pic.twitter.com/Mrf97tIvn6",
+						"expanded_url": "https://twitter.com/arizonaniston/status/1516478822337720325/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 647,
+								"h": 724,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 608,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 647,
+								"h": 724,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 984741690,
+				"id_str": "984741690",
+				"name": "landon ミ☆",
+				"screen_name": "arizonaniston",
+				"location": "she/her | 24",
+				"description": "emily blunt",
+				"url": "https://t.co/aPQ3pzlNOL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aPQ3pzlNOL",
+								"expanded_url": "https://blacklivesmatters.carrd.co/",
+								"display_url": "blacklivesmatters.carrd.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1071,
+				"friends_count": 375,
+				"listed_count": 16,
+				"created_at": "Sun Dec 02 14:45:42 +0000 2012",
+				"favourites_count": 48923,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22274,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1513277529431453698/otInK_6W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513277529431453698/otInK_6W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/984741690/1650392235",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 244,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teenage bounty not getting a second season is honestly homophobic idc https://t.co/qSpJlqDXuS"
+	},
+	{
 		"created_at": "Mon Apr 18 18:12:44 +0000 2022",
 		"id": 1516117539436306400,
 		"id_str": "1516117539436306436",
