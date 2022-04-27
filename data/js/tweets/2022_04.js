@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 21:46:39 +0000 2022",
+		"id": 1519070478396240000,
+		"id_str": "1519070478396239873",
+		"full_text": "I can’t https://t.co/pnsonGDqMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pnsonGDqMC",
+					"expanded_url": "https://twitter.com/n8agrin/status/1518860763175145472",
+					"display_url": "twitter.com/n8agrin/status…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1518860763175145500,
+		"quoted_status_id_str": "1518860763175145472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pnsonGDqMC",
+			"expanded": "https://twitter.com/n8agrin/status/1518860763175145472",
+			"display": "twitter.com/n8agrin/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 26 07:53:19 +0000 2022",
+			"id": 1518860763175145500,
+			"id_str": "1518860763175145472",
+			"full_text": "Oh yeah once @ladygaga came and _insisted_ she had to see the code. Maybe she was also worried about “the algorithm” 🤷‍♂️",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ladygaga",
+						"name": "Lady Gaga",
+						"id": 14230524,
+						"id_str": "14230524",
+						"indices": [
+							13,
+							22
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1518860762243997700,
+			"in_reply_to_status_id_str": "1518860762243997696",
+			"in_reply_to_user_id": 894321,
+			"in_reply_to_user_id_str": "894321",
+			"in_reply_to_screen_name": "n8agrin",
+			"user": {
+				"id": 894321,
+				"id_str": "894321",
+				"name": "Nate Nate",
+				"screen_name": "n8agrin",
+				"location": "Hyperspace",
+				"description": "I like 🚀s. iNaturalist, Splunk, Twitter, Looker, Google, Omni. Engineering leader who loves data and scaling teams. Building @exploreomni",
+				"url": "https://t.co/YQQEdEEvwb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YQQEdEEvwb",
+								"expanded_url": "http://nate.surf",
+								"display_url": "nate.surf",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2950,
+				"friends_count": 397,
+				"listed_count": 110,
+				"created_at": "Sun Mar 11 01:26:30 +0000 2007",
+				"favourites_count": 1972,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4D4D4D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3162376648/9acfdb06e4cce6d6cc4804a818c0054a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3162376648/9acfdb06e4cce6d6cc4804a818c0054a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/894321/1430329666",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "311B1B",
+				"profile_text_color": "E10150",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 974,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can’t https://t.co/pnsonGDqMC"
+	},
+	{
+		"created_at": "Tue Apr 26 07:02:54 +0000 2022",
+		"id": 1517503794006929400,
+		"id_str": "1518848076403953664",
+		"full_text": "i’ll never get over the fact that this picture is exactly what it feels like listening to taylor swift https://t.co/jdwzvfqFqN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517503790617964500,
+					"id_str": "1517503790617964545",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9BqFEXsAEhj6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9BqFEXsAEhj6i.jpg",
+					"url": "https://t.co/jdwzvfqFqN",
+					"display_url": "pic.twitter.com/jdwzvfqFqN",
+					"expanded_url": "https://twitter.com/fearlesskait/status/1517503794006929410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 813,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 813,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517503790617964500,
+					"id_str": "1517503790617964545",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9BqFEXsAEhj6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9BqFEXsAEhj6i.jpg",
+					"url": "https://t.co/jdwzvfqFqN",
+					"display_url": "pic.twitter.com/jdwzvfqFqN",
+					"expanded_url": "https://twitter.com/fearlesskait/status/1517503794006929410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 813,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 813,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738562730,
+			"id_str": "738562730",
+			"name": "kaitlyn 3",
+			"screen_name": "fearlesskait",
+			"location": "20 | toronto | she/her",
+			"description": "olivia rodrigo thinks i’m cool",
+			"url": "https://t.co/oSXido1Lz5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oSXido1Lz5",
+							"expanded_url": "http://nameupinlights.tumblr.com",
+							"display_url": "nameupinlights.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3358,
+			"friends_count": 685,
+			"listed_count": 54,
+			"created_at": "Sun Aug 05 13:12:14 +0000 2012",
+			"favourites_count": 64556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515741268911050753/_6k3Gxrf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515741268911050753/_6k3Gxrf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738562730/1647908364",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26434,
+		"favorite_count": 176191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i’ll never get over the fact that this picture is exactly what it feels like listening to taylor swift https://t.co/jdwzvfqFqN"
+	},
+	{
 		"created_at": "Mon Apr 25 18:21:23 +0000 2022",
 		"id": 1518656433264410600,
 		"id_str": "1518656433264410624",
@@ -16,7 +410,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "fedebruni84",
-					"name": "Federico 🇺🇦 🏴‍☠️",
+					"name": "Federico 🇺🇦 🏴☠️",
 					"id": 23112137,
 					"id_str": "23112137",
 					"indices": [
