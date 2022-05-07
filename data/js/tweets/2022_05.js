@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 08:31:42 +0000 2022",
+		"id": 1522494299258171400,
+		"id_str": "1522494299258171394",
+		"full_text": "Cosa avete combinato adesso 🙈 https://t.co/tgWFxWOzfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tgWFxWOzfS",
+					"expanded_url": "https://twitter.com/Eurovision/status/1522493881882976256",
+					"display_url": "twitter.com/Eurovision/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522493881882976300,
+		"quoted_status_id_str": "1522493881882976256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tgWFxWOzfS",
+			"expanded": "https://twitter.com/Eurovision/status/1522493881882976256",
+			"display": "twitter.com/Eurovision/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 06 08:30:02 +0000 2022",
+			"id": 1522493881882976300,
+			"id_str": "1522493881882976256",
+			"full_text": "In the spirit of the Eurovision Song Contest we’d like to remind our followers of the values of the competition and to respect others online. https://t.co/jCePYa30Wc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1522492525273129000,
+						"id_str": "1522492525273128960",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/FSD64p4XoAAunrN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSD64p4XoAAunrN.jpg",
+						"url": "https://t.co/jCePYa30Wc",
+						"display_url": "pic.twitter.com/jCePYa30Wc",
+						"expanded_url": "https://twitter.com/Eurovision/status/1522493881882976256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522492525273129000,
+						"id_str": "1522492525273128960",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/FSD64p4XoAAunrN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSD64p4XoAAunrN.jpg",
+						"url": "https://t.co/jCePYa30Wc",
+						"display_url": "pic.twitter.com/jCePYa30Wc",
+						"expanded_url": "https://twitter.com/Eurovision/status/1522493881882976256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15584187,
+				"id_str": "15584187",
+				"name": "Eurovision Song Contest",
+				"screen_name": "Eurovision",
+				"location": "Europe",
+				"description": "The Sound of Beauty 🎶 Turin 2022 🇮🇹 10-12-14 May 🎤",
+				"url": "https://t.co/c0Oc6rpkqe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c0Oc6rpkqe",
+								"expanded_url": "http://www.eurovision.tv",
+								"display_url": "eurovision.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 566161,
+				"friends_count": 844,
+				"listed_count": 1979,
+				"created_at": "Thu Jul 24 16:21:43 +0000 2008",
+				"favourites_count": 5573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1486052830943367177/n0NNH43i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486052830943367177/n0NNH43i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15584187/1643032795",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FF9422",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 848,
+			"favorite_count": 5970,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Cosa avete combinato adesso 🙈 https://t.co/tgWFxWOzfS"
+	},
+	{
 		"created_at": "Thu May 05 19:52:07 +0000 2022",
 		"id": 1522303145392681000,
 		"id_str": "1522303145392680964",
