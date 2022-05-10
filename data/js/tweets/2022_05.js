@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 19:32:12 +0000 2022",
+		"id": 1490041535034974200,
+		"id_str": "1523747684489875459",
+		"full_text": "hbomax, netflix, peacock, amazon prime, hulu https://t.co/2ilo8eXUgU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489861860815896600,
+					"id_str": "1489861860815896579",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FK0NeAJVgAMnjva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK0NeAJVgAMnjva.jpg",
+					"url": "https://t.co/2ilo8eXUgU",
+					"display_url": "pic.twitter.com/2ilo8eXUgU",
+					"expanded_url": "https://twitter.com/lizzzzzielogan/status/1490041535034974212/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489861860815896600,
+					"id_str": "1489861860815896579",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FK0NeAJVgAMnjva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK0NeAJVgAMnjva.jpg",
+					"url": "https://t.co/2ilo8eXUgU",
+					"display_url": "pic.twitter.com/2ilo8eXUgU",
+					"expanded_url": "https://twitter.com/lizzzzzielogan/status/1490041535034974212/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302100980,
+			"id_str": "302100980",
+			"name": "Lizzie Logan",
+			"screen_name": "lizzzzzielogan",
+			"location": "",
+			"description": "human woman.\nheadlines @theonion \nhumor @reductress @mcsweeneys @tnyshouts",
+			"url": "https://t.co/JmRAJhqphZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JmRAJhqphZ",
+							"expanded_url": "http://lizzielogan.com",
+							"display_url": "lizzielogan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14768,
+			"friends_count": 1343,
+			"listed_count": 68,
+			"created_at": "Fri May 20 16:07:44 +0000 2011",
+			"favourites_count": 37361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1522414832540000257/7X4Y517o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522414832540000257/7X4Y517o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302100980/1641715086",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fi",
+		"text": "hbomax, netflix, peacock, amazon prime, hulu https://t.co/2ilo8eXUgU"
+	},
+	{
+		"created_at": "Mon May 09 12:01:12 +0000 2022",
+		"id": 1523634186325745700,
+		"id_str": "1523634186325745670",
+		"full_text": "♫ When my heart is beeldin’ / and I’m barely breathing / I’m nothing without our love alive ♫\n\nhttps://t.co/PKfeASmqj7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKfeASmqj7",
+					"expanded_url": "https://songwhip.com/gryffin/alive",
+					"display_url": "songwhip.com/gryffin/alive",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "♫ When my heart is beeldin’ / and I’m barely breathing / I’m nothing without our love alive ♫\n\nhttps://t.co/PKfeASmqj7"
+	},
+	{
 		"created_at": "Fri May 06 08:31:42 +0000 2022",
 		"id": 1522494299258171400,
 		"id_str": "1522494299258171394",
