@@ -1,6 +1,1321 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 21:41:13 +0000 2022",
+		"id": 1523859967530479600,
+		"id_str": "1524142538952749058",
+		"full_text": "BioShock (2007) https://t.co/51LkaPt6YA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/51LkaPt6YA",
+					"expanded_url": "https://twitter.com/CNBCi/status/1523749964215730179",
+					"display_url": "twitter.com/CNBCi/status/1…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 280887735,
+			"id_str": "280887735",
+			"name": "𝚖𝚒𝚕𝚕𝚎𝚗𝚗𝚒𝚊𝚕 𝚊𝚖𝚎𝚗𝚒𝚝𝚒𝚎𝚜🇵🇸",
+			"screen_name": "Y2K_mindset",
+			"location": "Texas 🤠",
+			"description": "“Crypto-obsessed tankie”. Cryptocurrency director-emeritus at @GoldmanSachs, COVID-19 advisor @BlackRock. #TargetedIndividual #LegalizeGolf #Hillary2022",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3022,
+			"friends_count": 2048,
+			"listed_count": 32,
+			"created_at": "Tue Apr 12 06:38:11 +0000 2011",
+			"favourites_count": 461266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1436727205749575681/zavqF_xo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436727205749575681/zavqF_xo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280887735/1592134970",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523749964215730200,
+		"quoted_status_id_str": "1523749964215730179",
+		"quoted_status_permalink": {
+			"url": "https://t.co/51LkaPt6YA",
+			"expanded": "https://twitter.com/CNBCi/status/1523749964215730179",
+			"display": "twitter.com/CNBCi/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 09 19:41:16 +0000 2022",
+			"id": 1523749964215730200,
+			"id_str": "1523749964215730179",
+			"full_text": "40% of bitcoin investors are now underwater, new data shows https://t.co/VEVj9ULXs9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VEVj9ULXs9",
+						"expanded_url": "https://cnb.cx/3kSs1tl",
+						"display_url": "cnb.cx/3kSs1tl",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19898168,
+				"id_str": "19898168",
+				"name": "CNBC International",
+				"screen_name": "CNBCi",
+				"location": "",
+				"description": "With the biggest breaking business and financial news from around the world, CNBC International is here to help you get ahead.",
+				"url": "https://t.co/Dl8oIjaOld",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dl8oIjaOld",
+								"expanded_url": "http://CNBC.com/world/",
+								"display_url": "CNBC.com/world/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 144657,
+				"friends_count": 842,
+				"listed_count": 3174,
+				"created_at": "Mon Feb 02 08:21:38 +0000 2009",
+				"favourites_count": 338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 227417,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116331807132258304/I0yUCziR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116331807132258304/I0yUCziR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19898168/1556723947",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 158,
+			"favorite_count": 478,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1781,
+		"favorite_count": 8323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BioShock (2007) https://t.co/51LkaPt6YA"
+	},
+	{
+		"created_at": "Tue May 10 21:11:27 +0000 2022",
+		"id": 1524135047703543800,
+		"id_str": "1524135047703543809",
+		"full_text": "Se volete sapere quali canzoni vengono eliminate prima della finale chiedete a me, sono sempre le mie preferite. https://t.co/uIGwKD856e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uIGwKD856e",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1524119866382368768",
+					"display_url": "twitter.com/DarkSideOfG/st…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524119866382368800,
+		"quoted_status_id_str": "1524119866382368768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uIGwKD856e",
+			"expanded": "https://twitter.com/DarkSideOfG/status/1524119866382368768",
+			"display": "twitter.com/DarkSideOfG/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 10 20:11:07 +0000 2022",
+			"id": 1524119866382368800,
+			"id_str": "1524119866382368768",
+			"full_text": "L’Austria è una canzone di Ava Max e io amo tutto. #ESC2022",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ESC2022",
+						"indices": [
+							51,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 535277787,
+				"id_str": "535277787",
+				"name": "G (̄・・̄)",
+				"screen_name": "DarkSideOfG",
+				"location": "εᴍ - Siberia",
+				"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+				"url": "https://t.co/kzM9iE3UtX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kzM9iE3UtX",
+								"expanded_url": "http://darksideofg.tk",
+								"display_url": "darksideofg.tk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105,
+				"friends_count": 79,
+				"listed_count": 6,
+				"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+				"favourites_count": 8073,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26288,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "515151",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_link_color": "686868",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "595959",
+				"profile_text_color": "606060",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Se volete sapere quali canzoni vengono eliminate prima della finale chiedete a me, sono sempre le mie preferite. https://t.co/uIGwKD856e"
+	},
+	{
+		"created_at": "Tue May 10 20:11:07 +0000 2022",
+		"id": 1524119866382368800,
+		"id_str": "1524119866382368768",
+		"full_text": "L’Austria è una canzone di Ava Max e io amo tutto. #ESC2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ESC2022",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "L’Austria è una canzone di Ava Max e io amo tutto. #ESC2022"
+	},
+	{
+		"created_at": "Tue May 10 20:06:58 +0000 2022",
+		"id": 1524118822977945600,
+		"id_str": "1524118822977945603",
+		"full_text": "@Jacoemme No quest’anno nel mio cuore Cipro",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jacoemme",
+					"name": "Jacopino 🇪🇺",
+					"id": 28304633,
+					"id_str": "28304633",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524118733081481200,
+		"in_reply_to_status_id_str": "1524118733081481221",
+		"in_reply_to_user_id": 28304633,
+		"in_reply_to_user_id_str": "28304633",
+		"in_reply_to_screen_name": "Jacoemme",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@Jacoemme No quest’anno nel mio cuore Cipro"
+	},
+	{
+		"created_at": "Tue May 10 20:05:53 +0000 2022",
+		"id": 1524118548184191000,
+		"id_str": "1524118548184190976",
+		"full_text": "@Jacoemme Oddio cosa dovevo dire? Ahaha",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jacoemme",
+					"name": "Jacopino 🇪🇺",
+					"id": 28304633,
+					"id_str": "28304633",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524118154280116200,
+		"in_reply_to_status_id_str": "1524118154280116236",
+		"in_reply_to_user_id": 28304633,
+		"in_reply_to_user_id_str": "28304633",
+		"in_reply_to_screen_name": "Jacoemme",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@Jacoemme Oddio cosa dovevo dire? Ahaha"
+	},
+	{
+		"created_at": "Tue May 10 19:41:48 +0000 2022",
+		"id": 1524112489641918500,
+		"id_str": "1524112489641918474",
+		"full_text": "@vultrf https://t.co/RJlQVZy0Mb",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vultrf",
+					"name": "Federico",
+					"id": 466904152,
+					"id_str": "466904152",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524112478707269600,
+					"id_str": "1524112478707269632",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FSa8OWsWQAAKEdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FSa8OWsWQAAKEdD.jpg",
+					"url": "https://t.co/RJlQVZy0Mb",
+					"display_url": "pic.twitter.com/RJlQVZy0Mb",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1524112489641918474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524112478707269600,
+					"id_str": "1524112478707269632",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FSa8OWsWQAAKEdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FSa8OWsWQAAKEdD.jpg",
+					"url": "https://t.co/RJlQVZy0Mb",
+					"display_url": "pic.twitter.com/RJlQVZy0Mb",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1524112489641918474/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FSa8OWsWQAAKEdD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524112269550002200,
+		"in_reply_to_status_id_str": "1524112269550002178",
+		"in_reply_to_user_id": 466904152,
+		"in_reply_to_user_id_str": "466904152",
+		"in_reply_to_screen_name": "vultrf",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@vultrf https://t.co/RJlQVZy0Mb"
+	},
+	{
+		"created_at": "Tue May 10 19:40:34 +0000 2022",
+		"id": 1524112176776159200,
+		"id_str": "1524112176776159232",
+		"full_text": "@vultrf Guardalo su YouTube!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vultrf",
+					"name": "Federico",
+					"id": 466904152,
+					"id_str": "466904152",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1524103515840385000,
+		"in_reply_to_status_id_str": "1524103515840385027",
+		"in_reply_to_user_id": 466904152,
+		"in_reply_to_user_id_str": "466904152",
+		"in_reply_to_screen_name": "vultrf",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@vultrf Guardalo su YouTube!"
+	},
+	{
+		"created_at": "Tue May 10 18:48:24 +0000 2022",
+		"id": 1524099051687452700,
+		"id_str": "1524099051687452673",
+		"full_text": "WANT https://t.co/Hps9vRpO3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hps9vRpO3H",
+					"expanded_url": "https://twitter.com/rennyzucker/status/1523702588234878976",
+					"display_url": "twitter.com/rennyzucker/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523702588234879000,
+		"quoted_status_id_str": "1523702588234878976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hps9vRpO3H",
+			"expanded": "https://twitter.com/rennyzucker/status/1523702588234878976",
+			"display": "twitter.com/rennyzucker/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 09 16:33:00 +0000 2022",
+			"id": 1523702588234879000,
+			"id_str": "1523702588234878976",
+			"full_text": "Wearing my lucky shirt https://t.co/rJgwFr1G60",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1523702565548007400,
+						"id_str": "1523702565548007429",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/FSVHaRLXIAUdelT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSVHaRLXIAUdelT.jpg",
+						"url": "https://t.co/rJgwFr1G60",
+						"display_url": "pic.twitter.com/rJgwFr1G60",
+						"expanded_url": "https://twitter.com/rennyzucker/status/1523702588234878976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1523702565548007400,
+						"id_str": "1523702565548007429",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/FSVHaRLXIAUdelT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSVHaRLXIAUdelT.jpg",
+						"url": "https://t.co/rJgwFr1G60",
+						"display_url": "pic.twitter.com/rJgwFr1G60",
+						"expanded_url": "https://twitter.com/rennyzucker/status/1523702588234878976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1158812701038194700,
+				"id_str": "1158812701038194694",
+				"name": "renny 🇺🇦",
+				"screen_name": "rennyzucker",
+				"location": "NYC",
+				"description": "Head of Trading, FinTwit Sarcasm Desk. 24. Buy side. Venture. CIO, @capitalyfunds. Nobody, Really",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4880,
+				"friends_count": 1213,
+				"listed_count": 61,
+				"created_at": "Tue Aug 06 18:50:52 +0000 2019",
+				"favourites_count": 84798,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39540,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445957462981554179/iK0_yzww_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445957462981554179/iK0_yzww_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1158812701038194694/1646143451",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6442,
+			"favorite_count": 108136,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WANT https://t.co/Hps9vRpO3H"
+	},
+	{
 		"created_at": "Mon May 09 19:32:12 +0000 2022",
 		"id": 1490041535034974200,
 		"id_str": "1523747684489875459",
