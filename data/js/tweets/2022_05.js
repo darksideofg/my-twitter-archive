@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 17:56:37 +0000 2022",
+		"id": 1528797058748059600,
+		"id_str": "1528797058748059648",
+		"full_text": "@DukeOfSuffolk Chi è senza Birkenstock scagli la prima pietra",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1528766051567161300,
+		"in_reply_to_status_id_str": "1528766051567161346",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 79,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk Chi è senza Birkenstock scagli la prima pietra"
+	},
+	{
+		"created_at": "Mon May 23 17:53:41 +0000 2022",
+		"id": 1528456671311196200,
+		"id_str": "1528796323352289280",
+		"full_text": "what tiktok has done to the music industry is upsetting like… https://t.co/bSJ0EIVfv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528456663325298700,
+					"id_str": "1528456663325298688",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYrPLgVUAAdRSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYrPLgVUAAdRSo.jpg",
+					"url": "https://t.co/bSJ0EIVfv1",
+					"display_url": "pic.twitter.com/bSJ0EIVfv1",
+					"expanded_url": "https://twitter.com/alluregaga2/status/1528456671311196160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1143,
+							"h": 1645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528456663325298700,
+					"id_str": "1528456663325298688",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYrPLgVUAAdRSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYrPLgVUAAdRSo.jpg",
+					"url": "https://t.co/bSJ0EIVfv1",
+					"display_url": "pic.twitter.com/bSJ0EIVfv1",
+					"expanded_url": "https://twitter.com/alluregaga2/status/1528456671311196160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1143,
+							"h": 1645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528456663316852700,
+					"id_str": "1528456663316852736",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYrPLeUcAA6cVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYrPLeUcAA6cVi.jpg",
+					"url": "https://t.co/bSJ0EIVfv1",
+					"display_url": "pic.twitter.com/bSJ0EIVfv1",
+					"expanded_url": "https://twitter.com/alluregaga2/status/1528456671311196160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1241,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528456663321018400,
+					"id_str": "1528456663321018368",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYrPLfUAAABYg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYrPLfUAAABYg_.jpg",
+					"url": "https://t.co/bSJ0EIVfv1",
+					"display_url": "pic.twitter.com/bSJ0EIVfv1",
+					"expanded_url": "https://twitter.com/alluregaga2/status/1528456671311196160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1241,
+							"h": 1241,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528456663325282300,
+					"id_str": "1528456663325282304",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYrPLgVEAAWkr_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYrPLgVEAAWkr_.jpg",
+					"url": "https://t.co/bSJ0EIVfv1",
+					"display_url": "pic.twitter.com/bSJ0EIVfv1",
+					"expanded_url": "https://twitter.com/alluregaga2/status/1528456671311196160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1847,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1059973643256492000,
+			"id_str": "1059973643256492032",
+			"name": "allure",
+			"screen_name": "alluregaga2",
+			"location": "LG x10 | WOC",
+			"description": "pop culture commentary.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20794,
+			"friends_count": 11029,
+			"listed_count": 55,
+			"created_at": "Wed Nov 07 00:59:44 +0000 2018",
+			"favourites_count": 58446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1522084512359862272/2veDX7_b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522084512359862272/2veDX7_b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059973643256492032/1652883949",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31764,
+		"favorite_count": 318780,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "what tiktok has done to the music industry is upsetting like… https://t.co/bSJ0EIVfv1"
+	},
+	{
 		"created_at": "Sun May 22 15:06:54 +0000 2022",
 		"id": 1528391960750325800,
 		"id_str": "1528391960750325762",
