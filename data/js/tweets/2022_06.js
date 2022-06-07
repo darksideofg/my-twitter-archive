@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 17:27:55 +0000 2022",
+		"id": 1533861683248083000,
+		"id_str": "1533863267269021697",
+		"full_text": "You have to love how we were already a nation of revolving debt and tech companies in recent years were like, “You know what we should build? Revolving debt.” Apple announces Pay Later https://t.co/vAKM7RJ7ME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vAKM7RJ7ME",
+					"expanded_url": "https://www.wired.com/live/apple-wwdc-2022/",
+					"display_url": "wired.com/live/apple-wwd…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533860306740400000,
+		"in_reply_to_status_id_str": "1533860306740400129",
+		"in_reply_to_user_id": 22843337,
+		"in_reply_to_user_id_str": "22843337",
+		"in_reply_to_screen_name": "LaurenGoode",
+		"user": {
+			"id": 22843337,
+			"id_str": "22843337",
+			"name": "Chaotic Goode",
+			"screen_name": "LaurenGoode",
+			"location": "San Francisco",
+			"description": "Senior Staff Writer at @WIRED. Podcaster. Lover of plot twists. lauren_goode@wired.com, DM for Signal info.",
+			"url": "https://t.co/XWopAENtzm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XWopAENtzm",
+							"expanded_url": "https://www.wired.com/",
+							"display_url": "wired.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94891,
+			"friends_count": 2239,
+			"listed_count": 3081,
+			"created_at": "Wed Mar 04 22:09:23 +0000 2009",
+			"favourites_count": 39823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1503487086384492547/XNAnmGUd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503487086384492547/XNAnmGUd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22843337/1615558860",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You have to love how we were already a nation of revolving debt and tech companies in recent years were like, “You know what we should build? Revolving debt.” Apple announces Pay Later https://t.co/vAKM7RJ7ME"
+	},
+	{
 		"created_at": "Sun Jun 05 20:58:29 +0000 2022",
 		"id": 1533553869233475600,
 		"id_str": "1533553869233475584",
