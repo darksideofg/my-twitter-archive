@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 17:29:55 +0000 2022",
+		"id": 1533920831587377200,
+		"id_str": "1534226157549281280",
+		"full_text": "kids used to discover songs the normal way, like how they learned about Hallelujah when Marissa died in a terrible car flipping over accident",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1003724318621069300,
+			"id_str": "1003724318621069314",
+			"name": "Niko Stratis",
+			"screen_name": "nikostratis",
+			"location": "Toronto, Ontario",
+			"description": "Sober trans lady. Culture writer. Former smoker. Read me in @SPIN @BitchMedia @CatapultStory @autostraddle and more. Host of @vaclubpod. Tweets my own",
+			"url": "https://t.co/BDoZ6dH6pM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDoZ6dH6pM",
+							"expanded_url": "https://linktr.ee/nikostratis",
+							"display_url": "linktr.ee/nikostratis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12632,
+			"friends_count": 3085,
+			"listed_count": 37,
+			"created_at": "Mon Jun 04 19:45:00 +0000 2018",
+			"favourites_count": 115725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518983217482719234/xAFjuION_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518983217482719234/xAFjuION_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003724318621069314/1617803239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 1735,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "kids used to discover songs the normal way, like how they learned about Hallelujah when Marissa died in a terrible car flipping over accident"
+	},
+	{
 		"created_at": "Mon Jun 06 17:27:55 +0000 2022",
 		"id": 1533861683248083000,
 		"id_str": "1533863267269021697",
