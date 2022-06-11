@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 22:44:59 +0000 2022",
+		"id": 1535392612600926200,
+		"id_str": "1535392612600926209",
+		"full_text": "(Come sempre, I blame #SacAPop)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SacAPop",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1535392447118852000,
+		"in_reply_to_status_id_str": "1535392447118852097",
+		"in_reply_to_user_id": 535277787,
+		"in_reply_to_user_id_str": "535277787",
+		"in_reply_to_screen_name": "DarkSideOfG",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 80,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "(Come sempre, I blame #SacAPop)"
+	},
+	{
+		"created_at": "Fri Jun 10 22:44:20 +0000 2022",
+		"id": 1535392447118852000,
+		"id_str": "1535392447118852097",
+		"full_text": "Perso la voce concerto di @mecna e @pizzaboycoco a Padova, mentre cercavo di urlare più forte delle bimbe dietro di me (senza successo) https://t.co/AyBMqWaVnb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mecna",
+					"name": "Mecna",
+					"id": 34262428,
+					"id_str": "34262428",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"screen_name": "pizzaboycoco",
+					"name": "CoCo",
+					"id": 441446251,
+					"id_str": "441446251",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535392376474181600,
+					"id_str": "1535392376474181634",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535392376474181634/pu/img/9RQ4zMhxP6zwMKmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535392376474181634/pu/img/9RQ4zMhxP6zwMKmZ.jpg",
+					"url": "https://t.co/AyBMqWaVnb",
+					"display_url": "pic.twitter.com/AyBMqWaVnb",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1535392447118852097/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535392376474181600,
+					"id_str": "1535392376474181634",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535392376474181634/pu/img/9RQ4zMhxP6zwMKmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535392376474181634/pu/img/9RQ4zMhxP6zwMKmZ.jpg",
+					"url": "https://t.co/AyBMqWaVnb",
+					"display_url": "pic.twitter.com/AyBMqWaVnb",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1535392447118852097/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26670,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535392376474181634/pu/vid/320x568/qOTPd1oVsGVPNA7Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535392376474181634/pu/vid/720x1280/a1bhvy9R-NNLTAGM.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535392376474181634/pu/vid/480x852/JRXGq836vY9gtmFW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1535392376474181634/pu/pl/4xcadp6edRKAVfqM.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 80,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Perso la voce concerto di @mecna e @pizzaboycoco a Padova, mentre cercavo di urlare più forte delle bimbe dietro di me (senza successo) https://t.co/AyBMqWaVnb"
+	},
+	{
+		"created_at": "Fri Jun 10 19:41:09 +0000 2022",
+		"id": 1535346350224814000,
+		"id_str": "1535346350224814082",
+		"full_text": "Non io che oggi ho caricato un video con questo sfondo sul Jira aziendale https://t.co/Nxtbuf6qP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nxtbuf6qP0",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1518154123786416134",
+					"display_url": "twitter.com/DarkSideOfG/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/kzM9iE3UtX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzM9iE3UtX",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 80,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1518154123786416000,
+		"quoted_status_id_str": "1518154123786416134",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nxtbuf6qP0",
+			"expanded": "https://twitter.com/DarkSideOfG/status/1518154123786416134",
+			"display": "twitter.com/DarkSideOfG/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 24 09:05:23 +0000 2022",
+			"id": 1518154123786416000,
+			"id_str": "1518154123786416134",
+			"full_text": "https://t.co/zTvGWC6VBX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1518154094539690000,
+						"id_str": "1518154094539689984",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1518154094539689984/pu/img/705AMsOveGffBDtz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1518154094539689984/pu/img/705AMsOveGffBDtz.jpg",
+						"url": "https://t.co/zTvGWC6VBX",
+						"display_url": "pic.twitter.com/zTvGWC6VBX",
+						"expanded_url": "https://twitter.com/DarkSideOfG/status/1518154123786416134/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1518154094539690000,
+						"id_str": "1518154094539689984",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1518154094539689984/pu/img/705AMsOveGffBDtz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1518154094539689984/pu/img/705AMsOveGffBDtz.jpg",
+						"url": "https://t.co/zTvGWC6VBX",
+						"display_url": "pic.twitter.com/zTvGWC6VBX",
+						"expanded_url": "https://twitter.com/DarkSideOfG/status/1518154123786416134/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								37,
+								80
+							],
+							"duration_millis": 3083,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1518154094539689984/pu/vid/480x1036/qQr-F6MXFz0wOoo8.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1518154094539689984/pu/vid/592x1280/CapOwIroDltTCpx2.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1518154094539689984/pu/pl/MGiHx3pQqIdCaoc6.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1518154094539689984/pu/vid/320x690/1Som3Tu9NM67RntH.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1517995140140474400,
+			"in_reply_to_status_id_str": "1517995140140474368",
+			"in_reply_to_user_id": 535277787,
+			"in_reply_to_user_id_str": "535277787",
+			"in_reply_to_screen_name": "DarkSideOfG",
+			"user": {
+				"id": 535277787,
+				"id_str": "535277787",
+				"name": "G (̄・・̄)",
+				"screen_name": "DarkSideOfG",
+				"location": "εᴍ - Siberia",
+				"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+				"url": "https://t.co/kzM9iE3UtX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kzM9iE3UtX",
+								"expanded_url": "http://darksideofg.tk",
+								"display_url": "darksideofg.tk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106,
+				"friends_count": 80,
+				"listed_count": 6,
+				"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+				"favourites_count": 8121,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26330,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "515151",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_link_color": "686868",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "595959",
+				"profile_text_color": "606060",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Non io che oggi ho caricato un video con questo sfondo sul Jira aziendale https://t.co/Nxtbuf6qP0"
+	},
+	{
 		"created_at": "Thu Jun 09 06:51:46 +0000 2022",
 		"id": 1534790339789209600,
 		"id_str": "1534790339789209601",
