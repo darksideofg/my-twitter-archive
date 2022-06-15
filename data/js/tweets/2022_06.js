@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 18:15:32 +0000 2022",
+		"id": 1536194396483424300,
+		"id_str": "1536774353404174343",
+		"full_text": "Remember when Hilary Duff tried to save pop music in 2015 but y’all let her flop https://t.co/bAmoUIMHUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411832082674851800,
+					"id_str": "1411832082674851845",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411832082674851845/pu/img/H60bQnbXR_u5y5zQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411832082674851845/pu/img/H60bQnbXR_u5y5zQ.jpg",
+					"url": "https://t.co/bAmoUIMHUD",
+					"display_url": "pic.twitter.com/bAmoUIMHUD",
+					"expanded_url": "https://twitter.com/HILARYDUFFMEDlA/status/1411832863993917440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1411832863993917400,
+					"source_status_id_str": "1411832863993917440",
+					"source_user_id": 1050297108085887000,
+					"source_user_id_str": "1050297108085886981"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411832082674851800,
+					"id_str": "1411832082674851845",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411832082674851845/pu/img/H60bQnbXR_u5y5zQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411832082674851845/pu/img/H60bQnbXR_u5y5zQ.jpg",
+					"url": "https://t.co/bAmoUIMHUD",
+					"display_url": "pic.twitter.com/bAmoUIMHUD",
+					"expanded_url": "https://twitter.com/HILARYDUFFMEDlA/status/1411832863993917440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1411832863993917400,
+					"source_status_id_str": "1411832863993917440",
+					"source_user_id": 1050297108085887000,
+					"source_user_id_str": "1050297108085886981",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 48217,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411832082674851845/pu/vid/720x720/rUbzGnDLIxkob79D.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1411832082674851845/pu/pl/nLy5eXc9GQb7DYPv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411832082674851845/pu/vid/320x320/NILmIHGVPBAY9Kc8.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411832082674851845/pu/vid/540x540/-jlz7Pcz3-y7z2cx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1050297108085887000,
+							"id_str": "1050297108085886981",
+							"name": "Hilary Duff Fan Account",
+							"screen_name": "helIohilary",
+							"location": "United States",
+							"description": "fan account for hilary duff // NOT affiliated with hilary duff",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1820,
+							"friends_count": 40,
+							"listed_count": 2,
+							"created_at": "Thu Oct 11 08:08:38 +0000 2018",
+							"favourites_count": 646,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 373,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1410356342603214849/9LUd7gSn_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410356342603214849/9LUd7gSn_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050297108085886981/1625091791",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4444951587,
+			"id_str": "4444951587",
+			"name": "kyle",
+			"screen_name": "horrormoviestar",
+			"location": "",
+			"description": "that special something that they are hunting ☆ @patrick_xcx",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 381,
+			"friends_count": 307,
+			"listed_count": 1,
+			"created_at": "Fri Dec 11 05:08:15 +0000 2015",
+			"favourites_count": 27824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1503144400532221955/jFuVAbRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503144400532221955/jFuVAbRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4444951587/1647212563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 2587,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember when Hilary Duff tried to save pop music in 2015 but y’all let her flop https://t.co/bAmoUIMHUD"
+	},
+	{
 		"created_at": "Mon Jun 13 18:49:56 +0000 2022",
 		"id": 1536420624922468400,
 		"id_str": "1536420624922468353",
