@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 18:03:50 +0000 2022",
+		"id": 1544363204633133000,
+		"id_str": "1544743940594831361",
+		"full_text": "there are two wolves inside of you. one wants to consume content. one wants to create content. you end up scrolling through twitter because both wolves have adhd and so do you",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070477392236425200,
+			"id_str": "1070477392236425216",
+			"name": "meow meow connoisseur",
+			"screen_name": "favspacetwink",
+			"location": "suckin on sanemi's toes",
+			"description": "e | late 20s | she/her | kny/hq/jjk/genshin | currently consuming: tgcf | 🔞 NSFW, DNF IF U18. pfp @YuliceChan, header @tooruspinkytoe 💖 ao3/kofi/cc in carrd",
+			"url": "https://t.co/XOyOO8tQKc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOyOO8tQKc",
+							"expanded_url": "http://favspacetwink.carrd.co",
+							"display_url": "favspacetwink.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7361,
+			"friends_count": 418,
+			"listed_count": 37,
+			"created_at": "Thu Dec 06 00:37:53 +0000 2018",
+			"favourites_count": 10215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305362265508589568/45eAlX9i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305362265508589568/45eAlX9i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070477392236425216/1605669378",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18533,
+		"favorite_count": 97356,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "there are two wolves inside of you. one wants to consume content. one wants to create content. you end up scrolling through twitter because both wolves have adhd and so do you"
+	},
+	{
 		"created_at": "Tue Jul 05 18:45:11 +0000 2022",
 		"id": 1544391960378630100,
 		"id_str": "1544391960378630144",
