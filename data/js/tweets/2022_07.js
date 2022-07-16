@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 20:08:34 +0000 2022",
+		"id": 1415756255902191600,
+		"id_str": "1548036823334522880",
+		"full_text": "Today is the only day you can RT this https://t.co/W9FK0KVZFL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415756252597063700,
+					"id_str": "1415756252597063688",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E6XGz4yWEAgC5ER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6XGz4yWEAgC5ER.jpg",
+					"url": "https://t.co/W9FK0KVZFL",
+					"display_url": "pic.twitter.com/W9FK0KVZFL",
+					"expanded_url": "https://twitter.com/mancicu/status/1415756255902191624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415756252597063700,
+					"id_str": "1415756252597063688",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E6XGz4yWEAgC5ER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6XGz4yWEAgC5ER.jpg",
+					"url": "https://t.co/W9FK0KVZFL",
+					"display_url": "pic.twitter.com/W9FK0KVZFL",
+					"expanded_url": "https://twitter.com/mancicu/status/1415756255902191624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283532741,
+			"id_str": "283532741",
+			"name": "manuel",
+			"screen_name": "mancicu",
+			"location": "altrove",
+			"description": "august slipped away into a moment in time🌾",
+			"url": "https://t.co/3HytQcPjKz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3HytQcPjKz",
+							"expanded_url": "http://Instagram.com/pupil_as",
+							"display_url": "Instagram.com/pupil_as",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5714,
+			"friends_count": 517,
+			"listed_count": 15,
+			"created_at": "Sun Apr 17 13:42:04 +0000 2011",
+			"favourites_count": 181720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 108529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540235594735013888/BZw3wA9M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540235594735013888/BZw3wA9M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283532741/1488806651",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the only day you can RT this https://t.co/W9FK0KVZFL"
+	},
+	{
 		"created_at": "Wed Jul 13 17:28:55 +0000 2022",
 		"id": 1547249497675223000,
 		"id_str": "1547271870172504065",
