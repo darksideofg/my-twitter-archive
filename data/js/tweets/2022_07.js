@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 23 13:08:33 +0000 2022",
+		"id": 1550829080039153700,
+		"id_str": "1550830227458347008",
+		"full_text": "https://t.co/zWiWCX992d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550476963097317400,
+					"id_str": "1550476963097317376",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FYRmlUnXkAARXsw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYRmlUnXkAARXsw.jpg",
+					"url": "https://t.co/zWiWCX992d",
+					"display_url": "pic.twitter.com/zWiWCX992d",
+					"expanded_url": "https://twitter.com/RespectfulMemes/status/1550829080039153664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 623,
+							"h": 622,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 623,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 623,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550476963097317400,
+					"id_str": "1550476963097317376",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FYRmlUnXkAARXsw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYRmlUnXkAARXsw.jpg",
+					"url": "https://t.co/zWiWCX992d",
+					"display_url": "pic.twitter.com/zWiWCX992d",
+					"expanded_url": "https://twitter.com/RespectfulMemes/status/1550829080039153664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 623,
+							"h": 622,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 623,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 623,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727338733423464400,
+			"id_str": "727338733423464448",
+			"name": "Respectful Memes",
+			"screen_name": "RespectfulMemes",
+			"location": "",
+			"description": "#1 Source of Memes to show your Grandma!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1460654,
+			"friends_count": 0,
+			"listed_count": 2556,
+			"created_at": "Tue May 03 03:27:22 +0000 2016",
+			"favourites_count": 22854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800857197697703936/RMfUXdGk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800857197697703936/RMfUXdGk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727338733423464448/1486169440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1556,
+		"favorite_count": 24468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/zWiWCX992d"
+	},
+	{
 		"created_at": "Fri Jul 22 14:25:50 +0000 2022",
 		"id": 1550487287842181000,
 		"id_str": "1550487287842181120",
