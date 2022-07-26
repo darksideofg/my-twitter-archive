@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 18:42:27 +0000 2022",
+		"id": 1551006079584182300,
+		"id_str": "1551639028507754496",
+		"full_text": "one of my favorite interactions in the park 🤞🏻 https://t.co/G9AwqFE1o6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551005979143245800,
+					"id_str": "1551005979143245827",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551005979143245827/pu/img/8gntloIVLqzOEAy5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551005979143245827/pu/img/8gntloIVLqzOEAy5.jpg",
+					"url": "https://t.co/G9AwqFE1o6",
+					"display_url": "pic.twitter.com/G9AwqFE1o6",
+					"expanded_url": "https://twitter.com/shanzrizwan/status/1551006079584182273/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551005979143245800,
+					"id_str": "1551005979143245827",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551005979143245827/pu/img/8gntloIVLqzOEAy5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551005979143245827/pu/img/8gntloIVLqzOEAy5.jpg",
+					"url": "https://t.co/G9AwqFE1o6",
+					"display_url": "pic.twitter.com/G9AwqFE1o6",
+					"expanded_url": "https://twitter.com/shanzrizwan/status/1551006079584182273/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26109,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551005979143245827/pu/vid/480x852/WrXyD3Lw8IGmyDE8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551005979143245827/pu/vid/720x1280/W9vMJ_8p9BaoeDd3.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551005979143245827/pu/vid/320x568/ih5caT0-rc9V-n0f.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1551005979143245827/pu/pl/jP7yxdnkOFVk41Tu.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703010998127472600,
+			"id_str": "703010998127472640",
+			"name": "Shan",
+			"screen_name": "shanzrizwan",
+			"location": "New York, NY",
+			"description": "guy who asks stuff @shanrizwan on pretty much everything except twitter 😵🇵🇰🇵🇭🇨🇳",
+			"url": "https://t.co/mNsdcFtbUR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mNsdcFtbUR",
+							"expanded_url": "https://linktr.ee/shanrizwan",
+							"display_url": "linktr.ee/shanrizwan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7605,
+			"friends_count": 126,
+			"listed_count": 16,
+			"created_at": "Fri Feb 26 00:17:38 +0000 2016",
+			"favourites_count": 445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468046270275203084/XQDpbplq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468046270275203084/XQDpbplq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703010998127472640/1598304093",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44928,
+		"favorite_count": 398376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "one of my favorite interactions in the park 🤞🏻 https://t.co/G9AwqFE1o6"
+	},
+	{
 		"created_at": "Sun Jul 24 08:08:53 +0000 2022",
 		"id": 1551117200676819000,
 		"id_str": "1551117200676818946",
