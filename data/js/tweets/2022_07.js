@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 05:26:13 +0000 2022",
+		"id": 1552525813936971800,
+		"id_str": "1552525813936971777",
+		"full_text": "People have been radicalized by the YouTube algorithm so I’m sure this will go great https://t.co/4eBDNg9DMz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4eBDNg9DMz",
+					"expanded_url": "https://twitter.com/alexeheath/status/1552401066444013568",
+					"display_url": "twitter.com/alexeheath/sta…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 80,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552401066444013600,
+		"quoted_status_id_str": "1552401066444013568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4eBDNg9DMz",
+			"expanded": "https://twitter.com/alexeheath/status/1552401066444013568",
+			"display": "twitter.com/alexeheath/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 27 21:10:31 +0000 2022",
+			"id": 1552401066444013600,
+			"id_str": "1552401066444013568",
+			"full_text": "On Meta earnings call, Mark Zuckerberg says AI-driven recommendations from accounts you don’t follow is roughly 15% in Facebook and a “little more” in Instagram. \n\nHe says that percentage will more than double by the end of next year. \n\nHuge departure from the social graph era.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14752818,
+				"id_str": "14752818",
+				"name": "Alex Heath",
+				"screen_name": "alexeheath",
+				"location": "Los Angeles",
+				"description": "editor @verge",
+				"url": "https://t.co/hetFYKmGlg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hetFYKmGlg",
+								"expanded_url": "https://linktr.ee/alexheath",
+								"display_url": "linktr.ee/alexheath",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33915,
+				"friends_count": 2912,
+				"listed_count": 1126,
+				"created_at": "Tue May 13 01:31:28 +0000 2008",
+				"favourites_count": 9296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42760,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D6DA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1446264504199778318/v5U7tgKB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446264504199778318/v5U7tgKB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14752818/1556755440",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 253,
+			"favorite_count": 1889,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People have been radicalized by the YouTube algorithm so I’m sure this will go great https://t.co/4eBDNg9DMz"
+	},
+	{
 		"created_at": "Tue Jul 26 09:27:57 +0000 2022",
 		"id": 1551861872378499000,
 		"id_str": "1551861872378499078",
