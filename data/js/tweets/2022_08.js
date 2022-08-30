@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 29 18:14:21 +0000 2022",
+		"id": 1564281414622888000,
+		"id_str": "1564315534535032838",
+		"full_text": "I didn’t realize the upcoming Harry Potter game was about crushing what is basically a civil rights movement of enslaved/oppressed/segregated goblins, an anti-semitic stereotype.\n\nHow did this make it off a bar napkin, never mind to production?\n\nhttps://t.co/i1vPhHWU0M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i1vPhHWU0M",
+					"expanded_url": "https://reddit.com/r/WitchesVsPatriarchy/comments/x0n0fn/even_if_the_transphobia_doesnt_bother_you_please/",
+					"display_url": "reddit.com/r/WitchesVsPat…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35383,
+			"id_str": "35383",
+			"name": "toot.cafe/@chartier",
+			"screen_name": "chartier",
+			"location": "Chicago, IL",
+			"description": "Writer. Tech & Apple. BLM. Freelance content & social for devs: https://t.co/uzzg8OqmNw. Not here much, find me on #Mastodon: https://t.co/qGsPszyTND",
+			"url": "https://t.co/VQuPL178FV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VQuPL178FV",
+							"expanded_url": "https://finertech.com",
+							"display_url": "finertech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uzzg8OqmNw",
+							"expanded_url": "https://BitAndPen.com",
+							"display_url": "BitAndPen.com",
+							"indices": [
+								64,
+								87
+							]
+						},
+						{
+							"url": "https://t.co/qGsPszyTND",
+							"expanded_url": "https://toot.cafe/@chartier",
+							"display_url": "toot.cafe/@chartier",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9508,
+			"friends_count": 1322,
+			"listed_count": 878,
+			"created_at": "Sat Dec 02 00:01:23 +0000 2006",
+			"favourites_count": 13100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E2E1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1386691461853368323/sw-IoBfM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1386691461853368323/sw-IoBfM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35383/1616092347",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "F5F5F5",
+			"profile_sidebar_fill_color": "CEECF5",
+			"profile_text_color": "222222",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I didn’t realize the upcoming Harry Potter game was about crushing what is basically a civil rights movement of enslaved/oppressed/segregated goblins, an anti-semitic stereotype.\n\nHow did this make it off a bar napkin, never mind to production?\n\nhttps://t.co/i1vPhHWU0M"
+	},
+	{
 		"created_at": "Sun Aug 28 14:04:04 +0000 2022",
 		"id": 1563874288519639000,
 		"id_str": "1563890159967502342",
