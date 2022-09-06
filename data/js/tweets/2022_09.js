@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 20:59:00 +0000 2022",
+		"id": 1566893686302048300,
+		"id_str": "1566893686302048262",
+		"full_text": "@filodrama Ah ok. Comunque ero a Venezia stasera, il film secondo me carino. Mettilo in watchlist. https://t.co/rlxi4WjLOw",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "filodrama",
+					"name": "Filo",
+					"id": 7449052,
+					"id_str": "7449052",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566893680622985200,
+					"id_str": "1566893680622985218",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb65gDJWYAIQsb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb65gDJWYAIQsb-.jpg",
+					"url": "https://t.co/rlxi4WjLOw",
+					"display_url": "pic.twitter.com/rlxi4WjLOw",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1566893686302048262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566893680622985200,
+					"id_str": "1566893680622985218",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb65gDJWYAIQsb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb65gDJWYAIQsb-.jpg",
+					"url": "https://t.co/rlxi4WjLOw",
+					"display_url": "pic.twitter.com/rlxi4WjLOw",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1566893686302048262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566893340834107400,
+		"in_reply_to_status_id_str": "1566893340834107398",
+		"in_reply_to_user_id": 7449052,
+		"in_reply_to_user_id_str": "7449052",
+		"in_reply_to_screen_name": "filodrama",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "@filodrama Ah ok. Comunque ero a Venezia stasera, il film secondo me carino. Mettilo in watchlist. https://t.co/rlxi4WjLOw"
+	},
+	{
+		"created_at": "Mon Sep 05 20:57:39 +0000 2022",
+		"id": 1566893343623241700,
+		"id_str": "1566893343623241735",
+		"full_text": "Cose che scriverei per farvi capire che sono stato rapito https://t.co/MYprRtcHZR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MYprRtcHZR",
+					"expanded_url": "https://twitter.com/neodie/status/1566817305769689089",
+					"display_url": "twitter.com/neodie/status/…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1566817305769689000,
+		"quoted_status_id_str": "1566817305769689089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MYprRtcHZR",
+			"expanded": "https://twitter.com/neodie/status/1566817305769689089",
+			"display": "twitter.com/neodie/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 05 15:55:30 +0000 2022",
+			"id": 1566817305769689000,
+			"id_str": "1566817305769689089",
+			"full_text": "F U S I L L I https://t.co/dCuEQq0jnF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				13
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dCuEQq0jnF",
+						"expanded_url": "https://twitter.com/volpereal/status/1566781371468730372",
+						"display_url": "twitter.com/volpereal/stat…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23810329,
+				"id_str": "23810329",
+				"name": "Il farmacista di Lavagna",
+				"screen_name": "neodie",
+				"location": "Cavi di Lavagna",
+				"description": "Se la sfiga fosse nebbia io sarei un banco di nebbia ~ he/him",
+				"url": "https://t.co/0dcvCkIOaL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0dcvCkIOaL",
+								"expanded_url": "http://www.instagram.com/neodie/",
+								"display_url": "instagram.com/neodie/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18109,
+				"friends_count": 2371,
+				"listed_count": 66,
+				"created_at": "Wed Mar 11 19:11:52 +0000 2009",
+				"favourites_count": 460883,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 247950,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1458792341146329089/Qe0LEB8e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458792341146329089/Qe0LEB8e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23810329/1475423569",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1566781371468730400,
+			"quoted_status_id_str": "1566781371468730372",
+			"quoted_status_permalink": {
+				"url": "https://t.co/dCuEQq0jnF",
+				"expanded": "https://twitter.com/volpereal/status/1566781371468730372",
+				"display": "twitter.com/volpereal/stat…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Cose che scriverei per farvi capire che sono stato rapito https://t.co/MYprRtcHZR"
+	},
+	{
 		"created_at": "Sun Sep 04 17:33:40 +0000 2022",
 		"id": 1566479623717851100,
 		"id_str": "1566479623717851137",
