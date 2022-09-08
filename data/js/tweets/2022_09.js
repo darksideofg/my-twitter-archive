@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 19:01:26 +0000 2022",
+		"id": 1567568408316870700,
+		"id_str": "1567588875622555648",
+		"full_text": "@migueldeicaza I want one. It's the tech nerd equivalent of owning a lifted pickup truck that has never once been used to haul anything.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "migueldeicaza",
+					"name": "Miguel de Icaza",
+					"id": 823083,
+					"id_str": "823083",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567567351465365500,
+		"in_reply_to_status_id_str": "1567567351465365507",
+		"in_reply_to_user_id": 823083,
+		"in_reply_to_user_id_str": "823083",
+		"in_reply_to_screen_name": "migueldeicaza",
+		"user": {
+			"id": 15176882,
+			"id_str": "15176882",
+			"name": "Jason Smith",
+			"screen_name": "jassmith87",
+			"location": "Portland, OR",
+			"description": "Founder @glideapps",
+			"url": "https://t.co/VHpNzhZ1Ks",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHpNzhZ1Ks",
+							"expanded_url": "https://grid.glideapps.com",
+							"display_url": "grid.glideapps.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1745,
+			"friends_count": 437,
+			"listed_count": 48,
+			"created_at": "Fri Jun 20 05:26:34 +0000 2008",
+			"favourites_count": 1707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567555471892180998/tRrbCdvj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567555471892180998/tRrbCdvj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15176882/1662569323",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@migueldeicaza I want one. It's the tech nerd equivalent of owning a lifted pickup truck that has never once been used to haul anything."
+	},
+	{
+		"created_at": "Wed Sep 07 11:33:49 +0000 2022",
+		"id": 1567476227564241000,
+		"id_str": "1567476227564240898",
+		"full_text": "@DukeOfSuffolk @filodrama Quindi l’ideale sarebbe nascere una pianta, che comunque devi crescere, nutrirti eccetera però per lo meno ti *succede* e non te ne devi preoccupare?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "filodrama",
+					"name": "Filo",
+					"id": 7449052,
+					"id_str": "7449052",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567475541892030500,
+		"in_reply_to_status_id_str": "1567475541892030465",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk @filodrama Quindi l’ideale sarebbe nascere una pianta, che comunque devi crescere, nutrirti eccetera però per lo meno ti *succede* e non te ne devi preoccupare?"
+	},
+	{
 		"created_at": "Mon Sep 05 20:59:00 +0000 2022",
 		"id": 1566893686302048300,
 		"id_str": "1566893686302048262",
