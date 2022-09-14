@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 18:28:42 +0000 2022",
+		"id": 1569751011270578200,
+		"id_str": "1569754965039632386",
+		"full_text": "https://t.co/0NUKmKPQDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567939130415546400,
+					"id_str": "1567939130415546368",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcJwVPHagAAIfgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcJwVPHagAAIfgA.jpg",
+					"url": "https://t.co/0NUKmKPQDU",
+					"display_url": "pic.twitter.com/0NUKmKPQDU",
+					"expanded_url": "https://twitter.com/lizzzzzielogan/status/1569751011270578176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 938,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1894,
+							"h": 1480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567939130415546400,
+					"id_str": "1567939130415546368",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcJwVPHagAAIfgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcJwVPHagAAIfgA.jpg",
+					"url": "https://t.co/0NUKmKPQDU",
+					"display_url": "pic.twitter.com/0NUKmKPQDU",
+					"expanded_url": "https://twitter.com/lizzzzzielogan/status/1569751011270578176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 938,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1894,
+							"h": 1480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567939154587324400,
+					"id_str": "1567939154587324416",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcJwWpKakAAWeiw.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcJwWpKakAAWeiw.png",
+					"url": "https://t.co/0NUKmKPQDU",
+					"display_url": "pic.twitter.com/0NUKmKPQDU",
+					"expanded_url": "https://twitter.com/lizzzzzielogan/status/1569751011270578176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 445,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 445,
+							"h": 672,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302100980,
+			"id_str": "302100980",
+			"name": "Lizzie Logan",
+			"screen_name": "lizzzzzielogan",
+			"location": "LA",
+			"description": "👽 headlines @theonion \nhumor @reductress @mcsweeneys @tnyshouts",
+			"url": "https://t.co/JmRAJhqphZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JmRAJhqphZ",
+							"expanded_url": "http://lizzielogan.com",
+							"display_url": "lizzielogan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19670,
+			"friends_count": 1272,
+			"listed_count": 87,
+			"created_at": "Fri May 20 16:07:44 +0000 2011",
+			"favourites_count": 37630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1522414832540000257/7X4Y517o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522414832540000257/7X4Y517o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302100980/1659160386",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/0NUKmKPQDU"
+	},
+	{
+		"created_at": "Tue Sep 13 16:33:09 +0000 2022",
+		"id": 1569725881949556700,
+		"id_str": "1569725881949556736",
+		"full_text": "@DukeOfSuffolk Cioè, la differenza da con o senza cuffie la sento anche io, ma da qui a dire “sott’acqua” mi pare tanto. Mandami 2 vocali così sento la differenza 😉",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569723378965045200,
+		"in_reply_to_status_id_str": "1569723378965045250",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 82,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk Cioè, la differenza da con o senza cuffie la sento anche io, ma da qui a dire “sott’acqua” mi pare tanto. Mandami 2 vocali così sento la differenza 😉"
+	},
+	{
 		"created_at": "Sat Sep 10 16:25:22 +0000 2022",
 		"id": 1568636760481218600,
 		"id_str": "1568636760481218560",
