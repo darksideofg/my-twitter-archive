@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 17:20:03 +0000 2022",
+		"id": 1570238720867192800,
+		"id_str": "1570824851866238976",
+		"full_text": "buying furniture in 2022 is like here’s one single dining chair it’s $400 and we’ll ship it in 6-8 business years",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27426728,
+			"id_str": "27426728",
+			"name": "Ziti Deschanel",
+			"screen_name": "stefferonipizza",
+			"location": "NJ",
+			"description": "supervising producer human @eater\nshe/her\ndo you have any snacks",
+			"url": "https://t.co/uLCribqpw2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uLCribqpw2",
+							"expanded_url": "http://bystefania.com",
+							"display_url": "bystefania.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1084,
+			"friends_count": 1452,
+			"listed_count": 15,
+			"created_at": "Sun Mar 29 13:54:50 +0000 2009",
+			"favourites_count": 42414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448454257565372422/Vew6VZlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448454257565372422/Vew6VZlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27426728/1522686226",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1603,
+		"favorite_count": 31738,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "buying furniture in 2022 is like here’s one single dining chair it’s $400 and we’ll ship it in 6-8 business years"
+	},
+	{
 		"created_at": "Thu Sep 15 11:46:46 +0000 2022",
 		"id": 1570304887816085500,
 		"id_str": "1570378590541303808",
