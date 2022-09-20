@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 21:16:34 +0000 2022",
+		"id": 1571967287279890400,
+		"id_str": "1571971536722042881",
+		"full_text": "[checks clock at 1:40pm]: I have a call at 2\n[1:42pm]: I have a call at 2\n[1:44pm]: I have a call at 2\n[1:48pm]: I have a call at 2\n[1:52pm]: I have a call at 2\n[1:53pm]: I have a call at 2\n[1:55pm]: I have a call at 2\n[1:57pm]: I have a call at 2\n[2:17pm]: EVERY GOD DAMN TIME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16472748,
+			"id_str": "16472748",
+			"name": "Casey Johnston",
+			"screen_name": "caseyjohnston",
+			"location": "Brooklyn, NY",
+			"description": "writer, proprietor of the @She_sABeast newsletter / Author, LIFTOFF https://t.co/Hl5YOOsP1e / instagram: swolewoman",
+			"url": "https://t.co/zRiEybfWMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zRiEybfWMq",
+							"expanded_url": "https://www.caseyjohnston.website",
+							"display_url": "caseyjohnston.website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Hl5YOOsP1e",
+							"expanded_url": "http://couchtobarbell.com",
+							"display_url": "couchtobarbell.com",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 55054,
+			"friends_count": 926,
+			"listed_count": 1132,
+			"created_at": "Fri Sep 26 19:27:15 +0000 2008",
+			"favourites_count": 44761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A161D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1338127761249013762/hGPAUxKM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338127761249013762/hGPAUxKM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16472748/1450387441",
+			"profile_link_color": "696969",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "4A0154",
+			"profile_text_color": "828282",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 1007,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[checks clock at 1:40pm]: I have a call at 2\n[1:42pm]: I have a call at 2\n[1:44pm]: I have a call at 2\n[1:48pm]: I have a call at 2\n[1:52pm]: I have a call at 2\n[1:53pm]: I have a call at 2\n[1:55pm]: I have a call at 2\n[1:57pm]: I have a call at 2\n[2:17pm]: EVERY GOD DAMN TIME"
+	},
+	{
 		"created_at": "Fri Sep 16 17:20:03 +0000 2022",
 		"id": 1570238720867192800,
 		"id_str": "1570824851866238976",
