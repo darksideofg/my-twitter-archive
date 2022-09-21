@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 11:33:47 +0000 2022",
+		"id": 1572187258962206700,
+		"id_str": "1572187258962206721",
+		"full_text": "Peak iOS https://t.co/WkFFjtumGC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WkFFjtumGC",
+					"expanded_url": "https://twitter.com/BasicAppleGuy/status/1571958762231189504",
+					"display_url": "twitter.com/BasicAppleGuy/…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 82,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1571958762231189500,
+		"quoted_status_id_str": "1571958762231189504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WkFFjtumGC",
+			"expanded": "https://twitter.com/BasicAppleGuy/status/1571958762231189504",
+			"display": "twitter.com/BasicAppleGuy/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 19 20:25:49 +0000 2022",
+			"id": 1571958762231189500,
+			"id_str": "1571958762231189504",
+			"full_text": "iOS 6: Released September 19, 2012 https://t.co/zDL4kyNUYy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1571958758829609000,
+						"id_str": "1571958758829608960",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/FdC4KZ2aUAACCCD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdC4KZ2aUAACCCD.jpg",
+						"url": "https://t.co/zDL4kyNUYy",
+						"display_url": "pic.twitter.com/zDL4kyNUYy",
+						"expanded_url": "https://twitter.com/BasicAppleGuy/status/1571958762231189504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 593,
+								"h": 903,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 593,
+								"h": 903,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1571958758829609000,
+						"id_str": "1571958758829608960",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/FdC4KZ2aUAACCCD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdC4KZ2aUAACCCD.jpg",
+						"url": "https://t.co/zDL4kyNUYy",
+						"display_url": "pic.twitter.com/zDL4kyNUYy",
+						"expanded_url": "https://twitter.com/BasicAppleGuy/status/1571958762231189504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 593,
+								"h": 903,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 593,
+								"h": 903,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1571958758837977000,
+						"id_str": "1571958758837977089",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/FdC4KZ4aAAECSHj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdC4KZ4aAAECSHj.jpg",
+						"url": "https://t.co/zDL4kyNUYy",
+						"display_url": "pic.twitter.com/zDL4kyNUYy",
+						"expanded_url": "https://twitter.com/BasicAppleGuy/status/1571958762231189504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 605,
+								"h": 903,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 605,
+								"h": 903,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1571958758829588500,
+						"id_str": "1571958758829588480",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/FdC4KZ2aAAANz42.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdC4KZ2aAAANz42.jpg",
+						"url": "https://t.co/zDL4kyNUYy",
+						"display_url": "pic.twitter.com/zDL4kyNUYy",
+						"expanded_url": "https://twitter.com/BasicAppleGuy/status/1571958762231189504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 601,
+								"h": 903,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 601,
+								"h": 903,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1571958758837985300,
+						"id_str": "1571958758837985280",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/FdC4KZ4aIAAixKz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdC4KZ4aIAAixKz.jpg",
+						"url": "https://t.co/zDL4kyNUYy",
+						"display_url": "pic.twitter.com/zDL4kyNUYy",
+						"expanded_url": "https://twitter.com/BasicAppleGuy/status/1571958762231189504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1225462582280016000,
+				"id_str": "1225462582280015879",
+				"name": "Basic Apple Guy",
+				"screen_name": "BasicAppleGuy",
+				"location": "Dynamic Island",
+				"description": "Basic (ˈbeɪ.sɪk’; Adj): lover of all things mainstream, popular, & trending in the world of .",
+				"url": "https://t.co/r6HgFi8eEO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r6HgFi8eEO",
+								"expanded_url": "https://basicappleguy.com",
+								"display_url": "basicappleguy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124044,
+				"friends_count": 88,
+				"listed_count": 667,
+				"created_at": "Thu Feb 06 16:54:28 +0000 2020",
+				"favourites_count": 9213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11515,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1225462582280015879/1661978812",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 463,
+			"favorite_count": 4327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "Peak iOS https://t.co/WkFFjtumGC"
+	},
+	{
 		"created_at": "Mon Sep 19 21:16:34 +0000 2022",
 		"id": 1571967287279890400,
 		"id_str": "1571971536722042881",
