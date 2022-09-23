@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 12:45:07 +0000 2022",
+		"id": 1572928318542065700,
+		"id_str": "1572929986788483073",
+		"full_text": "BNPL users \"tend to be economically vulnerable. A July report by the financial services company Fitch Ratings found that they carry more debt than the general population, and that more than 41 percent of applicants have a poor credit history.\" https://t.co/6IKeLAHZC1 (h/t @faris)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "faris",
+					"name": "faris",
+					"id": 354103,
+					"id_str": "354103",
+					"indices": [
+						273,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6IKeLAHZC1",
+					"expanded_url": "https://www.nytimes.com/2022/08/29/dining/buy-now-pay-later-loans-groceries.html",
+					"display_url": "nytimes.com/2022/08/29/din…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22843337,
+			"id_str": "22843337",
+			"name": "Chaotic Goode",
+			"screen_name": "LaurenGoode",
+			"location": "San Francisco",
+			"description": "Senior Staff Writer at @WIRED. Podcaster. Lover of plot twists. lauren_goode@wired.com, DM for Signal info.",
+			"url": "https://t.co/XWopAENtzm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XWopAENtzm",
+							"expanded_url": "https://www.wired.com/",
+							"display_url": "wired.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96403,
+			"friends_count": 2296,
+			"listed_count": 3101,
+			"created_at": "Wed Mar 04 22:09:23 +0000 2009",
+			"favourites_count": 40107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1503487086384492547/XNAnmGUd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503487086384492547/XNAnmGUd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22843337/1615558860",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BNPL users \"tend to be economically vulnerable. A July report by the financial services company Fitch Ratings found that they carry more debt than the general population, and that more than 41 percent of applicants have a poor credit history.\" https://t.co/6IKeLAHZC1 (h/t @faris)"
+	},
+	{
 		"created_at": "Tue Sep 20 11:33:47 +0000 2022",
 		"id": 1572187258962206700,
 		"id_str": "1572187258962206721",
