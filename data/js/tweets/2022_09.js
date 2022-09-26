@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 25 21:16:14 +0000 2022",
+		"id": 1574145778758606800,
+		"id_str": "1574145778758606848",
+		"full_text": "La cosa che fa piangere di questa situazione è che se i 5 stelle non esistessero e Renzi e Calenda non fossero dei bambini, avremmo tranquillamente la maggioranza. https://t.co/IwAa1Zv3lb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IwAa1Zv3lb",
+					"expanded_url": "https://twitter.com/perchetendenza/status/1574142855454621696",
+					"display_url": "twitter.com/perchetendenza…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574142855454621700,
+		"quoted_status_id_str": "1574142855454621696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IwAa1Zv3lb",
+			"expanded": "https://twitter.com/perchetendenza/status/1574142855454621696",
+			"display": "twitter.com/perchetendenza…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 25 21:04:37 +0000 2022",
+			"id": 1574142855454621700,
+			"id_str": "1574142855454621696",
+			"full_text": "#exitpoll:\nPerché sono usciti i primi exit poll delle #ElezioniPolitiche2022 https://t.co/tk6j6hc2FU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "exitpoll",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "ElezioniPolitiche2022",
+						"indices": [
+							54,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1574142840610984000,
+						"id_str": "1574142840610983937",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Fdh6kshXkAEEygV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fdh6kshXkAEEygV.jpg",
+						"url": "https://t.co/tk6j6hc2FU",
+						"display_url": "pic.twitter.com/tk6j6hc2FU",
+						"expanded_url": "https://twitter.com/perchetendenza/status/1574142855454621696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1574142840610984000,
+						"id_str": "1574142840610983937",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Fdh6kshXkAEEygV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fdh6kshXkAEEygV.jpg",
+						"url": "https://t.co/tk6j6hc2FU",
+						"display_url": "pic.twitter.com/tk6j6hc2FU",
+						"expanded_url": "https://twitter.com/perchetendenza/status/1574142855454621696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1574142846566862800,
+						"id_str": "1574142846566862848",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Fdh6lCtXEAAMWFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fdh6lCtXEAAMWFq.jpg",
+						"url": "https://t.co/tk6j6hc2FU",
+						"display_url": "pic.twitter.com/tk6j6hc2FU",
+						"expanded_url": "https://twitter.com/perchetendenza/status/1574142855454621696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1574142849985265700,
+						"id_str": "1574142849985265665",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Fdh6lPcXwAEGNn9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fdh6lPcXwAEGNn9.jpg",
+						"url": "https://t.co/tk6j6hc2FU",
+						"display_url": "pic.twitter.com/tk6j6hc2FU",
+						"expanded_url": "https://twitter.com/perchetendenza/status/1574142855454621696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1574142853202284500,
+						"id_str": "1574142853202284549",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Fdh6lbbXkAU3dh6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fdh6lbbXkAU3dh6.jpg",
+						"url": "https://t.co/tk6j6hc2FU",
+						"display_url": "pic.twitter.com/tk6j6hc2FU",
+						"expanded_url": "https://twitter.com/perchetendenza/status/1574142855454621696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1243891825372528600,
+				"id_str": "1243891825372528643",
+				"name": "Perché è in tendenza?",
+				"screen_name": "perchetendenza",
+				"location": "Tendenze, Italia",
+				"description": "Cosa, chi è in tendenza in Italia, e perché? Te lo spiego qui. Filiale italiana di @porquetendencia",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182723,
+				"friends_count": 19,
+				"listed_count": 238,
+				"created_at": "Sat Mar 28 13:25:10 +0000 2020",
+				"favourites_count": 2472,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12575,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297203329026658306/5cj_vJVy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297203329026658306/5cj_vJVy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243891825372528643/1594073654",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 750,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "La cosa che fa piangere di questa situazione è che se i 5 stelle non esistessero e Renzi e Calenda non fossero dei bambini, avremmo tranquillamente la maggioranza. https://t.co/IwAa1Zv3lb"
+	},
+	{
 		"created_at": "Sat Sep 24 07:20:35 +0000 2022",
 		"id": 1573569720866988000,
 		"id_str": "1573573091279753216",
