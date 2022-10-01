@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 09:12:24 +0000 2022",
+		"id": 1575380321461305300,
+		"id_str": "1575775558729977856",
+		"full_text": "Continua la rubrica \"Papà, perché?\"\nOre 7:20.\n \nÈ tutto vostro onore.\nC'è un dottore in sala? Per me, per lui, per Alessia, è indifferente a questo punto... https://t.co/VCNtooMq4k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575380311575339000,
+					"id_str": "1575380311575339008",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FdzgC_GXoAAnIVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdzgC_GXoAAnIVM.jpg",
+					"url": "https://t.co/VCNtooMq4k",
+					"display_url": "pic.twitter.com/VCNtooMq4k",
+					"expanded_url": "https://twitter.com/giastevenz/status/1575380321461305349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575380311575339000,
+					"id_str": "1575380311575339008",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FdzgC_GXoAAnIVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdzgC_GXoAAnIVM.jpg",
+					"url": "https://t.co/VCNtooMq4k",
+					"display_url": "pic.twitter.com/VCNtooMq4k",
+					"expanded_url": "https://twitter.com/giastevenz/status/1575380321461305349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575380315052327000,
+					"id_str": "1575380315052326912",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FdzgDMDWQAALV05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdzgDMDWQAALV05.jpg",
+					"url": "https://t.co/VCNtooMq4k",
+					"display_url": "pic.twitter.com/VCNtooMq4k",
+					"expanded_url": "https://twitter.com/giastevenz/status/1575380321461305349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 856,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575380319385096200,
+					"id_str": "1575380319385096195",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FdzgDcMXEAM1ey8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdzgDcMXEAM1ey8.jpg",
+					"url": "https://t.co/VCNtooMq4k",
+					"display_url": "pic.twitter.com/VCNtooMq4k",
+					"expanded_url": "https://twitter.com/giastevenz/status/1575380321461305349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1031,
+							"h": 1375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1468979105257435100,
+			"id_str": "1468979105257435146",
+			"name": "$teven Zhang $eagal dedito all'ONANISMO🍋",
+			"screen_name": "giastevenz",
+			"location": "",
+			"description": "Emano le stesse vibes di Harry Styles, dicono.\n\nGià StevenSeagal.\nIt looks so pretty to me like it always did\nlike the Spanish city to me when we were kids",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 732,
+			"friends_count": 395,
+			"listed_count": 1,
+			"created_at": "Thu Dec 09 16:21:35 +0000 2021",
+			"favourites_count": 40563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1575922283243241479/Ik_UGGn9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575922283243241479/Ik_UGGn9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1468979105257435146/1664143376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1306,
+		"favorite_count": 13634,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Continua la rubrica \"Papà, perché?\"\nOre 7:20.\n \nÈ tutto vostro onore.\nC'è un dottore in sala? Per me, per lui, per Alessia, è indifferente a questo punto... https://t.co/VCNtooMq4k"
+	},
+	{
 		"created_at": "Thu Sep 29 20:20:18 +0000 2022",
 		"id": 1575581253763354600,
 		"id_str": "1575581253763354624",
