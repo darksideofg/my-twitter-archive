@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 21:40:04 +0000 2022",
+		"id": 1578136069224235000,
+		"id_str": "1578138043814395906",
+		"full_text": "the different stages of Stage Manager https://t.co/yqSNLxflZ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578136046726008800,
+					"id_str": "1578136046726008834",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FeaqX4hX0AICo7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeaqX4hX0AICo7k.jpg",
+					"url": "https://t.co/yqSNLxflZ2",
+					"display_url": "pic.twitter.com/yqSNLxflZ2",
+					"expanded_url": "https://twitter.com/viticci/status/1578136069224235008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 926,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578136046726008800,
+					"id_str": "1578136046726008834",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FeaqX4hX0AICo7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeaqX4hX0AICo7k.jpg",
+					"url": "https://t.co/yqSNLxflZ2",
+					"display_url": "pic.twitter.com/yqSNLxflZ2",
+					"expanded_url": "https://twitter.com/viticci/status/1578136069224235008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 926,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578136051914350600,
+					"id_str": "1578136051914350592",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FeaqYL2XoAAZ_6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeaqYL2XoAAZ_6_.jpg",
+					"url": "https://t.co/yqSNLxflZ2",
+					"display_url": "pic.twitter.com/yqSNLxflZ2",
+					"expanded_url": "https://twitter.com/viticci/status/1578136069224235008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1584,
+							"h": 909,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578136057933168600,
+					"id_str": "1578136057933168641",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FeaqYiRXgAE1bdx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeaqYiRXgAE1bdx.jpg",
+					"url": "https://t.co/yqSNLxflZ2",
+					"display_url": "pic.twitter.com/yqSNLxflZ2",
+					"expanded_url": "https://twitter.com/viticci/status/1578136069224235008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1720,
+							"h": 893,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578136063360618500,
+					"id_str": "1578136063360618497",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FeaqY2fX0AE3PsN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeaqY2fX0AE3PsN.jpg",
+					"url": "https://t.co/yqSNLxflZ2",
+					"display_url": "pic.twitter.com/yqSNLxflZ2",
+					"expanded_url": "https://twitter.com/viticci/status/1578136069224235008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1632,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.twitter.com/theSpringApp?kjy=spring\" rel=\"nofollow\">Spring for Apple</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20904050,
+			"id_str": "20904050",
+			"name": "Federico Viticci",
+			"screen_name": "viticci",
+			"location": "In your web browser.",
+			"description": "Founder and Editor-in-Chief @MacStoriesNet & @ClubMacStories. Podcaster at @AppStoriesNet.\n\nOn @RelayFM: @_connectedfm & @remasterfm.\n\n⭐️ https://t.co/gdTV5PgKpv",
+			"url": "https://t.co/iJ5iBWtq6e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iJ5iBWtq6e",
+							"expanded_url": "https://www.macstories.net/",
+							"display_url": "macstories.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gdTV5PgKpv",
+							"expanded_url": "http://plus.club",
+							"display_url": "plus.club",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 91410,
+			"friends_count": 828,
+			"listed_count": 4757,
+			"created_at": "Sun Feb 15 10:52:33 +0000 2009",
+			"favourites_count": 22010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "062039",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444610937290362886/8zLUtiDg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444610937290362886/8zLUtiDg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20904050/1492522863",
+			"profile_link_color": "0081C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "191A19",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the different stages of Stage Manager https://t.co/yqSNLxflZ2"
+	},
+	{
 		"created_at": "Tue Oct 04 21:54:27 +0000 2022",
 		"id": 1577416888988192800,
 		"id_str": "1577416888988192768",
