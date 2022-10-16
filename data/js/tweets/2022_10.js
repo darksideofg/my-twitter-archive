@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 22:19:19 +0000 2022",
+		"id": 1581344155548065800,
+		"id_str": "1581409409556779010",
+		"full_text": "https://t.co/jGZQzKIlv6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581020961943572500,
+					"id_str": "1581020961943572480",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfDqMDMX0AAx92x.png",
+					"media_url_https": "https://pbs.twimg.com/media/FfDqMDMX0AAx92x.png",
+					"url": "https://t.co/jGZQzKIlv6",
+					"display_url": "pic.twitter.com/jGZQzKIlv6",
+					"expanded_url": "https://twitter.com/RespectfulMemes/status/1581344155548065792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 526,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 526,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581020961943572500,
+					"id_str": "1581020961943572480",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfDqMDMX0AAx92x.png",
+					"media_url_https": "https://pbs.twimg.com/media/FfDqMDMX0AAx92x.png",
+					"url": "https://t.co/jGZQzKIlv6",
+					"display_url": "pic.twitter.com/jGZQzKIlv6",
+					"expanded_url": "https://twitter.com/RespectfulMemes/status/1581344155548065792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 526,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 526,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727338733423464400,
+			"id_str": "727338733423464448",
+			"name": "Respectful Memes 🎃",
+			"screen_name": "RespectfulMemes",
+			"location": "",
+			"description": "#1 Source of Memes to show your Grandma!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1596120,
+			"friends_count": 0,
+			"listed_count": 2773,
+			"created_at": "Tue May 03 03:27:22 +0000 2016",
+			"favourites_count": 27090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800857197697703936/RMfUXdGk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800857197697703936/RMfUXdGk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727338733423464448/1486169440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 564,
+		"favorite_count": 6327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/jGZQzKIlv6"
+	},
+	{
+		"created_at": "Sat Oct 15 22:05:09 +0000 2022",
+		"id": 1581405846784729000,
+		"id_str": "1581405846784729088",
+		"full_text": "In un pub in cui hanno messo prima Bella Ciao e poi “Bagno a mezzanotte” allo scoccare delle 0:00. Sono forse in paradiso?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "75c3173a8f8bfd0d",
+			"url": "https://api.twitter.com/1.1/geo/id/75c3173a8f8bfd0d.json",
+			"place_type": "city",
+			"name": "Sciacca",
+			"full_name": "Sciacca, Sicily",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							12.9901671,
+							37.4641804
+						],
+						[
+							13.2241621,
+							37.4641804
+						],
+						[
+							13.2241621,
+							37.6341614
+						],
+						[
+							12.9901671,
+							37.6341614
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "In un pub in cui hanno messo prima Bella Ciao e poi “Bagno a mezzanotte” allo scoccare delle 0:00. Sono forse in paradiso?"
+	},
+	{
 		"created_at": "Tue Oct 11 16:21:39 +0000 2022",
 		"id": 1579869849714847700,
 		"id_str": "1579869849714847745",
