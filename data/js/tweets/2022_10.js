@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 06:41:05 +0000 2022",
+		"id": 1581704079897608200,
+		"id_str": "1582260460627304448",
+		"full_text": "Of course I listen to podcasts. What am I supposed to listen to? My own thoughts? Oh dear god no.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951133063165116400,
+			"id_str": "951133063165116418",
+			"name": "Jessie",
+			"screen_name": "mommajessiec",
+			"location": "United States",
+			"description": "*awkward silence* Mom to four, wife to one. Like I am to most things, I came here late too.",
+			"url": "https://t.co/DQz8q0ERx5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DQz8q0ERx5",
+							"expanded_url": "https://twitter.com/search?q=from%3Amommajessiec%20exclude%3Areplies&s=09",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68716,
+			"friends_count": 6297,
+			"listed_count": 324,
+			"created_at": "Wed Jan 10 16:46:08 +0000 2018",
+			"favourites_count": 88123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198369117285298179/sWei3Hbd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198369117285298179/sWei3Hbd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951133063165116418/1574546396",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4571,
+		"favorite_count": 34200,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Of course I listen to podcasts. What am I supposed to listen to? My own thoughts? Oh dear god no."
+	},
+	{
 		"created_at": "Mon Oct 17 15:38:32 +0000 2022",
 		"id": 1582000209248198700,
 		"id_str": "1582033325857841152",
