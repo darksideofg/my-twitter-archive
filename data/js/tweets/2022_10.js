@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 19:17:24 +0000 2022",
+		"id": 1583311177387430000,
+		"id_str": "1583537959093108758",
+		"full_text": "it’s me\nhi\ni’m the problem—it’s me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 901371,
+			"id_str": "901371",
+			"name": "Ricky Mondello",
+			"screen_name": "rmondello",
+			"location": "New England until November",
+			"description": "🏳️‍⚧️ Nonbinary, they/them, friend🧛🏻‍♀️ 🖤 It’s not a phase 🔑 Pass{keys, codes, words} at Apple 🌙 🦔 Speedrunner",
+			"url": "https://t.co/1DczGaALR7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1DczGaALR7",
+							"expanded_url": "https://twitch.tv/rmondello",
+							"display_url": "twitch.tv/rmondello",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18206,
+			"friends_count": 760,
+			"listed_count": 498,
+			"created_at": "Sun Mar 11 05:27:51 +0000 2007",
+			"favourites_count": 65497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAD9AC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172517477491695616/3ftOKAMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172517477491695616/3ftOKAMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/901371/1599498905",
+			"profile_link_color": "587F5E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C3F991",
+			"profile_text_color": "111111",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "it’s me\nhi\ni’m the problem—it’s me"
+	},
+	{
 		"created_at": "Thu Oct 20 14:43:33 +0000 2022",
 		"id": 1582894813372108800,
 		"id_str": "1583106652877848576",
@@ -38,7 +134,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Ricky Mondello",
 			"screen_name": "rmondello",
 			"location": "New England until November",
-			"description": "🏳️‍⚧️ Nonbinary, they/them, friend🧛🏻‍♀️ 🖤 It’s not a phase 🔑 Pass{keys, codes, words} at Apple 🌙 🦔 Speedrunner",
+			"description": "🏳️⚧️ Nonbinary, they/them, friend🧛🏻♀️ 🖤 It’s not a phase 🔑 Pass{keys, codes, words} at Apple 🌙 🦔 Speedrunner",
 			"url": "https://t.co/1DczGaALR7",
 			"entities": {
 				"url": {
@@ -211,7 +307,7 @@ Grailbird.data.tweets_2022_10 =
 				"id_str": "1855491313",
 				"name": "Lily Mara",
 				"screen_name": "TheLily_Mara",
-				"location": "🏳️‍⚧️ She/Her",
+				"location": "🏳️⚧️ She/Her",
 				"description": "Engineering Manager @OneSignal / author of “Refactoring to Rust”",
 				"url": "https://t.co/oUlgaYpbsW",
 				"entities": {
