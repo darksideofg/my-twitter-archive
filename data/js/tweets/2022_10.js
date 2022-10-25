@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 20:32:07 +0000 2022",
+		"id": 1584643924609597400,
+		"id_str": "1584643924609597453",
+		"full_text": "@apn Il cringe ogni volta che a lavoro dall’alto arriva una mail che inizia così: https://t.co/PQZcdXwc9P",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "apn",
+					"name": "apn",
+					"id": 8711362,
+					"id_str": "8711362",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584643917248594000,
+					"id_str": "1584643917248593921",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3JPzcWAAE3IfH.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3JPzcWAAE3IfH.png",
+					"url": "https://t.co/PQZcdXwc9P",
+					"display_url": "pic.twitter.com/PQZcdXwc9P",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1584643924609597453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 258,
+							"h": 92,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 258,
+							"h": 92,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 258,
+							"h": 92,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 92,
+							"h": 92,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584643917248594000,
+					"id_str": "1584643917248593921",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff3JPzcWAAE3IfH.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ff3JPzcWAAE3IfH.png",
+					"url": "https://t.co/PQZcdXwc9P",
+					"display_url": "pic.twitter.com/PQZcdXwc9P",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1584643924609597453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 258,
+							"h": 92,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 258,
+							"h": 92,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 258,
+							"h": 92,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 92,
+							"h": 92,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1584204125079687200,
+		"in_reply_to_status_id_str": "1584204125079687170",
+		"in_reply_to_user_id": 8711362,
+		"in_reply_to_user_id_str": "8711362",
+		"in_reply_to_screen_name": "apn",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "@apn Il cringe ogni volta che a lavoro dall’alto arriva una mail che inizia così: https://t.co/PQZcdXwc9P"
+	},
+	{
+		"created_at": "Mon Oct 24 20:23:11 +0000 2022",
+		"id": 1584632403842465800,
+		"id_str": "1584641674566897670",
+		"full_text": "https://t.co/JYT6YKWWJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584632399089967000,
+					"id_str": "1584632399089967105",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2-xW9VIAEmpyp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2-xW9VIAEmpyp.jpg",
+					"url": "https://t.co/JYT6YKWWJG",
+					"display_url": "pic.twitter.com/JYT6YKWWJG",
+					"expanded_url": "https://twitter.com/shirtsthtgohard/status/1584632403842465799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1012,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584632399089967000,
+					"id_str": "1584632399089967105",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2-xW9VIAEmpyp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2-xW9VIAEmpyp.jpg",
+					"url": "https://t.co/JYT6YKWWJG",
+					"display_url": "pic.twitter.com/JYT6YKWWJG",
+					"expanded_url": "https://twitter.com/shirtsthtgohard/status/1584632403842465799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1012,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1432805757573943300,
+			"id_str": "1432805757573943297",
+			"name": "shirts that go hard",
+			"screen_name": "shirtsthtgohard",
+			"location": "",
+			"description": "I don’t do promos, I only post shirts I like - DM for credit! I tag original creators whenever possible. the designs I sell are my own.",
+			"url": "https://t.co/h1nntz8TLt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h1nntz8TLt",
+							"expanded_url": "http://shirtsthatgohard.com/",
+							"display_url": "shirtsthatgohard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1139085,
+			"friends_count": 443,
+			"listed_count": 1250,
+			"created_at": "Tue Aug 31 20:41:32 +0000 2021",
+			"favourites_count": 3086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546968163815895041/jELJmt4K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546968163815895041/jELJmt4K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1432805757573943297/1657769014",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2436,
+		"favorite_count": 20660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/JYT6YKWWJG"
+	},
+	{
 		"created_at": "Fri Oct 21 19:17:24 +0000 2022",
 		"id": 1583311177387430000,
 		"id_str": "1583537959093108758",
@@ -28,7 +388,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Ricky Mondello",
 			"screen_name": "rmondello",
 			"location": "New England until November",
-			"description": "🏳️‍⚧️ Nonbinary, they/them, friend🧛🏻‍♀️ 🖤 It’s not a phase 🔑 Pass{keys, codes, words} at Apple 🌙 🦔 Speedrunner",
+			"description": "🏳️⚧️ Nonbinary, they/them, friend🧛🏻♀️ 🖤 It’s not a phase 🔑 Pass{keys, codes, words} at Apple 🌙 🦔 Speedrunner",
 			"url": "https://t.co/1DczGaALR7",
 			"entities": {
 				"url": {
