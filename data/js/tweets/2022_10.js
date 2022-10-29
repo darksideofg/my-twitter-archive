@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 06:15:25 +0000 2022",
+		"id": 1585877879585489000,
+		"id_str": "1585877879585488898",
+		"full_text": "https://t.co/cIVSje39sU https://t.co/52JSc2h7IH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cIVSje39sU",
+					"expanded_url": "https://twitter.com/kyliebytes/status/1585792044227706881",
+					"display_url": "twitter.com/kyliebytes/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585877846425325600,
+					"id_str": "1585877846425325568",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgIrf71X0AAeqak.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgIrf71X0AAeqak.jpg",
+					"url": "https://t.co/52JSc2h7IH",
+					"display_url": "pic.twitter.com/52JSc2h7IH",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1585877879585488898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585877846425325600,
+					"id_str": "1585877846425325568",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgIrf71X0AAeqak.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgIrf71X0AAeqak.jpg",
+					"url": "https://t.co/52JSc2h7IH",
+					"display_url": "pic.twitter.com/52JSc2h7IH",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1585877879585488898/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FgIrf71X0AAeqak.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1585792044227707000,
+		"quoted_status_id_str": "1585792044227706881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cIVSje39sU",
+			"expanded": "https://twitter.com/kyliebytes/status/1585792044227706881",
+			"display": "twitter.com/kyliebytes/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 28 00:34:20 +0000 2022",
+			"id": 1585792044227707000,
+			"id_str": "1585792044227706881",
+			"full_text": "CNBC says the deal is closed, still waiting for more reports to roll in and keeping an eye on filings https://t.co/0P95PW5Jwm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0P95PW5Jwm",
+						"expanded_url": "https://www.cnbc.com/2022/10/27/elon-musk-now-in-charge-of-twitter-ceo-and-cfo-have-left-sources-say.html?__source=sharebar|twitter&par=sharebar",
+						"display_url": "cnbc.com/2022/10/27/elo…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 253350725,
+				"id_str": "253350725",
+				"name": "Kylie Robison",
+				"screen_name": "kyliebytes",
+				"location": "SF",
+				"description": "Tech reporter for @FortuneMagazine • Previously @BITech • Robison (rah-beh-son) not Robinson • Send tips kylie.robison@fortune.com or DM for Signal",
+				"url": "https://t.co/GzXhQqGEHG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GzXhQqGEHG",
+								"expanded_url": "https://linktr.ee/kylierobison",
+								"display_url": "linktr.ee/kylierobison",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17240,
+				"friends_count": 995,
+				"listed_count": 179,
+				"created_at": "Thu Feb 17 02:10:05 +0000 2011",
+				"favourites_count": 142174,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 688,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/253350725/1630445967",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CF87CF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/cIVSje39sU https://t.co/52JSc2h7IH"
+	},
+	{
 		"created_at": "Thu Oct 27 14:13:24 +0000 2022",
 		"id": 1585375727968522200,
 		"id_str": "1585635779874680832",
