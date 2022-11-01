@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 20:33:26 +0000 2022",
+		"id": 1587180972390649900,
+		"id_str": "1587180972390649856",
+		"full_text": "Letteralmente io https://t.co/wyiH4AyTSJ https://t.co/66JuFoo97L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wyiH4AyTSJ",
+					"expanded_url": "https://twitter.com/sarahjeong/status/1587172656931303426",
+					"display_url": "twitter.com/sarahjeong/sta…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1587180918724337700,
+					"id_str": "1587180918724337664",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgbMoubXoAARKVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgbMoubXoAARKVu.jpg",
+					"url": "https://t.co/66JuFoo97L",
+					"display_url": "pic.twitter.com/66JuFoo97L",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1587180972390649856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 236,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 236,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587180918724337700,
+					"id_str": "1587180918724337664",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgbMoubXoAARKVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgbMoubXoAARKVu.jpg",
+					"url": "https://t.co/66JuFoo97L",
+					"display_url": "pic.twitter.com/66JuFoo97L",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1587180972390649856/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 236,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 236,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							173,
+							118
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FgbMoubXoAARKVu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1587172656931303400,
+		"quoted_status_id_str": "1587172656931303426",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wyiH4AyTSJ",
+			"expanded": "https://twitter.com/sarahjeong/status/1587172656931303426",
+			"display": "twitter.com/sarahjeong/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 31 20:00:24 +0000 2022",
+			"id": 1587172656931303400,
+			"id_str": "1587172656931303426",
+			"full_text": "hooting. howling. screaming. sorry but this acquisition fucking owns. it’s awesome. I’m having a blast. https://t.co/EUP96rsR4O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EUP96rsR4O",
+						"expanded_url": "https://twitter.com/danprimack/status/1587154119533264896",
+						"display_url": "twitter.com/danprimack/sta…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47509268,
+				"id_str": "47509268",
+				"name": "sarah jeong",
+				"screen_name": "sarahjeong",
+				"location": "Portland, OR",
+				"description": "deputy features ed @verge. lawyer by training, journalist by vocation. prev @nytimes @motherboard and elsewhere. not actually a Pokémon. pitch me.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121939,
+				"friends_count": 1763,
+				"listed_count": 2395,
+				"created_at": "Tue Jun 16 01:50:52 +0000 2009",
+				"favourites_count": 81109,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 63441,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409002235455967234/ZcTT1Xq-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409002235455967234/ZcTT1Xq-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47509268/1428289698",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "200709",
+				"profile_text_color": "6A4836",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1587154119533265000,
+			"quoted_status_id_str": "1587154119533264896",
+			"quoted_status_permalink": {
+				"url": "https://t.co/EUP96rsR4O",
+				"expanded": "https://twitter.com/danprimack/status/1587154119533264896",
+				"display": "twitter.com/danprimack/sta…"
+			},
+			"retweet_count": 28,
+			"favorite_count": 255,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Letteralmente io https://t.co/wyiH4AyTSJ https://t.co/66JuFoo97L"
+	},
+	{
 		"created_at": "Fri Oct 28 06:15:25 +0000 2022",
 		"id": 1585877879585489000,
 		"id_str": "1585877879585488898",
