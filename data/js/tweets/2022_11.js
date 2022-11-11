@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 00:31:33 +0000 2022",
+		"id": 1590864775432794000,
+		"id_str": "1590864775432794112",
+		"full_text": "I’m crying, we did it kids 😭 https://t.co/6OxvJW8AyJ https://t.co/bzigGL2AGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6OxvJW8AyJ",
+					"expanded_url": "https://twitter.com/darksideofg/status/1201551797954994177",
+					"display_url": "twitter.com/darksideofg/st…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1590864689306763300,
+					"id_str": "1590864689306763264",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1590864689306763264/pu/img/2NzJ202bFfRtAzRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1590864689306763264/pu/img/2NzJ202bFfRtAzRF.jpg",
+					"url": "https://t.co/bzigGL2AGr",
+					"display_url": "pic.twitter.com/bzigGL2AGr",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1590864775432794112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590864689306763300,
+					"id_str": "1590864689306763264",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1590864689306763264/pu/img/2NzJ202bFfRtAzRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1590864689306763264/pu/img/2NzJ202bFfRtAzRF.jpg",
+					"url": "https://t.co/bzigGL2AGr",
+					"display_url": "pic.twitter.com/bzigGL2AGr",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1590864775432794112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30220,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1590864689306763264/pu/pl/cdUinPIm8zlJNDRQ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590864689306763264/pu/vid/480x852/FWXdSiFuNalHJCbz.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590864689306763264/pu/vid/720x1280/gjfhyh7n45q81Ni9.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590864689306763264/pu/vid/320x568/dmFXsJI1qCCpVS8V.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201551797954994200,
+		"quoted_status_id_str": "1201551797954994177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6OxvJW8AyJ",
+			"expanded": "https://twitter.com/darksideofg/status/1201551797954994177",
+			"display": "twitter.com/darksideofg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 02 17:20:47 +0000 2019",
+			"id": 1201551797954994200,
+			"id_str": "1201551797954994177",
+			"full_text": "Inspiegabilmente About U è anche album più bello del 2019 pur essendo uscito quasi 3 anni fa. https://t.co/K6bDqkHcR5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K6bDqkHcR5",
+						"expanded_url": "https://twitter.com/DarkSideOfG/status/905466887022280706",
+						"display_url": "twitter.com/DarkSideOfG/st…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 535277787,
+				"id_str": "535277787",
+				"name": "G (̄・・̄)",
+				"screen_name": "DarkSideOfG",
+				"location": "εᴍ - Siberia",
+				"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+				"url": "https://t.co/X8kvpF6nYq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X8kvpF6nYq",
+								"expanded_url": "http://darksideofg.tk",
+								"display_url": "darksideofg.tk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107,
+				"friends_count": 83,
+				"listed_count": 6,
+				"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+				"favourites_count": 8304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26429,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "515151",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+				"profile_link_color": "686868",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "595959",
+				"profile_text_color": "606060",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 905466887022280700,
+			"quoted_status_id_str": "905466887022280706",
+			"quoted_status_permalink": {
+				"url": "https://t.co/K6bDqkHcR5",
+				"expanded": "https://twitter.com/DarkSideOfG/status/905466887022280706",
+				"display": "twitter.com/DarkSideOfG/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m crying, we did it kids 😭 https://t.co/6OxvJW8AyJ https://t.co/bzigGL2AGr"
+	},
+	{
 		"created_at": "Mon Nov 07 19:42:18 +0000 2022",
 		"id": 1589600594586923000,
 		"id_str": "1589704817278173184",
