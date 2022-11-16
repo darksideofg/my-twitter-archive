@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 12:46:58 +0000 2022",
+		"id": 1592292747381465000,
+		"id_str": "1592499397220261898",
+		"full_text": "in honor of removing the device indicator in tweets, I want to pay tribute to dorothy https://t.co/yEoXGC1bOt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1592291812785328000,
+					"id_str": "1592291812785328128",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhj096fVEAAvBVa.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fhj096fVEAAvBVa.png",
+					"url": "https://t.co/yEoXGC1bOt",
+					"display_url": "pic.twitter.com/yEoXGC1bOt",
+					"expanded_url": "https://twitter.com/tweetsbyparker/status/1592292747381465089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 531,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592291812785328000,
+					"id_str": "1592291812785328128",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhj096fVEAAvBVa.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fhj096fVEAAvBVa.png",
+					"url": "https://t.co/yEoXGC1bOt",
+					"display_url": "pic.twitter.com/yEoXGC1bOt",
+					"expanded_url": "https://twitter.com/tweetsbyparker/status/1592292747381465089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 531,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 960880275721945100,
+			"id_str": "960880275721945088",
+			"name": "parker lyons ",
+			"screen_name": "tweetsbyparker",
+			"location": "San Diego, CA",
+			"description": "WHERE IS MY SUPER SUIT?! | he/him",
+			"url": "https://t.co/Nybgdts5uX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Nybgdts5uX",
+							"expanded_url": "https://medium.com/@parkerhlyons13/im-fricking-alive-a-love-story-f06e0501a1c6",
+							"display_url": "medium.com/@parkerhlyons1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34242,
+			"friends_count": 2884,
+			"listed_count": 29,
+			"created_at": "Tue Feb 06 14:18:04 +0000 2018",
+			"favourites_count": 46103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1557592371537162240/O0wQ9kO__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557592371537162240/O0wQ9kO__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/960880275721945088/1660194397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11763,
+		"favorite_count": 85845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in honor of removing the device indicator in tweets, I want to pay tribute to dorothy https://t.co/yEoXGC1bOt"
+	},
+	{
 		"created_at": "Sun Nov 13 10:49:00 +0000 2022",
 		"id": 1591737748947456000,
 		"id_str": "1591744933953667072",
