@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 07:54:47 +0000 2022",
+		"id": 1592157277322346500,
+		"id_str": "1592788255438737409",
+		"full_text": "when the foot locker employee finds an extra pair of the sold out shoes for you in the back https://t.co/U7gEKX1dZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1592157272867848200,
+					"id_str": "1592157272867848193",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhh6mqPXwAEZuPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhh6mqPXwAEZuPb.jpg",
+					"url": "https://t.co/U7gEKX1dZg",
+					"display_url": "pic.twitter.com/U7gEKX1dZg",
+					"expanded_url": "https://twitter.com/em_Lazzy/status/1592157277322346496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 950,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592157272867848200,
+					"id_str": "1592157272867848193",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhh6mqPXwAEZuPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhh6mqPXwAEZuPb.jpg",
+					"url": "https://t.co/U7gEKX1dZg",
+					"display_url": "pic.twitter.com/U7gEKX1dZg",
+					"expanded_url": "https://twitter.com/em_Lazzy/status/1592157277322346496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 950,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1525135090476515300,
+			"id_str": "1525135090476515331",
+			"name": "Lazzyyyyyy",
+			"screen_name": "em_Lazzy",
+			"location": "Dallas, TX",
+			"description": "DM FOR PROMOS AND ADS",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14279,
+			"friends_count": 2539,
+			"listed_count": 30,
+			"created_at": "Fri May 13 15:25:25 +0000 2022",
+			"favourites_count": 23519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544447805758083072/3FHcDGN3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544447805758083072/3FHcDGN3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1525135090476515331/1653076965",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11673,
+		"favorite_count": 105456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "when the foot locker employee finds an extra pair of the sold out shoes for you in the back https://t.co/U7gEKX1dZg"
+	},
+	{
 		"created_at": "Tue Nov 15 12:46:58 +0000 2022",
 		"id": 1592292747381465000,
 		"id_str": "1592499397220261898",
