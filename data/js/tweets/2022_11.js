@@ -1,6 +1,1727 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 17:42:19 +0000 2022",
+		"id": 1593660888820523000,
+		"id_str": "1593660888820523008",
+		"full_text": "Il dominio è disponibile 🙈 https://t.co/HywrhZD9wS https://t.co/Z0WCHwOyHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HywrhZD9wS",
+					"expanded_url": "https://twitter.com/frangmenti/status/1593620603558322176",
+					"display_url": "twitter.com/frangmenti/sta…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593660883972112400,
+					"id_str": "1593660883972112384",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh3SIWGXwAAODpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh3SIWGXwAAODpe.jpg",
+					"url": "https://t.co/Z0WCHwOyHJ",
+					"display_url": "pic.twitter.com/Z0WCHwOyHJ",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1593660888820523008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 803,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593660883972112400,
+					"id_str": "1593660883972112384",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh3SIWGXwAAODpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh3SIWGXwAAODpe.jpg",
+					"url": "https://t.co/Z0WCHwOyHJ",
+					"display_url": "pic.twitter.com/Z0WCHwOyHJ",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1593660888820523008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 803,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1593620603558322200,
+		"quoted_status_id_str": "1593620603558322176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HywrhZD9wS",
+			"expanded": "https://twitter.com/frangmenti/status/1593620603558322176",
+			"display": "twitter.com/frangmenti/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 18 15:02:14 +0000 2022",
+			"id": 1593620603558322200,
+			"id_str": "1593620603558322176",
+			"full_text": "Ma quindi su Mastodon devi accedere a un server o cosa del genere boh, createne almeno uno per la nostra bolla dai.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1315329164287848400,
+				"id_str": "1315329164287848448",
+				"name": "Francesco",
+				"screen_name": "frangmenti",
+				"location": "Roma",
+				"description": "I overthink your punctuation use.",
+				"url": "https://t.co/idwkNa9gTU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/idwkNa9gTU",
+								"expanded_url": "http://instagram.com/framingo__",
+								"display_url": "instagram.com/framingo__",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158,
+				"friends_count": 212,
+				"listed_count": 0,
+				"created_at": "Sun Oct 11 16:31:40 +0000 2020",
+				"favourites_count": 10677,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4832,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1563185401992544256/vEcizkWE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1563185401992544256/vEcizkWE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315329164287848448/1655835955",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Il dominio è disponibile 🙈 https://t.co/HywrhZD9wS https://t.co/Z0WCHwOyHJ"
+	},
+	{
+		"created_at": "Fri Nov 18 15:22:33 +0000 2022",
+		"id": 1593625717580906500,
+		"id_str": "1593625717580906497",
+		"full_text": "@frangmenti Ma non è per i soldi, è per la sbatta ahaha",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frangmenti",
+					"name": "Francesco",
+					"id": 1315329164287848400,
+					"id_str": "1315329164287848448",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1593625598672441300,
+		"in_reply_to_status_id_str": "1593625598672441345",
+		"in_reply_to_user_id": 1315329164287848400,
+		"in_reply_to_user_id_str": "1315329164287848448",
+		"in_reply_to_screen_name": "frangmenti",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@frangmenti Ma non è per i soldi, è per la sbatta ahaha"
+	},
+	{
+		"created_at": "Fri Nov 18 15:21:39 +0000 2022",
+		"id": 1593625491214598100,
+		"id_str": "1593625491214598145",
+		"full_text": "@frangmenti Ci avevo mezzo pensato ma non ho voglia di fare il sysadmin anche fuori dall’orario di lavoro 😆 🌚",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frangmenti",
+					"name": "Francesco",
+					"id": 1315329164287848400,
+					"id_str": "1315329164287848448",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1593620603558322200,
+		"in_reply_to_status_id_str": "1593620603558322176",
+		"in_reply_to_user_id": 1315329164287848400,
+		"in_reply_to_user_id_str": "1315329164287848448",
+		"in_reply_to_screen_name": "frangmenti",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@frangmenti Ci avevo mezzo pensato ma non ho voglia di fare il sysadmin anche fuori dall’orario di lavoro 😆 🌚"
+	},
+	{
+		"created_at": "Fri Nov 18 11:35:12 +0000 2022",
+		"id": 1593444215354118100,
+		"id_str": "1593568501809176578",
+		"full_text": "https://t.co/ixbAwSlMkB https://t.co/GSVh3IbZkT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ixbAwSlMkB",
+					"expanded_url": "http://at.tumblr.com/tumblr",
+					"display_url": "at.tumblr.com/tumblr",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593444172739924000,
+					"id_str": "1593444172739923969",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0NCF2UUAELUAU.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0NCF2UUAELUAU.png",
+					"url": "https://t.co/GSVh3IbZkT",
+					"display_url": "pic.twitter.com/GSVh3IbZkT",
+					"expanded_url": "https://twitter.com/tumblr/status/1593444215354118145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 634,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 634,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 634,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593444172739924000,
+					"id_str": "1593444172739923969",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0NCF2UUAELUAU.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0NCF2UUAELUAU.png",
+					"url": "https://t.co/GSVh3IbZkT",
+					"display_url": "pic.twitter.com/GSVh3IbZkT",
+					"expanded_url": "https://twitter.com/tumblr/status/1593444215354118145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 634,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 634,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 634,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52484614,
+			"id_str": "52484614",
+			"name": "tumblr dot com the website and app",
+			"screen_name": "tumblr",
+			"location": "Everywhere",
+			"description": "Welcome back!🦀 We like your shoelaces. Multifandom.💙💜 #pikaman🌞#giggletwt ☆ Pog🥔Champ☆ PK DAY🎈#NotJustInJune - For support contact @tumblrsupport",
+			"url": "https://t.co/lDXjmCxWo0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lDXjmCxWo0",
+							"expanded_url": "https://at.tumblr.com/tumblr",
+							"display_url": "at.tumblr.com/tumblr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2254889,
+			"friends_count": 419,
+			"listed_count": 9900,
+			"created_at": "Tue Jun 30 19:01:39 +0000 2009",
+			"favourites_count": 49920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F9F9F9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1590188773115015168/Mn7tN-L1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1590188773115015168/Mn7tN-L1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52484614/1653343143",
+			"profile_link_color": "999999",
+			"profile_sidebar_border_color": "BBC552",
+			"profile_sidebar_fill_color": "CEDB69",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56923,
+		"favorite_count": 392577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/ixbAwSlMkB https://t.co/GSVh3IbZkT"
+	},
+	{
+		"created_at": "Fri Nov 18 08:49:01 +0000 2022",
+		"id": 1593526678843801600,
+		"id_str": "1593526678843801600",
+		"full_text": "@DukeOfSuffolk @AlbertoPots In teoria dovresti scegliere un server di cui “ti fidi” dell’amministratore e di cui sei d’accordo con le regole di moderazione però a questo punto la cosa è abbastanza un casino da fare per una persona normale.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AlbertoPots",
+					"name": "AlbertoS",
+					"id": 400170220,
+					"id_str": "400170220",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1593526220368511000,
+		"in_reply_to_status_id_str": "1593526220368510978",
+		"in_reply_to_user_id": 535277787,
+		"in_reply_to_user_id_str": "535277787",
+		"in_reply_to_screen_name": "DarkSideOfG",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk @AlbertoPots In teoria dovresti scegliere un server di cui “ti fidi” dell’amministratore e di cui sei d’accordo con le regole di moderazione però a questo punto la cosa è abbastanza un casino da fare per una persona normale."
+	},
+	{
+		"created_at": "Fri Nov 18 08:47:11 +0000 2022",
+		"id": 1593526220368511000,
+		"id_str": "1593526220368510978",
+		"full_text": "@DukeOfSuffolk @AlbertoPots In pratica Twitter è un sito solo mentre mastodon funziona più tipo le mail che tu scegli fra Gmail, Hotmail etc però poi comunque puoi scrivere a tutti. Ogni server  ha dei volontari che si occupano della moderazione di quel server etc",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AlbertoPots",
+					"name": "AlbertoS",
+					"id": 400170220,
+					"id_str": "400170220",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1593523351888216000,
+		"in_reply_to_status_id_str": "1593523351888216065",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk @AlbertoPots In pratica Twitter è un sito solo mentre mastodon funziona più tipo le mail che tu scegli fra Gmail, Hotmail etc però poi comunque puoi scrivere a tutti. Ogni server  ha dei volontari che si occupano della moderazione di quel server etc"
+	},
+	{
+		"created_at": "Fri Nov 18 07:38:50 +0000 2022",
+		"id": 1514575288319070200,
+		"id_str": "1593509019150422016",
+		"full_text": "i was on tumblr when yahoo had to sell it for $3 million after buying it for $1.1 billion. we were all a little bit responsible for losing yahoo a billion dollars. and with that type of collective effort, i believe we here on twitter can lose elon musk even more",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 790352335759433700,
+			"id_str": "790352335759433728",
+			"name": "lesbian mothman",
+			"screen_name": "verysmallriver",
+			"location": "she/her",
+			"description": "six-time spelling bee champion",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9051,
+			"friends_count": 536,
+			"listed_count": 11,
+			"created_at": "Mon Oct 24 00:40:55 +0000 2016",
+			"favourites_count": 10284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396981225940791305/_cPS8-Hq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396981225940791305/_cPS8-Hq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/790352335759433728/1512610425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61763,
+		"favorite_count": 350176,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i was on tumblr when yahoo had to sell it for $3 million after buying it for $1.1 billion. we were all a little bit responsible for losing yahoo a billion dollars. and with that type of collective effort, i believe we here on twitter can lose elon musk even more"
+	},
+	{
+		"created_at": "Fri Nov 18 07:30:50 +0000 2022",
+		"id": 1593439073468907500,
+		"id_str": "1593507004500377600",
+		"full_text": "NOOOOOOO TURN TWITTER BACK ON I WAS A NICHE INTERNET MICROCELEBRITY https://t.co/nYNWCt9yT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593438937917309000,
+					"id_str": "1593438937917308929",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0IRYnWQAEVTvl.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0IRYnWQAEVTvl.png",
+					"url": "https://t.co/nYNWCt9yT2",
+					"display_url": "pic.twitter.com/nYNWCt9yT2",
+					"expanded_url": "https://twitter.com/jaketropolis/status/1593439073468907525/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 388,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 323,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 323,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593438937917309000,
+					"id_str": "1593438937917308929",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0IRYnWQAEVTvl.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0IRYnWQAEVTvl.png",
+					"url": "https://t.co/nYNWCt9yT2",
+					"display_url": "pic.twitter.com/nYNWCt9yT2",
+					"expanded_url": "https://twitter.com/jaketropolis/status/1593439073468907525/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 388,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 323,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 323,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961996935421833200,
+			"id_str": "961996935421833216",
+			"name": "the prince with a thousand enemies ♂️",
+			"screen_name": "jaketropolis",
+			"location": "Chicago, IL",
+			"description": "paper shuffling jackass",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27951,
+			"friends_count": 734,
+			"listed_count": 67,
+			"created_at": "Fri Feb 09 16:15:17 +0000 2018",
+			"favourites_count": 293455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 115940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1495618642859462662/Z7R-8rfa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1495618642859462662/Z7R-8rfa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961996935421833216/1622689295",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4126,
+		"favorite_count": 38067,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NOOOOOOO TURN TWITTER BACK ON I WAS A NICHE INTERNET MICROCELEBRITY https://t.co/nYNWCt9yT2"
+	},
+	{
+		"created_at": "Fri Nov 18 07:06:43 +0000 2022",
+		"id": 1593500935946645500,
+		"id_str": "1593500935946645504",
+		"full_text": "Maaaaa qual è il piano ora che Twitter chiude? La mia TL nerd si è organizzata per andare su Mastodon ma qui non vedo movimento 😢",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "Maaaaa qual è il piano ora che Twitter chiude? La mia TL nerd si è organizzata per andare su Mastodon ma qui non vedo movimento 😢"
+	},
+	{
+		"created_at": "Fri Nov 18 07:04:47 +0000 2022",
+		"id": 1593500447670763500,
+		"id_str": "1593500447670763521",
+		"full_text": "@DukeOfSuffolk Dopo aver licenziato metà dei dipendenti Musk ha dato un ultimatum all’altra metà “lavorate  24/7 o andate via” e sembra che il 75% si sia licenziato. In pratica da 3 settimane fa sono rimasti solo il 10% dei dipendenti (quelli che hanno il permesso di soggiorno legato al lavoro)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1593493809765154800,
+		"in_reply_to_status_id_str": "1593493809765154816",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@DukeOfSuffolk Dopo aver licenziato metà dei dipendenti Musk ha dato un ultimatum all’altra metà “lavorate  24/7 o andate via” e sembra che il 75% si sia licenziato. In pratica da 3 settimane fa sono rimasti solo il 10% dei dipendenti (quelli che hanno il permesso di soggiorno legato al lavoro)"
+	},
+	{
+		"created_at": "Fri Nov 18 07:01:21 +0000 2022",
+		"id": 1593396175281193000,
+		"id_str": "1593499584256512000",
+		"full_text": "The Old God prepares for final battle https://t.co/xE9nEW5LF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593396172554899500,
+					"id_str": "1593396172554899456",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FhzhYHOaEAAnzok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhzhYHOaEAAnzok.jpg",
+					"url": "https://t.co/xE9nEW5LF1",
+					"display_url": "pic.twitter.com/xE9nEW5LF1",
+					"expanded_url": "https://twitter.com/jessicahagy/status/1593396175281192960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593396172554899500,
+					"id_str": "1593396172554899456",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FhzhYHOaEAAnzok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhzhYHOaEAAnzok.jpg",
+					"url": "https://t.co/xE9nEW5LF1",
+					"display_url": "pic.twitter.com/xE9nEW5LF1",
+					"expanded_url": "https://twitter.com/jessicahagy/status/1593396175281192960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14211141,
+			"id_str": "14211141",
+			"name": "Jessica Hagy",
+			"screen_name": "jessicahagy",
+			"location": "Seattle",
+			"description": "Author: AETUI: Pentagram Poems, How to Be Fearless, One Morning, The Humanist's Devotional, The Art of War Visualized, How to Be Interesting, Indexed & more",
+			"url": "https://t.co/u0aHjLPKHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u0aHjLPKHB",
+							"expanded_url": "https://linktr.ee/jessica_hagy",
+							"display_url": "linktr.ee/jessica_hagy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15533,
+			"friends_count": 1502,
+			"listed_count": 876,
+			"created_at": "Mon Mar 24 22:15:29 +0000 2008",
+			"favourites_count": 2112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0C3C4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/52043223/myface_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/52043223/myface_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14211141/1646432597",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8265,
+		"favorite_count": 20063,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Old God prepares for final battle https://t.co/xE9nEW5LF1"
+	},
+	{
+		"created_at": "Fri Nov 18 06:58:08 +0000 2022",
+		"id": 1593413064363155500,
+		"id_str": "1593498775481421825",
+		"full_text": "Does feel right that the final main character of Twitter is Twitter. https://t.co/soJP0WhlFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593412965356765200,
+					"id_str": "1593412965356765185",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FhzwplSXgAEUXH0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhzwplSXgAEUXH0.png",
+					"url": "https://t.co/soJP0WhlFv",
+					"display_url": "pic.twitter.com/soJP0WhlFv",
+					"expanded_url": "https://twitter.com/keithedwards/status/1593413064363155456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593412965356765200,
+					"id_str": "1593412965356765185",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FhzwplSXgAEUXH0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhzwplSXgAEUXH0.png",
+					"url": "https://t.co/soJP0WhlFv",
+					"display_url": "pic.twitter.com/soJP0WhlFv",
+					"expanded_url": "https://twitter.com/keithedwards/status/1593413064363155456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14102215,
+			"id_str": "14102215",
+			"name": "Keith Edwards",
+			"screen_name": "keithedwards",
+			"location": "Washington, DC",
+			"description": "Alum @NikkiFried, @ossoff, @ProjectLincoln, @Mike2020. Fmr small business owner, reality TV producer, and KFC cook. | https://t.co/EeeeOGNqyd",
+			"url": "https://t.co/67cafQbBnd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/67cafQbBnd",
+							"expanded_url": "https://www.instagram.com/keithedwards",
+							"display_url": "instagram.com/keithedwards",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EeeeOGNqyd",
+							"expanded_url": "http://mastodon.social/@keithedwards",
+							"display_url": "mastodon.social/@keithedwards",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 128375,
+			"friends_count": 879,
+			"listed_count": 592,
+			"created_at": "Sat Mar 08 18:43:43 +0000 2008",
+			"favourites_count": 30508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0DAE0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587968373924790272/m36Uq9E3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587968373924790272/m36Uq9E3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14102215/1668827721",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFF5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does feel right that the final main character of Twitter is Twitter. https://t.co/soJP0WhlFv"
+	},
+	{
 		"created_at": "Thu Nov 17 13:11:43 +0000 2022",
 		"id": 1593230401992007700,
 		"id_str": "1593230401992007682",
