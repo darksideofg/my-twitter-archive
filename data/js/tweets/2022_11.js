@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 20 19:38:58 +0000 2022",
+		"id": 1594178532045119500,
+		"id_str": "1594415020699488257",
+		"full_text": "I'm assembling a team https://t.co/77Oqe5x3he",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1594178496443871200,
+					"id_str": "1594178496443871234",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh-o5W0acAIaPbC.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fh-o5W0acAIaPbC.png",
+					"url": "https://t.co/77Oqe5x3he",
+					"display_url": "pic.twitter.com/77Oqe5x3he",
+					"expanded_url": "https://twitter.com/GKBesterfriend/status/1594178532045119490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1594178496443871200,
+					"id_str": "1594178496443871234",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh-o5W0acAIaPbC.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fh-o5W0acAIaPbC.png",
+					"url": "https://t.co/77Oqe5x3he",
+					"display_url": "pic.twitter.com/77Oqe5x3he",
+					"expanded_url": "https://twitter.com/GKBesterfriend/status/1594178532045119490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20391157,
+			"id_str": "20391157",
+			"name": "J. Kenji López-Main",
+			"screen_name": "GKBesterfriend",
+			"location": "Seattle, WA",
+			"description": "Duh, Politics | Duh, Podcasts | Duh, Plad | married to @gina_miinah",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2966,
+			"friends_count": 2960,
+			"listed_count": 44,
+			"created_at": "Sun Feb 08 20:42:59 +0000 2009",
+			"favourites_count": 51767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434937242582065161/0VYx-Eup_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434937242582065161/0VYx-Eup_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20391157/1667610454",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6374,
+		"favorite_count": 95684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm assembling a team https://t.co/77Oqe5x3he"
+	},
+	{
 		"created_at": "Fri Nov 18 17:42:19 +0000 2022",
 		"id": 1593660888820523000,
 		"id_str": "1593660888820523008",
