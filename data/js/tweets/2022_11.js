@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 21 15:46:01 +0000 2022",
+		"id": 1594718783863926800,
+		"id_str": "1594718783863926784",
+		"full_text": "@DukeOfSuffolk https://t.co/XvwMf8asGh",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DukeOfSuffolk",
+					"name": "Sailor Stupider",
+					"id": 43511524,
+					"id_str": "43511524",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1594718778327195600,
+					"id_str": "1594718778327195648",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FiGUR5rWYAAxG5W.png",
+					"media_url_https": "https://pbs.twimg.com/media/FiGUR5rWYAAxG5W.png",
+					"url": "https://t.co/XvwMf8asGh",
+					"display_url": "pic.twitter.com/XvwMf8asGh",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1594718783863926784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1284,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1594718778327195600,
+					"id_str": "1594718778327195648",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FiGUR5rWYAAxG5W.png",
+					"media_url_https": "https://pbs.twimg.com/media/FiGUR5rWYAAxG5W.png",
+					"url": "https://t.co/XvwMf8asGh",
+					"display_url": "pic.twitter.com/XvwMf8asGh",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1594718783863926784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1284,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1594706827949793300,
+		"in_reply_to_status_id_str": "1594706827949793284",
+		"in_reply_to_user_id": 43511524,
+		"in_reply_to_user_id_str": "43511524",
+		"in_reply_to_screen_name": "DukeOfSuffolk",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 82,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@DukeOfSuffolk https://t.co/XvwMf8asGh"
+	},
+	{
 		"created_at": "Sun Nov 20 19:38:58 +0000 2022",
 		"id": 1594178532045119500,
 		"id_str": "1594415020699488257",
