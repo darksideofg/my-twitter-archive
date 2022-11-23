@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 22 06:39:26 +0000 2022",
+		"id": 1594516148132913200,
+		"id_str": "1594943622058737665",
+		"full_text": "taylor swift showing us the back that carries the music industry https://t.co/k6UjICfDo3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1594516143145996300,
+					"id_str": "1594516143145996288",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FiDb--zX0AA84xs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiDb--zX0AA84xs.jpg",
+					"url": "https://t.co/k6UjICfDo3",
+					"display_url": "pic.twitter.com/k6UjICfDo3",
+					"expanded_url": "https://twitter.com/cowboyinwoods13/status/1594516148132913154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1594516143145996300,
+					"id_str": "1594516143145996288",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FiDb--zX0AA84xs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiDb--zX0AA84xs.jpg",
+					"url": "https://t.co/k6UjICfDo3",
+					"display_url": "pic.twitter.com/k6UjICfDo3",
+					"expanded_url": "https://twitter.com/cowboyinwoods13/status/1594516148132913154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1168299253338427400,
+			"id_str": "1168299253338427392",
+			"name": "miguel I taylivia stan",
+			"screen_name": "cowboyinwoods13",
+			"location": "Fort Worth, TX",
+			"description": "He/him | 18 yrs | Address the letters, to the holes in my butterfly wings I Taylor Swift and Olivia Rodrigo enthusiast | Fan Account | liv hq x26 ✫*ﾟ･ﾟ｡.☆.*｡･ﾟ✫",
+			"url": "https://t.co/fAHjkxeZnE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fAHjkxeZnE",
+							"expanded_url": "http://taylorswift.com",
+							"display_url": "taylorswift.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4772,
+			"friends_count": 2600,
+			"listed_count": 25,
+			"created_at": "Sun Sep 01 23:07:12 +0000 2019",
+			"favourites_count": 57162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537955898605248514/0QjJkaWp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537955898605248514/0QjJkaWp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168299253338427392/1667452497",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1686,
+		"favorite_count": 10533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "taylor swift showing us the back that carries the music industry https://t.co/k6UjICfDo3"
+	},
+	{
 		"created_at": "Mon Nov 21 15:46:01 +0000 2022",
 		"id": 1594718783863926800,
 		"id_str": "1594718783863926784",
