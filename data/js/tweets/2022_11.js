@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 09:01:56 +0000 2022",
+		"id": 1595704258623864800,
+		"id_str": "1595704258623864833",
+		"full_text": "POV: sei un gambero https://t.co/ZQNzYBLAJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZQNzYBLAJy",
+					"expanded_url": "https://twitter.com/ultimora_pol/status/1595691930293219328",
+					"display_url": "twitter.com/ultimora_pol/s…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 82,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1595691930293219300,
+		"quoted_status_id_str": "1595691930293219328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZQNzYBLAJy",
+			"expanded": "https://twitter.com/ultimora_pol/status/1595691930293219328",
+			"display": "twitter.com/ultimora_pol/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 24 08:12:57 +0000 2022",
+			"id": 1595691930293219300,
+			"id_str": "1595691930293219328",
+			"full_text": "Manovra, il governo cancella l’obbligo di accettare il bancomat per i pagamenti sotto i 30 euro. (Open)\n\n@ultimora_pol",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ultimora_pol",
+						"name": "Ultimora.net - POLITICS",
+						"id": 1300916262369984500,
+						"id_str": "1300916262369984515",
+						"indices": [
+							105,
+							118
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">UltimoraPoliticsPost</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1300916262369984500,
+				"id_str": "1300916262369984515",
+				"name": "Ultimora.net - POLITICS",
+				"screen_name": "ultimora_pol",
+				"location": "",
+				"description": "La politica raccontata da https://t.co/iYDWk6tCo8 (@ultimoranet) 📧 politics@ultimora.net",
+				"url": "https://t.co/3JalzcTzNI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3JalzcTzNI",
+								"expanded_url": "http://t.me/ultimorapolitics",
+								"display_url": "t.me/ultimorapoliti…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iYDWk6tCo8",
+								"expanded_url": "http://Ultimora.net",
+								"display_url": "Ultimora.net",
+								"indices": [
+									26,
+									49
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 53582,
+				"friends_count": 89,
+				"listed_count": 207,
+				"created_at": "Tue Sep 01 22:01:09 +0000 2020",
+				"favourites_count": 45,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 45396,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1371507764573437953/fVO_CQ7B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1371507764573437953/fVO_CQ7B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300916262369984515/1615827908",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 247,
+			"favorite_count": 1930,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "POV: sei un gambero https://t.co/ZQNzYBLAJy"
+	},
+	{
 		"created_at": "Tue Nov 22 06:39:26 +0000 2022",
 		"id": 1594516148132913200,
 		"id_str": "1594943622058737665",
