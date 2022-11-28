@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 13:14:54 +0000 2022",
+		"id": 1595132742986891300,
+		"id_str": "1596855081185742850",
+		"full_text": "He’s only your fiancé if he comes from the Fiancé region of France. Otherwise he’s just your sparkling boyfriend. A brosecco.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1720011902,
+			"id_str": "1720011902",
+			"name": "Emily Murnane",
+			"screen_name": "emily_murnane",
+			"location": "Los Angeles, CA",
+			"description": "Comedy writer & director | formerly @latewithlilly @ucbtny @ucbtla | @reductress contributor | often crying on public transit",
+			"url": "https://t.co/sUAwctonaN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sUAwctonaN",
+							"expanded_url": "http://emilymurnane.com",
+							"display_url": "emilymurnane.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27706,
+			"friends_count": 1226,
+			"listed_count": 133,
+			"created_at": "Sun Sep 01 19:28:05 +0000 2013",
+			"favourites_count": 31789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092712213566156801/TUBicBvp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092712213566156801/TUBicBvp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1720011902/1479240530",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15004,
+		"favorite_count": 147002,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "He’s only your fiancé if he comes from the Fiancé region of France. Otherwise he’s just your sparkling boyfriend. A brosecco."
+	},
+	{
 		"created_at": "Sat Nov 26 16:12:31 +0000 2022",
 		"id": 1596537392240156700,
 		"id_str": "1596537392240156673",
