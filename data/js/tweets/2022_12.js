@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 21:53:10 +0000 2022",
+		"id": 1600609387332116500,
+		"id_str": "1600609387332116486",
+		"full_text": "@frangmenti La musica è l’unica cosa che si salva ahaha. I personaggi sono tutti odiosi dal primo all’ultimo. Forse l’unica che salvo è l’amica di Zoya (Shan si chiama?)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frangmenti",
+					"name": "Francesco",
+					"id": 1315329164287848400,
+					"id_str": "1315329164287848448",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1600608634085449700,
+		"in_reply_to_status_id_str": "1600608634085449740",
+		"in_reply_to_user_id": 1315329164287848400,
+		"in_reply_to_user_id_str": "1315329164287848448",
+		"in_reply_to_screen_name": "frangmenti",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@frangmenti La musica è l’unica cosa che si salva ahaha. I personaggi sono tutti odiosi dal primo all’ultimo. Forse l’unica che salvo è l’amica di Zoya (Shan si chiama?)"
+	},
+	{
+		"created_at": "Wed Dec 07 21:48:28 +0000 2022",
+		"id": 1600608206123835400,
+		"id_str": "1600608206123835423",
+		"full_text": "@frangmenti https://t.co/JwCg1FvDOv",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frangmenti",
+					"name": "Francesco",
+					"id": 1315329164287848400,
+					"id_str": "1315329164287848448",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JwCg1FvDOv",
+					"expanded_url": "https://en.wikipedia.org/wiki/Hate-watching",
+					"display_url": "en.wikipedia.org/wiki/Hate-watc…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1600607752505725000,
+		"in_reply_to_status_id_str": "1600607752505724945",
+		"in_reply_to_user_id": 1315329164287848400,
+		"in_reply_to_user_id_str": "1315329164287848448",
+		"in_reply_to_screen_name": "frangmenti",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@frangmenti https://t.co/JwCg1FvDOv"
+	},
+	{
+		"created_at": "Wed Dec 07 21:46:06 +0000 2022",
+		"id": 1600607608683040800,
+		"id_str": "1600607608683040773",
+		"full_text": "@frangmenti No vabbè io la guardo per fare hate watching ma è orribile. È tutto sbagliato.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frangmenti",
+					"name": "Francesco",
+					"id": 1315329164287848400,
+					"id_str": "1315329164287848448",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1600607419864068000,
+		"in_reply_to_status_id_str": "1600607419864068096",
+		"in_reply_to_user_id": 1315329164287848400,
+		"in_reply_to_user_id_str": "1315329164287848448",
+		"in_reply_to_screen_name": "frangmenti",
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@frangmenti No vabbè io la guardo per fare hate watching ma è orribile. È tutto sbagliato."
+	},
+	{
 		"created_at": "Mon Dec 05 08:40:56 +0000 2022",
 		"id": 1599129761405550600,
 		"id_str": "1599685240062181376",
@@ -106,7 +435,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Meg Elison",
 			"screen_name": "megelison",
 			"location": "Maryland, USA",
-			"description": "Author. P.K. Dick & Locus Award Winner. Hugo, Nebula, Sturgeon & Otherwise finalist. Nonfic editor @UncannyMagazine. https://t.co/HBK23vMF3n she/they/sir 🏳️‍🌈",
+			"description": "Author. P.K. Dick & Locus Award Winner. Hugo, Nebula, Sturgeon & Otherwise finalist. Nonfic editor @UncannyMagazine. https://t.co/HBK23vMF3n she/they/sir 🏳️🌈",
 			"url": "https://t.co/HBK23vMF3n",
 			"entities": {
 				"url": {
