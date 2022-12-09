@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 19:09:26 +0000 2022",
+		"id": 1600795724408422400,
+		"id_str": "1600930569134739473",
+		"full_text": "on the final day of this netflix original we are living through the pm who sleeps on the floor will be revealed to have been chatgpt all along https://t.co/GnllRPWvQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GnllRPWvQU",
+					"expanded_url": "https://twitter.com/devon_onearth/status/1600792880708141056",
+					"display_url": "twitter.com/devon_onearth/…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3004020255,
+			"id_str": "3004020255",
+			"name": "laura",
+			"screen_name": "freezydorito",
+			"location": "hopeless brexit kingdom",
+			"description": "here to have a good time (failing) ✨ arch-enemy of ‘salsa’ (cat)",
+			"url": "https://t.co/2HclLyFFYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2HclLyFFYq",
+							"expanded_url": "https://www.laura.monster",
+							"display_url": "laura.monster",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10194,
+			"friends_count": 800,
+			"listed_count": 146,
+			"created_at": "Thu Jan 29 10:06:54 +0000 2015",
+			"favourites_count": 218292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 135370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1582830852890890270/iLZgh40-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582830852890890270/iLZgh40-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004020255/1669308479",
+			"profile_link_color": "056AEF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1600792880708141000,
+		"quoted_status_id_str": "1600792880708141056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GnllRPWvQU",
+			"expanded": "https://twitter.com/devon_onearth/status/1600792880708141056",
+			"display": "twitter.com/devon_onearth/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 08 10:02:18 +0000 2022",
+			"id": 1600792880708141000,
+			"id_str": "1600792880708141056",
+			"full_text": "There are now no less than 4 checkmarks in play https://t.co/8WCIb8jmFK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1600792869593354200,
+						"id_str": "1600792869593354241",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/Fjcooi8XEAEZQb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fjcooi8XEAEZQb3.jpg",
+						"url": "https://t.co/8WCIb8jmFK",
+						"display_url": "pic.twitter.com/8WCIb8jmFK",
+						"expanded_url": "https://twitter.com/Devon_OnEarth/status/1600792880708141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1600792869593354200,
+						"id_str": "1600792869593354241",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/Fjcooi8XEAEZQb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fjcooi8XEAEZQb3.jpg",
+						"url": "https://t.co/8WCIb8jmFK",
+						"display_url": "pic.twitter.com/8WCIb8jmFK",
+						"expanded_url": "https://twitter.com/Devon_OnEarth/status/1600792880708141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 365,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1600792873338806300,
+						"id_str": "1600792873338806276",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/Fjcoow5WIAQ2NA0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fjcoow5WIAQ2NA0.jpg",
+						"url": "https://t.co/8WCIb8jmFK",
+						"display_url": "pic.twitter.com/8WCIb8jmFK",
+						"expanded_url": "https://twitter.com/Devon_OnEarth/status/1600792880708141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 409,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 409,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1600792876346138600,
+						"id_str": "1600792876346138624",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/Fjcoo8GWYAA3hOT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fjcoo8GWYAA3hOT.jpg",
+						"url": "https://t.co/8WCIb8jmFK",
+						"display_url": "pic.twitter.com/8WCIb8jmFK",
+						"expanded_url": "https://twitter.com/Devon_OnEarth/status/1600792880708141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1600792878585991200,
+						"id_str": "1600792878585991170",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/FjcopEcX0AI6GC2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjcopEcX0AI6GC2.jpg",
+						"url": "https://t.co/8WCIb8jmFK",
+						"display_url": "pic.twitter.com/8WCIb8jmFK",
+						"expanded_url": "https://twitter.com/Devon_OnEarth/status/1600792880708141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 175,
+								"h": 74,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 175,
+								"h": 74,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 74,
+								"h": 74,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 175,
+								"h": 74,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1000110254078640100,
+				"id_str": "1000110254078640128",
+				"name": "𝐃𝐄𝐕𝐎𝐍™",
+				"screen_name": "Devon_OnEarth",
+				"location": "approaching you rapidly",
+				"description": "they/them. @KillJamesBond / https://t.co/xQsjbj1R8N… / @10kpostspod / @wtyppod. ⓘ 𝘛𝘩𝘪𝘴 𝘶𝘴𝘦𝘳 𝘪𝘴 𝘢 𝘣𝘳𝘢𝘯𝘥 𝘢𝘮𝘣𝘢𝘴𝘴𝘢𝘥𝘰𝘳 𝘧𝘰𝘳 𝐃𝐄𝐕𝐎𝐍™",
+				"url": "https://t.co/isBnXwXAr0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/isBnXwXAr0",
+								"expanded_url": "https://www.killjames.bond",
+								"display_url": "killjames.bond",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xQsjbj1R8N",
+								"expanded_url": "http://Twitch.tv/Trashfuturepod",
+								"display_url": "Twitch.tv/Trashfuturepod",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 25069,
+				"friends_count": 1081,
+				"listed_count": 53,
+				"created_at": "Fri May 25 20:24:00 +0000 2018",
+				"favourites_count": 188469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22124,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1589771001549701120/a-MdjXLx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589771001549701120/a-MdjXLx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000110254078640128/1649492582",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1168,
+			"favorite_count": 13983,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "on the final day of this netflix original we are living through the pm who sleeps on the floor will be revealed to have been chatgpt all along https://t.co/GnllRPWvQU"
+	},
+	{
 		"created_at": "Wed Dec 07 21:53:10 +0000 2022",
 		"id": 1600609387332116500,
 		"id_str": "1600609387332116486",
