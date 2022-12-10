@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 06:25:34 +0000 2022",
+		"id": 1600865988471558100,
+		"id_str": "1601100725056114690",
+		"full_text": "Remember, everything blockchain is permanent and immutable, unless one webmonkey contractor decides to change a single line of code in the .htaccess of the website of a giant Ponzi scheme, then poof https://t.co/7ePl3rOJsq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ePl3rOJsq",
+					"expanded_url": "https://twitter.com/jacobdotsol/status/1600526700982710273",
+					"display_url": "twitter.com/jacobdotsol/st…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36623,
+			"id_str": "36623",
+			"name": "Joshua Benton",
+			"screen_name": "jbenton",
+			"location": "Greater Boston",
+			"description": "Senior writer + founder of @NiemanLab at @Harvard. I write about (a) digital journalism, (b) southern history, mostly. Proud Cajun. Takes mine, not Harvard's.",
+			"url": "https://t.co/HAIJkDgroR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HAIJkDgroR",
+							"expanded_url": "http://www.joshuabenton.com/",
+							"display_url": "joshuabenton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46297,
+			"friends_count": 4020,
+			"listed_count": 1784,
+			"created_at": "Sat Dec 02 06:32:23 +0000 2006",
+			"favourites_count": 40721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/500365878269984768/OYxjyPTb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/500365878269984768/OYxjyPTb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36623/1498237310",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1600526700982710300,
+		"quoted_status_id_str": "1600526700982710273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7ePl3rOJsq",
+			"expanded": "https://twitter.com/jacobdotsol/status/1600526700982710273",
+			"display": "twitter.com/jacobdotsol/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 07 16:24:36 +0000 2022",
+			"id": 1600526700982710300,
+			"id_str": "1600526700982710273",
+			"full_text": "Oh look FTX hosted all the NFTs minted on their platform using a web2 API and now all those NFTs have  broken metadata and the links go to a restructuring website. https://t.co/hsQgVru4BL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1600526341731909600,
+						"id_str": "1600526341731909635",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FjY2OlSWAAMdWT7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjY2OlSWAAMdWT7.jpg",
+						"url": "https://t.co/hsQgVru4BL",
+						"display_url": "pic.twitter.com/hsQgVru4BL",
+						"expanded_url": "https://twitter.com/jacobdotsol/status/1600526700982710273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1332,
+								"h": 932,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1600526341731909600,
+						"id_str": "1600526341731909635",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FjY2OlSWAAMdWT7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjY2OlSWAAMdWT7.jpg",
+						"url": "https://t.co/hsQgVru4BL",
+						"display_url": "pic.twitter.com/hsQgVru4BL",
+						"expanded_url": "https://twitter.com/jacobdotsol/status/1600526700982710273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 476,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1332,
+								"h": 932,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1600526571181412400,
+						"id_str": "1600526571181412353",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FjY2b8DXkAE3NQr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjY2b8DXkAE3NQr.jpg",
+						"url": "https://t.co/hsQgVru4BL",
+						"display_url": "pic.twitter.com/hsQgVru4BL",
+						"expanded_url": "https://twitter.com/jacobdotsol/status/1600526700982710273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1538,
+								"h": 1340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1046,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1479699293120254000,
+				"id_str": "1479699293120253959",
+				"name": "jac0xb.sol",
+				"screen_name": "jacobdotsol",
+				"location": "New York City",
+				"description": "Engineer, solana ecosystem. eng: @solsniperxyz co-founder: @feeblelabs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3877,
+				"friends_count": 2247,
+				"listed_count": 24,
+				"created_at": "Sat Jan 08 06:19:44 +0000 2022",
+				"favourites_count": 16587,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5059,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1601315155329040386/wEMN8QvS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1601315155329040386/wEMN8QvS_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 618,
+			"favorite_count": 4079,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 41,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember, everything blockchain is permanent and immutable, unless one webmonkey contractor decides to change a single line of code in the .htaccess of the website of a giant Ponzi scheme, then poof https://t.co/7ePl3rOJsq"
+	},
+	{
 		"created_at": "Thu Dec 08 19:09:26 +0000 2022",
 		"id": 1600795724408422400,
 		"id_str": "1600930569134739473",
