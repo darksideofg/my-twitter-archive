@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 12 20:30:31 +0000 2022",
+		"id": 1416535062171078700,
+		"id_str": "1602400527484178432",
+		"full_text": "At no point in this headline did I know what the next word was going to be https://t.co/b2D6nEm119",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416535058282864600,
+					"id_str": "1416535058282864641",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"url": "https://t.co/b2D6nEm119",
+					"display_url": "pic.twitter.com/b2D6nEm119",
+					"expanded_url": "https://twitter.com/Pale_0ntologist/status/1416535062171078658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416535058282864600,
+					"id_str": "1416535058282864641",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"url": "https://t.co/b2D6nEm119",
+					"display_url": "pic.twitter.com/b2D6nEm119",
+					"expanded_url": "https://twitter.com/Pale_0ntologist/status/1416535062171078658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220478170,
+			"id_str": "1220478170",
+			"name": "War on Christmas General J. Rothschild",
+			"screen_name": "Pale_0ntologist",
+			"location": "Chicago, IL",
+			"description": "Notorious Jewish Baker—Leftist narishkeit—cat dad—Chicago and MN politics—he/him—my views own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5796,
+			"friends_count": 2109,
+			"listed_count": 36,
+			"created_at": "Tue Feb 26 04:40:26 +0000 2013",
+			"favourites_count": 139657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331028030307885056/FtAzrsee_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331028030307885056/FtAzrsee_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220478170/1668920263",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14229,
+		"favorite_count": 71956,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At no point in this headline did I know what the next word was going to be https://t.co/b2D6nEm119"
+	},
+	{
 		"created_at": "Sun Dec 11 22:00:36 +0000 2022",
 		"id": 1602060808946589700,
 		"id_str": "1602060808946589698",
