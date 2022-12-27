@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 26 21:23:07 +0000 2022",
+		"id": 1607478799926722600,
+		"id_str": "1607487194654023686",
+		"full_text": "\"is this a good movie or am i just gay\" is a fair question we all have to ask ourselves from time to time",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1607478685644333000,
+		"in_reply_to_status_id_str": "1607478685644333058",
+		"in_reply_to_user_id": 185609783,
+		"in_reply_to_user_id_str": "185609783",
+		"in_reply_to_screen_name": "MIDImyers",
+		"user": {
+			"id": 185609783,
+			"id_str": "185609783",
+			"name": "Maddy Myers 🏳️‍🌈",
+			"screen_name": "MIDImyers",
+			"location": "Boston, MA",
+			"description": "🏳️‍🌈 @Polygon Deputy Editor, Games. Co-host of @TripleClickPod and @TheMutantAges. Previously @Kotaku @TheMarySue @BostonPhoenix. electropop musician. she/her",
+			"url": "https://t.co/6Vsl1NvcHQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Vsl1NvcHQ",
+							"expanded_url": "https://midimyers.com/",
+							"display_url": "midimyers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30715,
+			"friends_count": 571,
+			"listed_count": 612,
+			"created_at": "Wed Sep 01 12:06:33 +0000 2010",
+			"favourites_count": 31075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1575596691541172233/ND6iakfc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575596691541172233/ND6iakfc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/185609783/1595804607",
+			"profile_link_color": "072F40",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"is this a good movie or am i just gay\" is a fair question we all have to ask ourselves from time to time"
+	},
+	{
 		"created_at": "Sun Dec 25 22:53:32 +0000 2022",
 		"id": 1607147561835454500,
 		"id_str": "1607147561835454466",
