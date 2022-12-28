@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 27 13:57:35 +0000 2022",
+		"id": 1607737458749210600,
+		"id_str": "1607737458749210625",
+		"full_text": "🤰 https://t.co/4SF39lSCLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4SF39lSCLP",
+					"expanded_url": "https://twitter.com/rastamiller/status/1607351362680913920",
+					"display_url": "twitter.com/rastamiller/st…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1607351362680914000,
+		"quoted_status_id_str": "1607351362680913920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4SF39lSCLP",
+			"expanded": "https://twitter.com/rastamiller/status/1607351362680913920",
+			"display": "twitter.com/rastamiller/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 26 12:23:22 +0000 2022",
+			"id": 1607351362680914000,
+			"id_str": "1607351362680913920",
+			"full_text": "somebody said this is the straight version of vouging 💀 https://t.co/zgW3phzNmz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1607351312819134500,
+						"id_str": "1607351312819134466",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1607351312819134466/pu/img/ER6MFa-cjBakO5Xq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1607351312819134466/pu/img/ER6MFa-cjBakO5Xq.jpg",
+						"url": "https://t.co/zgW3phzNmz",
+						"display_url": "pic.twitter.com/zgW3phzNmz",
+						"expanded_url": "https://twitter.com/rastamiller/status/1607351362680913920/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1607351312819134500,
+						"id_str": "1607351312819134466",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1607351312819134466/pu/img/ER6MFa-cjBakO5Xq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1607351312819134466/pu/img/ER6MFa-cjBakO5Xq.jpg",
+						"url": "https://t.co/zgW3phzNmz",
+						"display_url": "pic.twitter.com/zgW3phzNmz",
+						"expanded_url": "https://twitter.com/rastamiller/status/1607351362680913920/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 24100,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1607351312819134466/pu/vid/320x568/v75r4StoIAe5vGoW.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1607351312819134466/pu/pl/MSSKz_T8Psx0nT8C.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1607351312819134466/pu/vid/480x852/oLwi-_rhDlqIejOL.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1607351312819134466/pu/vid/576x1024/o6BiHVOSxp8mazW4.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19998727,
+				"id_str": "19998727",
+				"name": "Shabba NO THANKS",
+				"screen_name": "rastamiller",
+				"location": "Burton, Derbyshire, UK",
+				"description": "Coffee Influencer. Veggie. Professional Potato. Dogs. Music. Candles. Skincare. Gaming. Shenanigans. 🇯🇲🇪🇺🇬🇧 🏳‍🌈 🏳‍⚧ ✌🏾✊🏾",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3375,
+				"friends_count": 2766,
+				"listed_count": 62,
+				"created_at": "Tue Feb 03 20:00:06 +0000 2009",
+				"favourites_count": 30890,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 172889,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F70814",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1592557648326660096/5rQfZp9-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1592557648326660096/5rQfZp9-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19998727/1590778010",
+				"profile_link_color": "091170",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "F5E211",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1060,
+			"favorite_count": 9993,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "art",
+		"text": "🤰 https://t.co/4SF39lSCLP"
+	},
+	{
 		"created_at": "Mon Dec 26 21:23:07 +0000 2022",
 		"id": 1607478799926722600,
 		"id_str": "1607487194654023686",
@@ -25,10 +330,10 @@ Grailbird.data.tweets_2022_12 =
 		"user": {
 			"id": 185609783,
 			"id_str": "185609783",
-			"name": "Maddy Myers 🏳️‍🌈",
+			"name": "Maddy Myers 🏳️🌈",
 			"screen_name": "MIDImyers",
 			"location": "Boston, MA",
-			"description": "🏳️‍🌈 @Polygon Deputy Editor, Games. Co-host of @TripleClickPod and @TheMutantAges. Previously @Kotaku @TheMarySue @BostonPhoenix. electropop musician. she/her",
+			"description": "🏳️🌈 @Polygon Deputy Editor, Games. Co-host of @TripleClickPod and @TheMutantAges. Previously @Kotaku @TheMarySue @BostonPhoenix. electropop musician. she/her",
 			"url": "https://t.co/6Vsl1NvcHQ",
 			"entities": {
 				"url": {
