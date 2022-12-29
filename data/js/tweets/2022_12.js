@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 07:50:23 +0000 2022",
+		"id": 1607420935904333800,
+		"id_str": "1608007437784698882",
+		"full_text": "Benoit Blanc talking to detective Pikachu in knives out 3: baw gawd you are some kind of  yellow rodent ...  mHmmm...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876488425,
+			"id_str": "876488425",
+			"name": "Mike Migdall",
+			"screen_name": "ItsMigdallTime",
+			"location": "Chicago",
+			"description": "Dak Rambo on @NeoScum, streaming Video Game at twitch @ itsmikelenitime he/him. header by @weresock. Free Palestine",
+			"url": "https://t.co/Ek6eTDpVws",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ek6eTDpVws",
+							"expanded_url": "https://www.twitch.tv/itsmikelenitime",
+							"display_url": "twitch.tv/itsmikelenitime",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4897,
+			"friends_count": 1000,
+			"listed_count": 53,
+			"created_at": "Fri Oct 12 21:39:39 +0000 2012",
+			"favourites_count": 185996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAF7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942634404136017920/hn6EWjxW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942634404136017920/hn6EWjxW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876488425/1507764496",
+			"profile_link_color": "8B27C4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7241,
+		"favorite_count": 58827,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Benoit Blanc talking to detective Pikachu in knives out 3: baw gawd you are some kind of  yellow rodent ...  mHmmm..."
+	},
+	{
 		"created_at": "Tue Dec 27 13:57:35 +0000 2022",
 		"id": 1607737458749210600,
 		"id_str": "1607737458749210625",
@@ -242,7 +338,7 @@ Grailbird.data.tweets_2022_12 =
 				"name": "Shabba NO THANKS",
 				"screen_name": "rastamiller",
 				"location": "Burton, Derbyshire, UK",
-				"description": "Coffee Influencer. Veggie. Professional Potato. Dogs. Music. Candles. Skincare. Gaming. Shenanigans. 🇯🇲🇪🇺🇬🇧 🏳‍🌈 🏳‍⚧ ✌🏾✊🏾",
+				"description": "Coffee Influencer. Veggie. Professional Potato. Dogs. Music. Candles. Skincare. Gaming. Shenanigans. 🇯🇲🇪🇺🇬🇧 🏳🌈 🏳⚧ ✌🏾✊🏾",
 				"url": null,
 				"entities": {
 					"description": {
