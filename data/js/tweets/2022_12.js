@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 29 05:47:36 +0000 2022",
+		"id": 1608177294081761300,
+		"id_str": "1608338928397852672",
+		"full_text": "the number one rule of running a major airline company is to be yourself and prioritize your own happiness. a lot of people think you owe them something just because they paid for a boarding pass. you don’t. you should separate yourself from that kind of toxicity and focus on you",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70739029,
+			"id_str": "70739029",
+			"name": "Jon Bois",
+			"screen_name": "jon_bois",
+			"location": "brooklyn/louisville",
+			"description": "well it's jon. waggener high, class of 2001. co-founder, @secretbase",
+			"url": "https://t.co/3WvCcQYnL8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3WvCcQYnL8",
+							"expanded_url": "https://www.youtube.com/secretbasesbn",
+							"display_url": "youtube.com/secretbasesbn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262548,
+			"friends_count": 495,
+			"listed_count": 1834,
+			"created_at": "Tue Sep 01 17:46:20 +0000 2009",
+			"favourites_count": 21432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1535742187220217856/blbLWhI8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535742187220217856/blbLWhI8_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 7985,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "the number one rule of running a major airline company is to be yourself and prioritize your own happiness. a lot of people think you owe them something just because they paid for a boarding pass. you don’t. you should separate yourself from that kind of toxicity and focus on you"
+	},
+	{
 		"created_at": "Wed Dec 28 07:50:23 +0000 2022",
 		"id": 1607420935904333800,
 		"id_str": "1608007437784698882",
