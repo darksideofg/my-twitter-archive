@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 08:44:29 +0000 2022",
+		"id": 1608600210808373200,
+		"id_str": "1608745830743248897",
+		"full_text": "Greta Thunberg baited Andrew Tate into doxxing his real time location on twitter dot com which resulted in his arrest, a true parting gift from the year 2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253350725,
+			"id_str": "253350725",
+			"name": "Kylie Robison",
+			"screen_name": "kyliebytes",
+			"location": "SF // tweets autodelete",
+			"description": "Tech reporter for @FortuneMagazine • Previously @BITech • Robison (rah-beh-son) not Robinson • Send tips kylie.robison@fortune.com or Signal 415-735-6829",
+			"url": "https://t.co/GzXhQqpBFG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GzXhQqpBFG",
+							"expanded_url": "https://linktr.ee/kylierobison",
+							"display_url": "linktr.ee/kylierobison",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27462,
+			"friends_count": 977,
+			"listed_count": 346,
+			"created_at": "Thu Feb 17 02:10:05 +0000 2011",
+			"favourites_count": 141074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253350725/1630445967",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CF87CF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 244,
+		"favorite_count": 4320,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Greta Thunberg baited Andrew Tate into doxxing his real time location on twitter dot com which resulted in his arrest, a true parting gift from the year 2022"
+	},
+	{
 		"created_at": "Thu Dec 29 05:47:36 +0000 2022",
 		"id": 1608177294081761300,
 		"id_str": "1608338928397852672",
