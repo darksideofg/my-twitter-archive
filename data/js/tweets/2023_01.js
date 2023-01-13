@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 22:43:10 +0000 2023",
+		"id": 1613584720339636200,
+		"id_str": "1613667934739566594",
+		"full_text": "obsessed with how everyone is totally ridiculous https://t.co/gL3DD0nHW6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1613584593776480300,
+					"id_str": "1613584593776480257",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSao48XEAEAesI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSao48XEAEAesI.jpg",
+					"url": "https://t.co/gL3DD0nHW6",
+					"display_url": "pic.twitter.com/gL3DD0nHW6",
+					"expanded_url": "https://twitter.com/kait_tiffany/status/1613584720339636232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1244,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613584593776480300,
+					"id_str": "1613584593776480257",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FmSao48XEAEAesI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmSao48XEAEAesI.jpg",
+					"url": "https://t.co/gL3DD0nHW6",
+					"display_url": "pic.twitter.com/gL3DD0nHW6",
+					"expanded_url": "https://twitter.com/kait_tiffany/status/1613584720339636232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1244,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1050389954,
+			"id_str": "1050389954",
+			"name": "Kaitlyn Tiffany",
+			"screen_name": "kait_tiffany",
+			"location": "ktiffany@theatlantic.com",
+			"description": "staff writer @TheAtlantic | EVERYTHING I NEED I GET FROM YOU out now from @mcdbooks",
+			"url": "https://t.co/Mb5HFXatod",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mb5HFXatod",
+							"expanded_url": "https://www.theatlantic.com/newsletters/famous-people/",
+							"display_url": "theatlantic.com/newsletters/fa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15938,
+			"friends_count": 1832,
+			"listed_count": 341,
+			"created_at": "Mon Dec 31 13:58:36 +0000 2012",
+			"favourites_count": 19512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417503150085451780/T0AncZPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417503150085451780/T0AncZPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050389954/1562445294",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "obsessed with how everyone is totally ridiculous https://t.co/gL3DD0nHW6"
+	},
+	{
 		"created_at": "Wed Jan 11 16:41:07 +0000 2023",
 		"id": 1613173759690539000,
 		"id_str": "1613214434482130945",
