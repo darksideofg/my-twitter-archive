@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 20 06:06:25 +0000 2023",
+		"id": 1616316194390261800,
+		"id_str": "1616316194390261761",
+		"full_text": "Da un lato problematic AF, ma dall’altro, onestamente guarderei 🙈 https://t.co/zR9Wls8HQA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zR9Wls8HQA",
+					"expanded_url": "https://twitter.com/laurenonline/status/1615547481521065984",
+					"display_url": "twitter.com/laurenonline/s…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1615547481521066000,
+		"quoted_status_id_str": "1615547481521065984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zR9Wls8HQA",
+			"expanded": "https://twitter.com/laurenonline/status/1615547481521065984",
+			"display": "twitter.com/laurenonline/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 18 03:11:49 +0000 2023",
+			"id": 1615547481521066000,
+			"id_str": "1615547481521065984",
+			"full_text": "MILF MANOR IS THE DARKEST THING I HAVE EVER SEEN ON TELEVISION OH MY EFFING GOD \n#milfmanor @TLC https://t.co/WSSiaraMdm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "milfmanor",
+						"indices": [
+							81,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TLC",
+						"name": "TLC Network",
+						"id": 21313855,
+						"id_str": "21313855",
+						"indices": [
+							92,
+							96
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1615547400730382300,
+						"id_str": "1615547400730382336",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615547400730382336/pu/img/Y4eoXu36lG_vl4Z7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615547400730382336/pu/img/Y4eoXu36lG_vl4Z7.jpg",
+						"url": "https://t.co/WSSiaraMdm",
+						"display_url": "pic.twitter.com/WSSiaraMdm",
+						"expanded_url": "https://twitter.com/laurenonline/status/1615547481521065984/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1615547400730382300,
+						"id_str": "1615547400730382336",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615547400730382336/pu/img/Y4eoXu36lG_vl4Z7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615547400730382336/pu/img/Y4eoXu36lG_vl4Z7.jpg",
+						"url": "https://t.co/WSSiaraMdm",
+						"display_url": "pic.twitter.com/WSSiaraMdm",
+						"expanded_url": "https://twitter.com/laurenonline/status/1615547481521065984/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 27753,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1615547400730382336/pu/vid/640x360/C9JWnOvqx05bQLmV.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1615547400730382336/pu/pl/DuVQx57i5yQ32qW3.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1615547400730382336/pu/vid/1280x720/0Am2uu6vMPM0m7Fd.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1615547400730382336/pu/vid/480x270/iUWqJhQ5jTa3amWX.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16817799,
+				"id_str": "16817799",
+				"name": "Lauren O'Neil",
+				"screen_name": "laurenonline",
+				"location": "Toronto",
+				"description": "Journalist. OG internet girl. Animal lover. Weirdo. Senior news editor @blogTO. Formerly @CBCNews, @TorontoStar, @MTVCanada. News tips: 💌 lauren@blogto.com",
+				"url": "https://t.co/gLPQQYCEV5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gLPQQYCEV5",
+								"expanded_url": "https://muckrack.com/laurenonizzle/articles",
+								"display_url": "muckrack.com/laurenonizzle/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33678,
+				"friends_count": 13714,
+				"listed_count": 926,
+				"created_at": "Fri Oct 17 01:24:00 +0000 2008",
+				"favourites_count": 39463,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 110653,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF1F81",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/438774827197804545/MiwQpkDM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/438774827197804545/MiwQpkDM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16817799/1484285839",
+				"profile_link_color": "449FFD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "1FB5FF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 212,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Da un lato problematic AF, ma dall’altro, onestamente guarderei 🙈 https://t.co/zR9Wls8HQA"
+	},
+	{
 		"created_at": "Mon Jan 16 11:13:38 +0000 2023",
 		"id": 1614943957842284500,
 		"id_str": "1614943957842284550",
