@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 15:09:56 +0000 2023",
+		"id": 1617442460484964400,
+		"id_str": "1617540140108492800",
+		"full_text": "Che bello vivere da solo, ho un cavolfiore in frigo che tra poco compie gli anni.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1315329164287848400,
+			"id_str": "1315329164287848448",
+			"name": "Francesco",
+			"screen_name": "frangmenti",
+			"location": "Roma",
+			"description": "Saviour, it's not me.",
+			"url": "https://t.co/idwkNa9gTU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/idwkNa9gTU",
+							"expanded_url": "http://instagram.com/framingo__",
+							"display_url": "instagram.com/framingo__",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 229,
+			"listed_count": 0,
+			"created_at": "Sun Oct 11 16:31:40 +0000 2020",
+			"favourites_count": 11902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609276640210685958/EO3ygsIN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609276640210685958/EO3ygsIN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315329164287848448/1672516529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "it",
+		"text": "Che bello vivere da solo, ho un cavolfiore in frigo che tra poco compie gli anni."
+	},
+	{
+		"created_at": "Mon Jan 23 07:37:48 +0000 2023",
+		"id": 1616584827989270500,
+		"id_str": "1617426355926306816",
+		"full_text": "A lady ahead of me ordered fast food. The cashier said \"That'll be $6.66.\" She said \"Oh no. I don't like that total. Better throw in a corndog.\" This woman is an inspiration. She's out there fighting off the powers of Satan with a corndog as her weapon of choice.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1643438737,
+			"id_str": "1643438737",
+			"name": "Megs",
+			"screen_name": "the_meghaning",
+			"location": "Ottawa ON",
+			"description": "Intolerant leftist.",
+			"url": "https://t.co/VL1DjNCJTE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VL1DjNCJTE",
+							"expanded_url": "https://www.amazon.ca/hz/wishlist/ls/3TLI9XZ61YTOK/ref=nav_wishlist_lists_1?viewType=grid",
+							"display_url": "amazon.ca/hz/wishlist/ls…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16087,
+			"friends_count": 1091,
+			"listed_count": 40,
+			"created_at": "Sat Aug 03 18:39:33 +0000 2013",
+			"favourites_count": 239518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609909421374689280/fsYGySHL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609909421374689280/fsYGySHL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1643438737/1665003763",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5818,
+		"favorite_count": 59135,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A lady ahead of me ordered fast food. The cashier said \"That'll be $6.66.\" She said \"Oh no. I don't like that total. Better throw in a corndog.\" This woman is an inspiration. She's out there fighting off the powers of Satan with a corndog as her weapon of choice."
+	},
+	{
 		"created_at": "Fri Jan 20 06:06:25 +0000 2023",
 		"id": 1616316194390261800,
 		"id_str": "1616316194390261761",
