@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 07:27:42 +0000 2023",
+		"id": 1619960532173492200,
+		"id_str": "1619960532173492225",
+		"full_text": "Io e le ame venete abbiamo già appuntamento dal tatuatore per farci incidere i versi delle traccia 3 https://t.co/nyb4ic1zfN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nyb4ic1zfN",
+					"expanded_url": "https://twitter.com/francescacheeks/status/1618942956953833472",
+					"display_url": "twitter.com/francescacheek…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1618942956953833500,
+		"quoted_status_id_str": "1618942956953833472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nyb4ic1zfN",
+			"expanded": "https://twitter.com/francescacheeks/status/1618942956953833472",
+			"display": "twitter.com/francescacheek…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 27 12:04:14 +0000 2023",
+			"id": 1618942956953833500,
+			"id_str": "1618942956953833472",
+			"full_text": "01 occhi grandi grandi\n02 un bosco\n03 padova può ucciderti più di milano\n04 ghetto perfetto\n05 quello che ancora non c’è\n06 piccola città\n07 bonsoir\n08 verbena\n09 carmen\n10 non sono io la tua solitudine\n11 claudia\n12 d.punto\n\nquesto è Cani Sciolti 💚🖤🐕 https://t.co/v7JVwp0NIa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1618942626048233500,
+						"id_str": "1618942626048233472",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/FnejvalX0AA09bw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FnejvalX0AA09bw.jpg",
+						"url": "https://t.co/v7JVwp0NIa",
+						"display_url": "pic.twitter.com/v7JVwp0NIa",
+						"expanded_url": "https://twitter.com/francescacheeks/status/1618942956953833472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1366,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1618942626048233500,
+						"id_str": "1618942626048233472",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/FnejvalX0AA09bw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FnejvalX0AA09bw.jpg",
+						"url": "https://t.co/v7JVwp0NIa",
+						"display_url": "pic.twitter.com/v7JVwp0NIa",
+						"expanded_url": "https://twitter.com/francescacheeks/status/1618942956953833472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1366,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 403551466,
+				"id_str": "403551466",
+				"name": "Francesca Michielin",
+				"screen_name": "francescacheeks",
+				"location": "",
+				"description": "Cani Sciolti, il mio nuovo disco, il 24 febbraio. Preordina qui 👇🏼",
+				"url": "https://t.co/BxBCsL1Ml5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BxBCsL1Ml5",
+								"expanded_url": "https://shor.by/francescamichielin",
+								"display_url": "shor.by/francescamichi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 630776,
+				"friends_count": 996,
+				"listed_count": 392,
+				"created_at": "Wed Nov 02 17:17:20 +0000 2011",
+				"favourites_count": 18801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14244,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "62102F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1589372401296588801/Y6boCZKH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589372401296588801/Y6boCZKH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/403551466/1674813827",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 122,
+			"favorite_count": 1819,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Io e le ame venete abbiamo già appuntamento dal tatuatore per farci incidere i versi delle traccia 3 https://t.co/nyb4ic1zfN"
+	},
+	{
 		"created_at": "Sat Jan 28 07:16:38 +0000 2023",
 		"id": 1619232970426163200,
 		"id_str": "1619232970426163200",
