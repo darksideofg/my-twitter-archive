@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 09 11:15:45 +0000 2023",
+		"id": 1644850455938322400,
+		"id_str": "1645022681895411715",
+		"full_text": "not even my own break up affected me like this https://t.co/Y6oYqREhXI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1644850450267603000,
+					"id_str": "1644850450267602944",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FtOuxQzXgAAGLa8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtOuxQzXgAAGLa8.jpg",
+					"url": "https://t.co/Y6oYqREhXI",
+					"display_url": "pic.twitter.com/Y6oYqREhXI",
+					"expanded_url": "https://twitter.com/noitskatelyn/status/1644850455938322432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1177,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 941,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644850450267603000,
+					"id_str": "1644850450267602944",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FtOuxQzXgAAGLa8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtOuxQzXgAAGLa8.jpg",
+					"url": "https://t.co/Y6oYqREhXI",
+					"display_url": "pic.twitter.com/Y6oYqREhXI",
+					"expanded_url": "https://twitter.com/noitskatelyn/status/1644850455938322432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1177,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 941,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1564237650,
+			"id_str": "1564237650",
+			"name": "katelyn",
+			"screen_name": "noitskatelyn",
+			"location": "NYC",
+			"description": "argumentative antithetical dream girl",
+			"url": "https://t.co/OCPsQVlK7p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OCPsQVlK7p",
+							"expanded_url": "http://instagram.com/katelynbenzinger",
+							"display_url": "instagram.com/katelynbenzing…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13655,
+			"friends_count": 778,
+			"listed_count": 106,
+			"created_at": "Tue Jul 02 22:36:14 +0000 2013",
+			"favourites_count": 105145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642610402331705347/mmBd8JVV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642610402331705347/mmBd8JVV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1564237650/1673551093",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1455,
+		"favorite_count": 11388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "not even my own break up affected me like this https://t.co/Y6oYqREhXI"
+	},
+	{
 		"created_at": "Sat Apr 08 15:50:03 +0000 2023",
 		"id": 1644729325189578800,
 		"id_str": "1644729325189578758",
