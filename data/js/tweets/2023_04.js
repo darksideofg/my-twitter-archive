@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 18:16:24 +0000 2023",
+		"id": 1647665260776550400,
+		"id_str": "1647665260776550400",
+		"full_text": "Rip capelli https://t.co/subpR7ZLHs https://t.co/DdBAIAbKCT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/subpR7ZLHs",
+					"expanded_url": "https://twitter.com/eastblessed/status/1643383974029586433",
+					"display_url": "twitter.com/eastblessed/st…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1647665255558918100,
+					"id_str": "1647665255558918144",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft2u0fpXsAAhi0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft2u0fpXsAAhi0-.jpg",
+					"url": "https://t.co/DdBAIAbKCT",
+					"display_url": "pic.twitter.com/DdBAIAbKCT",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1647665260776550400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647665255558918100,
+					"id_str": "1647665255558918144",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft2u0fpXsAAhi0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft2u0fpXsAAhi0-.jpg",
+					"url": "https://t.co/DdBAIAbKCT",
+					"display_url": "pic.twitter.com/DdBAIAbKCT",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1647665260776550400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1643383974029586400,
+		"quoted_status_id_str": "1643383974029586433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/subpR7ZLHs",
+			"expanded": "https://twitter.com/eastblessed/status/1643383974029586433",
+			"display": "twitter.com/eastblessed/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 04 22:44:06 +0000 2023",
+			"id": 1643383974029586400,
+			"id_str": "1643383974029586433",
+			"full_text": "Drop the 2012 pics you cowards.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1643383600640061400,
+			"in_reply_to_status_id_str": "1643383600640061440",
+			"in_reply_to_user_id": 1403950817514725400,
+			"in_reply_to_user_id_str": "1403950817514725376",
+			"in_reply_to_screen_name": "eastblessed",
+			"user": {
+				"id": 1403950817514725400,
+				"id_str": "1403950817514725376",
+				"name": "eastghost",
+				"screen_name": "eastblessed",
+				"location": "Portland, OR",
+				"description": "somewhat new account",
+				"url": "https://t.co/0XGVDR5JFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0XGVDR5JFX",
+								"expanded_url": "https://linktr.ee/eastghost",
+								"display_url": "linktr.ee/eastghost",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3014,
+				"friends_count": 382,
+				"listed_count": 9,
+				"created_at": "Sun Jun 13 05:42:51 +0000 2021",
+				"favourites_count": 28348,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4687,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587928639714504705/G0S_2tZN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587928639714504705/G0S_2tZN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1403950817514725376/1631132471",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 554,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Rip capelli https://t.co/subpR7ZLHs https://t.co/DdBAIAbKCT"
+	},
+	{
 		"created_at": "Thu Apr 13 20:53:35 +0000 2023",
 		"id": 1646617652771840000,
 		"id_str": "1646617652771840002",
