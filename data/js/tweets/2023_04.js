@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 16:53:29 +0000 2023",
+		"id": 1648006780247572500,
+		"id_str": "1648006780247572480",
+		"full_text": "Potrei averlo scritto io https://t.co/6VfW69EGQh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6VfW69EGQh",
+					"expanded_url": "https://twitter.com/mecna/status/1647998631792766976",
+					"display_url": "twitter.com/mecna/status/1…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 83,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1647998631792767000,
+		"quoted_status_id_str": "1647998631792766976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6VfW69EGQh",
+			"expanded": "https://twitter.com/mecna/status/1647998631792766976",
+			"display": "twitter.com/mecna/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 17 16:21:06 +0000 2023",
+			"id": 1647998631792767000,
+			"id_str": "1647998631792766976",
+			"full_text": "Quando ci sono troppe cose da fare, la scelta migliore è non fare nulla.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34262428,
+				"id_str": "34262428",
+				"name": "Mecna",
+				"screen_name": "mecna",
+				"location": "Foggia, Puglia",
+				"description": "\"STUPIDO AMORE\"\nIL NUOVO ALBUM FUORI IL 5 MAGGIO\nPREORDINALO SU https://t.co/oVObFq0w2N",
+				"url": "https://t.co/S2iA037LaS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S2iA037LaS",
+								"expanded_url": "http://www.mecnamusic.com",
+								"display_url": "mecnamusic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oVObFq0w2N",
+								"expanded_url": "http://MECNAMUSIC.COM",
+								"display_url": "MECNAMUSIC.COM",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 83156,
+				"friends_count": 774,
+				"listed_count": 98,
+				"created_at": "Wed Apr 22 12:55:20 +0000 2009",
+				"favourites_count": 335,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12853,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3B3B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1642864035791085571/uJWh1MDJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642864035791085571/uJWh1MDJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34262428/1680861521",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "6B623E",
+				"profile_text_color": "212121",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 209,
+			"favorite_count": 970,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Potrei averlo scritto io https://t.co/6VfW69EGQh"
+	},
+	{
 		"created_at": "Sun Apr 16 18:16:24 +0000 2023",
 		"id": 1647665260776550400,
 		"id_str": "1647665260776550400",
