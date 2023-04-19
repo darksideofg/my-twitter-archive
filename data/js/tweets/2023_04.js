@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 14:43:02 +0000 2023",
+		"id": 1648053906923049000,
+		"id_str": "1648336337756356612",
+		"full_text": "Being gay. https://t.co/Yjzv4mBdOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yjzv4mBdOR",
+					"expanded_url": "https://twitter.com/aramnotagoat/status/1647778960481083392",
+					"display_url": "twitter.com/aramnotagoat/s…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1087757048681545700,
+			"id_str": "1087757048681545730",
+			"name": "Hayden Ira May",
+			"screen_name": "haydeniramay",
+			"location": "Indiana, USA",
+			"description": "Deaf. Gay. Writer. Book reader. Lip reader. He/Him/His. 🏳️‍🌈🤟♿️🔞",
+			"url": "https://t.co/rvPnVxIsBo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rvPnVxIsBo",
+							"expanded_url": "https://linktr.ee/haydeniramay",
+							"display_url": "linktr.ee/haydeniramay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66005,
+			"friends_count": 4037,
+			"listed_count": 167,
+			"created_at": "Tue Jan 22 17:01:04 +0000 2019",
+			"favourites_count": 22289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613256166121046019/YAC-Nqsq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613256166121046019/YAC-Nqsq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1087757048681545730/1673465217",
+			"profile_link_color": "00CCCC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": [
+				"ID"
+			]
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"withheld_in_countries": [
+			"ID"
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 1647778960481083400,
+		"quoted_status_id_str": "1647778960481083392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yjzv4mBdOR",
+			"expanded": "https://twitter.com/aramnotagoat/status/1647778960481083392",
+			"display": "twitter.com/aramnotagoat/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 17 01:48:13 +0000 2023",
+			"id": 1647778960481083400,
+			"id_str": "1647778960481083392",
+			"full_text": "what’s it called when you’re simultaneously horny and depressed",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 287247916,
+				"id_str": "287247916",
+				"name": "aram",
+				"screen_name": "aramnotagoat",
+				"location": "NY",
+				"description": "new year new me ✨💆‍♂️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67543,
+				"friends_count": 1369,
+				"listed_count": 51,
+				"created_at": "Sun Apr 24 16:23:12 +0000 2011",
+				"favourites_count": 73284,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28983,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1519156993075912705/5HvPN48e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519156993075912705/5HvPN48e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/287247916/1616173450",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "020812",
+				"profile_text_color": "2280A9",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 147,
+			"favorite_count": 1150,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 122,
+		"favorite_count": 662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being gay. https://t.co/Yjzv4mBdOR"
+	},
+	{
 		"created_at": "Mon Apr 17 16:53:29 +0000 2023",
 		"id": 1648006780247572500,
 		"id_str": "1648006780247572480",
