@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 14:47:50 +0000 2023",
+		"id": 1648699936303710200,
+		"id_str": "1648699936303710211",
+		"full_text": "2010 VS 2023\nOldest Selfie on my phone vs newest. https://t.co/8r7KKyNeaN https://t.co/1Hmb3wFTly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8r7KKyNeaN",
+					"expanded_url": "https://twitter.com/frangmenti/status/1648648983093362689",
+					"display_url": "twitter.com/frangmenti/sta…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648699931652128800,
+					"id_str": "1648699931652128768",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FuFb2kdWAAA-Xpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuFb2kdWAAA-Xpd.jpg",
+					"url": "https://t.co/1Hmb3wFTly",
+					"display_url": "pic.twitter.com/1Hmb3wFTly",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1648699936303710211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648699931652128800,
+					"id_str": "1648699931652128768",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FuFb2kdWAAA-Xpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuFb2kdWAAA-Xpd.jpg",
+					"url": "https://t.co/1Hmb3wFTly",
+					"display_url": "pic.twitter.com/1Hmb3wFTly",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1648699936303710211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1648699931660636200,
+					"id_str": "1648699931660636161",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FuFb2kfX0AE0zXM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuFb2kfX0AE0zXM.jpg",
+					"url": "https://t.co/1Hmb3wFTly",
+					"display_url": "pic.twitter.com/1Hmb3wFTly",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1648699936303710211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 82,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1648648983093362700,
+		"quoted_status_id_str": "1648648983093362689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8r7KKyNeaN",
+			"expanded": "https://twitter.com/frangmenti/status/1648648983093362689",
+			"display": "twitter.com/frangmenti/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 19 11:25:22 +0000 2023",
+			"id": 1648648983093362700,
+			"id_str": "1648648983093362689",
+			"full_text": "Oldest Selfie on my phone vs newest. https://t.co/sy76TvZa84 https://t.co/rtO7Cw6rBx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sy76TvZa84",
+						"expanded_url": "https://twitter.com/everybodyelses/status/1648613198776418306",
+						"display_url": "twitter.com/everybodyelses…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1648648977359700000,
+						"id_str": "1648648977359699970",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/FuEtgo7WAAIo7ai.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuEtgo7WAAIo7ai.jpg",
+						"url": "https://t.co/rtO7Cw6rBx",
+						"display_url": "pic.twitter.com/rtO7Cw6rBx",
+						"expanded_url": "https://twitter.com/frangmenti/status/1648648983093362689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 948,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1648648977359700000,
+						"id_str": "1648648977359699970",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/FuEtgo7WAAIo7ai.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuEtgo7WAAIo7ai.jpg",
+						"url": "https://t.co/rtO7Cw6rBx",
+						"display_url": "pic.twitter.com/rtO7Cw6rBx",
+						"expanded_url": "https://twitter.com/frangmenti/status/1648648983093362689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 948,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1648648977397567500,
+						"id_str": "1648648977397567488",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/FuEtgpEX0AA2MbR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuEtgpEX0AA2MbR.jpg",
+						"url": "https://t.co/rtO7Cw6rBx",
+						"display_url": "pic.twitter.com/rtO7Cw6rBx",
+						"expanded_url": "https://twitter.com/frangmenti/status/1648648983093362689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1315329164287848400,
+				"id_str": "1315329164287848448",
+				"name": "Framingo.",
+				"screen_name": "frangmenti",
+				"location": "Roma",
+				"description": "Saviour, it's not me.",
+				"url": "https://t.co/idwkNa9gTU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/idwkNa9gTU",
+								"expanded_url": "http://instagram.com/framingo__",
+								"display_url": "instagram.com/framingo__",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 202,
+				"friends_count": 240,
+				"listed_count": 0,
+				"created_at": "Sun Oct 11 16:31:40 +0000 2020",
+				"favourites_count": 13412,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6088,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1639377465050112000/FUG08tO2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1639377465050112000/FUG08tO2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315329164287848448/1672516529",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1648613198776418300,
+			"quoted_status_id_str": "1648613198776418306",
+			"quoted_status_permalink": {
+				"url": "https://t.co/sy76TvZa84",
+				"expanded": "https://twitter.com/everybodyelses/status/1648613198776418306",
+				"display": "twitter.com/everybodyelses…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2010 VS 2023\nOldest Selfie on my phone vs newest. https://t.co/8r7KKyNeaN https://t.co/1Hmb3wFTly"
+	},
+	{
 		"created_at": "Tue Apr 18 14:43:02 +0000 2023",
 		"id": 1648053906923049000,
 		"id_str": "1648336337756356612",
@@ -38,7 +492,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "Hayden Ira May",
 			"screen_name": "haydeniramay",
 			"location": "Indiana, USA",
-			"description": "Deaf. Gay. Writer. Book reader. Lip reader. He/Him/His. 🏳️‍🌈🤟♿️🔞",
+			"description": "Deaf. Gay. Writer. Book reader. Lip reader. He/Him/His. 🏳️🌈🤟♿️🔞",
 			"url": "https://t.co/rvPnVxIsBo",
 			"entities": {
 				"url": {
@@ -139,7 +593,7 @@ Grailbird.data.tweets_2023_04 =
 				"name": "aram",
 				"screen_name": "aramnotagoat",
 				"location": "NY",
-				"description": "new year new me ✨💆‍♂️",
+				"description": "new year new me ✨💆♂️",
 				"url": null,
 				"entities": {
 					"description": {
