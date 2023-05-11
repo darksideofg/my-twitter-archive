@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 10 13:38:30 +0000 2023",
+		"id": 1656292630462963700,
+		"id_str": "1656292630462963712",
+		"full_text": "Come vorrei rispondere quando leggo la gente che scrive cose tipo “dopo Future Nostalgia esce musica tutta uguale” https://t.co/FLs0t0ul13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1656292625354301400,
+					"id_str": "1656292625354301442",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FvxVXgpXoAI4XJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvxVXgpXoAI4XJ-.jpg",
+					"url": "https://t.co/FLs0t0ul13",
+					"display_url": "pic.twitter.com/FLs0t0ul13",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1656292630462963712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 932,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1656292625354301400,
+					"id_str": "1656292625354301442",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FvxVXgpXoAI4XJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvxVXgpXoAI4XJ-.jpg",
+					"url": "https://t.co/FLs0t0ul13",
+					"display_url": "pic.twitter.com/FLs0t0ul13",
+					"expanded_url": "https://twitter.com/DarkSideOfG/status/1656292630462963712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 932,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 535277787,
+			"id_str": "535277787",
+			"name": "G (̄・・̄)",
+			"screen_name": "DarkSideOfG",
+			"location": "εᴍ - Siberia",
+			"description": "“The drought was the very worst / When the flowers that we'd grown together died of thirst”",
+			"url": "https://t.co/X8kvpF6nYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8kvpF6nYq",
+							"expanded_url": "http://darksideofg.tk",
+							"display_url": "darksideofg.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 82,
+			"listed_count": 6,
+			"created_at": "Sat Mar 24 09:46:29 +0000 2012",
+			"favourites_count": 8543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "515151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708618466488684544/iC5GNINX_normal.jpg",
+			"profile_link_color": "686868",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "606060",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Come vorrei rispondere quando leggo la gente che scrive cose tipo “dopo Future Nostalgia esce musica tutta uguale” https://t.co/FLs0t0ul13"
+	},
+	{
 		"created_at": "Tue May 09 20:02:33 +0000 2023",
 		"id": 1656026893143949300,
 		"id_str": "1656026893143949312",
